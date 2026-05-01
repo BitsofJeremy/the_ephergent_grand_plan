@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const crew = await getCollection('crew');
+---
+<BaseLayout title="Crew" description="Meet the crew of The Ephergent.">
+  <section class="section-hero">
+    <div class="max-w-6xl mx-auto px-6 py-16">
+      <h1 class="font-display font-black text-5xl md:text-6xl tracking-tight mb-4">THE CREW</h1>
+      <p class="text-text-secondary text-lg max-w-2xl">Nine people, a dog, a Keeper, and a legend. The crew of The Ephergent.</p>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-6 py-12">
+    {crew.length > 0 ? (
+      <div class="content-grid">
+        {crew.map(c => (
+          <article class="card">
+            <h3>{c.data.name ?? c.slug}</h3>
+            {c.data.role && <p class="text-accent-cyan text-sm mb-2">{c.data.role}</p>}
+            {c.data.quote && <blockquote class="text-text-secondary text-sm italic border-l-2 border-accent-cyan pl-3 my-2">"{c.data.quote}"</blockquote>}
+            <div class="flex gap-3 mt-4">
+              <a href={`/crew/${c.slug}/`} class="btn-ghost">Profile</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div class="empty-state">
+        <h3>Crew profiles coming soon</h3>
+        <p>Meet the crew of The Ephergent. Check back soon.</p>
+      </div>
+    )}
+  </section>
+</BaseLayout>

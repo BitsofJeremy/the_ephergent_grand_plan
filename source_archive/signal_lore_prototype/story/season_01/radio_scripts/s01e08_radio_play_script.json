@@ -1,0 +1,4056 @@
+{
+  "metadata": {
+    "episode_code": "S01E08",
+    "title": "The Last Bell of Nocturnis",
+    "source_file": "s01e08_the_last_bell_of_nocturnis.md",
+    "generated_at": "2026-02-11T02:07:52.592127Z",
+    "version": "1.0.0"
+  },
+  "segments": [
+    {
+      "segment_id": "music_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Opening theme - mysterious, building tension]",
+      "direction": "Sets mood and transitions for teaser",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 0,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Bell was dying.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_002",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I could hear it from three miles out—that deep resonant hum that should've been steady as a heartbeat, fracturing into discordant notes that made my teeth ache. Mochi trembled in my jacket pocket, pulsing orange with flickers of red. Not good colors. Never good colors.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18000
+      }
+    },
+    {
+      "segment_id": "seg_003",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"Miss Paradox, Bellspire's resonance frequency has degraded by forty-seven percent in the past six hours,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Miss Paradox, Bellspire's resonance frequency has degraded by forty-seven percent in the past six hours,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6428
+      }
+    },
+    {
+      "segment_id": "seg_004",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"And when it collapses?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "And when it collapses?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_005",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Nocturnis loses all Signal communication with the rest of Aethon. Permanently.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Nocturnis loses all Signal communication with the rest of Aethon. Permanently."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4125
+      }
+    },
+    {
+      "segment_id": "seg_006",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I glanced down at Clive, his symbols glowing faintly in the perpetual dusk. His fedora was tilted forward, head angled toward the massive silhouette of Bellspire rising from the city's heart—a Gothic tower of carved stone and acoustic chambers, impossibly tall, crowned with the great resonance bell that had rung for centuries.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 20800
+      }
+    },
+    {
+      "segment_id": "seg_007",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "\"I've heard this silence before,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "gravelly, world-weary, noir detective",
+        "pacing": "deliberate",
+        "emphasis_words": [
+          "I've heard this silence before,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2307
+      }
+    },
+    {
+      "segment_id": "seg_008",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The carriage rattled over ancient cobblestones, taking us deeper into Nocturnis where every footstep echoed too long and every word carried weight. The Listeners would be watching. They didn't trust outsiders. They especially didn't trust independent documentarians poking around their most sacred structure.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 17200
+      }
+    },
+    {
+      "segment_id": "seg_009",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi chirped—descending tones, worried.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_010",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Yeah,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Yeah,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_011",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc's holographic face flickered. \"Shall I enumerate?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Shall I enumerate?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2625
+      }
+    },
+    {
+      "segment_id": "seg_012",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Please don't.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Please don't."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_013",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Bellspire loomed ahead, and that dying resonance pulled at something in my chest—grief for a sound that had sung since before my grandmother's grandmother was born. If we couldn't fix this, Nocturnis would go dark. And once silence took hold here, where sound was the Signal...",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18400
+      }
+    },
+    {
+      "segment_id": "seg_014",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I didn't want to think about what came after.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3599
+      }
+    },
+    {
+      "segment_id": "seg_015",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "---",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 400
+      }
+    },
+    {
+      "segment_id": "music_002",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Scene setting - discovery, exploration beginning]",
+      "direction": "Sets mood and transitions for act_one",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 0,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_016",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Hall of Echoes smelled like centuries—cool stone, candle wax, and something mineral I couldn't name. Every surface was carved with acoustic patterns, channels that caught sound and bent it, amplified it, sent it spiraling through chambers that mapped the whole city. The architecture itself was an instrument—walls shaped to resonate at specific frequencies, corridors that carried whispers for miles, chambers that turned a single voice into a chorus.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 27600
+      }
+    },
+    {
+      "segment_id": "seg_017",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "This was where Nocturnis listened to itself.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_018",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And right now, it was listening to itself die.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3599
+      }
+    },
+    {
+      "segment_id": "seg_019",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Three Listeners stood waiting for us. Robes the color of shadows, faces half-hidden by deep hoods. The woman in front—tall, severe, with silver hair pulled back tight—studied us like we were interesting specimens of something unfortunate. When she spoke, her voice carried harmonics I could feel in my chest, tones layered beneath tones that made me understand she was saying more than I could hear.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 26000
+      }
+    },
+    {
+      "segment_id": "seg_020",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Chroniclers,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Chroniclers,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_021",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Your message said six,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Your message said six,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_022",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"That was two hours ago. The decay accelerates.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "That was two hours ago. The decay accelerates."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_023",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Bellspire's heart chamber,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Bellspire's heart chamber,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1125
+      }
+    },
+    {
+      "segment_id": "seg_024",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Compromised how?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Compromised how?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_025",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Unknown. We've sent three teams. None could identify the fault.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Unknown. We've sent three teams. None could identify the fault."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3750
+      }
+    },
+    {
+      "segment_id": "seg_026",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Fair point. I'd been to Nocturnis twice before. It was always disorienting—no glowing Pillars, no visible Signal. Here you heard it, felt it vibrating through your bones, a constant presence just below conscious thought. The Deep Choir, the Listeners called it. The cosmic song that played beneath everything.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 19200
+      }
+    },
+    {
+      "segment_id": "seg_027",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"What do we have access to?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "What do we have access to?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_028",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Kael's gaze flicked to my wrist. \"Everything. The Blood Council has... granted exception.\" She said it like the words tasted bad. \"Bellspire's inner chambers are forbidden to non-Listeners. But if the Bell falls silent, tradition means nothing. The Resonant will lose their voices. The Choruses will lose their song.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "with hesitations",
+        "emphasis_words": [
+          "Everything. The Blood Council has... granted exception.",
+          "Bellspire's inner chambers are forbidden to non-Listeners. But if the Bell falls silent, tradition means nothing. The Resonant will lose their voices. The Choruses will lose their song."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 18375
+      }
+    },
+    {
+      "segment_id": "seg_029",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive tilted his head, symbols pulsing. \"Desperation makes strange allies.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Desperation makes strange allies."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3750
+      }
+    },
+    {
+      "segment_id": "seg_030",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "She heard him—Listeners were Signal-sensitive by definition, could perceive the vibrations that carried his voice through the network. Her expression didn't change. \"The automaton speaks truth. Desperate times. Stranger allies.\" She turned toward the stairs. \"Follow.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "The automaton speaks truth. Desperate times. Stranger allies.",
+          "Follow."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 13500
+      }
+    },
+    {
+      "segment_id": "seg_031",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We climbed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_032",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And climbed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_033",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And climbed some more.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_034",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The staircase spiraled through the tower's heart, passing chamber after chamber where acoustic mechanisms hummed and clicked—or should have. Half were silent. Others stuttered, their harmonics fractured. The acoustic architecture was failing with the mechanisms—passages that should have amplified sound instead deadened it, resonance chambers that had sung for generations now silent as tombs.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 21599
+      }
+    },
+    {
+      "segment_id": "seg_035",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pressed against my chest, vibrating in that rhythmic pulse that meant this way, pay attention, something's here.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7199
+      }
+    },
+    {
+      "segment_id": "seg_036",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"I'm detecting significant structural resonance degradation,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "I'm detecting significant structural resonance degradation,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2571
+      }
+    },
+    {
+      "segment_id": "seg_037",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"The whole thing comes down,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "The whole thing comes down,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "seg_038",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"I was going to say 'the Signal network collapses,' but yes, catastrophic structural failure is also probable.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "I was going to say 'the Signal network collapses,' but yes, catastrophic structural failure is also probable."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6375
+      }
+    },
+    {
+      "segment_id": "seg_039",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"You're a ray of sunshine, Arc.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "You're a ray of sunshine, Arc."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_040",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"I live to serve.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "I live to serve."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_041",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We reached the heart chamber.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_042",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "It was beautiful. Terrifying. Ancient.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_043",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The room was a perfect sphere carved from single piece of black stone—no seams, no joints, impossibly smooth. The great bell hung at the center, suspended by nothing visible, rotating slowly in the air. Its surface was covered in symbols I recognized from Pillar markings, geometric patterns that looked less like decoration and more like... specifications. Engineering diagrams. Calibration guides. It glowed faintly with violet-blue light, pulsing erratically like a failing heartbeat.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 28799
+      }
+    },
+    {
+      "segment_id": "seg_044",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Around the bell, seven resonance mechanisms mounted on concentric rings rotated in orbital patterns—brass and crystal contraptions that looked grown as much as built, suspended from ancient tracks carved into the stone. Three were dark. Two flickered. The remaining pair struggled to maintain the frequency.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18000
+      }
+    },
+    {
+      "segment_id": "seg_045",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Oh,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Oh,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_046",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"Original Builder construction,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Original Builder construction,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1285
+      }
+    },
+    {
+      "segment_id": "seg_047",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pushed out of my pocket, hovering near my shoulder, glowing deep purple with threads of white. Recognition. Ancient recognition.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8000
+      }
+    },
+    {
+      "segment_id": "seg_048",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive walked to the chamber's edge, studying the bell with the intensity of someone remembering something they shouldn't be able to forget. \"Seven mechanisms. Seven orbital points. Seven tones that make one song.\" His head turned toward the dark mechanisms. \"Three are gone. Not broken. Gone. Someone took them.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Seven mechanisms. Seven orbital points. Seven tones that make one song.",
+          "Three are gone. Not broken. Gone. Someone took them."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 18375
+      }
+    },
+    {
+      "segment_id": "seg_049",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Took them?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Took them?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_050",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Maybe she doesn't know,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Maybe she doesn't know,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_051",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Arc, can you map the original resonance pattern?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Arc, can you map the original resonance pattern?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_052",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"Already working on it. However, Miss Paradox, even if I determine the correct frequencies, we cannot simply reinstall the mechanisms. They appear to be attuned to specific Signal signatures. The acoustic specifications are... precise. Builder-era engineering.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "with hesitations",
+        "emphasis_words": [
+          "Already working on it. However, Miss Paradox, even if I determine the correct frequencies, we cannot simply reinstall the mechanisms. They appear to be attuned to specific Signal signatures. The acoustic specifications are... precise. Builder-era engineering."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 15428
+      }
+    },
+    {
+      "segment_id": "seg_053",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi chirped—ascending notes, excited—and drifted toward one of the flickering mechanisms. The small device hovered there, pulsing blue, and the mechanism's flicker... stabilized. Just slightly. Just enough.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10799
+      }
+    },
+    {
+      "segment_id": "seg_054",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"Mochi's Signal is resonating with it,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Mochi's Signal is resonating with it,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2571
+      }
+    },
+    {
+      "segment_id": "seg_055",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Can Mochi fix this?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Can Mochi fix this?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_056",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pulsed orange. Uncertain. Then rhythmic vibrations toward the other mechanisms—more, need more, can't do alone.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6400
+      }
+    },
+    {
+      "segment_id": "seg_057",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive's symbols flared. \"Something's wrong. The decay pattern—it's not natural. Someone designed this. The three missing mechanisms? They were failsafes. Take them out, the whole system collapses slow enough that no one notices until it's too late.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "Something's wrong. The decay pattern—it's not natural. Someone designed this. The three missing mechanisms? They were failsafes. Take them out, the whole system collapses slow enough that no one notices until it's too late."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 13875
+      }
+    },
+    {
+      "segment_id": "seg_058",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "I felt cold. \"The Quiet. They were here.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "The Quiet. They were here."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_059",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Or someone who learned their tricks.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Or someone who learned their tricks."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_060",
+      "page_number": 1,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "---",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 400
+      }
+    },
+    {
+      "segment_id": "music_003",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Complication - stakes rising, danger approaching]",
+      "direction": "Sets mood and transitions for act_two",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 0,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_061",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We had three hours left when Kael returned with bad news.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_062",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"The Council has denied access to the Archive of Tones,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "The Council has denied access to the Archive of Tones,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3750
+      }
+    },
+    {
+      "segment_id": "seg_063",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Premature?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Premature?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_064",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"I know what you need.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "I know what you need."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "seg_065",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"That's the dumbest thing I've heard today,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "That's the dumbest thing I've heard today,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2625
+      }
+    },
+    {
+      "segment_id": "seg_066",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Politics rarely align with wisdom. Especially when the Resonant have centuries to nurse their grudges.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Politics rarely align with wisdom. Especially when the Resonant have centuries to nurse their grudges."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5625
+      }
+    },
+    {
+      "segment_id": "seg_067",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive tilted his head. \"You brought us here anyway. That makes you a rebel or a fool.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "You brought us here anyway. That makes you a rebel or a fool."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6375
+      }
+    },
+    {
+      "segment_id": "seg_068",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Or someone who values the Bell more than the Blood Council's pride.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Or someone who values the Bell more than the Blood Council's pride."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4500
+      }
+    },
+    {
+      "segment_id": "seg_069",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Right. Desperate.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Right. Desperate."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_070",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"Unknown,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Unknown,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 428
+      }
+    },
+    {
+      "segment_id": "seg_071",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"The workshop,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "The workshop,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_072",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "She nodded. \"Follow. And be silent. Sound carries here. The Council will hear if we're careless. Every whisper in these halls travels to listening chambers. Every footstep broadcasts your location. This is how the Resonant maintain control—through acoustic surveillance built into the architecture itself.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "Follow. And be silent. Sound carries here. The Council will hear if we're careless. Every whisper in these halls travels to listening chambers. Every footstep broadcasts your location. This is how the Resonant maintain control—through acoustic surveillance built into the architecture itself."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 16500
+      }
+    },
+    {
+      "segment_id": "seg_073",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We descended through passages I'm pretty sure violated several laws of architecture and possibly physics. Nocturnis was built on echoes—corridors that shouldn't connect did, chambers that looked small from outside were vast within, and every footstep we took whispered through the stone in patterns that felt like surveillance. The acoustic architecture wasn't just functional. It was political. A way for the Listeners to hear everything, for the Resonant to project their voices across impossible distances, for the city itself to enforce social order through sound.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 34000
+      }
+    },
+    {
+      "segment_id": "seg_074",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive led, his symbols glowing just bright enough to light the way. I'd learned to trust his navigation in places like this. If there was a path, he'd find it. If there wasn't, he'd make one anyway through sheer stubborn existence.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16400
+      }
+    },
+    {
+      "segment_id": "seg_075",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Arc,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Arc,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_076",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "A pause. Longer than usual for Arc. \"I... am uncertain. The file is fragmented. But the pattern—seven tones forming one frequency—it resonates with something in my deepest memory cores. From before my documented activation. Calibration tones, perhaps. System diagnostics. Something that speaks to functions I shouldn't have.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "\"i...",
+          "I... am uncertain. The file is fragmented. But the pattern—seven tones forming one frequency—it resonates with something in my deepest memory cores. From before my documented activation. Calibration tones, perhaps. System diagnostics. Something that speaks to functions I shouldn't have."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 17625
+      }
+    },
+    {
+      "segment_id": "seg_077",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Another glitch. Another piece that didn't fit.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_078",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Before I could push further, we reached the workshop.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3599
+      }
+    },
+    {
+      "segment_id": "seg_079",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The door was carved from black stone, covered in warning symbols. Acoustic glyphs that meant silence, sealed, do not disturb. Kael placed both hands on the surface, humming a specific tone—low, precise, maintained perfectly. Her Resonant voice, I realized. The door recognized her frequency and opened.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18400
+      }
+    },
+    {
+      "segment_id": "seg_080",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Inside smelled like metal and old intentions.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_081",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The workshop was untouched—tools laid out as if the builder had just stepped away for a moment and would return any second. Brass and crystal components lined the walls. Incomplete mechanisms hung from the ceiling. And on the central workbench, three empty mounting rings.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 17600
+      }
+    },
+    {
+      "segment_id": "seg_082",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"These match the missing mechanisms from Bellspire,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "These match the missing mechanisms from Bellspire,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_083",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Someone made new mechanisms here,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Someone made new mechanisms here,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "page_turn_001",
+      "page_number": 1,
+      "section": "act_two",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 0,
+        "cue_duration_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_084",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive walked to the bench, studying the rings with his geometric head tilted at that angle that meant he was accessing memories he couldn't quite reach. \"Not just sabotage. Theft. Whoever did this wanted the mechanisms themselves.\" He turned toward us. \"The question is why. What makes these things worth killing a city's voice?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Not just sabotage. Theft. Whoever did this wanted the mechanisms themselves.",
+          "The question is why. What makes these things worth killing a city's voice?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 20250
+      }
+    },
+    {
+      "segment_id": "seg_085",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi, who'd been resting in my pocket, suddenly pushed out and shot across the room. The device hovered over a drawer, pulsing red—urgent, alarmed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_086",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I opened it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_087",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Papers. Diagrams. And a symbol I recognized from half a dozen Quiet operations.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_088",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"They were here,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "They were here,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1125
+      }
+    },
+    {
+      "segment_id": "seg_089",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"But the components are still here,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "But the components are still here,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_090",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "kael",
+      "speaker_mode": "dialogue",
+      "text": "\"Because they didn't think anyone could,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "varied, regional",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Because they didn't think anyone could,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_091",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I looked at the components. At Mochi. At the timer in my head counting down.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_092",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Two hours, thirty minutes.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_093",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"We're going to rebuild them,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "We're going to rebuild them,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "seg_094",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"Miss Paradox,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Miss Paradox,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 857
+      }
+    },
+    {
+      "segment_id": "seg_095",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"You'll figure it out. You're brilliant.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "You'll figure it out. You're brilliant."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_096",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Flattery doesn't alter probability matrices.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Flattery doesn't alter probability matrices."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "seg_097",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Sure it does. It alters the probability that I'll listen to your concerns.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Sure it does. It alters the probability that I'll listen to your concerns."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4875
+      }
+    },
+    {
+      "segment_id": "seg_098",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive made a sound that might've been a laugh. \"She's got you there.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "She's got you there."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4875
+      }
+    },
+    {
+      "segment_id": "seg_099",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Kael stepped forward. \"I will assist. I know the tones. The old songs speak of how these instruments were made—acoustic frequencies in specific sequences, resonance patterns that shape metal and crystal. And I can hold the Blood Council off for...\" She glanced at a timepiece. \"Perhaps ninety minutes. After that, they'll come looking.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "I will assist. I know the tones. The old songs speak of how these instruments were made—acoustic frequencies in specific sequences, resonance patterns that shape metal and crystal. And I can hold the Blood Council off for...",
+          "Perhaps ninety minutes. After that, they'll come looking."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 19875
+      }
+    },
+    {
+      "segment_id": "seg_100",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Then we'd better work fast.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Then we'd better work fast."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "seg_101",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We worked fast.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_102",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Arc projected holographic schematics from the workshop's diagnostic systems, overlaying them with his analysis of the Bellspire mechanisms. Kael hummed precise tones that made components resonate, helping us identify which pieces fit together—her voice shaping the metal, coaxing crystal into alignment through pure acoustic manipulation. Clive, surprisingly, turned out to have an intuitive understanding of mechanical assembly—his thick articulated fingers working with delicate precision that shouldn't have been possible.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 27600
+      }
+    },
+    {
+      "segment_id": "seg_103",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"I remember building things,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "I remember building things,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_104",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I focused on the fine tuning, adjusting crystal alignments while Arc fed me angle calculations in real-time. Mochi floated between us, occasionally pressing against components and making them glow, stabilizing resonances that wanted to fracture. The device was working from memory—Builder memory, I realized. Mochi knew how these things should sound because it remembered when they sang.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 22800
+      }
+    },
+    {
+      "segment_id": "seg_105",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Ninety minutes became sixty became thirty.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_106",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We had two mechanisms complete when footsteps echoed in the passage outside.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_107",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "kael",
+      "speaker_mode": "dialogue",
+      "text": "\"The Blood Council,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "varied, regional",
+        "pacing": "natural",
+        "emphasis_words": [
+          "The Blood Council,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1125
+      }
+    },
+    {
+      "segment_id": "seg_108",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"How early?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "How early?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_109",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Very.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Very."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_110",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Arc, how close are we?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Arc, how close are we?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "seg_111",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"The third mechanism requires seventeen more minutes of calibration—\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "The third mechanism requires seventeen more minutes of calibration—"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3375
+      }
+    },
+    {
+      "segment_id": "seg_112",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"We don't have seventeen minutes.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "We don't have seventeen minutes."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1875
+      }
+    },
+    {
+      "segment_id": "seg_113",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"I am aware. That's why I included it in my concern.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "I am aware. That's why I included it in my concern."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4125
+      }
+    },
+    {
+      "segment_id": "seg_114",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Voices in the corridor. Multiple Listeners, their tones sharp with authority and suspicion. I caught fragments—accusations, territorial challenges, questions about Kael's loyalty to the Blood Council versus her Chorus.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 11600
+      }
+    },
+    {
+      "segment_id": "seg_115",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive positioned himself near the door. \"I can stall them. Won't be pretty.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "I can stall them. Won't be pretty."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4875
+      }
+    },
+    {
+      "segment_id": "seg_116",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "kael",
+      "speaker_mode": "dialogue",
+      "text": "\"No violence,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "varied, regional",
+        "pacing": "natural",
+        "emphasis_words": [
+          "No violence,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_117",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Then what?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Then what?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_118",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "She looked at me. At the incomplete mechanisms. At Mochi, glowing soft pink despite everything, still trying to help.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7600
+      }
+    },
+    {
+      "segment_id": "seg_119",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"You run,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "You run,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_120",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"I don't like plans that involve splitting up,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "I don't like plans that involve splitting up,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_121",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Neither do I. But I like the Bell dying even less. And I like what happens after—the Resonant fighting over the ruins of our communication, the Choruses fracturing, eight hundred years of balance collapsing into warlord chaos—even less than that.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "Neither do I. But I like the Bell dying even less. And I like what happens after—the Resonant fighting over the ruins of our communication, the Choruses fracturing, eight hundred years of balance collapsing into warlord chaos—even less than that."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 15000
+      }
+    },
+    {
+      "segment_id": "seg_122",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The voices were closer.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_123",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "kael",
+      "speaker_mode": "dialogue",
+      "text": "\"Go,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "varied, regional",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Go,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_124",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We went.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_125",
+      "page_number": 2,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "---",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 400
+      }
+    },
+    {
+      "segment_id": "seg_126",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Carrying three delicate, partially-calibrated resonance mechanisms through a Gothic tower while being chased by very angry Listeners is not the fun kind of adventure.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_127",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Arc directed us through service passages—narrow, dark, acoustic dead zones where sound didn't carry. The builders designed these, I realized. Maintenance corridors where workers could move without broadcasting their presence through the tower's surveillance architecture. Clive led with his chest-core pulsing, thick legs moving with surprising speed. I had the mechanisms wrapped in my jacket, praying they wouldn't break, while Mochi pressed against my neck, glowing orange-red with worry.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 27600
+      }
+    },
+    {
+      "segment_id": "seg_128",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We could hear the pursuit. Footsteps echoing through the tower. Voices calling for our halt—harmonics that carried command frequencies, the Resonant trying to stop us through sheer acoustic authority. Very official, very legally justified voices asking us to please stop breaking approximately fifty different laws and several sacred traditions.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 19600
+      }
+    },
+    {
+      "segment_id": "seg_129",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\"Miss Paradox, at current pace we'll reach the heart chamber in eight minutes. However, I'm detecting increased Listener activity at all primary access points.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "formal British butler, analytical",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Miss Paradox, at current pace we'll reach the heart chamber in eight minutes. However, I'm detecting increased Listener activity at all primary access points."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 10285
+      }
+    },
+    {
+      "segment_id": "seg_130",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Secondary access?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Secondary access?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "seg_131",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"There is a maintenance shaft. It's... inadvisable.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "with hesitations",
+        "emphasis_words": [
+          "There is a maintenance shaft. It's... inadvisable."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2625
+      }
+    },
+    {
+      "segment_id": "seg_132",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Why?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Why?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_133",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Vertical climb. Sixty feet. Handholds designed for acoustic engineers with safety harnesses.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Vertical climb. Sixty feet. Handholds designed for acoustic engineers with safety harnesses."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4500
+      }
+    },
+    {
+      "segment_id": "seg_134",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"What about independent documentarians with poor life choices?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "What about independent documentarians with poor life choices?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_135",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"That category was not included in the tower's design specifications.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "That category was not included in the tower's design specifications."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3750
+      }
+    },
+    {
+      "segment_id": "seg_136",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"We're doing it anyway.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "We're doing it anyway."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_137",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The shaft was exactly as terrible as advertised. Narrow, dark, handholds spaced for people taller than me. I climbed with the mechanisms tied to my back, each movement careful, testing each hold because a fall meant broken mechanisms, broken bones, broken mission.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16800
+      }
+    },
+    {
+      "segment_id": "seg_138",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive couldn't climb. He was built for walking, not scaling vertical shafts. But he wedged himself in the entrance, symbols blazing bright enough to paint the walls blue-white, and spoke to the approaching Listeners in his gravelly noir rumble.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 15600
+      }
+    },
+    {
+      "segment_id": "seg_139",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Path's closed, friends. Turn around. Find another way.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Path's closed, friends. Turn around. Find another way."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_140",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "I heard their objections. Heard Clive's responses—short, punchy, immovable. \"Seen this story before. Know how it ends. The Bell dies, your Resonant lose their voices, the Choruses tear each other apart fighting over the scraps. You want that?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "Seen this story before. Know how it ends. The Bell dies, your Resonant lose their voices, the Choruses tear each other apart fighting over the scraps. You want that?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 14250
+      }
+    },
+    {
+      "segment_id": "seg_141",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Thirty feet up.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_142",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Forty feet up.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_143",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi chirped encouragement, glowing soft green, vibrating gently against my shoulder in rhythms that felt like Builder calibration tones—steadying my hands, guiding my movements.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_144",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Fifty feet up.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_145",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Below, I heard more Listeners. Heard Clive saying something about the tall ones, about knowing how Builder technology worked, about them not wanting to be part of this ending.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 11600
+      }
+    },
+    {
+      "segment_id": "seg_146",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And then I heard his footsteps—walking away, leading them off.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_147",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Clive?\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "dynamic",
+        "emphasis_words": [
+          "Clive?"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_148",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Keep climbing, kid. I'll catch up.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Keep climbing, kid. I'll catch up."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_149",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Sixty feet. The shaft opened into a chamber one level below the heart. I pulled myself through, gasping, and immediately started running.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8800
+      }
+    },
+    {
+      "segment_id": "seg_150",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Arc guided me through a final passage. The door to the heart chamber loomed ahead, unguarded—everyone was chasing us through the lower levels.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9200
+      }
+    },
+    {
+      "segment_id": "seg_151",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I burst through.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_152",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Bell was barely glowing now. Two of the seven mechanisms were completely dark. The remaining pair struggled, flickering like dying candles. The whole chamber felt wrong—harmonics fractured, resonances collapsing, the acoustic architecture itself starting to fail.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 14800
+      }
+    },
+    {
+      "segment_id": "seg_153",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I placed the mechanisms on the floor and studied the mounting points. Three empty orbits waiting for their missing pieces.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8000
+      }
+    },
+    {
+      "segment_id": "seg_154",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Arc, installation sequence.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Arc, installation sequence."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1125
+      }
+    },
+    {
+      "segment_id": "seg_155",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "He projected the pattern. \"First mechanism, mounting point seven. Align the crystal axis at forty-seven degrees—\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "First mechanism, mounting point seven. Align the crystal axis at forty-seven degrees—"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_156",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I worked. Hands steady despite everything. The first mechanism slotted home with a satisfying click. Its orbital position flared violet-blue, beginning to rotate. The chamber's resonance shifted slightly—one tone returning to the harmony.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 13200
+      }
+    },
+    {
+      "segment_id": "seg_157",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Second mechanism. Different mounting point. Same careful alignment. Another click. Another tone joining the chorus.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_158",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Third mechanism—",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_159",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The door burst open. Listeners flooded in, Kael at the front, the Blood Council representatives behind her—three Resonant warlords in ceremonial robes, their faces ancient and terrible, voices carrying harmonics that made my bones ache. They saw us. Saw the mechanisms. Saw what we were doing.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18400
+      }
+    },
+    {
+      "segment_id": "seg_160",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"HALT!\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "\"halt!\"",
+          "HALT!"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_161",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"The Bell is dying!\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "The Bell is dying!"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_162",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The third mechanism was almost in place. Almost. The mounting point required precise alignment, and my hands were shaking, and the tone needed to be exactly right or the whole thing would—",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 12800
+      }
+    },
+    {
+      "segment_id": "seg_163",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive appeared in the doorway, stepping between us and the Listeners. His symbols blazed bright blue-white, chest-core pulsing, geometric head tilted with quiet defiance.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_164",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"She's not done,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "She's not done,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1125
+      }
+    },
+    {
+      "segment_id": "seg_165",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Blood Council leader drew breath to speak—a voice that would command, that would stop us through sheer acoustic force.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8000
+      }
+    },
+    {
+      "segment_id": "seg_166",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Kael stepped beside Clive. \"Let her finish.\" Her voice carried Resonant harmonics—a warlord challenging other warlords, risking everything. \"The Song itself demands it. Listen.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "Let her finish.",
+          "The Song itself demands it. Listen."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "seg_167",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "One by one, the other Listeners moved. Not all of them. But enough. Forming a line between the Council's authority and our desperate work. Different Choruses, different loyalties, united by the simple understanding that some things mattered more than politics.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16000
+      }
+    },
+    {
+      "segment_id": "seg_168",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I fitted the third mechanism home.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_169",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The tone that emerged was perfect.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_170",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Bell sang.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_171",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "All seven mechanisms flared to life, orbiting the central Bell in patterns that felt ancient and right and necessary—Builder engineering executing its design after millennia. The sound resonated through the chamber, through the tower, through the city—that deep harmonic hum that meant here, listening, alive. I felt it in my chest, in my bones, in that place where Signal met soul. Seven tones harmonizing into one frequency. The Song continuing.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 28000
+      }
+    },
+    {
+      "segment_id": "seg_172",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Bell was alive.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_173",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Nocturnis had its voice.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_174",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi stirred in my pocket, pulsing soft pink, emitting that low harmonic hum that meant home, safe, good.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7199
+      }
+    },
+    {
+      "segment_id": "seg_175",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Blood Council leader stared at the Bell. At us. At Kael and the Listeners who'd defended our work. His ancient face—eight hundred years old, sustained through Blood Tithe, carrying grudges older than most civilizations—struggled with something that might have been gratitude or fury or both.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18400
+      }
+    },
+    {
+      "segment_id": "seg_176",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"This... is irregular,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "with hesitations",
+        "emphasis_words": [
+          "This... is irregular,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1125
+      }
+    },
+    {
+      "segment_id": "seg_177",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Kael smiled, barely. \"Desperate times, Resonant. The Song demanded continuation. We listened.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Desperate times, Resonant. The Song demanded continuation. We listened."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4500
+      }
+    },
+    {
+      "segment_id": "page_turn_002",
+      "page_number": 2,
+      "section": "act_three",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 0,
+        "cue_duration_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_178",
+      "page_number": 3,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "As the chamber emptied—Listeners returning to their posts, the Blood Council retreating to deliberate on exactly how much trouble Kael was in—my wristband chimed. Same encryption. Same anonymizing relays. Same ghost.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured with pauses",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 12400
+      }
+    },
+    {
+      "segment_id": "seg_179",
+      "page_number": 3,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "Seven tones. One frequency. You hear the pattern now, don't you? The Bell remembers what it was built to say. So does your crew. Keep listening. —P.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate, reflective",
+        "pacing": "measured with pauses",
+        "emphasis_words": [
+          "—p."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10799
+      }
+    },
+    {
+      "segment_id": "seg_180",
+      "page_number": 3,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I showed it to Arc before the encryption ate it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_181",
+      "page_number": 3,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "\"Identical signature to the messages received in Nexus and the Singing Caves,\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "Identical signature to the messages received in Nexus and the Singing Caves,"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4500
+      }
+    },
+    {
+      "segment_id": "seg_182",
+      "page_number": 3,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Seven tones. One frequency. The same pattern Arc recognized from before his activation.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_183",
+      "page_number": 3,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I stared at the space where the message had been and wondered if P stood for patron or puzzle or something else entirely.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9200
+      }
+    },
+    {
+      "segment_id": "seg_184",
+      "page_number": 3,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "---",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 400
+      }
+    },
+    {
+      "segment_id": "seg_185",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "*chronicle entry: The Last Bell of Nocturnis*",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate, reflective",
+        "pacing": "thoughtful",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_186",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The mechanisms were stolen by someone who understood exactly how Bellspire would fail. The Quiet has been here, working in silence, planning to let an entire region lose its voice. We stopped them. This time.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 14000
+      }
+    },
+    {
+      "segment_id": "seg_187",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But here's what worries me: Arc recognized the resonance pattern. Seven tones making one frequency. Something from before his activation, from archives he can't fully access. Builder engineering specifications. Calibration protocols. He spoke the technical language like he remembered it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16000
+      }
+    },
+    {
+      "segment_id": "seg_188",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive knew how to build the mechanisms, remembered construction techniques from a time he claims to have forgotten. He called the Builders \"the tall ones\" while his hands assembled ancient technology with muscle memory older than the Shattering.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "the tall ones"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 14250
+      }
+    },
+    {
+      "segment_id": "seg_189",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And Mochi? Mochi held a failing mechanism stable for hours through sheer presence. As if the device knew exactly what those mechanisms needed because it remembered them from before. Because it was there when they were first installed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "dynamic",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 15200
+      }
+    },
+    {
+      "segment_id": "seg_190",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We saved the Bell. We preserved Nocturnis's voice and prevented the collapse of eight hundred years of territorial balance between the Resonant and their Choruses. But I can't shake the feeling that we're all fragments of something older, reaching toward a resonance we used to know. Seven tones. One song. A pattern that keeps appearing.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 22000
+      }
+    },
+    {
+      "segment_id": "seg_191",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Signal remembers, even when we don't. Maybe especially when we don't.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_192",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Kael offered us sanctuary in Nocturnis if we ever need it. \"The Bell sings because of you,\" she said, and her voice carried harmonics that meant debt, honor, protection. \"That matters here. Sound is memory. Memory is trust.\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direct, focused",
+        "pacing": "natural",
+        "emphasis_words": [
+          "The Bell sings because of you,",
+          "That matters here. Sound is memory. Memory is trust."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 14250
+      }
+    },
+    {
+      "segment_id": "seg_193",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I'll take all the trust we can get. Something tells me we're going to need it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6400
+      }
+    },
+    {
+      "segment_id": "seg_194",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "-P.P.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": [
+          "-p.p."
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 400
+      }
+    },
+    {
+      "segment_id": "seg_195",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "---",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, observational",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 400
+      }
+    },
+    {
+      "segment_id": "seg_196",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "*[END EPISODE 8]*",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate, reflective",
+        "pacing": "thoughtful",
+        "emphasis_words": [
+          "*[end",
+          "episode"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_197",
+      "page_number": 3,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "Next: Episode 9 - \"Memory Thief\"",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate, reflective",
+        "pacing": "thoughtful",
+        "emphasis_words": [
+          "Memory Thief"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

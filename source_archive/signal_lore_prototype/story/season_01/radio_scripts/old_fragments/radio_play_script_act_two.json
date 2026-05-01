@@ -1,0 +1,2456 @@
+{
+  "metadata": {
+    "episode_code": "S01E05",
+    "title": "The Driftborn's Debt - ACT TWO",
+    "source_file": "s01e05_the_driftborns_debt.md",
+    "generated_at": "2026-02-03T18:40:00Z",
+    "version": "1.0.0",
+    "note": "Act Two - Discovery of dying Keeper, confrontation with The Quiet, revelation about The Dimming, and Arc's identity crisis"
+  },
+  "segments": [
+    {
+      "segment_id": "music_002",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Memorywreck Bay theme - haunting, tragic, Ship graveyard ambience]",
+      "direction": "Transition to the frozen graveyard of ships, ominous atmosphere",
+      "timing": {
+        "fade_in_ms": 1500,
+        "marker_duration_ms": 4000,
+        "fade_out_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_067",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Memorywreck Bay lived up to its name.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "grim observation",
+        "pacing": "deliberate",
+        "emphasis_words": [
+          "lived up to its name"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_068",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Dozens of ships lay scattered across the frozen landscape—some embedded in the ice shelf at impossible angles, others half-buried in frozen wave formations, caught in the moment of their deaths eight centuries ago. Wood weathered to silver, metal corroded to lace. The whole graveyard creaked with the sound of ice shifting, settling, preparing to claim more victims.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe and dread, atmospheric description",
+        "pacing": "measured, building",
+        "emphasis_words": [
+          "dozens",
+          "impossible angles",
+          "deaths",
+          "creaked",
+          "claim more victims"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9200
+      }
+    },
+    {
+      "segment_id": "sfx_010",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Ice creaking, groaning, settling - constant environmental danger]",
+      "direction": "Ambient danger of the frozen graveyard",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_069",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "There. Arc highlighted a vessel on the far side, tucked between a frigate tilted forty-five degrees in the ice and a cargo hauler half-submerged in the frozen tsunami. Rhynn's ship. Signal readings confirm active power systems.",
+      "direction": "Analytical, precise location identification",
+      "audio_cues": {
+        "tone": "analytical, targeted identification",
+        "pacing": "steady, technical",
+        "emphasis_words": [
+          "There",
+          "Rhynn's ship",
+          "active power"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_070",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "And that? I pointed to three vessels anchored nearby on precarious ice bridges.",
+      "direction": "Pixel identifying competition",
+      "audio_cues": {
+        "tone": "tactical observation",
+        "pacing": "steady",
+        "emphasis_words": [
+          "three vessels",
+          "precarious"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_071",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Competitors. All arrived within the last hour.",
+      "direction": "Confirming threat",
+      "audio_cues": {
+        "tone": "grim confirmation",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Competitors",
+          "last hour"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "sfx_011",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Boat approach, ice bridge crossing - caution and danger]",
+      "direction": "Approaching Rhynn's vessel across dangerous ice bridges",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_072",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Torva brought us in low and quiet, sliding between wrecks with the practiced ease of someone who'd navigated these waters her whole life. We tied off to a rusted anchor chain embedded in the ice and scrambled across a groaning ice bridge that connected two ships frozen decades apart.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "urgent approach, dangerous passage",
+        "pacing": "steady, action-oriented",
+        "emphasis_words": [
+          "low and quiet",
+          "practiced ease",
+          "groaning",
+          "scrambled"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6800
+      }
+    },
+    {
+      "segment_id": "seg_073",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The ice beneath our feet creaked ominously. Every step was a gamble.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tension, physical danger",
+        "pacing": "slower, emphasizing peril",
+        "emphasis_words": [
+          "creaked",
+          "ominously",
+          "gamble"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_074",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi led the way, glowing steady violet, vibrating with that deep pulse that made my teeth ache. Whatever was here, Mochi knew it. Recognized it on some level I couldn't touch.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate observation, mystery",
+        "pacing": "steady, wondering",
+        "emphasis_words": [
+          "led the way",
+          "violet",
+          "recognized",
+          "knew"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_075",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Rhynn's ship was smaller than I'd expected—a salvage skiff modified with navigation beacons and reinforced hull plating, half-trapped in the ice shelf. Smart. Functional. The kind of vessel someone used when they needed to get in, grab something valuable, and get out before the ice remembered to shift and crush them.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "professional observation, admiration",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Smart",
+          "Functional",
+          "crush them"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 7600
+      }
+    },
+    {
+      "segment_id": "seg_076",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The cargo hold door stood open. Frost coated the edges.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "ominous observation",
+        "pacing": "deliberate, short",
+        "emphasis_words": [
+          "open",
+          "Frost"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_077",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "That's not good.",
+      "direction": "Concerned observation",
+      "audio_cues": {
+        "tone": "concerned, understated",
+        "pacing": "quick",
+        "emphasis_words": [
+          "not good"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_078",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, I'm detecting multiple heat signatures inside. Five distinct patterns.",
+      "direction": "Analytical report, building concern",
+      "audio_cues": {
+        "tone": "technical concern",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "multiple",
+          "Five distinct"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_079",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "How many are still moving?",
+      "direction": "Direct question asking critical detail",
+      "audio_cues": {
+        "tone": "urgent question",
+        "pacing": "quick",
+        "emphasis_words": [
+          "still moving"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_080",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "...One.",
+      "direction": "Grim realization",
+      "audio_cues": {
+        "tone": "grave, hesitant answer",
+        "pacing": "slow, weighted",
+        "emphasis_words": [
+          "One"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "seg_081",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We went in fast.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, urgency",
+        "pacing": "quick",
+        "emphasis_words": [
+          "fast"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1000
+      }
+    },
+    {
+      "segment_id": "sfx_012",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Cargo hold entry - emergency lighting hum, copper smell, ozone crackle]",
+      "direction": "Entering the cargo hold with its strange atmosphere",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_082",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The hold smelled like copper and ozone and something else—something that made my Signal-sensitive nerves scream. The walls were covered in emergency glowpanels, casting everything in sickly green. Ice crystals had formed in the corners despite the heating system.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "unsettling atmosphere, danger",
+        "pacing": "steady, building dread",
+        "emphasis_words": [
+          "copper",
+          "ozone",
+          "scream",
+          "sickly green"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6400
+      }
+    },
+    {
+      "segment_id": "seg_083",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Three people lay unconscious near the door—rival salvagers by their gear, still breathing but out cold. A fourth sat slumped against cargo crates, clutching a head wound, eyes unfocused.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "grim observation, body count",
+        "pacing": "steady",
+        "emphasis_words": [
+          "unconscious",
+          "out cold",
+          "head wound"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_084",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And in the center of the hold, kneeling beside a crate that pulsed with blue-white light: Rhynn.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, focal point",
+        "pacing": "deliberate, revelatory",
+        "emphasis_words": [
+          "center",
+          "pulsed",
+          "blue-white",
+          "Rhynn"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_085",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "She was younger than I'd expected. Maybe thirty, with the weathered skin and sharp eyes of someone who'd grown up in the Span. Her hands were wrapped in Signal-dampening cloth, and she looked up at us with an expression that mixed relief and absolute terror.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "character introduction, physical description",
+        "pacing": "steady",
+        "emphasis_words": [
+          "younger",
+          "weathered",
+          "sharp eyes",
+          "relief and terror"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_086",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Chronicle?",
+      "direction": "Rhynn's question, recognition of Pixel",
+      "audio_cues": {
+        "tone": "hopeful question",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Chronicle"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_087",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Pixel Paradox. This is my team. What happened?",
+      "direction": "Introduction and immediate question",
+      "audio_cues": {
+        "tone": "identification, urgent question",
+        "pacing": "quick, mission-focused",
+        "emphasis_words": [
+          "Pixel Paradox",
+          "What happened"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_088",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "They came an hour ago. Rhynn gestured weakly at the unconscious salvagers. Tried to take it. But when they touched it... She shuddered. It didn't like being touched. It pushed back through the Signal. Knocked them out cold.",
+      "direction": "Rhynn explaining attack, traumatized",
+      "audio_cues": {
+        "tone": "frightened explanation, physical reaction",
+        "pacing": "steady with hesitation",
+        "emphasis_words": [
+          "touched",
+          "pushed back",
+          "knocked out"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_089",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Clive moved closer to the crate, his symbols pulsing in rapid sequence. Paradox, we need to see it.",
+      "direction": "Gravelly urgency, ancient recognition",
+      "audio_cues": {
+        "tone": "urgent command, grave concern",
+        "pacing": "quick, imperative",
+        "emphasis_words": [
+          "need to see it"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_090",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "I don't know if that's—",
+      "direction": "Pixel's hesitation",
+      "audio_cues": {
+        "tone": "uncertain",
+        "pacing": "quick, cut off",
+        "emphasis_words": [
+          "don't know"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_091",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Now.",
+      "direction": "Absolute command",
+      "audio_cues": {
+        "tone": "gravelly, authoritative",
+        "pacing": "quick, final",
+        "emphasis_words": [
+          "Now"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_092",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Something in his tone made Rhynn nod. She carefully unwrapped the dampening cloth from the crate's lid and lifted it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "response to command, moment of revelation",
+        "pacing": "deliberate",
+        "emphasis_words": [
+          "carefully",
+          "unwrapped",
+          "lifted"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "sfx_013",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Keeper emergence - crystalline humming, blue-white light crescendo, ancient Signal]",
+      "direction": "The dying Keeper's light intensifying as revealed",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_093",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The fragment—no, not fragment, Clive was right about that—sat nestled in a bed of shock-foam. It was roughly barrel-sized, angular where Pillars were smooth, crystalline where they were solid. But the blue-white glow was unmistakable. Signal. Living Signal.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe and realization",
+        "pacing": "steady, building wonder",
+        "emphasis_words": [
+          "not fragment",
+          "angular",
+          "crystalline",
+          "Living Signal"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "sfx_014",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi's harmonic chord - resonant, ancient, never heard before - teeth ache frequency]",
+      "direction": "Mochi's profound emotional and Signal response to the Keeper",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_094",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi made a sound I'd never heard before—a harmonic chord that resonated in my chest, in my teeth, in the bones of my skull. The violet glow brightened until I had to squint.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "profound recognition, physical reaction",
+        "pacing": "steady, awed",
+        "emphasis_words": [
+          "never heard",
+          "harmonic",
+          "resonated",
+          "brightened"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_095",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Mochi, what—",
+      "direction": "Pixel's urgent question",
+      "audio_cues": {
+        "tone": "concerned, questioning",
+        "pacing": "quick, cut off",
+        "emphasis_words": [
+          "what"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 1000
+      }
+    },
+    {
+      "segment_id": "seg_096",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The glowing stone-being bounced forward, pressing against the crate. The crystalline fragment's light pulsed in response. Once. Twice.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, communication",
+        "pacing": "steady",
+        "emphasis_words": [
+          "bounced",
+          "pulsed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3400
+      }
+    },
+    {
+      "segment_id": "sfx_015",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Keeper's dying message - faint, fractured, Signal-transmitted word: ...help...]",
+      "direction": "The Keeper's consciousness reaching out through the Signal",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_097",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And then I heard it—not with my ears, but through the Signal, the same way I heard Clive's voice. Faint. Fractured. Dying.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "startling realization",
+        "pacing": "steady, building dread",
+        "emphasis_words": [
+          "heard it",
+          "Signal",
+          "Faint",
+          "Dying"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_098",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "...help...",
+      "direction": "The Keeper's final plea",
+      "audio_cues": {
+        "tone": "distant, desperate, fading",
+        "pacing": "slow, minimal",
+        "emphasis_words": [
+          "help"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_099",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "It's a Keeper. Not dormant. Not sleeping. Dying.",
+      "direction": "Arc's realization, quiet tone",
+      "audio_cues": {
+        "tone": "grave realization, formal acknowledgment",
+        "pacing": "deliberate, each word weighted",
+        "emphasis_words": [
+          "Keeper",
+          "Dying"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "sfx_016",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Keeper's failing light - cracking crystalline, power diminishing, cracks spider-webbing]",
+      "direction": "The Keeper's physical and Signal integrity failing",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_100",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The fragment pulsed again, weaker this time. Cracks spider-webbed across its surface.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "impending loss, deterioration",
+        "pacing": "slower, final",
+        "emphasis_words": [
+          "weaker",
+          "Cracks",
+          "spider-webbed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_101",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "How long has it been separated from its Pillar?",
+      "direction": "Pixel asking Rhynn",
+      "audio_cues": {
+        "tone": "urgent question",
+        "pacing": "quick",
+        "emphasis_words": [
+          "How long",
+          "separated"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_102",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "I found it three days ago in the Old Foundation ruins—deep in the ice. It was just... sitting there. Frozen. Like someone left it behind.",
+      "direction": "Rhynn's answer, tentative and uncertain",
+      "audio_cues": {
+        "tone": "uncertainty, hesitation",
+        "pacing": "steady with pauses",
+        "emphasis_words": [
+          "three days ago",
+          "sitting there",
+          "left it behind"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_103",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Or someone tried to hide it. He said, his tone gone flat and hard.",
+      "direction": "Clive's grave interpretation",
+      "audio_cues": {
+        "tone": "hardened realization, ancient knowing",
+        "pacing": "slow, weighted",
+        "emphasis_words": [
+          "hide it",
+          "flat and hard"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "sfx_017",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Signal going dead - complete cut, all sound stops, emergency lights activate]",
+      "direction": "The Signal abruptly suppressed by The Quiet's dampening field",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1000
+      }
+    },
+    {
+      "segment_id": "seg_104",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "That's when the Signal went dead. Not gradually. Not flickering. Just... gone. Like someone had flipped a switch and turned off reality itself.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "sudden darkness, disorientation",
+        "pacing": "abrupt, then slow realization",
+        "emphasis_words": [
+          "dead",
+          "gone",
+          "flipped a switch"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_105",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Emergency lights kicked in. Arc's holographic face stuttered and reformed. And in the sudden quiet, I heard footsteps on the deck above—muffled by ice and frost.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "new danger approaching",
+        "pacing": "steady, ominous",
+        "emphasis_words": [
+          "Emergency lights",
+          "stuttered",
+          "footsteps"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_106",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, I'm detecting Signal dampening technology. Active suppression radius approximately thirty meters.",
+      "direction": "Arc's distorted communication through dampening field",
+      "audio_cues": {
+        "tone": "warning with technical interference",
+        "pacing": "steady, technical",
+        "emphasis_words": [
+          "dampening",
+          "thirty meters"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3800
+      }
+    },
+    {
+      "segment_id": "seg_107",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "The Quiet. I breathed.",
+      "direction": "Recognition and dread",
+      "audio_cues": {
+        "tone": "grim realization",
+        "pacing": "slow, ominous",
+        "emphasis_words": [
+          "The Quiet"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "seg_108",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "What?",
+      "direction": "Rhynn's frightened question",
+      "audio_cues": {
+        "tone": "fearful incomprehension",
+        "pacing": "quick",
+        "emphasis_words": [
+          "What"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 600
+      }
+    },
+    {
+      "segment_id": "seg_109",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "People who think things like that Keeper are dangerous. People who destroy them. I looked at Clive, at Mochi still pressed against the crate, at the dying light inside.",
+      "direction": "Pixel's explanation",
+      "audio_cues": {
+        "tone": "grim explanation",
+        "pacing": "steady, resigned",
+        "emphasis_words": [
+          "dangerous",
+          "destroy them"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_110",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "How many?",
+      "direction": "Quick tactical question",
+      "audio_cues": {
+        "tone": "urgent tactical assessment",
+        "pacing": "quick",
+        "emphasis_words": [
+          "How many"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_111",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Sss...ix signatures...pproaching from...ove.",
+      "direction": "Arc's garbled response through dampening interference",
+      "audio_cues": {
+        "tone": "distorted communication, technical distress",
+        "pacing": "stuttering, broken",
+        "emphasis_words": [
+          "Six",
+          "approaching",
+          "above"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_112",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Six. Six Quiet agents with dampening tech against me, Rhynn, a dying Keeper, and a team who needed the Signal to function properly.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "calculating odds, grim assessment",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Six",
+          "dampening tech",
+          "dying Keeper"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_113",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I'd spent five years documenting. Recording. Observing. Keeping my distance. The Chronicle trained us to witness, not to interfere. To preserve knowledge, not to take sides.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "internal conflict, identity struggle",
+        "pacing": "measured, conflicted",
+        "emphasis_words": [
+          "witness",
+          "not to interfere",
+          "preserve knowledge"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_114",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I looked at the Keeper's fading light. At Mochi, trembling and desperate. At Arc's stuttering hologram. At Clive, who'd gone perfectly still—the stillness of something about to move very, very fast.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "decision forming, resolve hardening",
+        "pacing": "steady, building",
+        "emphasis_words": [
+          "fading light",
+          "trembling",
+          "perfectly still"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_115",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Rhynn, take your crew and get clear. Quietly, I said.",
+      "direction": "Giving command, decision made",
+      "audio_cues": {
+        "tone": "calm, decisive command",
+        "pacing": "steady, final",
+        "emphasis_words": [
+          "get clear"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_116",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "But the Keeper—",
+      "direction": "Rhynn's protest",
+      "audio_cues": {
+        "tone": "protesting concern",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Keeper"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 1000
+      }
+    },
+    {
+      "segment_id": "seg_117",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Is not your problem anymore. Go.",
+      "direction": "Pixel's firm dismissal",
+      "audio_cues": {
+        "tone": "protective, final",
+        "pacing": "quick, decisive",
+        "emphasis_words": [
+          "not your problem",
+          "Go"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_118",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "She hesitated, then nodded, grabbing the injured salvager and helping them toward the cargo door. The unconscious ones would have to wait.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, evacuation beginning",
+        "pacing": "quick, urgent",
+        "emphasis_words": [
+          "hesitated",
+          "grabbing",
+          "helping"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_119",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The footsteps above stopped directly over our heads. Ice creaked under their weight.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "building tension, imminent confrontation",
+        "pacing": "slow, ominous",
+        "emphasis_words": [
+          "stopped",
+          "directly",
+          "creaked"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_120",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox. Arc said, voice steadying as he compensated for the interference, I feel compelled to note that confronting The Quiet was not among our mission parameters.",
+      "direction": "Arc attempting formal speech through interference",
+      "audio_cues": {
+        "tone": "formal concern, attempting normalcy",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "confronting",
+          "not among our mission"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_121",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "New parameter: I'm not letting them kill it.",
+      "direction": "Decisive statement",
+      "audio_cues": {
+        "tone": "resolute, absolute",
+        "pacing": "quick, final",
+        "emphasis_words": [
+          "New parameter",
+          "not letting"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_122",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Ah. How refreshingly direct. Shall I prepare combat protocols?",
+      "direction": "Arc's dry wit, attempting levity",
+      "audio_cues": {
+        "tone": "British wit, resignation",
+        "pacing": "steady, almost cheerful",
+        "emphasis_words": [
+          "refreshingly direct",
+          "combat protocols"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_123",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "You have combat protocols?",
+      "direction": "Pixel's surprised question",
+      "audio_cues": {
+        "tone": "startled question",
+        "pacing": "quick",
+        "emphasis_words": [
+          "combat protocols"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_124",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I've been improvising them for the last thirty seconds. They are, I must admit, extremely inadequate.",
+      "direction": "Arc's admission of improvisation",
+      "audio_cues": {
+        "tone": "dry admission, self-aware humor",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "improvising",
+          "extremely inadequate"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_125",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Clive stepped forward, his compact barrel-chested form somehow looking larger in the dim emergency lighting. His glowing head tilted up toward the ceiling. I've been in tighter spots than this.",
+      "direction": "Clive preparing for confrontation",
+      "audio_cues": {
+        "tone": "gravelly confidence, ancient warrior",
+        "pacing": "steady, assured",
+        "emphasis_words": [
+          "stepped forward",
+          "tighter spots"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_126",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "When?",
+      "direction": "Pixel's skeptical question",
+      "audio_cues": {
+        "tone": "curious skepticism",
+        "pacing": "quick",
+        "emphasis_words": [
+          "When"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 700
+      }
+    },
+    {
+      "segment_id": "seg_127",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Don't ask when.",
+      "direction": "Clive dismissing the question",
+      "audio_cues": {
+        "tone": "gravelly deflection",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Don't ask"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "sfx_018",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Cargo hold door slamming open - The Quiet agents entering, frost and wind, footsteps]",
+      "direction": "The Quiet agents making dramatic entrance",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_128",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The cargo hold door slid open, bringing a blast of arctic air.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "dramatic entrance, cold wind",
+        "pacing": "quick",
+        "emphasis_words": [
+          "slid open",
+          "arctic air"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_129",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Six figures in unmarked dark clothing, faces obscured by hoods and masks, frost clinging to their gear. They moved with quiet efficiency—the kind that comes from practice and certainty. The kind that meant they'd done this before.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "dangerous professionals entering",
+        "pacing": "steady, ominous",
+        "emphasis_words": [
+          "Six figures",
+          "quiet efficiency",
+          "done this before"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5600
+      }
+    },
+    {
+      "segment_id": "seg_130",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The one in front held a device that hummed with anti-resonance. The dampening field.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "identifying the threat",
+        "pacing": "steady",
+        "emphasis_words": [
+          "dampening field"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2600
+      }
+    },
+    {
+      "segment_id": "seg_131",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Step away from the Keeper. They said. Voice distorted by modulator. Gender unclear. Tone: absolutely certain. This is not your concern.",
+      "direction": "The Quiet leader's command, mysterious voice",
+      "audio_cues": {
+        "tone": "authoritative, distorted, certain",
+        "pacing": "steady, commanding",
+        "emphasis_words": [
+          "Step away",
+          "not your concern"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_132",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "That's where you're wrong. I said, not moving. This is exactly my concern.",
+      "direction": "Pixel's defiance",
+      "audio_cues": {
+        "tone": "resolute opposition",
+        "pacing": "steady, final",
+        "emphasis_words": [
+          "wrong",
+          "exactly"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_133",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "The Keeper is corrupted. Damaged. It will poison the Signal if it continues to exist. We're preventing greater harm.",
+      "direction": "The Quiet's explanation, reasoned justification",
+      "audio_cues": {
+        "tone": "calm explanation, certainty of purpose",
+        "pacing": "steady, reasoned",
+        "emphasis_words": [
+          "corrupted",
+          "poison",
+          "preventing harm"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_134",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "By killing it?",
+      "direction": "Pixel's challenge",
+      "audio_cues": {
+        "tone": "sharp challenge",
+        "pacing": "quick",
+        "emphasis_words": [
+          "killing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_135",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "By showing mercy. The figure's posture softened slightly. Chronicler Paradox. We know your work. We respect it. You document wonders. Let us handle the dangers.",
+      "direction": "The Quiet leader attempting to persuade",
+      "audio_cues": {
+        "tone": "reasonable, respectful appeal",
+        "pacing": "steady, persuasive",
+        "emphasis_words": [
+          "mercy",
+          "respect",
+          "wonders",
+          "dangers"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_136",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "For a moment—just a moment—I almost listened. They sounded so reasonable. So certain.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "internal struggle, temptation",
+        "pacing": "slow, hesitant",
+        "emphasis_words": [
+          "almost listened",
+          "reasonable",
+          "certain"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "sfx_019",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi's harmonic sound again - answering the Keeper, ancient connection]",
+      "direction": "Mochi's response breaking the moment",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_137",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then Mochi made that harmonic sound again, and the dying Keeper pulsed in response. Weaker. Fading.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "decision crystallizing",
+        "pacing": "steady",
+        "emphasis_words": [
+          "harmonic",
+          "pulsed",
+          "Weaker",
+          "Fading"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_138",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "No.",
+      "direction": "Pixel's absolute refusal",
+      "audio_cues": {
+        "tone": "absolute, final",
+        "pacing": "quick, decisive",
+        "emphasis_words": [
+          "No"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_139",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Then you make this difficult. The Quiet leader's posture changed, shifted from appeal to action.",
+      "direction": "The Quiet shifting to combat mode",
+      "audio_cues": {
+        "tone": "shift to danger, acceptance of conflict",
+        "pacing": "steady",
+        "emphasis_words": [
+          "make this difficult"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_140",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Three agents moved forward. The other three stayed back, watching.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tactical formation",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Three",
+          "moved forward"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "sfx_020",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Clive's explosive movement - ancient combat, takedown, impact]",
+      "direction": "Clive moving with ancient warrior speed",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_141",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive was faster. I'd never seen him move like that—not the measured walk I was used to, but an explosive burst of speed that came from thousands of years of survival instinct. He crossed the distance in two strides, his thick articulated arms catching the lead agent's leg in what I'd later realize was a perfectly executed takedown.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "astonished action narration",
+        "pacing": "quick, energetic",
+        "emphasis_words": [
+          "faster",
+          "explosive",
+          "thousands of years",
+          "takedown"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_142",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "They hit the deck hard. The dampening device skittered across the floor toward the open door—and the ice beyond.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action continuing",
+        "pacing": "quick",
+        "emphasis_words": [
+          "hit the deck",
+          "skittered"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_143",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, the device!",
+      "direction": "Pixel's command to Arc",
+      "audio_cues": {
+        "tone": "urgent command",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Arc",
+          "device"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_144",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Already analyzing weak points in the—there! He highlighted three specific points on the humming machine. Those thermal junctions. Simultaneous impact should cause system cascade.",
+      "direction": "Arc providing tactical analysis",
+      "audio_cues": {
+        "tone": "technical analysis in action",
+        "pacing": "quick, tactical",
+        "emphasis_words": [
+          "weak points",
+          "There",
+          "thermal junctions",
+          "cascade"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4600
+      }
+    },
+    {
+      "segment_id": "sfx_021",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Weapons - wrench throw, pipe hammer strikes, device destruction sequence]",
+      "direction": "The team attacking the dampening device",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_145",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I grabbed a wrench from Rhynn's tool rack and threw it. Not at an agent—at the device. Hit the first junction dead-on. Clive grabbed a piece of pipe and hammered the second. The third...",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action narration, teamwork",
+        "pacing": "quick",
+        "emphasis_words": [
+          "grabbed",
+          "threw",
+          "dead-on",
+          "hammered"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_146",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi bounced across the floor and slammed into it with surprising force for something that weighed less than a loaf of bread.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, surprise effectiveness",
+        "pacing": "quick",
+        "emphasis_words": [
+          "bounced",
+          "slammed",
+          "surprising force"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "sfx_022",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Dampening field collapse - power surge, electrical cascade, Signal roaring back]",
+      "direction": "The device failing and Signal returning",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_147",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The dampening field collapsed. The Signal came roaring back—and with it, the Keeper's dying consciousness.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "breakthrough moment, revelation coming",
+        "pacing": "building",
+        "emphasis_words": [
+          "collapsed",
+          "roaring back",
+          "consciousness"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_148",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Images flooded my mind. Fragmented. Desperate. Pillars. Dozens of them, all glowing strong. Figures tending them—not human, not machine, something else. Something ancient.",
+      "direction": "Internal monologue of Keeper's visions",
+      "audio_cues": {
+        "tone": "dreamlike, overwhelming visions",
+        "pacing": "staccato, overwhelming",
+        "emphasis_words": [
+          "Images flooded",
+          "Pillars",
+          "Dozens",
+          "ancient"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_149",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then darkness. Something choosing darkness.",
+      "direction": "Internal monologue continuation",
+      "audio_cues": {
+        "tone": "revelation, darkness",
+        "pacing": "slow, weighted",
+        "emphasis_words": [
+          "darkness",
+          "choosing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_150",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Dimming wasn't decay. The Dimming was deliberate.",
+      "direction": "Major revelation",
+      "audio_cues": {
+        "tone": "massive realization",
+        "pacing": "slow, each word weighted",
+        "emphasis_words": [
+          "Dimming",
+          "wasn't decay",
+          "deliberate"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "sfx_023",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Keeper's final word transmission - 'ARK' echoing through Signal - crystalline ringing]",
+      "direction": "The Keeper's last word directed at Arc",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_151",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And then one word, pulsed directly into Mochi's core with the last of the Keeper's strength:",
+      "direction": "Building to revelation",
+      "audio_cues": {
+        "tone": "moment of transmission",
+        "pacing": "slow, ceremonial",
+        "emphasis_words": [
+          "one word",
+          "last strength"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_152",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "ARK",
+      "direction": "The critical word - Arc's potential original designation",
+      "audio_cues": {
+        "tone": "shock, revelation",
+        "pacing": "quick",
+        "emphasis_words": [
+          "ARK"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_153",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Arc's holographic face flickered. Stuttered. The geometric shapes that formed his expression scattered and reformed wrong. His voice crackled: I... Miss Paradox, I'm experiencing... I don't...",
+      "direction": "Arc's crisis of identity",
+      "audio_cues": {
+        "tone": "confusion, fragmentation, distress",
+        "pacing": "stuttering, broken",
+        "emphasis_words": [
+          "flickered",
+          "scattered",
+          "experiencing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_154",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc?",
+      "direction": "Pixel's concerned call",
+      "audio_cues": {
+        "tone": "worry, concern",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Arc"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_155",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Sssss...tem anomaly...cessing...I...",
+      "direction": "Arc's garbled distress signal",
+      "audio_cues": {
+        "tone": "severe technical distress",
+        "pacing": "stuttering, broken",
+        "emphasis_words": [
+          "anomaly"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_156",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Keeper's light went dark. Completely. Finally. Dead.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "loss, finality, darkness",
+        "pacing": "slow, each word separated",
+        "emphasis_words": [
+          "dark",
+          "Dead"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "sfx_024",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi's descending tone of grief - pure loss, sound that physically hurts]",
+      "direction": "Mochi's emotional response to the Keeper's death",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_157",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi let out a descending tone of pure grief—a sound that physically hurt to hear. The violet glow dimmed to almost nothing.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "profound sorrow",
+        "pacing": "slow, aching",
+        "emphasis_words": [
+          "grief",
+          "dimmed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_158",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Quiet agents stepped back, watching. Waiting.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "cold observation",
+        "pacing": "steady",
+        "emphasis_words": [
+          "stepped back",
+          "watching"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_159",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "The one who'd spoken first tilted their head. You felt it. The corruption. The poison spreading. This is what we prevent.",
+      "direction": "The Quiet leader's justification",
+      "audio_cues": {
+        "tone": "grim satisfaction, certainty",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "felt it",
+          "corruption",
+          "prevent"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_160",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "That wasn't poison. I said, my voice shaking with rage and grief and something I didn't have a name for. That was memory. That was truth.",
+      "direction": "Pixel's emotional rebuttal",
+      "audio_cues": {
+        "tone": "shaking rage and grief",
+        "pacing": "steady, voice quavering",
+        "emphasis_words": [
+          "poison",
+          "memory",
+          "truth"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_161",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Truth can be poison.",
+      "direction": "The Quiet's cold response",
+      "audio_cues": {
+        "tone": "cold philosophy",
+        "pacing": "slow, final",
+        "emphasis_words": [
+          "Truth",
+          "poison"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_162",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Only if you're afraid of it.",
+      "direction": "Pixel's challenge",
+      "audio_cues": {
+        "tone": "sharp challenge",
+        "pacing": "quick",
+        "emphasis_words": [
+          "afraid"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_163",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "For a long moment, we stood in the dim emergency lighting, surrounded by unconscious salvagers and broken equipment and the smell of ozone. Ice creaked beneath the ship. The Quiet watched us. We watched them.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tense standoff",
+        "pacing": "slow, weighted",
+        "emphasis_words": [
+          "long moment",
+          "watched"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5000
+      }
+    },
+    {
+      "segment_id": "seg_164",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Finally, the leader nodded slowly. You've just accelerated the end, Chronicler. We tried to warn you.",
+      "direction": "The Quiet leader's final words",
+      "audio_cues": {
+        "tone": "grim warning, resignation",
+        "pacing": "slow, final",
+        "emphasis_words": [
+          "accelerated the end",
+          "tried to warn"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_165",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "They turned and left. Just... left. No more fighting. No attempts to take the dead Keeper. Because it was dead. Their job was done.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "grim realization of victory and loss",
+        "pacing": "steady, matter-of-fact",
+        "emphasis_words": [
+          "turned",
+          "left",
+          "dead",
+          "job was done"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3800
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

@@ -1,0 +1,29 @@
+---
+---
+
+<nav class="left-nav" aria-label="Primary navigation">
+  <button id="nav-toggle" class="nav-toggle" aria-expanded="false" aria-controls="nav-list" title="Toggle navigation">☰</button>
+  <ul id="nav-list" class="nav-list">
+    <li><a href="/" class="nav-item">Home</a></li>
+    <li><a href="/games/" class="nav-item">Games</a></li>
+    <li><a href="/journal/" class="nav-item">Journal</a></li>
+    <li><a href="/crew/" class="nav-item">Crew</a></li>
+    <li><a href="/atlas/" class="nav-item">Lore Atlas</a></li>
+    <li><a href="/transmissions/" class="nav-item">Transmissions</a></li>
+  </ul>
+  <div class="nav-footer">v1.0 — Ephergent</div>
+</nav>
+
+<script>
+(function(){
+  const toggle = document.getElementById('nav-toggle');
+  if(!toggle) return;
+  function setState(open){
+    document.body.classList.toggle('nav-open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    localStorage.setItem('ephergentNavOpen', open ? '1' : '0');
+  }
+  toggle.addEventListener('click', function(){ setState(!document.body.classList.contains('nav-open')); });
+  if(localStorage.getItem('ephergentNavOpen') === '1') setState(true);
+})();
+</script>

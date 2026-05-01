@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+export async function getStaticPaths() {
+  const crew = await getCollection('crew');
+  return crew.map((c) => ({ params: { slug: c.slug }, props: { entry: c } }));
+}
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+<BaseLayout title={entry.data.name ?? entry.slug} description={`Crew profile: ${entry.data.name ?? entry.slug}`}>
+  <section class="section-hero">
+    <div class="max-w-6xl mx-auto px-6 py-16">
+      <a href="/crew/" class="text-text-secondary hover:text-accent-cyan text-sm mb-4 inline-block">← Back to Crew</a>
+      <h1 class="font-display font-black text-4xl md:text-5xl tracking-tight mt-4">{entry.data.name ?? entry.slug}</h1>
+      {entry.data.role && <p class="text-accent-cyan text-lg mt-2">{entry.data.role}</p>}
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-6 py-12">
+    <div class="max-w-3xl">
+      {entry.data.quote && (
+        <blockquote class="text-xl md:text-2xl text-text-primary font-display leading-relaxed border-l-4 border-accent-cyan pl-6 my-8">
+          "{entry.data.quote}"
+        </blockquote>
+      )}
+      <div class="prose prose-invert prose-lg max-w-none space-y-4">
+        <Content />
+      </div>
+      <div class="mt-8 pt-8 border-t border-border-subtle">
+        {entry.data.pronouns && <p class="text-text-secondary text-sm">Pronouns: {entry.data.pronouns}</p>}
+        {entry.data.voice && <p class="text-text-secondary text-sm mt-1">Voice: {entry.data.voice}</p>}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

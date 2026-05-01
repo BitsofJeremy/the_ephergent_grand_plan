@@ -1,0 +1,709 @@
+{
+    "metadata": {
+        "episode_code": "S01E01",
+        "title": "The Keeper's Wake - ACT TWO (Part 3 Finale)",
+        "source_file": "s01e01_the_keepers_wake.md",
+        "generated_at": "2026-02-03T06:10:00Z",
+        "version": "1.0.0",
+        "note": "Act Two Finale - naming Mochi and Clive, fedora gift, setup for Act Three/Chronicle"
+    },
+    "segments": [
+        {
+            "segment_id": "seg_195",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I push myself up to sitting, wincing as my shoulder protests. We're alive. We're outside. And I've got two ancient artifacts sitting in my campsite—one that just turned my AI assistant sentient, and one that looks like Builder tech but predates anything I've encountered.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "assessing situation, practical",
+                "pacing": "measured, cataloging",
+                "emphasis_words": [
+                    "sentient",
+                    "predates"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 11400
+            }
+        },
+        {
+            "segment_id": "seg_196",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "internal_monologue",
+            "text": "Neither of which I can tell my patron about. Because they knew this would happen. Had to know. They wanted me to wake these things.",
+            "direction": "dark realization, notebook entry",
+            "audio_cues": {
+                "tone": "suspicious, private thoughts",
+                "pacing": "measured, thinking",
+                "emphasis_words": [
+                    "knew",
+                    "wanted"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 5400
+            }
+        },
+        {
+            "segment_id": "seg_197",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The dome hovers closer, chirping softly. Question. Concern.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "gentle, observing care",
+                "pacing": "soft",
+                "emphasis_words": [
+                    "Question",
+                    "Concern"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 2400
+            }
+        },
+        {
+            "segment_id": "seg_198",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "You need names. Both of you. Can't keep calling you 'the dome' and 'the automaton.'",
+            "direction": "addressing both of them, practical decision",
+            "audio_cues": {
+                "tone": "matter-of-fact, warm",
+                "pacing": "measured",
+                "emphasis_words": [
+                    "names"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 3600
+            }
+        },
+        {
+            "segment_id": "sfx_032",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[MOCHI CURIOUS CHIRP - yellow glow, head tilt equivalent]",
+            "direction": "Mochi intrigued by naming",
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 300,
+                "marker_duration_ms": 1000
+            }
+        },
+        {
+            "segment_id": "seg_199",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The dome's glow shifts to warm yellow. Interest. Curiosity.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "interpreting response, pleased",
+                "pacing": "gentle",
+                "emphasis_words": [
+                    "Interest",
+                    "Curiosity"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 2400
+            }
+        },
+        {
+            "segment_id": "seg_200",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "You're small. Cute. Round like... like mochi. One of those little rice cakes. Soft and sweet.",
+            "direction": "thinking aloud, hitting on the name",
+            "audio_cues": {
+                "tone": "thoughtful, affectionate",
+                "pacing": "measured, building to name",
+                "emphasis_words": [
+                    "mochi"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 4200
+            }
+        },
+        {
+            "segment_id": "sfx_033",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[MOCHI HAPPY CHIRP - bright happy orange, spinning with joy]",
+            "direction": "Mochi loves the name",
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 300,
+                "marker_duration_ms": 1500
+            }
+        },
+        {
+            "segment_id": "seg_201",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The dome—Mochi—spins in place, chirping happily. Its glow shifts through a rainbow spectrum before settling on bright, happy orange.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "delighted, amused",
+                "pacing": "gentle happiness",
+                "emphasis_words": [
+                    "Mochi",
+                    "happily",
+                    "rainbow"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 5400
+            }
+        },
+        {
+            "segment_id": "seg_202",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Mochi it is then.",
+            "direction": "confirming, warm",
+            "audio_cues": {
+                "tone": "warm confirmation",
+                "pacing": "gentle",
+                "emphasis_words": [
+                    "Mochi"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 1500
+            }
+        },
+        {
+            "segment_id": "seg_203",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I turn to the automaton. He sits cross-legged, watching this exchange with what I swear is amusement. His pink glow pulses gently.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "observing Clive, friendly",
+                "pacing": "measured",
+                "emphasis_words": [
+                    "amusement"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 5400
+            }
+        },
+        {
+            "segment_id": "seg_204",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "And you... You're solid. Reliable. Built to last. To protect. Something classic. Timeless.",
+            "direction": "assessing, searching for right name",
+            "audio_cues": {
+                "tone": "thoughtful, respectful",
+                "pacing": "measured, considering",
+                "emphasis_words": [
+                    "solid",
+                    "Reliable",
+                    "protect",
+                    "Timeless"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 4800
+            }
+        },
+        {
+            "segment_id": "seg_205",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I think about old detective stories. Film noir. The kind of protagonist who'd sit through eight centuries waiting for the dame to show up.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "amused, thinking of inspiration",
+                "pacing": "thoughtful",
+                "emphasis_words": [
+                    "detective",
+                    "eight centuries"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 6000
+            }
+        },
+        {
+            "segment_id": "seg_206",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Clive. Your name's Clive.",
+            "direction": "confident naming, perfect fit",
+            "audio_cues": {
+                "tone": "confident decision",
+                "pacing": "clear, definite",
+                "emphasis_words": [
+                    "Clive"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 1800
+            }
+        },
+        {
+            "segment_id": "page_turn_013",
+            "page_number": 16,
+            "section": "act_two",
+            "speaker": "PAGE_TURN",
+            "speaker_mode": "page_turn_cue",
+            "text": "[DING - page turn cue]",
+            "direction": "Signals reader to turn page",
+            "timing": {
+                "pause_before_ms": 1000,
+                "cue_duration_ms": 500,
+                "pause_after_ms": 500
+            }
+        },
+        {
+            "segment_id": "seg_207",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The automaton—Clive—tilts his head. Processing. Then his glow brightens slightly, and when he speaks, there's warmth in that rough voice.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "observing acceptance, pleased",
+                "pacing": "gentle",
+                "emphasis_words": [
+                    "Clive",
+                    "warmth"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 6000
+            }
+        },
+        {
+            "segment_id": "seg_208",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "clive",
+            "speaker_mode": "dialogue",
+            "text": "Clive. Yeah. Sounds right. Thanks, kid. First gift I've gotten in eight centuries.",
+            "direction": "accepting name with gratitude, first 'kid'",
+            "audio_cues": {
+                "tone": "rough but genuinely touched",
+                "pacing": "measured, warm",
+                "emphasis_words": [
+                    "Clive",
+                    "kid",
+                    "First gift"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 4200
+            }
+        },
+        {
+            "segment_id": "seg_209",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Kid. He called me kid. Something about that feels right too—like we've known each other longer than ten minutes. Like this is how it's supposed to be.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "warm, accepting dynamic",
+                "pacing": "gentle, pleased",
+                "emphasis_words": [
+                    "kid",
+                    "supposed to be"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 7200
+            }
+        },
+        {
+            "segment_id": "seg_210",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I look at my pack, still sitting where I'd dropped it when the escape started. My spare hat sits on top—wide-brimmed, practical, identical to the one I'm wearing. I'd packed it as a backup, but...",
+            "direction": null,
+            "audio_cues": {
+                "tone": "idea forming, generous impulse",
+                "pacing": "measured, building to gesture",
+                "emphasis_words": []
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 9000
+            }
+        },
+        {
+            "segment_id": "seg_211",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Hold on.",
+            "direction": "sudden idea, moving to get hat",
+            "audio_cues": {
+                "tone": "excited idea",
+                "pacing": "quick",
+                "emphasis_words": []
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 400,
+                "estimated_duration_ms": 800
+            }
+        },
+        {
+            "segment_id": "sfx_034",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[PACK RUSTLING - digging through gear]",
+            "direction": "Getting the fedora",
+            "timing": {
+                "pause_before_ms": 100,
+                "pause_after_ms": 200,
+                "marker_duration_ms": 1500
+            }
+        },
+        {
+            "segment_id": "seg_212",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I grab the spare hat and move back to Clive. The fedora looks ridiculous in my hands—too wide for his spherical head, completely impractical for an automaton who doesn't need sun protection. Perfect.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "pleased with absurdity, warm",
+                "pacing": "gentle amusement",
+                "emphasis_words": [
+                    "ridiculous",
+                    "Perfect"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 9000
+            }
+        },
+        {
+            "segment_id": "seg_213",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Here. Every private eye needs a fedora.",
+            "direction": "offering gift, playful",
+            "audio_cues": {
+                "tone": "playful, warm gesture",
+                "pacing": "gentle",
+                "emphasis_words": [
+                    "private eye",
+                    "fedora"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 2400
+            }
+        },
+        {
+            "segment_id": "seg_214",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I set it on his head. It rests at an angle—jaunty, perfect, completely absurd. His pink glow reflects off the brim.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "delighted with image",
+                "pacing": "gentle, amused",
+                "emphasis_words": [
+                    "jaunty",
+                    "perfect",
+                    "absurd"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 5400
+            }
+        },
+        {
+            "segment_id": "seg_215",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "clive",
+            "speaker_mode": "dialogue",
+            "text": "Kid... I don't know what to say. This is... Thanks. Really.",
+            "direction": "genuinely touched, voice rough with emotion",
+            "audio_cues": {
+                "tone": "emotional, grateful, voice cracking",
+                "pacing": "halting, sincere",
+                "emphasis_words": [
+                    "don't know what to say",
+                    "Really"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 900,
+                "estimated_duration_ms": 3600
+            }
+        },
+        {
+            "segment_id": "sfx_035",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[MOCHI APPROVAL CHIRP - happy green glow, circling]",
+            "direction": "Mochi approving of the gift",
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 300,
+                "marker_duration_ms": 1500
+            }
+        },
+        {
+            "segment_id": "seg_216",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Mochi chirps approvingly, circling both of us in a happy green glow. Arc's interface projects warmth—actual warmth, not just data. Emotions I've never seen from him before.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "observing new dynamic, pleased",
+                "pacing": "gentle, appreciative",
+                "emphasis_words": [
+                    "happy",
+                    "warmth",
+                    "Emotions"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 7800
+            }
+        },
+        {
+            "segment_id": "seg_217",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "We should probably get out of here before more of the temple decides to come down. Back to camp. We can figure out what happens next once we're somewhere safe.",
+            "direction": "practical, taking charge",
+            "audio_cues": {
+                "tone": "practical, leader, gentle command",
+                "pacing": "measured, clear",
+                "emphasis_words": [
+                    "get out",
+                    "safe"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 6000
+            }
+        },
+        {
+            "segment_id": "seg_218",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "arc",
+            "speaker_mode": "dialogue",
+            "text": "Agreed, Miss Paradox. Though I find myself uncertain about what 'safe' means anymore. Everything has changed.",
+            "direction": "existential but accepting",
+            "audio_cues": {
+                "tone": "thoughtful, philosophical, gentle",
+                "pacing": "measured, contemplative",
+                "emphasis_words": [
+                    "uncertain",
+                    "Everything has changed"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 250,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 5400
+            }
+        },
+        {
+            "segment_id": "seg_219",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Yeah. Everything has.",
+            "direction": "quiet agreement, profound",
+            "audio_cues": {
+                "tone": "quiet, accepting change",
+                "pacing": "slow, weight of truth",
+                "emphasis_words": [
+                    "Everything"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 1000,
+                "estimated_duration_ms": 1500
+            }
+        },
+        {
+            "segment_id": "sfx_036",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[JUNGLE SOUNDS - footsteps leaving, group moving together, temple ruins behind]",
+            "direction": "Group heading back to camp",
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 300,
+                "marker_duration_ms": 4000
+            }
+        },
+        {
+            "segment_id": "seg_220",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "We head back toward camp—me, Arc, Mochi hovering beside us like a curious moon, and Clive in his ridiculous perfect fedora. A crew I never planned to have. A crew I'm not sure what to do with. But mine, somehow. Ours.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "reflective, accepting, warm belonging",
+                "pacing": "measured, gentle conclusion",
+                "emphasis_words": [
+                    "crew",
+                    "mine",
+                    "Ours"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 1200,
+                "estimated_duration_ms": 13200
+            }
+        },
+        {
+            "segment_id": "seg_221",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "And behind us, the temple settles into silence.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "epilogue, peaceful",
+                "pacing": "slow, ending beat",
+                "emphasis_words": [
+                    "silence"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 700,
+                "pause_after_ms": 1500,
+                "estimated_duration_ms": 2400
+            }
+        },
+        {
+            "segment_id": "music_008",
+            "page_number": 17,
+            "section": "act_two",
+            "speaker": "MUSIC",
+            "speaker_mode": "music_marker",
+            "text": "[MUSIC: Act Two conclusion - new crew, new journey, hopeful but mysterious]",
+            "direction": "Transition to Chronicle Entry",
+            "timing": {
+                "fade_in_ms": 2000,
+                "marker_duration_ms": 5000,
+                "fade_out_ms": 3000
+            }
+        }
+    ],
+    "assembly_config": {
+        "default_pause_between_narration_ms": 300,
+        "default_pause_between_dialogue_ms": 200,
+        "pause_before_arc_dialogue_ms": 250,
+        "pause_before_clive_dialogue_ms": 300,
+        "pause_after_dialogue_ms": 400,
+        "page_turn_pause_before_ms": 1000,
+        "page_turn_pause_after_ms": 500,
+        "sfx_marker_silence_ms": 2000,
+        "music_marker_silence_ms": 3000
+    }
+}

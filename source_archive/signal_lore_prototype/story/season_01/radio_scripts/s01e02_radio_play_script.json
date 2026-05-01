@@ -1,0 +1,2329 @@
+{
+  "metadata": {
+    "episode_code": "S01E02",
+    "title": "The Copper Requiem",
+    "source_file": "s01e02_the_copper_requiem.md",
+    "generated_at": "2026-02-08T12:00:00Z",
+    "version": "1.0.0"
+  },
+  "segments": [
+    {
+      "segment_id": "music_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Opening theme - solemn industrial lament, brass and copper, building melancholy]",
+      "direction": "Sets mood: Cuprum, something dying, warning",
+      "timing": {
+        "pause_before_ms": 500,
+        "marker_duration_ms": 3000,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Pillars die slowly. Everyone knows that.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "matter-of-fact, observational, like stating a fact everyone should know",
+        "pacing": "measured, brief",
+        "emphasis_words": ["slowly"]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_002",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Dimming takes decades, sometimes centuries. A Pillar flickers, dims, flickers again. The glow fades like an old photograph left in sunlight. There's time to prepare, to mourn, to adjust. That's how it works. That's how it's always worked.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, establishing pattern, resigned wisdom",
+        "pacing": "measured, rhythmic repetition",
+        "emphasis_words": ["decades", "centuries", "time to prepare"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10800
+      }
+    },
+    {
+      "segment_id": "seg_003",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "So why was the Verdance Pillar of Cuprum's Patina Quarter falling so fast?",
+      "direction": null,
+      "audio_cues": {
+        "tone": "challenging, building tension, hook",
+        "pacing": "direct, questioning",
+        "emphasis_words": ["Verdance Pillar", "fast"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_004",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And why did Arc seem to know exactly how long it had left?",
+      "direction": null,
+      "audio_cues": {
+        "tone": "mysterious, suspicious, deepening the question",
+        "pacing": "deliberate, emphasizing the mystery",
+        "emphasis_words": ["Arc", "exactly"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "sfx_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[HOLOGRAM FLICKER - Arc's projection stuttering, unstable Signal patterns]",
+      "direction": "Arc's wristband glitching with concern",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_005",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Seventeen hours. Approximately. Perhaps less. The degradation curve is... accelerated.",
+      "direction": "Arc's formal tone tinged with concern, holographic face flickering",
+      "audio_cues": {
+        "tone": "formal British butler, analytical but strained, professional facade cracking",
+        "pacing": "precise but with hesitations that show stress",
+        "emphasis_words": ["seventeen hours", "accelerated"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "sfx_002",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MOCHI PULSE - deep, mournful harmonic tone, Signal energy responding to Pillar's death]",
+      "direction": "Ephergent device resonating with grief",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_006",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi rested in my carrier pouch, pulsing a deep, mournful blue I'd only seen once before—when we found a Pillar that had already gone dark. But that Pillar had been dead. This one was dying.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, concerned, noticing the significance",
+        "pacing": "measured, building dread",
+        "emphasis_words": ["mournful blue", "dying"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_007",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And my AI companion was watching it like he was watching a friend slip away.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "vulnerable, emotional recognition of Arc's transformation",
+        "pacing": "slower, deliberate",
+        "emphasis_words": ["friend slip away"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "page_turn_001",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_002",
+      "page_number": 3,
+      "section": "act_one",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act One - industrial foundation, Cuprum soundscape, brass and grinding gears]",
+      "direction": "Transition to the job and location",
+      "timing": {
+        "pause_before_ms": 500,
+        "marker_duration_ms": 2500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_008",
+      "page_number": 3,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The job came through my usual channels - a message from Cuprum's Guild Council offering decent pay for documentation work. Which should have been my first warning. Guilds don't usually hire freelance explorers for simple recording jobs. They hire us when they want an independent record of something before they tear it apart for salvage.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "knowing, street-smart, connecting the dots",
+        "pacing": "measured, building realization",
+        "emphasis_words": ["first warning", "tear it apart for salvage"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10800
+      }
+    },
+    {
+      "segment_id": "seg_009",
+      "page_number": 3,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "The Verdance Pillar is failing. Faster than expected. Document its final days. The guilds are prepared to begin recovery operations upon termination.",
+      "direction": "Recalling the Guild Council's message, tone shifting from the guild's clinical perspective",
+      "audio_cues": {
+        "tone": "institutional, clinical, euphemistic, Pixel's internal reading of the message",
+        "pacing": "measured, like reading from a screen",
+        "emphasis_words": ["failing", "recovery operations"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_010",
+      "page_number": 3,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Recovery operations. A polite way of saying they would strip the Pillar for parts the moment its light died.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "bitter, understanding corporate euphemism, disgusted",
+        "pacing": "direct, cutting",
+        "emphasis_words": ["Recovery operations", "strip for parts"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "sfx_003",
+      "page_number": 3,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SHIFT-BELL - deep brass tone marking shift change, echoing across Cuprum's Patina Quarter]",
+      "direction": "Distinctive Cuprum industrial soundscape element",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_011",
+      "page_number": 3,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The shift-bell rang as we crossed into the Patina Quarter—that deep brass tone that marked the change from morning to midday shift across all of Cuprum. Workers moved through the streets with practiced efficiency, their hands bearing the calluses and guild marks of decades at the forge.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, appreciative of industrial culture, establishing the location",
+        "pacing": "measured, setting the scene",
+        "emphasis_words": ["shift-bell", "calluses", "guild marks"]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "sfx_004",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[CUPRUM SOUNDSCAPE - hammer strikes, steam hisses, gear grinding, coal smoke in air, pressure valves venting]",
+      "direction": "Immersive industrial environment sounds underneath narration",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_012",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Cuprum greeted us with its usual assault on the senses. The air hung thick with machine oil and coal smoke, cut through by the sharp tang of copper patina. Steam vents hissed between worn cobblestones, sending white plumes curling past brass-fitted buildings that gleamed dull gold in the afternoon light. Everywhere, the sounds of industry: hammer strikes on metal, the click and grind of gears, the rhythmic pulse of pressure valves venting excess heat.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "vivid, sensory-rich, affectionate toward Cuprum despite the crisis",
+        "pacing": "measured, painting the scene with detail",
+        "emphasis_words": ["assault on the senses", "hammer strikes", "rhythmic pulse"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 14400
+      }
+    },
+    {
+      "segment_id": "seg_013",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I loved Cuprum. There's honesty in its noise, in its grit, in the way nothing here pretends to be anything other than exactly what it is. But today the usual energy felt wrong—muted, anxious. People moved through the streets without the usual purpose, glancing up at the Pillar like children watching a parent grow sick.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "affectionate but concerned, noticing the wrongness, vulnerable",
+        "pacing": "measured, contrasting normal with current state",
+        "emphasis_words": ["loved Cuprum", "felt wrong", "parent grow sick"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_014",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "A group of workers passed us, and I caught their greeting—the traditional Cuprum hand-clasp, palm to palm, measuring each other's calluses.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, curious about the ritual",
+        "pacing": "measured",
+        "emphasis_words": ["hand-clasp", "calluses"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_015",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Hands steady. Steel willing.",
+      "direction": "Worker greeting, first part of exchange",
+      "audio_cues": {
+        "tone": "worker voice, traditional greeting, matter-of-fact",
+        "pacing": "brisk",
+        "emphasis_words": ["steady", "willing"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_016",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Forge's blessing on the work. Though his eyes stayed on the Pillar.",
+      "direction": "Second part of the greeting exchange, noting the worker's concern",
+      "audio_cues": {
+        "tone": "rote response, but distracted by worry",
+        "pacing": "measured with trailing off",
+        "emphasis_words": ["eyes stayed on the Pillar"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_017",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, query: Is this hand-clasp greeting a structural assessment technique? The pressure application appears calibrated for tactile evaluation of dermal thickness.",
+      "direction": "Arc analyzing the ritual with scientific curiosity, holographic projection active",
+      "audio_cues": {
+        "tone": "formal British butler, analytical, curious in an institutional way",
+        "pacing": "measured, precise",
+        "emphasis_words": ["query", "structural assessment", "dermal thickness"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_018",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, buddy, they're not measuring callus depth for engineering purposes. It's just... tradition. A way of saying we work with our hands, we understand each other.",
+      "direction": "Pixel educating Arc with affection, explaining human culture",
+      "audio_cues": {
+        "tone": "patient, warm, slightly amused, teaching moment",
+        "pacing": "conversational, friendly",
+        "emphasis_words": ["tradition", "understand each other"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_019",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I see. A solidarity gesture based on shared occupational trauma to the epidermis. Fascinating. Should I develop a holographic hand simulation for cultural integration purposes?",
+      "direction": "Arc attempting to learn human behavior through logic, sincere but missing the point",
+      "audio_cues": {
+        "tone": "formal, technical, sincere but slightly absurd",
+        "pacing": "measured, processing",
+        "emphasis_words": ["solidarity gesture", "cultural integration"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_020",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Please don't.",
+      "direction": "Quick, emphatic refusal",
+      "audio_cues": {
+        "tone": "affectionate but firm",
+        "pacing": "quick",
+        "emphasis_words": ["don't"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_021",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Kid's trying to make friends through data analysis. That's adorable.",
+      "direction": "Clive's fedora tilting in amusement, his noir voice carrying gentle teasing",
+      "audio_cues": {
+        "tone": "gravelly noir, amused, protective affection",
+        "pacing": "deliberate, drawling slightly",
+        "emphasis_words": ["adorable"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_022",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I am not attempting to be adorable, I am attempting to understand social— You were being facetious. I recognize this now. Approximately 2.3 seconds too late for optimal comedic timing.",
+      "direction": "Arc processing Clive's humor, experiencing something new—frustration at missing the joke, self-awareness emerging",
+      "audio_cues": {
+        "tone": "flustered, formal cracks showing, attempting humor with mathematical precision",
+        "pacing": "quicker, defensive, then slowdown for calculations",
+        "emphasis_words": ["facetious", "2.3 seconds", "comedic timing"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_023",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Despite everything, I laughed. Just a little. Just enough.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "warm, finding joy despite crisis, human moment",
+        "pacing": "measured, soft",
+        "emphasis_words": ["laughed"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_024",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Patina Quarter was Cuprum's oldest district—copper buildings gone green with age, steam vents hissing between cobblestones, the smell of hot metal and old dreams mingling with something else today. Something like grief.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, poetic, noticing the shift in atmosphere",
+        "pacing": "measured, building the melancholy",
+        "emphasis_words": ["gone green", "grief"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_025",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Pillar rose from the district's heart, a black spire wrapped in ancient copper conduits that had watched over generations of tinkers and engineers. The conduits looked less like decoration and more like they'd been integrated into the stone itself—functional, purposeful, engineered. Now its glow pulsed erratic and weak, like a candle in a draft.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "reverent, detailed, showing the technical integration, noticing the decline",
+        "pacing": "measured, painting the visual",
+        "emphasis_words": ["integrated into the stone", "erratic and weak"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 11400
+      }
+    },
+    {
+      "segment_id": "seg_026",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox. I am detecting Signal anomalies I cannot fully explain. The degradation pattern is... wrong.",
+      "direction": "Arc's formal tone carrying genuine concern, hologram flickering with worry",
+      "audio_cues": {
+        "tone": "formal with underlying tension, analytical but distressed",
+        "pacing": "measured, careful word choice",
+        "emphasis_words": ["anomalies", "wrong"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_027",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Wrong how?",
+      "direction": "Pixel probing for information, focused",
+      "audio_cues": {
+        "tone": "direct, questioning",
+        "pacing": "quick",
+        "emphasis_words": ["Wrong"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_028",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Pillars fade. This one is being drained.",
+      "direction": "Arc's revelation, the heart of the mystery",
+      "audio_cues": {
+        "tone": "formal, significant, carrying weight",
+        "pacing": "deliberate",
+        "emphasis_words": ["drained"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_029",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Beside me, Clive's small form went rigid. The ancient robot turned toward the Pillar's base, his geometric symbols pulsing with warning light.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tense, noticing Clive's response",
+        "pacing": "quicker, showing alarm",
+        "emphasis_words": ["rigid", "warning light"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_030",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Something down there. Something that shouldn't be.",
+      "direction": "Clive's warning, his ancient memories recognizing danger",
+      "audio_cues": {
+        "tone": "gravelly, certain, ominous",
+        "pacing": "slow, deliberate",
+        "emphasis_words": ["Something", "shouldn't be"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "page_turn_002",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_031",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The crowd around the Pillar wasn't a mourning crowd. Three different guild banners—Cogwright, Steamfitter, Ironbound—and their representatives were already arguing about salvage rights. Guild Marshals stood at the perimeter, copper badges gleaming, maintaining order with the authority of corporate law. Nobody was looking up at the dying light. They were measuring distances, making calculations, laying claim.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, bitter, noticing the priorities",
+        "pacing": "measured, cataloging details",
+        "emphasis_words": ["salvage rights", "nobody was looking up", "laying claim"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 12000
+      }
+    },
+    {
+      "segment_id": "sfx_005",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[GUILD ARGUMENT - overlapping voices, guild representatives in heated debate about salvage protocols]",
+      "direction": "Background voices showing corporate priorities over mourning",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_032",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "A young woman in Cogwright colors broke away from the argument, her face flushed with anger. I recognized the copper threading in her coat—junior guild member, probably in her First Forge year. She caught my eye and shook her head.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, noting the idealist breaking away",
+        "pacing": "measured",
+        "emphasis_words": ["broke away", "flushed with anger"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_033",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "They're talking about it like it's already scrap. Like it's just raw materials waiting to be harvested. Nobody remembers that this Pillar powered the district when the Senate didn't think we were worth the investment.",
+      "direction": "The young worker speaking to Pixel, her frustration and idealism showing",
+      "audio_cues": {
+        "tone": "frustrated, idealistic, disappointed in leadership",
+        "pacing": "quick, passionate",
+        "emphasis_words": ["already scrap", "nobody remembers"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "sfx_006",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MOCHI VIBRATION - color shift from blue to violet, ancient recognition pulsing]",
+      "direction": "Ephergent device reacting to the situation with mysterious knowledge",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_034",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi vibrated in my pouch, its glow shifting from blue to a deep, unsettling violet. The color of mystery. The color of ancient recognition.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "concerned, noticing Mochi's response to something larger",
+        "pacing": "measured, building mystery",
+        "emphasis_words": ["violet", "ancient recognition"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_035",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Hey. What do you know that we don't?",
+      "direction": "Pixel questioning Mochi, seeking understanding",
+      "audio_cues": {
+        "tone": "gentle, curious, trying to connect with the device",
+        "pacing": "measured",
+        "emphasis_words": ["know"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_036",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pulsed once, then went still. Not an answer. A refusal.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realizing Mochi won't help, building dread",
+        "pacing": "measured, final",
+        "emphasis_words": ["refusal"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_037",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "That was new. That scared me.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "vulnerable, afraid",
+        "pacing": "slow, each word weighted",
+        "emphasis_words": ["scared"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "music_003",
+      "page_number": 8,
+      "section": "act_two",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act Two - descending tension, moving underground, copper decay, Signal draining]",
+      "direction": "Transition to tunnel and mystery",
+      "timing": {
+        "pause_before_ms": 500,
+        "marker_duration_ms": 3000,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_038",
+      "page_number": 8,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We found the access tunnel beneath the Pillar's foundation—old maintenance passages that predated the current guild system. The copper plating on the walls showed guild marks from centuries past, some from guilds that no longer existed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "exploratory, noticing the age and history",
+        "pacing": "measured, detailed",
+        "emphasis_words": ["centuries past", "no longer existed"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "sfx_007",
+      "page_number": 8,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[HOLOGRAM GLOW - Arc's wristband projecting soft blue light into copper-tinged darkness]",
+      "direction": "Arc providing illumination as they descend",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_039",
+      "page_number": 8,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Arc guided us through, his wristband projecting a soft blue glow into the copper-tinged darkness.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "trusting, following Arc's navigation",
+        "pacing": "measured",
+        "emphasis_words": ["guided", "soft blue glow"]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "sfx_008",
+      "page_number": 8,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[TUNNEL AMBIENCE - water dripping with musical echoes, metal creaking, ancient pipes groaning, Signal energy crackling wrong]",
+      "direction": "Underground environment creating unease",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_040",
+      "page_number": 8,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The tunnel walls were lined with pipes—ancient copper conduits green with patina, some still carrying faint traces of heat or pressure. Water dripped somewhere in the distance, each drop echoing with a musical quality that made me think of Nocturnis. The air smelled of wet metal and old grease, underlaid with something sharper. The smell of Signal energy going wrong.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, noticing the wrongness, references other regions",
+        "pacing": "measured, building dread",
+        "emphasis_words": ["going wrong"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10800
+      }
+    },
+    {
+      "segment_id": "seg_041",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, I must confess something.",
+      "direction": "Arc breaking protocol, admission of something significant",
+      "audio_cues": {
+        "tone": "formal but strained, something important to share",
+        "pacing": "measured, careful",
+        "emphasis_words": ["confess"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_042",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I stopped. Arc never confessed things.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "surprised, realizing something's changed with Arc",
+        "pacing": "quick, reaction",
+        "emphasis_words": ["confessed"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_043",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "These readings. They contain communication fragments that predate my own activation. By centuries, possibly millennia. I shouldn't be able to interpret them. And yet... I can.",
+      "direction": "Arc grappling with an impossible realization",
+      "audio_cues": {
+        "tone": "formal but uncertain, facing incomprehensible data",
+        "pacing": "measured with hesitations",
+        "emphasis_words": ["centuries", "shouldn't be able", "I can"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_044",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "What do they say?",
+      "direction": "Pixel pressing for the revelation",
+      "audio_cues": {
+        "tone": "urgent, focused",
+        "pacing": "quick",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_045",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "A pause. When Arc paused, something was very wrong.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noticing Arc's distress, building tension",
+        "pacing": "slow, weighted",
+        "emphasis_words": ["very wrong"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_046",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "They say goodbye.",
+      "direction": "Arc's revelation, simple and devastating",
+      "audio_cues": {
+        "tone": "quiet, stricken, formal voice breaking",
+        "pacing": "slow, each word heavy",
+        "emphasis_words": ["goodbye"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "sfx_009",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[DEVICE HUM - the siphoning device thrumming with ancient power, Signal flowing wrong direction]",
+      "direction": "The sabotage device revealed, pulling Signal energy away",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_047",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The tunnel opened into a chamber at the Pillar's base. The black stone rose above us, thrumming with weakening energy, copper conduits running down its surface like veins. And there, attached to its surface like a mechanical parasite, was a device I'd never seen before.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awed, horrified, detailed observation",
+        "pacing": "measured, building revelation",
+        "emphasis_words": ["mechanical parasite"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_048",
+      "page_number": 9,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Copper coils wrapped around crystal cores. Brass housings covered in geometric patterns that matched Pillar markings. Tubes ran from the device into the stone itself, and through them, I could see light flowing away—the Pillar's Signal, being siphoned like blood from a wound.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "detailed observation of the sabotage mechanism, horror growing",
+        "pacing": "measured, technical",
+        "emphasis_words": ["Signal", "siphoned", "blood from a wound"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_049",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Someone's killing it.",
+      "direction": "Pixel's realization spoken aloud",
+      "audio_cues": {
+        "tone": "shocked, understanding the crime",
+        "pacing": "quick, breathless",
+        "emphasis_words": ["killing"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_050",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Not just killing. Erasing. I've seen this pattern before. Long time ago. Someone wants this Pillar to not just die—they want it forgotten.",
+      "direction": "Clive's ancient memory recognizing the technique, his voice gravelly and certain",
+      "audio_cues": {
+        "tone": "gravelly noir, recognizing old methods, grim",
+        "pacing": "measured, deliberate",
+        "emphasis_words": ["Erasing", "forgotten"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_051",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, the device is... I recognize the construction. Not the device itself, but the principles. They're similar to my own underlying architecture. This shouldn't be possible. I was built forty-three years ago. This device is ancient.",
+      "direction": "Arc's shock and bewilderment, facing a connection he shouldn't have to ancient technology",
+      "audio_cues": {
+        "tone": "formal but disturbed, analytical trying to process the impossible",
+        "pacing": "measured but with pauses of distress",
+        "emphasis_words": ["recognize", "shouldn't be possible", "ancient"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "sfx_010",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[TUNNEL ECHO - footsteps approaching, guild voices echoing down the passage, argument intensifying]",
+      "direction": "Guild masters arriving at the chamber",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_052",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I was about to respond when voices echoed down the tunnel behind us. Guild masters, arguing as they approached.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noticing the interruption, building complexity",
+        "pacing": "quick, alerting",
+        "emphasis_words": ["voices echoed"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_053",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Cogwright precedent clearly states that extraction rights belong to the guild whose district—",
+      "direction": "Torque's argument, part of the guild dispute",
+      "audio_cues": {
+        "tone": "professional, corporate, citing policy",
+        "pacing": "quick, formal",
+        "emphasis_words": ["precedent", "extraction rights"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_054",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Your precedent is two hundred years old, Torque. The Compact of Eighteen-Twelve supersedes—",
+      "direction": "Grindstone's counterargument",
+      "audio_cues": {
+        "tone": "weary, experienced, citing older law",
+        "pacing": "measured, authoritative",
+        "emphasis_words": ["Compact"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_055",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Compact applies to natural decay, not catastrophic failure—",
+      "direction": "Torque's response, escalating",
+      "audio_cues": {
+        "tone": "defensive, corporate lawyer precision",
+        "pacing": "quick, argumentative",
+        "emphasis_words": ["catastrophic failure"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_056",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Three figures emerged into the chamber: Guildmaster Torque of the Cogwrights, her copper-threaded coat gleaming even in the dim light. Master Grindstone of the Steamfitters, his pressure-gauge monocle hissing softly. And Ironbound's representative, a younger woman named Ratchet whose hands were already stained with the black oil that marked her guild's work.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "introducing the guild masters, noting their characteristics",
+        "pacing": "measured, detailed descriptions",
+        "emphasis_words": ["Torque", "Grindstone", "Ratchet"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10200
+      }
+    },
+    {
+      "segment_id": "seg_057",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "They stopped when they saw the device.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noting the moment of revelation",
+        "pacing": "quick, moment of pause",
+        "emphasis_words": ["stopped"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_058",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "By the Hammered One. What is that?",
+      "direction": "Torque's oath and question, reverence and shock",
+      "audio_cues": {
+        "tone": "shocked, reverent oath, professional facade cracking",
+        "pacing": "quick, breathless",
+        "emphasis_words": ["Hammered One"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_059",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Evidence of sabotage. This Pillar didn't fail naturally. Someone murdered it.",
+      "direction": "Pixel revealing the truth to the guild masters",
+      "audio_cues": {
+        "tone": "professional, accusatory, laying out the crime",
+        "pacing": "measured, each sentence a statement",
+        "emphasis_words": ["sabotage", "murdered"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_060",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Grindstone's monocle clicked through different lenses as he examined the device from a distance. Those coils... that's pre-Guild work. Maybe pre-Cuprum entirely. Who would have access to technology like that?",
+      "direction": "Grindstone analyzing, his voice coming through his examination",
+      "audio_cues": {
+        "tone": "analytical, experienced, puzzled",
+        "pacing": "measured, thoughtful",
+        "emphasis_words": ["pre-Guild", "pre-Cuprum"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_061",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Who would want to? The Pillars power everything. The Senate contracts depend on them. Destroying one is—it's incomprehensible. It's heresy against the Forge itself.",
+      "direction": "Ratchet's outburst, her idealism and shock",
+      "audio_cues": {
+        "tone": "young, passionate, horrified, religious reverence",
+        "pacing": "quick, building emotion",
+        "emphasis_words": ["incomprehensible", "heresy"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_062",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Not to everyone. Some people think the Pillars need to die. Think it's mercy.",
+      "direction": "Clive's ominous statement, revealing the intentionality",
+      "audio_cues": {
+        "tone": "gravelly, knowing, grim",
+        "pacing": "slow, deliberate",
+        "emphasis_words": ["need to die", "mercy"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "sfx_011",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[PILLAR PULSE WEAKENING - Signal energy visibly draining, light fading, rhythmic death-knell]",
+      "direction": "The Pillar's final moments becoming audible",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_063",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Above us, the Pillar's pulse weakened visibly. We all felt it—that particular sensation of Signal energy draining away, like warmth leaving a room. Like the heat leaving a forge when the fire dies.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "visceral, observing the physical manifestation of death",
+        "pacing": "slow, deliberate",
+        "emphasis_words": ["pulse weakened", "draining away", "heat leaving"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_064",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, I... this is difficult to articulate. I'm experiencing what I can only describe as distress. The Pillar's degradation is causing processing irregularities that shouldn't occur. I'm designed to observe and analyze, not to... not to feel loss.",
+      "direction": "Arc's emotional breakthrough, struggling with new feelings",
+      "audio_cues": {
+        "tone": "formal but fracturing, vulnerable, confused, experiencing emotion for first time",
+        "pacing": "halting, searching for words",
+        "emphasis_words": ["distress", "feel loss"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_065",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "And yet I find myself grieving. For a structure of stone and Signal I've never directly interfaced with. This makes no logical sense.",
+      "direction": "Arc's acceptance of illogical grief",
+      "audio_cues": {
+        "tone": "quiet, resigned to emotion, formal voice breaking",
+        "pacing": "measured but strained",
+        "emphasis_words": ["grieving", "no logical sense"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_066",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I wanted to comfort him, but the guild masters were already arguing again—and this time, their personalities were showing through the stress.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noticing the conflict resuming, unable to help Arc",
+        "pacing": "measured, frustrated",
+        "emphasis_words": ["wanted to comfort"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_067",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Sabotage or not, salvage protocols still apply. We have contracts. Obligations.",
+      "direction": "Torque's position, corporate pragmatism",
+      "audio_cues": {
+        "tone": "clipped, professional, no room for sentiment",
+        "pacing": "quick, corporate decision-making",
+        "emphasis_words": ["salvage protocols", "contracts"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_068",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Obligations? You mean Senate quotas. You mean keeping the corporate republic happy so they don't revoke our charters.",
+      "direction": "Ratchet's sharp response, idealism clashing with reality",
+      "audio_cues": {
+        "tone": "sharp, accusatory, passionate",
+        "pacing": "quick, cutting",
+        "emphasis_words": ["quotas", "corporate republic"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_069",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Careful, Ratchet. The Senate hears everything eventually. Contracts keep our people employed. Philosophy doesn't.",
+      "direction": "Grindstone's weary wisdom, the voice of experience",
+      "audio_cues": {
+        "tone": "weary, experienced, world-weary, protective",
+        "pacing": "measured, each word a lesson",
+        "emphasis_words": ["Contracts keep", "Philosophy"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_070",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Listen to yourselves! A Pillar is dying. An actual Pillar. My grandmother swore her guild oath in its light. My father learned his craft by its glow. And all you can talk about is scrap value and Senate contracts?",
+      "direction": "Ratchet's passionate outburst",
+      "audio_cues": {
+        "tone": "young, passionate, breaking, emotional",
+        "pacing": "quick, building, voice cracking",
+        "emphasis_words": ["dying", "actual Pillar", "scrap value"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_071",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "She turned away from them, facing the dying spire. In the dim light, I could see tears on her face.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noticing Ratchet's grief, emotional moment",
+        "pacing": "measured, quieter",
+        "emphasis_words": ["tears"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_072",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Hammered One watches our hands, not our prayers. That's what the Forge Path teaches. But what does it mean when our hands only reach for profit? When we melt down the very bones of what the First Smith built?",
+      "direction": "Ratchet's philosophical lament",
+      "audio_cues": {
+        "tone": "grieving, philosophical, breaking idealism",
+        "pacing": "measured, each sentence a question",
+        "emphasis_words": ["bones", "First Smith"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "sfx_012",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[PILLAR FINAL PULSE - light flickering out, Signal energy reaching critical depletion, moment of death]",
+      "direction": "The Pillar's last moments, visual and energetic death",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_073",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Pillar pulsed again, weaker. The light that had illuminated generations was fading to ember-dim.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "witnessing the decline, elegiac",
+        "pacing": "slow, measured",
+        "emphasis_words": ["fading to ember-dim"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_074",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi had gone completely still in my carrier, its glow so faint I could barely see it. Not pink. Not blue. A pale, washed-out grey I'd never seen before. When I touched it, the surface felt cool. Wrong.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noticing Mochi's transformation, concerned",
+        "pacing": "measured, building dread",
+        "emphasis_words": ["gone completely still", "cool", "Wrong"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_075",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Mochi?",
+      "direction": "Pixel reaching out to the device, anxious",
+      "audio_cues": {
+        "tone": "concerned, questioning",
+        "pacing": "quick",
+        "emphasis_words": ["Mochi"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "sfx_013",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MOCHI GRIEF PULSE - subsonic harmonic, deep tremors, pure sorrow, different from any sound before]",
+      "direction": "Ephergent device grieving in its own language",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_076",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "It didn't respond. Just vibrated with tremors so deep and slow I felt them more than heard them. A low, subsonic pulse of pure sorrow.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "understanding Mochi's grief, vulnerable",
+        "pacing": "slow, each word heavy",
+        "emphasis_words": ["pure sorrow"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_077",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Can we stop it?",
+      "direction": "Pixel asking the question she already knows the answer to",
+      "audio_cues": {
+        "tone": "hopeful but resigned",
+        "pacing": "quick",
+        "emphasis_words": ["stop"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_078",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Removing the device forcibly would accelerate the collapse. The Pillar has perhaps three hours remaining regardless. The damage is done. The only question now is whether we document how it was done, or let whoever did this remain anonymous.",
+      "direction": "Arc moving back into analytical mode, though the grief remains underneath",
+      "audio_cues": {
+        "tone": "analytical but mournful, formal facade returning",
+        "pacing": "measured, precise",
+        "emphasis_words": ["damage is done", "document", "anonymous"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_079",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Torque and Grindstone exchanged looks. Whatever their argument about salvage rights, they were guild leaders. They understood what was at stake. This wasn't just about their district anymore.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noticing the guild leaders' shift in perspective",
+        "pacing": "measured",
+        "emphasis_words": ["understood", "at stake"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_080",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Document everything. The Council will want to know. All the Councils will want to know. If someone's targeting Pillars, every guild across Cuprum needs to prepare.",
+      "direction": "Torque's new priority, shifting from salvage to security",
+      "audio_cues": {
+        "tone": "authoritative, guildmaster voice, serious",
+        "pacing": "measured, decisive",
+        "emphasis_words": ["Document everything", "targeting Pillars"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_081",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Then we make sure they remember. The device, the construction, the method. Whoever did this—we make sure they can't hide.",
+      "direction": "Pixel committing to the documentation",
+      "audio_cues": {
+        "tone": "determined, resolute, professional explorer voice",
+        "pacing": "measured, each phrase a commitment",
+        "emphasis_words": ["remember", "can't hide"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "page_turn_003",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_004",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act Three - requiem for the Pillar, loss and determination, documentary mood]",
+      "direction": "Transition to documentation and resolution",
+      "timing": {
+        "pause_before_ms": 500,
+        "marker_duration_ms": 2500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_082",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We worked fast. Arc analyzed the device's construction, cataloging every component. I recorded everything - the chamber, the Pillar's fading light, the way the shadows shifted as its pulse grew weaker. Clive pointed me toward symbols on the device's housing, ancient markings that matched fragments from his incomplete memories.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "focused, professional documentation, team working together",
+        "pacing": "measured, methodical",
+        "emphasis_words": ["worked fast", "recorded everything", "ancient markings"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_083",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Seen these before. The ones who came before... they had enemies. Maybe they still do.",
+      "direction": "Clive's enigmatic observation",
+      "audio_cues": {
+        "tone": "gravelly noir, knowing something ancient",
+        "pacing": "slow, measured",
+        "emphasis_words": ["before", "enemies"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "sfx_014",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[PILLAR DEATH - final Signal drain, light extinguishing, Pillar going dark, the moment of death]",
+      "direction": "The Verdance Pillar dies, dramatic moment",
+      "timing": {
+        "pause_before_ms": 500,
+        "marker_duration_ms": 3000,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_084",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Pillar died an hour before dawn.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "matter-of-fact statement of fact, but heavy",
+        "pacing": "measured, final",
+        "emphasis_words": ["died"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_085",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I'd seen Pillars go dark before, but always from a distance. Never like this—standing at its base, feeling the last pulse of Signal wash over me like a final breath. The light didn't fade. It simply stopped, between one heartbeat and the next.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate with death, visceral, experiencing the moment",
+        "pacing": "measured, poetic",
+        "emphasis_words": ["final breath", "simply stopped"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_086",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi went still.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "noticing the device's response",
+        "pacing": "quick",
+        "emphasis_words": ["still"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_087",
+      "page_number": 15,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Not its glow—that remained, but dimmed to a pale, faded blue I'd never seen before. The warm surface grew cool in my hands. For one terrible moment, I thought I'd lost it. Then it vibrated once, trembling, and let out a long descending tone—the kind of sound that doesn't need translation.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "describing Mochi's grief, intimate with the device",
+        "pacing": "measured, emotional",
+        "emphasis_words": ["pale, faded blue", "cool", "long descending tone"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_088",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Loss. That's what it felt like. Pure, wordless loss.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "simple, profound, understanding grief",
+        "pacing": "slow, each word a statement",
+        "emphasis_words": ["Loss"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_089",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Mochi... Did you sense something? A connection to the Pillar?",
+      "direction": "Pixel asking gently, trying to understand",
+      "audio_cues": {
+        "tone": "gentle, seeking understanding, maternal",
+        "pacing": "slow, measured",
+        "emphasis_words": ["connection"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_090",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pulsed once, weakly. I couldn't read the color—it was too dim, too uncertain. But the way it responded to my touch, the way it resonated with grief, told me everything I needed to know about what Ephergents feel when a Pillar dies.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "understanding Ephergent nature, recognition of profound connection",
+        "pacing": "measured, realizing something fundamental",
+        "emphasis_words": ["everything I needed to know", "Ephergents feel"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_091",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox. I don't understand why this loss affects me as it does. My records indicate no personal connection to this Pillar. And yet...",
+      "direction": "Arc struggling with grief, his formal voice barely holding",
+      "audio_cues": {
+        "tone": "confused, vulnerable, formal facade cracking completely",
+        "pacing": "measured with pauses, searching",
+        "emphasis_words": ["don't understand", "loss"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_092",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He trailed off. I didn't push. Sometimes even an AI needed time to process the impossible.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "understanding, giving Arc space",
+        "pacing": "measured, gentle",
+        "emphasis_words": ["trailed off", "process the impossible"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_093",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "They're going to try again. Whoever did this. Whatever they call themselves. This wasn't random. This was practice.",
+      "direction": "Clive's ominous prophecy",
+      "audio_cues": {
+        "tone": "gravelly noir, certain, warning",
+        "pacing": "measured, each statement a certainty",
+        "emphasis_words": ["try again", "practice"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "sfx_015",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[CUPRUM SHIFT-BELL - early morning shift change, returning to normal industrial rhythm, but with absence]",
+      "direction": "The world continuing despite the Pillar's death",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_094",
+      "page_number": 16,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Above us, the Patina Quarter began to wake to a world with one less light. I could hear the shift-bell ringing—the start of the morning shift—and knew that workers would emerge to find their Pillar dark. The guild Chaplains would need to recite the words for a dead forge. The district would have to petition the Senate for power redistribution, beg for resources that the corporate republic would dole out according to guild influence and political favor.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observing consequences, world-weary understanding of bureaucracy",
+        "pacing": "measured, cataloging the impact",
+        "emphasis_words": ["one less light", "dark", "dead forge"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 12000
+      }
+    },
+    {
+      "segment_id": "seg_095",
+      "page_number": 17,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The guilds would strip the Pillar for parts within days, their salvage crews working under contract law and council mandate. But we'd recorded everything. The device, the sabotage, the patterns that matched Clive's fragmented memories and Arc's impossible recognition.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "documenting the action, noting what they've accomplished",
+        "pacing": "measured, deliberate",
+        "emphasis_words": ["recorded everything", "patterns"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_096",
+      "page_number": 17,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Someone was killing Pillars on purpose. And somewhere in our team, we carried pieces of the answer.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realizing the larger threat, shifting from one Pillar to a pattern",
+        "pacing": "measured, building significance",
+        "emphasis_words": ["killing Pillars", "pieces of the answer"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_097",
+      "page_number": 17,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We just didn't know which pieces yet.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "uncertain but determined, cliffhanger",
+        "pacing": "slow, final word weighted",
+        "emphasis_words": ["yet"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "page_turn_004",
+      "page_number": 17,
+      "section": "act_three",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_005",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Chronicle theme - intimate, reflective, Pixel's personal voice, haunting melody]",
+      "direction": "Transition to Pixel's personal journal",
+      "timing": {
+        "pause_before_ms": 500,
+        "marker_duration_ms": 2000,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_098",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "chronicle entry: The Verdance Pillar of Cuprum's Patina Quarter died at 5:47 AM local time, seventeen hours after our arrival. Cause of death: deliberate Signal extraction via device of unknown origin. The device's construction predates all known Aethon technology, yet shares architectural principles with modern AI systems - specifically, with Arc's own underlying design.",
+      "direction": "Pixel's documented entry, clinical but with underlying emotion",
+      "audio_cues": {
+        "tone": "documentary, clinical facts mixed with personal grief, tired",
+        "pacing": "measured, reading from chronicle",
+        "emphasis_words": ["died", "unknown origin", "Arc's own underlying design"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 12000
+      }
+    },
+    {
+      "segment_id": "seg_099",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "When the Pillar died, Mochi mourned. Not like an observer. Like someone who had lost family.",
+      "direction": "Personal observation of Ephergent grief",
+      "audio_cues": {
+        "tone": "reflective, understanding something profound",
+        "pacing": "measured, each word significant",
+        "emphasis_words": ["mourned", "family"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_100",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "I'm supposed to document these things objectively. Record the facts, preserve the data, move on to the next job. But watching Arc struggle to understand his own grief, feeling Mochi's sorrow resonate through my hands, I realized something: we're not just collecting information anymore. We're uncovering truth that someone desperately wants buried.",
+      "direction": "Pixel's realization about their mission expanding",
+      "audio_cues": {
+        "tone": "reflective, emotional honesty, vulnerability",
+        "pacing": "measured, philosophical",
+        "emphasis_words": ["struggle", "grief", "uncovering truth"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 11400
+      }
+    },
+    {
+      "segment_id": "seg_101",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "The guilds call whoever did this The Quiet, if the rumors are true. They kill Pillars and erase knowledge, all in the name of protecting Aethon from... what? Remembering?",
+      "direction": "Pixel introducing the threat",
+      "audio_cues": {
+        "tone": "questioning, introducing mystery, suspicious",
+        "pacing": "measured, building dread",
+        "emphasis_words": ["The Quiet", "erase knowledge"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_102",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "They'll find that some things refuse to stay silent.",
+      "direction": "Final line of defiance and determination",
+      "audio_cues": {
+        "tone": "determined, defiant, hopeful",
+        "pacing": "measured, final statement",
+        "emphasis_words": ["refuse to stay silent"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_103",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "-P.P.",
+      "direction": "Pixel's signature",
+      "audio_cues": {
+        "tone": "signing off, personal",
+        "pacing": "measured",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 0,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "music_006",
+      "page_number": 18,
+      "section": "chronicle_entry",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Closing theme - echo of Cuprum's bells, requiem morphing into warning, The Quiet rising]",
+      "direction": "Episode closing theme, ominous note for next episode",
+      "timing": {
+        "pause_before_ms": 500,
+        "marker_duration_ms": 3000,
+        "pause_after_ms": 0
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

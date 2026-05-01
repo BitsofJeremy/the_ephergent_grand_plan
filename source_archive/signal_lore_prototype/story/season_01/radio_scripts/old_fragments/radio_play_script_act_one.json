@@ -1,0 +1,1066 @@
+{
+  "metadata": {
+    "episode_code": "S01E05",
+    "title": "The Driftborn's Debt - ACT ONE",
+    "source_file": "s01e05_the_driftborns_debt.md",
+    "generated_at": "2026-02-03T18:35:00Z",
+    "version": "1.0.0",
+    "note": "Act One - Journey to Memorywreck Bay, evading The Quiet"
+  },
+  "segments": [
+    {
+      "segment_id": "seg_024",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Shattered Span smelled like salt and ice and the slow death of things.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "atmospheric, melancholic",
+        "pacing": "deliberate, sensory",
+        "emphasis_words": [
+          "salt",
+          "ice",
+          "death"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_025",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We'd hired a pilot named Torva to navigate us through the archipelago's frozen maze. She didn't ask questions—Driftborn rarely do—but I caught her glancing at Mochi with the kind of look people reserve for things they're not sure are good luck or terrible omens.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observant, understanding cultural dynamics",
+        "pacing": "steady, contextual",
+        "emphasis_words": [
+          "Torva",
+          "glancing",
+          "omen"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7600
+      }
+    },
+    {
+      "segment_id": "sfx_004",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Boat engine, ice formations, wind through frozen passages]",
+      "direction": "Ambient sound of navigation through dangerous frozen waters",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_026",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The boat cut through channels between towering ice formations. Eight hundred years ago, something catastrophic had hit this place—a tsunami of unimaginable force that had frozen mid-wave. Ships, buildings, people—all caught in ice that never melted. The result was a landscape of jagged spires and frozen curtains, blue-white ice reaching hundreds of feet into the grey sky. Beautiful. Deadly. Utterly unnatural.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe and dread mingled",
+        "pacing": "building, descriptive",
+        "emphasis_words": [
+          "catastrophic",
+          "frozen mid-wave",
+          "Beautiful",
+          "Deadly",
+          "unnatural"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 12000
+      }
+    },
+    {
+      "segment_id": "seg_027",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Memorywreck Bay's two hours out, Torva called from the helm, breath misting in the frigid air.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "reporting distance and conditions",
+        "pacing": "steady",
+        "emphasis_words": [
+          "two hours"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_028",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "You know what you're walking into?",
+      "direction": "Conversational, checking Torva's knowledge",
+      "audio_cues": {
+        "tone": "casual check-in",
+        "pacing": "steady",
+        "emphasis_words": [
+          "what",
+          "walking into"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_029",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Salvager named Rhynn found something she shouldn't have. We're trying to reach her first.",
+      "direction": "Explaining mission to Torva",
+      "audio_cues": {
+        "tone": "matter-of-fact, goal-oriented",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Rhynn",
+          "shouldn't have",
+          "first"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_030",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "You and everyone else. Torva adjusted course around a massive ice pillar—debris from the ancient catastrophe, locked in frozen seawater like a fly in amber.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "continuing exposition, explaining stakes",
+        "pacing": "steady",
+        "emphasis_words": [
+          "everyone else",
+          "debris",
+          "fly in amber"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_031",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Word travels fast out here. Rhynn put out a call yesterday—said she'd sell to highest bidder. Then she went dark. Signal jammers, probably. Doesn't want anyone tracking her exact location until the auction.",
+      "direction": "Responding as Torva, explaining how news spreads",
+      "audio_cues": {
+        "tone": "knowing, experienced",
+        "pacing": "steady, informative",
+        "emphasis_words": [
+          "travels fast",
+          "went dark",
+          "auction"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_032",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Smart.",
+      "direction": "Approving of strategy",
+      "audio_cues": {
+        "tone": "acknowledgment",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Smart"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 700
+      }
+    },
+    {
+      "segment_id": "seg_033",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Desperate, Torva corrected. You don't sell something like what she described unless you need to disappear fast. Or you're already planning to.",
+      "direction": "Torva's interpretation, cynical wisdom",
+      "audio_cues": {
+        "tone": "hardened, realistic",
+        "pacing": "steady, knowing",
+        "emphasis_words": [
+          "Desperate",
+          "disappear fast"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "sfx_005",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Wind intensifying, ice creaking - environmental danger]",
+      "direction": "Arctic conditions worsening, time pressure increasing",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_034",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The cold bit through my layers. The Shattered Span was the coldest place on Aethon—perpetually locked in its own artificial winter. The Driftborn who lived here bundled in furs and moved between safe zones with practiced urgency. Stay out too long, and the cold would kill you. The ice didn't care about your plans.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "visceral cold, environmental danger",
+        "pacing": "steady, matter-of-fact",
+        "emphasis_words": [
+          "cold",
+          "artificial winter",
+          "kill you"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_035",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pressed against my shoulder, still that deep violet glow, but I felt vibrations intensifying—trying to share warmth. I cupped the small stone-being close.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate connection, comfort",
+        "pacing": "slower, affectionate",
+        "emphasis_words": [
+          "pressed",
+          "violet",
+          "warmth"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_036",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "What do you think? Friend or trouble?",
+      "direction": "Asking Mochi directly, seeking guidance",
+      "audio_cues": {
+        "tone": "seeking wisdom, affectionate",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Friend",
+          "trouble"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "sfx_006",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi color sequence - green pulse, orange ripple, red flash]",
+      "direction": "Mochi's complex answer - yes, maybe, danger all mixed together",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_037",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Green pulse. Then orange ripple. Then red flash.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "interpreting Mochi's language",
+        "pacing": "steady, sequential",
+        "emphasis_words": [
+          "Green",
+          "orange",
+          "red"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_038",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "So all of the above. I muttered.",
+      "direction": "Wry acknowledgment",
+      "audio_cues": {
+        "tone": "dry humor, resigned",
+        "pacing": "quick",
+        "emphasis_words": [
+          "all"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_039",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Arc projected a map above my wrist—three-dimensional, showing the jagged geography of the bay area. Red dots marked known salvager vessels. A lot of red dots.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "exposition, escalating competition",
+        "pacing": "steady",
+        "emphasis_words": [
+          "lot of red dots"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_040",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Current count: seventeen ships converging on Memorywreck Bay. Several are registered to known artifact collectors. Three are... less officially documented.",
+      "direction": "Formal analysis, building concern",
+      "audio_cues": {
+        "tone": "analytical concern, building pressure",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "seventeen ships",
+          "less officially documented"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_041",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Pirates?",
+      "direction": "Direct question",
+      "audio_cues": {
+        "tone": "sharp question",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Pirates"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_042",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Pirates would be refreshing in their honesty. I suspect these vessels represent interested parties who prefer their acquisitions unrecorded.",
+      "direction": "British formal, disapproving",
+      "audio_cues": {
+        "tone": "analytical, dryly disapproving",
+        "pacing": "measured, formal",
+        "emphasis_words": [
+          "Pirates",
+          "refreshing",
+          "honesty",
+          "unrecorded"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_043",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive had been standing at the bow, perfectly still despite the boat's rocking. Now he turned, glowing head tilting down toward his barrel chest where the blue core pulsed steadily.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "physical description of Clive's alertness",
+        "pacing": "deliberate",
+        "emphasis_words": [
+          "perfectly still",
+          "turned",
+          "pulsed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4600
+      }
+    },
+    {
+      "segment_id": "seg_044",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Something's watching. He said quietly.",
+      "direction": "Gravelly, quiet warning",
+      "audio_cues": {
+        "tone": "grave warning, low intensity",
+        "pacing": "slow, measured",
+        "emphasis_words": [
+          "watching"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_045",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "What kind of something?",
+      "direction": "Direct question, already trusting the warning",
+      "audio_cues": {
+        "tone": "accepting warning, seeking details",
+        "pacing": "quick",
+        "emphasis_words": [
+          "what kind"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_046",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "The kind that doesn't want us reaching that bay. The kind that thinks they're doing the right thing. He paused. The dangerous kind.",
+      "direction": "Gravelly, world-weary insight",
+      "audio_cues": {
+        "tone": "grave warning, profound danger",
+        "pacing": "slow, measured",
+        "emphasis_words": [
+          "doesn't want",
+          "right thing",
+          "dangerous kind"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3800
+      }
+    },
+    {
+      "segment_id": "seg_047",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I'd learned to trust Clive's warnings. He'd been walking Aethon since before my bloodline existed. If he said something was watching, something was watching.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "deep respect, hard-won trust",
+        "pacing": "steady, declarative",
+        "emphasis_words": [
+          "trust",
+          "ancient",
+          "watching"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_048",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, scan for Signal anomalies. Anything that looks like dampening tech or surveillance.",
+      "direction": "Commanding, tactical",
+      "audio_cues": {
+        "tone": "mission leader, tactical",
+        "pacing": "quick, decisive",
+        "emphasis_words": [
+          "scan",
+          "anomalies",
+          "dampening"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_049",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Already conducting sweeps, Miss Paradox. I'm detecting minor Signal fluctuations consistent with... ah.",
+      "direction": "Analytical, discovery in progress",
+      "audio_cues": {
+        "tone": "analytical, realization dawning",
+        "pacing": "steady accelerating to discovery",
+        "emphasis_words": [
+          "sweeps",
+          "fluctuations",
+          "ah"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_050",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Ah?",
+      "direction": "Questioning Arc's discovery",
+      "audio_cues": {
+        "tone": "concerned question",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Ah"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 700
+      }
+    },
+    {
+      "segment_id": "seg_051",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "We're being followed. Vessel maintaining precise distance—one kilometer behind, matching our course changes with mathematical precision. Signal signature suggests active dampening technology.",
+      "direction": "Serious concern, measured delivery",
+      "audio_cues": {
+        "tone": "grave realization, precise danger",
+        "pacing": "steady, technical",
+        "emphasis_words": [
+          "followed",
+          "precise distance",
+          "dampening technology"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5600
+      }
+    },
+    {
+      "segment_id": "seg_052",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "The Quiet?",
+      "direction": "Recognition, name given to threat",
+      "audio_cues": {
+        "tone": "recognition of specific danger",
+        "pacing": "quick",
+        "emphasis_words": [
+          "The Quiet"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_053",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Probable. The dampening pattern matches the device we analyzed from Copperport.",
+      "direction": "Confirming suspicion",
+      "audio_cues": {
+        "tone": "grim confirmation",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Probable",
+          "matches",
+          "Copperport"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "sfx_007",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi color shift - red flashing, deep purple, red again - danger and ancient recognition]",
+      "direction": "Mochi's response to Quiet detection - fear and ancient knowing",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_054",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi flashed red, then deep purple, then red again. Danger mixed with ancient recognition. Whatever Rhynn had found, The Quiet wanted it badly enough to come this far into the Shattered Span's killing cold.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization of stakes escalating",
+        "pacing": "steady, building pressure",
+        "emphasis_words": [
+          "red",
+          "purple",
+          "ancient recognition",
+          "wanted it badly"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_055",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Torva, can we lose them?",
+      "direction": "Desperate question to pilot",
+      "audio_cues": {
+        "tone": "urgent, seeking escape",
+        "pacing": "quick",
+        "emphasis_words": [
+          "lose them"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_056",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "The pilot grinned, showing teeth stained by years of whatever locals chewed out here.",
+      "direction": "Torva's response - confident and seasoned",
+      "audio_cues": {
+        "tone": "confident, experienced",
+        "pacing": "steady, assured",
+        "emphasis_words": [
+          "grinned"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_057",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Can we lose them, she asks. Hold on.",
+      "direction": "Torva's confident response, shifting to action",
+      "audio_cues": {
+        "tone": "confident skill, local expertise",
+        "pacing": "quick, assured",
+        "emphasis_words": [
+          "lose them",
+          "Hold on"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "sfx_008",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Sharp boat maneuver - wheel spin, hull scraping ice, cathedral passage navigation]",
+      "direction": "Torva executing dangerous navigation between frozen ice walls",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_058",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "She spun the wheel hard left, and we dove between two massive ice walls—frozen spray patterns creating a cathedral-like passage. The gap narrowed to nothing. We scraped through with barely inches on either side, my stomach lurching as we dropped suddenly into a hidden channel where the ice shelf created a frozen tunnel.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "thrilling action, physical danger",
+        "pacing": "fast, breathless",
+        "emphasis_words": [
+          "spun",
+          "cathedral",
+          "scraped",
+          "lurching",
+          "dropped"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_059",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Behind us, the following vessel tried to match the maneuver. Tried.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "matter-of-fact observation of failure",
+        "pacing": "quick, final",
+        "emphasis_words": [
+          "Tried"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "sfx_009",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Distant crunch of hull against ice, wood splintering, impact crash]",
+      "direction": "The Quiet's vessel unable to navigate the tight passage, crashing into ice",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_060",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We heard the crunch of hull against ice even from this distance.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "confirmation of enemy failure",
+        "pacing": "steady",
+        "emphasis_words": [
+          "crunch",
+          "hull"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_061",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Amateurs, Torva laughed. The Span eats amateurs for breakfast.",
+      "direction": "Torva's triumph, dark local humor",
+      "audio_cues": {
+        "tone": "confident laugh, dark humor",
+        "pacing": "quick, enjoying the moment",
+        "emphasis_words": [
+          "Amateurs",
+          "eats"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_062",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "But Clive's glow didn't brighten. That was one ship. There'll be others.",
+      "direction": "Gravelly warning, not celebrating",
+      "audio_cues": {
+        "tone": "grave warning, perspective",
+        "pacing": "slow, serious",
+        "emphasis_words": [
+          "one ship",
+          "others"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2600
+      }
+    },
+    {
+      "segment_id": "seg_063",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Always are. How much longer to the bay?",
+      "direction": "Accepting reality, focusing on timeline",
+      "audio_cues": {
+        "tone": "accepting, mission-focused",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Always",
+          "how much longer"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_064",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Forty minutes if the ice holds.",
+      "direction": "Torva's estimate",
+      "audio_cues": {
+        "tone": "pilot estimate, conditional",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Forty minutes",
+          "holds"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_065",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "It won't.",
+      "direction": "Gravelly certainty",
+      "audio_cues": {
+        "tone": "ancient knowing, certainty",
+        "pacing": "quick, final",
+        "emphasis_words": [
+          "won't"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_066",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He was right. Ice in the Shattered Span never holds. That's what makes it deadly.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "matter-of-fact observation",
+        "pacing": "steady, final",
+        "emphasis_words": [
+          "right",
+          "never holds",
+          "deadly"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 3200
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const lore = await getCollection('lore');
+---
+<BaseLayout title="Lore Atlas" description="Explore the living history and frequencies of the Ephergent universe.">
+  <section class="section-hero">
+    <div class="max-w-6xl mx-auto px-6 py-16">
+      <h1 class="font-display font-black text-5xl md:text-6xl tracking-tight mb-4">LORE ATLAS</h1>
+      <p class="text-text-secondary text-lg max-w-2xl">Explore the frequencies, Builder Stations, and living history of the Ephergent universe.</p>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-6 py-12">
+    {lore.length > 0 ? (
+      <div class="content-grid">
+        {lore.map(l => (
+          <article class="card">
+            <h3>{l.data.title ?? l.slug}</h3>
+            {l.data.summary && <p>{l.data.summary}</p>}
+            <div class="flex gap-3 mt-4">
+              <a href={`/atlas/${l.slug}/`} class="btn-ghost">Explore</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div class="empty-state">
+        <h3>Lore entries coming soon</h3>
+        <p>The lore atlas is being built. Check back soon.</p>
+      </div>
+    )}
+  </section>
+</BaseLayout>

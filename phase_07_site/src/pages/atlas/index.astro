@@ -1,0 +1,44 @@
+---
+// Lore Atlas hub landing page
+---
+
+<html>
+  <head>
+    <title>Lore Atlas | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(120deg, #0a0a1a 0%, #0ff1ce 100%);
+      }
+      .atlas-hero {
+        font-family: 'Orbitron', 'Share Tech Mono', monospace, sans-serif;
+        letter-spacing: 0.08em;
+        text-shadow: 0 2px 16px #0ff1ce88, 0 1px 0 #222;
+      }
+      .atlas-desc {
+        font-family: 'Share Tech Mono', monospace;
+        color: #0ff1ce;
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+        text-shadow: 0 2px 8px #0ff1ce44;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce11 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-center relative overflow-hidden">
+    <div class="scanlines"></div>
+    <h1 class="atlas-hero text-6xl font-black mb-6 mt-8 tracking-widest">LORE ATLAS</h1>
+    <div class="atlas-desc">Explore the frequencies, Builder Stations, and living history of the Ephergent universe.</div>
+    <!-- Atlas navigation will be dynamically generated from content/lore/ -->
+  </body>
+</html>

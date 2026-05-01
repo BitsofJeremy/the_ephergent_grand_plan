@@ -1,0 +1,582 @@
+{
+  "metadata": {
+    "episode_code": "S01E05",
+    "title": "The Driftborn's Debt - TEASER SECTION",
+    "source_file": "s01e05_the_driftborns_debt.md",
+    "generated_at": "2026-02-03T18:30:00Z",
+    "version": "1.0.0",
+    "note": "Teaser section - introduces impossible Keeper fragment and triggers investigation"
+  },
+  "segments": [
+    {
+      "segment_id": "music_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Shattered Span theme - ethereal, otherworldly, deep ambient tones]",
+      "direction": "Episode opening, establishes cold, mysterious atmosphere of the frozen archipelago",
+      "timing": {
+        "fade_in_ms": 2000,
+        "marker_duration_ms": 6000,
+        "fade_out_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The fragment shouldn't have been glowing. Fragments don't glow.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "puzzled, concerning observation",
+        "pacing": "deliberate, emphasis on wrongness",
+        "emphasis_words": [
+          "shouldn't",
+          "glowing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_002",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I'd seen enough broken Pillars to know that once they shatter, they die. The pieces go dark within hours—Signal draining away like water from a cracked vessel. Cold stone, nothing more. Archaeological curiosities for people with more time than sense.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "experienced, matter-of-fact explanation",
+        "pacing": "steady, knowledgeable",
+        "emphasis_words": [
+          "shatter",
+          "die",
+          "dark",
+          "cold stone"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "seg_003",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But there it was in the grainy photograph Kess had sent: a Pillar fragment the size of a barrel, cradled in a Driftborn woman's weathered hands, pulsing with steady blue-white light. The kind of glow that said alive. The kind of glow that said impossible.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe mixed with concern, building tension",
+        "pacing": "accelerating toward the contradiction",
+        "emphasis_words": [
+          "pulsing",
+          "alive",
+          "impossible"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10200
+      }
+    },
+    {
+      "segment_id": "sfx_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Arc's holographic materialization - crystalline chime, geometric shimmer]",
+      "direction": "Arc appearing as geometric shapes above Pixel's wrist device",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_004",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox. I must note that the probability of a Pillar fragment maintaining Signal cohesion after separation from its source approaches—",
+      "direction": "Formal British tone, concerned observation",
+      "audio_cues": {
+        "tone": "analytical, measured concern",
+        "pacing": "precise, calculated",
+        "emphasis_words": [
+          "probability",
+          "Signal cohesion"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_005",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Zero.",
+      "direction": "Interrupting, already knowing the answer",
+      "audio_cues": {
+        "tone": "sharp, resigned",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Zero"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_006",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "I know. Which is why we're going.",
+      "direction": "Determined, decision already made",
+      "audio_cues": {
+        "tone": "resolute, slightly defiant",
+        "pacing": "steady, final",
+        "emphasis_words": [
+          "going"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "sfx_002",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi's deep vibration - resonant, ancient, unfamiliar hum]",
+      "direction": "Unusual vibration pattern not heard before, suggesting recognition",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_007",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi had been pressed against my leg since I'd opened the message, vibrating with a slow, heavy pulse I'd never felt before. Not the frantic buzz of danger. Not the gentle hum of contentment. Something deeper. Something that felt like... recognition.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observant, searching for meaning",
+        "pacing": "thoughtful, measured",
+        "emphasis_words": [
+          "recognition",
+          "deeper"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_008",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I looked down. Mochi's glow had shifted to deep violet—the color I'd only seen once, at the Resonance Archives when we'd found that first dormant Keeper.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "significance dawning, connection forming",
+        "pacing": "deliberate, meaningful",
+        "emphasis_words": [
+          "violet",
+          "first dormant Keeper"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_009",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive stopped walking. When you've known someone long enough, you learn their tells. For Clive, stopping mid-stride was like anyone else screaming.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "understanding someone deeply",
+        "pacing": "observant, intimate",
+        "emphasis_words": [
+          "stopped",
+          "screaming"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_010",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "What?",
+      "direction": "Simple question laden with meaning",
+      "audio_cues": {
+        "tone": "questioning, knowing something's wrong",
+        "pacing": "quick",
+        "emphasis_words": [
+          "What"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 600
+      }
+    },
+    {
+      "segment_id": "seg_011",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "His geometric head turned toward the photograph on my tablet, the blue-white glow dimming slightly. The symbols covering his barrel-chested body pulsed in sequence, like a code I couldn't read.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "descriptive, watching someone process",
+        "pacing": "deliberate",
+        "emphasis_words": [
+          "symbols",
+          "code"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_012",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "That's not a fragment.",
+      "direction": "Gravelly noir tone, through Signal link, absolute certainty",
+      "audio_cues": {
+        "tone": "hardened, knowing something dangerous",
+        "pacing": "deliberate, weighted",
+        "emphasis_words": [
+          "not"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_013",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Then what is it?",
+      "direction": "Curious, seeking clarification",
+      "audio_cues": {
+        "tone": "direct question",
+        "pacing": "steady",
+        "emphasis_words": [
+          "what"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "seg_014",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "He was quiet for a long moment—the kind of quiet that meant he was accessing memories he couldn't fully grasp. Finally: Trouble. The kind that brings attention. The kind you can't outrun.",
+      "direction": "Gravelly, reluctant, world-weary",
+      "audio_cues": {
+        "tone": "grave warning, hard-won knowledge",
+        "pacing": "slow, deliberate, haunted",
+        "emphasis_words": [
+          "Trouble",
+          "attention",
+          "can't outrun"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_015",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Helpful.",
+      "direction": "Dry, sarcastic",
+      "audio_cues": {
+        "tone": "sarcastic wit",
+        "pacing": "quick, dismissive",
+        "emphasis_words": [
+          "Helpful"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_016",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "You're going anyway.",
+      "direction": "Statement of fact, understanding",
+      "audio_cues": {
+        "tone": "accepting inevitability",
+        "pacing": "steady, knowing",
+        "emphasis_words": [
+          "going anyway"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "seg_017",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Yeah.",
+      "direction": "Confirmation, no hesitation",
+      "audio_cues": {
+        "tone": "resolved",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Yeah"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 600
+      }
+    },
+    {
+      "segment_id": "seg_018",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Figured. He tilted his head, fedora catching the afternoon light streaming through Chronicle Hall's windows. Then we'd better move fast. Half the Shattered Span will want that thing. And I'm guessing we're not the only ones who know what it really is.",
+      "direction": "Gravelly, tactical, fedora adjustment (signature), confident",
+      "audio_cues": {
+        "tone": "noir detective reassessing strategy",
+        "pacing": "accelerating toward action",
+        "emphasis_words": [
+          "move fast",
+          "Half the Shattered Span",
+          "only ones"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5600
+      }
+    },
+    {
+      "segment_id": "sfx_003",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi flashing red - urgent warning alert, sharp electronic chirp]",
+      "direction": "Two rapid red flashes signal imminent danger",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1000
+      }
+    },
+    {
+      "segment_id": "seg_019",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi flashed red twice. Urgent warning.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "recognition of danger signal",
+        "pacing": "quick, alert",
+        "emphasis_words": [
+          "red",
+          "urgent"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_020",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, get us transport to Memorywreck Bay. Fastest route.",
+      "direction": "Commanding, immediate action",
+      "audio_cues": {
+        "tone": "authoritative, mission leader",
+        "pacing": "quick, decisive",
+        "emphasis_words": [
+          "transport",
+          "Fastest"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_021",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Preparing itinerary. Though I feel compelled to note that 'fastest' and 'safe' are rarely synonymous in the Shattered Span.",
+      "direction": "British formal, concerned but compliant",
+      "audio_cues": {
+        "tone": "analytical concern, protective worry",
+        "pacing": "measured, formal",
+        "emphasis_words": [
+          "fastest",
+          "safe",
+          "rarely synonymous"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_022",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "When have we ever gone for safe?",
+      "direction": "Rhetorical, knowing Arc's answer",
+      "audio_cues": {
+        "tone": "wry, confident",
+        "pacing": "quick, rhetorical",
+        "emphasis_words": [
+          "safe"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_023",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "An excellent point, Miss Paradox. I've already regretted this conversation.",
+      "direction": "British wit, dry humor, resigned acceptance",
+      "audio_cues": {
+        "tone": "deadpan humor, protective exasperation",
+        "pacing": "steady, perfectly timed",
+        "emphasis_words": [
+          "excellent point",
+          "regretted"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 3200
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

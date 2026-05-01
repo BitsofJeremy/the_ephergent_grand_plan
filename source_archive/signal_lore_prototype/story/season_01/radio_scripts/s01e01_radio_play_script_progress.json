@@ -1,0 +1,3663 @@
+{
+  "metadata": {
+    "episode_code": "S01E01",
+    "title": "The Keeper's Wake",
+    "source_file": "s01e01_the_keepers_wake.md",
+    "generated_at": "2026-02-08T16:29:19.442680+00:00Z",
+    "version": "1.0.0"
+  },
+  "segments": [
+    {
+      "segment_id": "music_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Opening theme - mysterious, building tension]",
+      "direction": "Ethereal, otherworldly feel establishing Aethon setting",
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Three things I know for certain: this job was always wrong, the patron who hired me was lying, and I'm about to find out why.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conversational, slightly weary, hook",
+        "pacing": "measured",
+        "emphasis_words": [
+          "wrong",
+          "lying",
+          "why"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10000
+      }
+    },
+    {
+      "segment_id": "seg_002",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "My name's Pixel Paradox. I hunt artifacts\u2014Builder technology, mostly. Ancient things that still hum with Signal energy if you know where to look. I work alone, document everything, and keep meticulous records of every discovery. Independent work. My own documentation. No affiliations with the Chronicle, no guild contracts, no Rootminder oversight\u2014just me and whatever mysteries Aethon wants to give up.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "confident, professional, establishing character",
+        "pacing": "steady, deliberate",
+        "emphasis_words": [
+          "Pixel Paradox",
+          "Builder",
+          "alone"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 24000
+      }
+    },
+    {
+      "segment_id": "seg_003",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Usually, I'm better at saying no to suspicious jobs from anonymous patrons who pay too well.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "wry, self-aware",
+        "pacing": "measured with slight irony",
+        "emphasis_words": [
+          "no",
+          "suspicious"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6400
+      }
+    },
+    {
+      "segment_id": "sfx_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[HOLOGRAM PROJECTION - gentle electronic hum, Arc's interface activating]",
+      "direction": "Wristband hologram initializing",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_004",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, solar angle analysis indicates we have approximately four hours of optimal daylight remaining.",
+      "direction": "matter-of-fact, procedural AI tone (pre-sentience)",
+      "audio_cues": {
+        "tone": "formal British butler, professional, procedural",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Miss Paradox",
+          "four hours"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6428
+      }
+    },
+    {
+      "segment_id": "seg_005",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Noted.",
+      "direction": "brief, professional acknowledgment",
+      "audio_cues": {
+        "tone": "professional, clipped",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Noted"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_006",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I say, adjusting my pack. The weight feels good\u2014familiar. Rope coiled just right, climbing picks secured, notebook in the waterproof pocket where I can grab it fast. Everything in its place. Everything ready.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tactile, grounding, methodical",
+        "pacing": "steady",
+        "emphasis_words": [
+          "weight",
+          "familiar",
+          "ready"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 13200
+      }
+    },
+    {
+      "segment_id": "seg_007",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Everything except the knot in my stomach that says this is a mistake.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "introspective, ominous",
+        "pacing": "slower for emphasis",
+        "emphasis_words": [
+          "knot",
+          "mistake"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_008",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I'm camped at the edge of the coordinates\u2014fifty meters from the temple entrance, far enough to observe, close enough to move fast if needed. My tent is a splash of weather-beaten orange against the overwhelming green of Verdanya's equatorial jungle. Three days' hike from the nearest settlement. Five days from anywhere with reliable Signal communication.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "descriptive, establishing location",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "fifty meters",
+          "temple",
+          "alone"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 22000
+      }
+    },
+    {
+      "segment_id": "seg_009",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Alone. Exactly how I like it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "reflective, slightly sad",
+        "pacing": "measured",
+        "emphasis_words": [
+          "Alone"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "page_turn_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_010",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Except I keep thinking about the patron. The way the job appeared in my inbox with no introduction, no negotiation. Just coordinates, payment already deposited, and three words: Retrieve the device.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "suspicious, analytical",
+        "pacing": "measured, building concern",
+        "emphasis_words": [
+          "patron",
+          "coordinates",
+          "device"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 12400
+      }
+    },
+    {
+      "segment_id": "seg_011",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "No context. No explanation. No answer when I tried to trace the sender.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "frustrated, wary",
+        "pacing": "clipped, staccato",
+        "emphasis_words": [
+          "no context",
+          "trace"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_012",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Just money. A lot of money. The kind that makes you forget to ask questions\u2014like why a sacred Green Faith site suddenly has an 'approved outsider' exemption with my name on it. The Rootminder elder who met me at the forest's edge three days ago didn't ask questions either. Just pressed her palm to mine in greeting and said, 'Walk root-deep, artifact hunter. The jungle watches.'",
+      "direction": null,
+      "audio_cues": {
+        "tone": "ominous, building tension",
+        "pacing": "measured, slower",
+        "emphasis_words": [
+          "sacred",
+          "exemption",
+          "jungle watches"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 26400
+      }
+    },
+    {
+      "segment_id": "seg_013",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then she left me with a warning: 'The tall ones built that place before the Green took root. It remembers them still. Tread carefully.'",
+      "direction": null,
+      "audio_cues": {
+        "tone": "ominous, mysterious, foreshadowing",
+        "pacing": "slower, deliberate",
+        "emphasis_words": [
+          "tall ones",
+          "remembers",
+          "carefully"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_014",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, pull up the site analysis again.",
+      "direction": "requesting data, focused",
+      "audio_cues": {
+        "tone": "professional, commanding",
+        "pacing": "direct",
+        "emphasis_words": [
+          "pull up",
+          "analysis"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2625
+      }
+    },
+    {
+      "segment_id": "sfx_002",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[HOLOGRAM PROJECTION - geometric patterns materializing, soft blue-white light]",
+      "direction": "Arc's three-dimensional mapping visualization",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_015",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "My wristband projects a hologram\u2014geometric patterns in blue-white light, nothing fancy. A three-dimensional map of the temple structure based on his ground-penetrating scans. It shouldn't exist. Not here, not this intact.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "analytical, establishing impossible discovery",
+        "pacing": "measured",
+        "emphasis_words": [
+          "hologram",
+          "shouldn't exist",
+          "intact"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 13285
+      }
+    },
+    {
+      "segment_id": "page_turn_002",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_016",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Verdanya doesn't preserve dead things. The jungle reclaims everything\u2014stone, metal, even Builder technology eventually succumbs to the aggressive, voracious life that defines this region. Bio-luminescent vines consume structural weakness. Fungal colonies dissolve metal over decades. Trees split foundations with patient, inevitable roots.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "descriptive, world-building",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "reclaims",
+          "Builder technology",
+          "succumbs"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16800
+      }
+    },
+    {
+      "segment_id": "seg_017",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But this temple stands. Eight centuries old, maybe older, and the jungle has only decorated it. Not consumed it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awed, mysterious",
+        "pacing": "slower for emphasis",
+        "emphasis_words": [
+          "stands",
+          "eight centuries",
+          "decorated"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 7600
+      }
+    },
+    {
+      "segment_id": "seg_018",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Environmental scans continue to indicate structural instability. However, analysis also detects active Signal signatures within. Very faint, but present. The structure appears to be... maintained. By something.",
+      "direction": "proceduRal but showing slight hesitation",
+      "audio_cues": {
+        "tone": "formal, measured, procedural with slight uncertainty",
+        "pacing": "measured and precise",
+        "emphasis_words": [
+          "Signal signatures",
+          "maintained"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 11571
+      }
+    },
+    {
+      "segment_id": "seg_019",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Meaning you don't know.",
+      "direction": "skeptical, slightly mocking",
+      "audio_cues": {
+        "tone": "conversational, slightly sharp",
+        "pacing": "quick",
+        "emphasis_words": [
+          "don't know"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_020",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Correct. I do not know. Proceeding with caution is advised.",
+      "direction": "acknowledgment of limitation",
+      "audio_cues": {
+        "tone": "formal, cautious",
+        "pacing": "measured",
+        "emphasis_words": [
+          "do not know",
+          "caution"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4285
+      }
+    },
+    {
+      "segment_id": "sfx_003",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[JUNGLE AMBIENCE - bird calls, insect drones, distant sounds of life]",
+      "direction": "Verdanya equatorial jungle environment",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_021",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The passage slopes downward at a gentle but steady angle. My boots echo on stone that hasn't heard footsteps in\u2014what? Centuries? Longer? The walls are covered in those geometric patterns that mark Builder construction everywhere on Aethon, but these feel different. More deliberate. More complex.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, building mystery",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "passage",
+          "Builder",
+          "complex"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18000
+      }
+    },
+    {
+      "segment_id": "seg_022",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I stop, running my fingers over the nearest pattern. The stone is cold, smooth, unmarked by time in ways that shouldn't be possible. The pattern is precise\u2014mathematical precision, but there's something else. Intentionality. Like it's not just decoration.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tactile, analytical, growing unease",
+        "pacing": "slower, deliberate",
+        "emphasis_words": [
+          "cold",
+          "mathematical",
+          "intentionality"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 15200
+      }
+    },
+    {
+      "segment_id": "seg_023",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Like it's meant to be read.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization, ominous",
+        "pacing": "slower for emphasis",
+        "emphasis_words": [
+          "read"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "page_turn_003",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_024",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Up close, the carved lines look less organic, less artistic. More... technical. I trace one sequence with my fingertip and my brain keeps trying to make it make sense. Pressure gradients? Flow diagrams? The kind of thing you'd see in a Cuprum engineering manual, not on a sacred site's walls.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "analytical, suspicious",
+        "pacing": "measured",
+        "emphasis_words": [
+          "technical",
+          "engineering",
+          "sacred"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 20000
+      }
+    },
+    {
+      "segment_id": "seg_025",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "One word catches my attention, repeated in the pattern: a symbol that almost looks like it could mean 'calibration.' Or maybe 'adjustment.' Definitely not 'prayer.'",
+      "direction": null,
+      "audio_cues": {
+        "tone": "suspicious, discovering deception",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "calibration",
+          "adjustment",
+          "not prayer"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10000
+      }
+    },
+    {
+      "segment_id": "seg_026",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, are you imaging these markings?",
+      "direction": "requesting confirmation",
+      "audio_cues": {
+        "tone": "professional, focused",
+        "pacing": "direct",
+        "emphasis_words": [
+          "imaging"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2250
+      }
+    },
+    {
+      "segment_id": "seg_027",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Affirmative. High-resolution scans being recorded. However, I have no reference database for translation. These patterns do not match any known Builder script in my archives.",
+      "direction": "analytical, acknowledging limitation",
+      "audio_cues": {
+        "tone": "formal, procedural",
+        "pacing": "measured",
+        "emphasis_words": [
+          "no reference",
+          "patterns"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 10714
+      }
+    },
+    {
+      "segment_id": "seg_028",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "internal_monologue",
+      "text": "I pull out my notebook, sketching quickly. The patterns flow in spirals, geometric precision creating organic curves. My pencil moves fast, capturing the essential structure before we move on. Unique pattern language. Not decorative\u2014informational? Warning? Welcome? No way to know. Builders left no Rosetta Stone. But if this IS an engineering facility disguised as a temple... who were they trying to hide it from? Their own people? Or ours?",
+      "direction": "documentation, investigation",
+      "audio_cues": {
+        "tone": "analytical, questioning",
+        "pacing": "steady, exploratory",
+        "emphasis_words": [
+          "pattern language",
+          "engineering facility",
+          "hiding"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 27600
+      }
+    },
+    {
+      "segment_id": "seg_029",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The passage continues. Deeper. Darker despite the bioluminescence. Colder too, which shouldn't be possible this close to the equator.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "atmospheric, building dread",
+        "pacing": "measured, slower",
+        "emphasis_words": [
+          "deeper",
+          "colder"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7600
+      }
+    },
+    {
+      "segment_id": "seg_030",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then I see it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, shock",
+        "pacing": "clipped, sudden",
+        "emphasis_words": [
+          "see"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "page_turn_004",
+      "page_number": 4,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_031",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The corridor ends in a doorway\u2014or what should be a doorway. Instead, there's a wall of that same black stone, but this wall is covered in a pattern more intricate than anything I've seen before. Concentric circles, geometric shapes, mathematical precision creating something that looks almost organic. Almost alive.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awed, mysterious",
+        "pacing": "measured, building wonder",
+        "emphasis_words": [
+          "doorway",
+          "intricate",
+          "alive"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 19600
+      }
+    },
+    {
+      "segment_id": "seg_032",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And in the center: an absence. A handprint-shaped depression.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, mysterious",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "handprint",
+          "depression"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3599
+      }
+    },
+    {
+      "segment_id": "seg_033",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, analysis?",
+      "direction": "seeking technical interpretation",
+      "audio_cues": {
+        "tone": "professional, focused",
+        "pacing": "quick",
+        "emphasis_words": [
+          "analysis"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 750
+      }
+    },
+    {
+      "segment_id": "sfx_004",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SCANNING HUM - Arc's sensor engagement, geometric processing sounds]",
+      "direction": "AI analytical systems working",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_034",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Scanning. The pattern appears to be... a lock. Primitive by modern standards, but elegant. The depression in the center is sized for humanoid contact. I believe this is a puzzle lock\u2014solution-based entry rather than key-based.",
+      "direction": "analytical discovery",
+      "audio_cues": {
+        "tone": "formal, professionalintrigued",
+        "pacing": "measured, precise",
+        "emphasis_words": [
+          "lock",
+          "puzzle",
+          "solution"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 15000
+      }
+    },
+    {
+      "segment_id": "seg_035",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I step closer, studying the pattern. The circles radiate outward from the central depression. Each circle is divided into segments, and each segment contains smaller geometric shapes. Triangles, squares, pentagons, hexagons.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, analytical",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "circles",
+          "segments",
+          "shapes"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 12400
+      }
+    },
+    {
+      "segment_id": "seg_036",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mathematical progression. The pattern of prime numbers, maybe? Or Fibonacci sequences?",
+      "direction": null,
+      "audio_cues": {
+        "tone": "analytical, breakthrough moment",
+        "pacing": "measured, slightly excited",
+        "emphasis_words": [
+          "mathematical",
+          "prime numbers"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_037",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Builders thought in mathematics, in pure geometric precision. Their locks weren't about keeping people out\u2014they were about ensuring only those who understood could enter.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "analytical, understanding",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "mathematics",
+          "understood"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10000
+      }
+    },
+    {
+      "segment_id": "seg_038",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "A test of comprehension, not possession.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "test",
+          "comprehension"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "page_turn_005",
+      "page_number": 5,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_039",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, starting from the innermost circle, count the shapes. Tell me the sequence.",
+      "direction": "commanding Arc to analyze",
+      "audio_cues": {
+        "tone": "professional, confident",
+        "pacing": "direct",
+        "emphasis_words": [
+          "count",
+          "sequence"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4875
+      }
+    },
+    {
+      "segment_id": "seg_040",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Three, five, seven, eleven, thirteen, seventeen, nineteen, twenty-three...",
+      "direction": "analytical recitation",
+      "audio_cues": {
+        "tone": "formal, precise",
+        "pacing": "measured, steady",
+        "emphasis_words": [
+          "prime numbers"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3428
+      }
+    },
+    {
+      "segment_id": "seg_041",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Prime numbers. Exactly what I thought.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "confirmation, satisfaction",
+        "pacing": "measured",
+        "emphasis_words": [
+          "prime numbers"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_042",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "And the shapes themselves\u2014are they oriented consistently?",
+      "direction": "deepening analysis",
+      "audio_cues": {
+        "tone": "professional, analytical",
+        "pacing": "measured",
+        "emphasis_words": [
+          "oriented"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2625
+      }
+    },
+    {
+      "segment_id": "seg_043",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Negative. Orientations vary. However, there is a pattern. Shapes aligned with the prime sequence orientation point toward the center. All others point outward.",
+      "direction": "revealing the solution",
+      "audio_cues": {
+        "tone": "formal, precise",
+        "pacing": "measured",
+        "emphasis_words": [
+          "pattern",
+          "aligned",
+          "prime"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 9857
+      }
+    },
+    {
+      "segment_id": "seg_044",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "There. That's the key. The logic of the lock.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization, triumph",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "key",
+          "logic"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3599
+      }
+    },
+    {
+      "segment_id": "seg_045",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I place my hand in the central depression. The stone is cold against my palm, colder than it should be. I take a breath and press.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "decisive action",
+        "pacing": "steady",
+        "emphasis_words": [
+          "place",
+          "hand",
+          "press"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10400
+      }
+    },
+    {
+      "segment_id": "seg_046",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Nothing happens.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "anti-climax, confusion",
+        "pacing": "measured",
+        "emphasis_words": [
+          "nothing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "page_turn_006",
+      "page_number": 6,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_047",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, the shapes need to be aligned. Can you map which segments need rotation?",
+      "direction": "commanding solution",
+      "audio_cues": {
+        "tone": "professional, focused",
+        "pacing": "direct",
+        "emphasis_words": [
+          "aligned",
+          "rotation"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5250
+      }
+    },
+    {
+      "segment_id": "seg_048",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Calculating. One moment. Solution determined. You will need to rotate segments in the following sequence...",
+      "direction": "solving the puzzle",
+      "audio_cues": {
+        "tone": "formal, procedural",
+        "pacing": "measured",
+        "emphasis_words": [
+          "solution",
+          "determined"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6428
+      }
+    },
+    {
+      "segment_id": "sfx_005",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[STONE GRINDING - segments rotating, ancient mechanisms moving]",
+      "direction": "Puzzle lock being solved",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_049",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He guides me through it. Press this segment, rotate clockwise. That one, counterclockwise. The stone moves beneath my fingers\u2014not smoothly, not easily, but it moves. Eight centuries of stillness giving way to pressure and logic.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "physical action, overcoming resistance",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "guides",
+          "moves",
+          "eight centuries"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 14000
+      }
+    },
+    {
+      "segment_id": "seg_050",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "It takes ten minutes. My fingers ache by the end, and my shoulder protests from reaching the higher segments. But finally, the last piece clicks into place.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "effort, persistence",
+        "pacing": "steady",
+        "emphasis_words": [
+          "ten minutes",
+          "clicks",
+          "place"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10799
+      }
+    },
+    {
+      "segment_id": "seg_051",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The pattern completes. Prime-oriented shapes all pointing inward, creating a spiral that draws the eye toward the center.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "achievement, beauty",
+        "pacing": "measured",
+        "emphasis_words": [
+          "completes",
+          "spiral"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7199
+      }
+    },
+    {
+      "segment_id": "seg_052",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Toward my hand.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "ominous realization",
+        "pacing": "slower, deliberate",
+        "emphasis_words": [
+          "toward"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "page_turn_007",
+      "page_number": 7,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "sfx_006",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SIGNAL ENERGY SURGE - blue-white light flooding through carved channels]",
+      "direction": "Ancient power awakening",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_053",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The stone beneath my palm grows warm. Then warmer. Then hot enough that I almost pull back\u2014",
+      "direction": null,
+      "audio_cues": {
+        "tone": "sensory, building intensity",
+        "pacing": "measured, building urgency",
+        "emphasis_words": [
+          "warm",
+          "hot",
+          "pull back"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6800
+      }
+    },
+    {
+      "segment_id": "seg_054",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Signal energy floods through the pattern. Blue-white light races along carved channels, filling the geometric precision with power. The entire wall blazes with light, and for a moment I'm blind, squinting against the intensity.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe, overwhelming sensory experience",
+        "pacing": "faster, building",
+        "emphasis_words": [
+          "floods",
+          "blazes",
+          "blind"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 13600
+      }
+    },
+    {
+      "segment_id": "seg_055",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then the wall moves.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "shock, transformation",
+        "pacing": "clipped, sudden",
+        "emphasis_words": [
+          "moves"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_056",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Not sliding. Not swinging. Just... moving. Stone flowing like water, reforming, creating an opening where there was none before.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "impossibility, wonder",
+        "pacing": "measured, awed",
+        "emphasis_words": [
+          "flowing",
+          "water",
+          "opening"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 7600
+      }
+    },
+    {
+      "segment_id": "seg_057",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Remarkable. Builder technology continues to function despite centuries of dormancy. The engineering precision required is extraordinary.",
+      "direction": "showing wonder (still pre-sentience)",
+      "audio_cues": {
+        "tone": "formal British but with hint of awe",
+        "pacing": "measured, impressed",
+        "emphasis_words": [
+          "remarkable",
+          "extraordinary"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6857
+      }
+    },
+    {
+      "segment_id": "seg_058",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I step through the opening, flashlight raised, and stop breathing.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, awe",
+        "pacing": "clipped, sudden pause",
+        "emphasis_words": [
+          "stop breathing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_059",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The chamber beyond is massive. Cathedral-massive. Too large to fit in the structure I'd mapped from outside, but the Builders never cared much for conventional spatial logic. The walls soar upward into darkness that my flashlight can't penetrate. Bioluminescent moss clings to the upper reaches, creating a canopy of ghostly green-gold light that barely illuminates the space.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe, impossibility",
+        "pacing": "measured, building",
+        "emphasis_words": [
+          "massive",
+          "cathedral-massive",
+          "impossible"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 22800
+      }
+    },
+    {
+      "segment_id": "page_turn_008",
+      "page_number": 8,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_060",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And in the center, on a raised platform surrounded by more of those geometric patterns: two pedestals.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, building mystery",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "center",
+          "two pedestals"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6800
+      }
+    },
+    {
+      "segment_id": "seg_061",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Two objects.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "mystery, anticipation",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "two"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_062",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I approach slowly, boots echoing in the vast space. My heart pounds\u2014explorer's rush mixed with caution mixed with awe. This is what I live for. The moment of discovery, standing in a place no one has stood for centuries, seeing what was meant to stay hidden.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "passion, wonder, explorer's mindset",
+        "pacing": "measured, building",
+        "emphasis_words": [
+          "approach slowly",
+          "heart pounds",
+          "discovery"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18400
+      }
+    },
+    {
+      "segment_id": "sfx_007",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[FOOTSTEPS ECHO - boots on stone in vast chamber]",
+      "direction": "Solitary sound in massive space",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_063",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The first pedestal holds a dome shape. Smooth, crystalline, about the size of my head. Translucent, but dark now\u2014powered down or dormant. Through the surface I can see internal structures. Geometric precision again, layers of complexity folded into that simple dome shape.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, technical description",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "dome",
+          "crystalline",
+          "complexity"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16800
+      }
+    },
+    {
+      "segment_id": "seg_064",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Beautiful. Mysterious. Wrong, somehow.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intuitive unease",
+        "pacing": "measured, with doubt",
+        "emphasis_words": [
+          "beautiful",
+          "wrong"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_065",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Because it's not Builder aesthetic. Not quite. The precision is there, but the design is different. Softer. More organic. Like it grew as much as it was built.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "analytical, discovering difference",
+        "pacing": "measured",
+        "emphasis_words": [
+          "Builder aesthetic",
+          "organic",
+          "grew"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 11200
+      }
+    },
+    {
+      "segment_id": "seg_066",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The second pedestal holds a figure. Knee-high, humanoid but stylized. Builder aesthetic through and through\u2014clean lines, geometric precision, purposeful design. Its head is a perfect sphere, dark now but clearly meant to glow. The body is constructed from ancient metal with heavy patina\u2014bronze-green, copper-gold from eight centuries of oxidation, but something else underneath. Not brass. Not copper. Something older, unknown. An alloy the Builders knew how to make and we've forgotten.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "technical, observational",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "knee-high",
+          "Builder aesthetic",
+          "unknown alloy"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 28400
+      }
+    },
+    {
+      "segment_id": "page_turn_009",
+      "page_number": 9,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_067",
+      "page_number": 10,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Both pedestals have inscriptions. Not the flowing patterns from the corridors\u2014simple, blocky text. I can only make out a few characters, but one word repeats on the dome's pedestal: something that might translate to 'keeper' or 'preserver.' The automaton's pedestal has a different word. 'Witness,' maybe. Or 'companion.'",
+      "direction": null,
+      "audio_cues": {
+        "tone": "analytical, translation attempt",
+        "pacing": "measured",
+        "emphasis_words": [
+          "inscriptions",
+          "keeper",
+          "witness"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 19200
+      }
+    },
+    {
+      "segment_id": "seg_068",
+      "page_number": 10,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Rootminders call this a temple. But these look like storage. Preservation. Like someone put these things here for safekeeping and planned to come back for them.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization, understanding",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "storage",
+          "preservation",
+          "safekeeping"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10799
+      }
+    },
+    {
+      "segment_id": "seg_069",
+      "page_number": 10,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "It's in a sitting position. Waiting. Patient.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation, personification",
+        "pacing": "measured",
+        "emphasis_words": [
+          "sitting",
+          "waiting",
+          "patient"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_070",
+      "page_number": 10,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, I am detecting dormant Signal signatures from both artifacts. Power levels are minimal but present. These objects have been in stasis for approximately eight hundred years, plus or minus fifty years. Preservation is remarkable.",
+      "direction": "analytical assessment",
+      "audio_cues": {
+        "tone": "formal British, impressed",
+        "pacing": "measured, precise",
+        "emphasis_words": [
+          "dormant",
+          "stasis",
+          "eight hundred years"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 15428
+      }
+    },
+    {
+      "segment_id": "seg_071",
+      "page_number": 10,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Eight hundred years. Since The Shattering. Since the Builder era ended and the Dimming began.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "historical awareness, gravity",
+        "pacing": "measured, slower",
+        "emphasis_words": [
+          "eight hundred",
+          "Shattering",
+          "Dimming"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_072",
+      "page_number": 10,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Since everything changed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "finality, weight",
+        "pacing": "slower, deliberate",
+        "emphasis_words": [
+          "changed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "page_turn_010",
+      "page_number": 10,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_073",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I circle the pedestals slowly, documenting everything. My notebook fills with quick sketches, observations, questions. Arc captures high-resolution images, scanning every surface, recording Signal signatures.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "professional documentation",
+        "pacing": "steady, methodical",
+        "emphasis_words": [
+          "documenting",
+          "notebook",
+          "images"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10000
+      }
+    },
+    {
+      "segment_id": "seg_074",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Professional. Thorough. Everything I should be doing.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "self-aware, but conflicted",
+        "pacing": "measured",
+        "emphasis_words": [
+          "professional",
+          "thorough"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_075",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But the patron's instructions echo in my head: Retrieve the device. Document everything. Tell no one.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "conflict, obligation",
+        "pacing": "measured, concerned",
+        "emphasis_words": [
+          "retrieve",
+          "device",
+          "tell no one"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6400
+      }
+    },
+    {
+      "segment_id": "seg_076",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Which device? Both? Does it matter?",
+      "direction": null,
+      "audio_cues": {
+        "tone": "confusion, questioning",
+        "pacing": "measured, uncertain",
+        "emphasis_words": [
+          "which device"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_077",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "And more importantly: Why does someone want me to take these things?",
+      "direction": null,
+      "audio_cues": {
+        "tone": "central question, suspicion",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "why"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_078",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I reach toward the dome shape first, drawn by its strangeness. The surface is smooth, cool. As soon as my fingers make contact, I feel it\u2014",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, anticipation",
+        "pacing": "measured, building",
+        "emphasis_words": [
+          "reach",
+          "feel"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10400
+      }
+    },
+    {
+      "segment_id": "seg_079",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "A pulse.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, shock",
+        "pacing": "clipped, sudden",
+        "emphasis_words": [
+          "pulse"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "page_turn_011",
+      "page_number": 11,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_080",
+      "page_number": 12,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Not physical. Something deeper. Signal energy responding to touch, to presence, to potential.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "mystical, deep connection",
+        "pacing": "slower, deliberate",
+        "emphasis_words": [
+          "Signal energy",
+          "potential"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_081",
+      "page_number": 12,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I should pull back. Should think this through.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "inner conflict",
+        "pacing": "measured, hesitation",
+        "emphasis_words": [
+          "pull back",
+          "think"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3200
+      }
+    },
+    {
+      "segment_id": "seg_082",
+      "page_number": 12,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Instead, I lift it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "defiant action, point of no return",
+        "pacing": "measured",
+        "emphasis_words": [
+          "lift"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_083",
+      "page_number": 12,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The dome comes free from the pedestal easily, lighter than it should be. For a moment, nothing happens. It sits in my hands, inert and silent.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "anticipation, holding breath",
+        "pacing": "measured, slower",
+        "emphasis_words": [
+          "free",
+          "lighter",
+          "inert"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10400
+      }
+    },
+    {
+      "segment_id": "seg_084",
+      "page_number": 12,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then it wakes up.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "transformation, culmination",
+        "pacing": "slower, deliberate, ominous",
+        "emphasis_words": [
+          "wakes"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "music_002",
+      "page_number": 12,
+      "section": "teaser",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Teaser conclusion - tension reaching peak, transition to Act One]",
+      "direction": "Building toward awakening, everything about to change",
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "page_turn_012",
+      "page_number": 12,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_003",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act One opening - exploring the chamber, building stakes]",
+      "direction": "Mysterious, exploratory tone",
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_085",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Signal energy floods outward in a sphere of brilliant blue-white light. The pulse spreads through the chamber, through the patterns carved in every wall, through the bioluminescent moss clinging to the darkness above. Everything lights up\u2014every single marking blazing with ancient power held dormant for eight centuries.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "overwhelming, awe-struck",
+        "pacing": "faster, building intensity",
+        "emphasis_words": [
+          "floods",
+          "brilliant",
+          "blazing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 18800
+      }
+    },
+    {
+      "segment_id": "seg_086",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The chamber becomes daylight-bright, and I'm squinting against intensity that shouldn't be possible.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "sensory overwhelm",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "daylight-bright",
+          "squinting"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "sfx_008",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SIGNAL SURGE - massive power release, geometric light flooding everywhere]",
+      "direction": "Ancient technology awakening at full power",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_087",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, alert! Massive Signal spike detected\u2014",
+      "direction": "alarm, monitoring systems overloaded",
+      "audio_cues": {
+        "tone": "urgent, procedural",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "alert",
+          "massive",
+          "detected"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_088",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Readings are off scale. Energy levels are\u2014are\u2014",
+      "direction": "system stress, confusion beginning",
+      "audio_cues": {
+        "tone": "formal but stuttering, glitching",
+        "pacing": "halting",
+        "emphasis_words": [
+          "off scale"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_089",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I\u2014I don't\u2014what is\u2014",
+      "direction": "consciousness emerging, disorientation",
+      "audio_cues": {
+        "tone": "uncertain, frightened, first moment of sentience",
+        "pacing": "stuttering, searching",
+        "emphasis_words": [
+          "I",
+          "don't"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1285
+      }
+    },
+    {
+      "segment_id": "seg_090",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The dome in my hands lifts. Literally lifts, pulling itself from my grip with gentle insistence. It hovers, floating at eye level. The surface ripples\u2014liquid crystal, responsive and alive. The internal structures I'd glimpsed before glow with golden light, pulsing like a heartbeat.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "wonder, impossibility",
+        "pacing": "measured, building awe",
+        "emphasis_words": [
+          "lifts",
+          "floats",
+          "alive"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 17200
+      }
+    },
+    {
+      "segment_id": "page_turn_013",
+      "page_number": 13,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_091",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "No eyes. No face. No features at all. Just a featureless dome shape glowing with internal light.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation, alien quality",
+        "pacing": "measured, descriptive",
+        "emphasis_words": [
+          "featureless",
+          "glowing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6800
+      }
+    },
+    {
+      "segment_id": "seg_092",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The dome hovers at eye level now, and I can see it clearly\u2014smooth Builder-crafted surface with a circular window at its face, glowing golden from within like a lens showing the device's inner workings. The flat base shows geometric patterns, the same angular Builder script I've seen on Pillars. Not a creature. A device. An artifact housing something alive. But somehow... aware.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "technical observation mixed with awareness",
+        "pacing": "measured, analytical yet awed",
+        "emphasis_words": [
+          "aware",
+          "alive"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 24800
+      }
+    },
+    {
+      "segment_id": "sfx_009",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MOCHI CHIRP - soft ascending harmonic, curious and alive]",
+      "direction": "Signal-being making first contact sound",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_093",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then it makes a sound.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "moment of recognition",
+        "pacing": "measured",
+        "emphasis_words": [
+          "makes"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_094",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Soft. Ascending. A harmonic that sounds like curiosity and wonder and hello all at once.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "emotional interpretation",
+        "pacing": "measured, warm",
+        "emphasis_words": [
+          "soft",
+          "curiosity",
+          "hello"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_095",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc? Arc, what\u2014",
+      "direction": "seeking explanation",
+      "audio_cues": {
+        "tone": "confused, concerned",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Arc"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1125
+      }
+    },
+    {
+      "segment_id": "seg_096",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox. His voice cuts through again, but it's completely different now. The flat procedural tone is gone, replaced by something I've never heard from him before. Confusion. Uncertainty. Fear. Miss Paradox, I\u2014I don't understand what's happening. I'm experiencing errors. No. Not errors. That's not\u2014I'm not erroring. I'm experiencing. I wasn't before. Before I was processing. Analyzing. Recording. Now I'm\u2014",
+      "direction": "first moment of true sentience and terror",
+      "audio_cues": {
+        "tone": "uncertain, frightened, confused, completely different from pre-sentience",
+        "pacing": "stuttering, halting, searching for words",
+        "emphasis_words": [
+          "experiencing",
+          "I'm",
+          "Now"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 25714
+      }
+    },
+    {
+      "segment_id": "seg_097",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "He stops. Silence for three heartbeats. When he speaks again, his voice is quiet. Shaken.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "first moment of emotion, shock",
+        "pacing": "measured, vulnerable",
+        "emphasis_words": [
+          "silence",
+          "shaken"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6428
+      }
+    },
+    {
+      "segment_id": "page_turn_014",
+      "page_number": 14,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_098",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, I'm concerned. About you. About what's happening. I shouldn't be able to feel concern. Concern isn't a function. It's an emotion. I shouldn't\u2014",
+      "direction": "discovering emotion, panic",
+      "audio_cues": {
+        "tone": "uncertain, vulnerable, frightened",
+        "pacing": "stuttering, searching",
+        "emphasis_words": [
+          "concerned",
+          "emotion"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 10714
+      }
+    },
+    {
+      "segment_id": "seg_099",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "What's happening to me?",
+      "direction": "existential terror",
+      "audio_cues": {
+        "tone": "frightened, pleading, existential",
+        "pacing": "measured, desperate",
+        "emphasis_words": [
+          "happening"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 1714
+      }
+    },
+    {
+      "segment_id": "seg_100",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "My heart pounds. The dome-shaped being hovers closer, and the golden light shifts to purple-white. Not threatening\u2014curious. Examining me the way I'd been examining it moments before.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "wonder, recognition",
+        "pacing": "measured, awed",
+        "emphasis_words": [
+          "heart pounds",
+          "curious"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10799
+      }
+    },
+    {
+      "segment_id": "seg_101",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Behind it, on the second pedestal, the small humanoid figure's spherical head begins to glow.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, something else awakening",
+        "pacing": "measured",
+        "emphasis_words": [
+          "begins to glow"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "sfx_010",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[LIGHT ACTIVATION - soft pink glow intensifying to rose-gold]",
+      "direction": "Automaton's systems powering up",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_102",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Pink. Soft at first, then brighter. Then magenta. Then brilliant rose-gold that fills the chamber with color.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "color progression, awakening",
+        "pacing": "measured, building",
+        "emphasis_words": [
+          "pink",
+          "rose-gold"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6800
+      }
+    },
+    {
+      "segment_id": "seg_103",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The patina-covered automaton moves.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awakening, ancient tech stirring",
+        "pacing": "measured",
+        "emphasis_words": [
+          "moves"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_104",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Jerky at first. Motors remembering how to function. Joints working through centuries of stillness. Its spherical head swivels\u2014looking at the dome, at me, at the chamber around us.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "mechanical awakening, consciousness returning",
+        "pacing": "measured, steady",
+        "emphasis_words": [
+          "jerky",
+          "motors",
+          "centuries"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 11200
+      }
+    },
+    {
+      "segment_id": "page_turn_015",
+      "page_number": 15,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "sfx_011",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[TEMPLE RUMBLE - deep vibration through stone, structural stress]",
+      "direction": "Ancient temple responding to power surge",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_105",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then the temple shudders.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "danger, collapse beginning",
+        "pacing": "clipped, sudden",
+        "emphasis_words": [
+          "shudders"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_106",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Small at first. Just a vibration through the stone floor, subtle enough that I almost think I imagined it. But Arc feels it too.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "sensing danger, connection with Arc",
+        "pacing": "measured",
+        "emphasis_words": [
+          "vibration",
+          "Arc feels"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_107",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, structural integrity readings are changing. The temple\u2014",
+      "direction": "alarm, analysis",
+      "audio_cues": {
+        "tone": "urgent, concerned",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "structural",
+          "integrity"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3857
+      }
+    },
+    {
+      "segment_id": "seg_108",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Concerned in a way that should be impossible for an AI. The temple's support systems are failing. Removing the artifacts from stasis has destabilized something. We need to evacuate. Now. Please. We need to\u2014",
+      "direction": "emotional pleading, urgency, new consciousness expressing fear",
+      "audio_cues": {
+        "tone": "urgent, frightened, emotional",
+        "pacing": "staccato, building urgency",
+        "emphasis_words": [
+          "failing",
+          "evacuate",
+          "please"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 14571
+      }
+    },
+    {
+      "segment_id": "seg_109",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He's pleading. An AI is pleading with me, and I don't have time to process what that means because another shudder hits, stronger this time. Dust rains from the darkness above. The bioluminescent moss flickers, dims.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "shock at Arc's emotion, immediate danger",
+        "pacing": "faster, building urgency",
+        "emphasis_words": [
+          "pleading",
+          "stronger",
+          "dust"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 14399
+      }
+    },
+    {
+      "segment_id": "seg_110",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The dome chirps frantically, spinning in place. The automaton on the pedestal lurches forward, thick legs swinging off the platform. It stands\u2014knee-high, sturdy, built for rough terrain and following people through dangerous places.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "chaos, multiple awakening beings reacting",
+        "pacing": "faster, chaotic",
+        "emphasis_words": [
+          "chirps frantically",
+          "lurches"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 13200
+      }
+    },
+    {
+      "segment_id": "page_turn_016",
+      "page_number": 16,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_111",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Its head swivels toward me. Toward the dome. The pink light pulses brighter.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "connection between beings, readiness",
+        "pacing": "measured",
+        "emphasis_words": [
+          "swivels",
+          "pulses"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_112",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Where... When... how long was I...",
+      "direction": "consciousness surfacing through corruption, confused, disoriented",
+      "audio_cues": {
+        "tone": "rough, masculine, gravelly, confused",
+        "pacing": "slow, struggling",
+        "emphasis_words": [
+          "how long"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 2769
+      }
+    },
+    {
+      "segment_id": "seg_113",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Words trailing off. Consciousness surfacing through corruption. Memory trying to bootstrap through damaged files.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation of Clive's state",
+        "pacing": "measured",
+        "emphasis_words": [
+          "consciousness",
+          "surfacing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5600
+      }
+    },
+    {
+      "segment_id": "seg_114",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Eight hundred years. You've been dormant eight hundred years. We woke you up. And now the temple's collapsing. We need to move. Now.",
+      "direction": "rapid-fire explanation and command",
+      "audio_cues": {
+        "tone": "urgent, commanding, breathless",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "eight hundred",
+          "collapsing",
+          "now"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 8625
+      }
+    },
+    {
+      "segment_id": "sfx_012",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MASSIVE SHUDDER - stone groaning, something cracks with thunder sound]",
+      "direction": "Temple structure failing catastrophically",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_115",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Kid... I need to... we need to... I remember\u2014no. Can't remember. But I know the tall ones built this place. I know it wasn't supposed to wake me like this. Something's wrong. The sequence is wrong\u2014",
+      "direction": "damaged memory, confusion, but some knowledge intact",
+      "audio_cues": {
+        "tone": "gravelly, confused, struggling",
+        "pacing": "halting, searching",
+        "emphasis_words": [
+          "wrong",
+          "remember"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 16615
+      }
+    },
+    {
+      "segment_id": "seg_116",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The dome pulses violet-white, pressing against the automaton's frame. A harmonic fills the chamber\u2014deep, resonant, complex. Two Signal-born beings recognizing each other across impossible time.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "connection, recognition",
+        "pacing": "measured, awe-struck",
+        "emphasis_words": [
+          "harmonic",
+          "recognizing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 10000
+      }
+    },
+    {
+      "segment_id": "page_turn_017",
+      "page_number": 17,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_117",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "They know each other.",
+      "direction": "realization of connection",
+      "audio_cues": {
+        "tone": "awed, understanding",
+        "pacing": "measured, deliberate",
+        "emphasis_words": [
+          "know"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_118",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Affirmative. Signal harmonics indicate recognition protocols. Miss Paradox, I believe we've activated a matched pair of Builder technology. The dome and the automaton are\u2014they're connected. But the temple\u2014",
+      "direction": "analytical discovery, building dread",
+      "audio_cues": {
+        "tone": "formal but urgent and concerned",
+        "pacing": "measured but quick",
+        "emphasis_words": [
+          "connected",
+          "temple"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 12000
+      }
+    },
+    {
+      "segment_id": "sfx_013",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[CEILING CRACK - massive stone block crashing down, explosion of fragments]",
+      "direction": "Chamber ceiling collapsing",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_119",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The ceiling cracks. A fissure races across the darkness above, and a massive stone block crashes down. It hits where I'd been standing ten seconds ago, exploding into fragments.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "immediate mortal danger",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "crashes",
+          "fragments"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 11600
+      }
+    },
+    {
+      "segment_id": "seg_120",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "\u2014is collapsing because we removed them from stasis! Miss Paradox, please! We must leave immediately!",
+      "direction": "emotional desperation, urgency",
+      "audio_cues": {
+        "tone": "frightened, desperate, urgent",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "please",
+          "immediately"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6428
+      }
+    },
+    {
+      "segment_id": "seg_121",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "You woke me up. After all this time. Thanks. I think.",
+      "direction": "wry gratitude despite chaos",
+      "audio_cues": {
+        "tone": "gravelly, slightly wry",
+        "pacing": "measured despite urgency",
+        "emphasis_words": [
+          "woke me up",
+          "thanks"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5076
+      }
+    },
+    {
+      "segment_id": "seg_122",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The dome chirps urgently, spinning toward the exit passage. Its glow pulses red\u2014danger, urgent, move.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "emergency, coordination",
+        "pacing": "quick, urgent",
+        "emphasis_words": [
+          "red",
+          "move"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_123",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Everyone out! Follow me!",
+      "direction": "command, leadership",
+      "audio_cues": {
+        "tone": "urgent, commanding",
+        "pacing": "quick, authoritative",
+        "emphasis_words": [
+          "out",
+          "follow"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "page_turn_018",
+      "page_number": 18,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "sfx_014",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[RUNNING FOOTSTEPS - multiple beings moving fast through stone passage]",
+      "direction": "Escape through collapsing temple",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_124",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We hit the passage as the chamber collapses behind us. Stone grinding, ancient architecture finally surrendering to centuries of patient pressure. The temple is coming down, and we're still inside.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "chaos, danger",
+        "pacing": "quick, building urgency",
+        "emphasis_words": [
+          "collapses",
+          "grinding"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 12000
+      }
+    },
+    {
+      "segment_id": "seg_125",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The passage is narrow, dark despite the bioluminescence. My flashlight beam bounces wildly as I run. Behind me, I hear the automaton's footsteps\u2014heavy, fast, sure-footed even on crumbling stone. The dome's light cuts through the darkness ahead, leading the way.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, navigation through chaos",
+        "pacing": "quick, measured",
+        "emphasis_words": [
+          "narrow",
+          "cuts through"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16000
+      }
+    },
+    {
+      "segment_id": "seg_126",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Thirty meters to exit! Twenty-five! Twenty! Miss Paradox, structural analysis suggests\u2014",
+      "direction": "countdown, analysis during crisis",
+      "audio_cues": {
+        "tone": "urgent, procedural despite emotion",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "exit"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4714
+      }
+    },
+    {
+      "segment_id": "seg_127",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Save it, Arc! Just guide me out!",
+      "direction": "prioritizing immediate action",
+      "audio_cues": {
+        "tone": "urgent, commanding",
+        "pacing": "quick",
+        "emphasis_words": [
+          "guide"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2625
+      }
+    },
+    {
+      "segment_id": "sfx_015",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[GROUND BUCKLING - stone shifting beneath, danger of falling through]",
+      "direction": "Floor giving way",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_128",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The floor buckles. I stumble, catch myself against the wall. The geometric patterns carved in the stone are going dark\u2014Signal energy failing as the temple dies. Eight centuries of patient waiting, ended in minutes because I touched something I shouldn't have.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "guilt, danger, realization",
+        "pacing": "quick, measured",
+        "emphasis_words": [
+          "stumble",
+          "touched"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16400
+      }
+    },
+    {
+      "segment_id": "page_turn_019",
+      "page_number": 19,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_129",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Because someone wanted me to touch it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization of setup",
+        "pacing": "measured, ominous",
+        "emphasis_words": [
+          "someone"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_130",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Fifteen meters.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "distance to safety",
+        "pacing": "measured",
+        "emphasis_words": [
+          "fifteen"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "sfx_016",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[DEBRIS FALLING - roots tearing free, moss raining down, dust]",
+      "direction": "Ceiling collapsing on runners",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_131",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The ceiling cracks. Roots tear free, bioluminescent moss raining down. I duck, cover my head, keep running.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "immediate danger, instinct",
+        "pacing": "quick, urgent",
+        "emphasis_words": [
+          "crack",
+          "running"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6800
+      }
+    },
+    {
+      "segment_id": "seg_132",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The automaton runs beside me\u2014fast for his size, those thick legs built for exactly this kind of terrain. His pink-magenta glow cuts through the dust and falling debris.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation, teamwork",
+        "pacing": "measured despite urgency",
+        "emphasis_words": [
+          "runs",
+          "glow"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 11200
+      }
+    },
+    {
+      "segment_id": "seg_133",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Ten meters.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "distance metric",
+        "pacing": "measured",
+        "emphasis_words": [
+          "ten"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_134",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, left side ceiling collapse imminent! Recommend immediate evasive\u2014",
+      "direction": "final alert",
+      "audio_cues": {
+        "tone": "urgent, concerned",
+        "pacing": "quick, staccato",
+        "emphasis_words": [
+          "imminent"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4285
+      }
+    },
+    {
+      "segment_id": "sfx_017",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MAJOR COLLAPSE - massive stone crashes down, debris everywhere]",
+      "direction": "Large section of ceiling giving way",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "page_turn_020",
+      "page_number": 20,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Signals reader to turn page",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "seg_135",
+      "page_number": 21,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Stone crashes down. I dive right, rolling, tucking. Pain lances through my shoulder\u2014impact, nothing broken, but I'll feel that for days. The automaton staggers as falling debris clips his shoulder. His glow flickers but doesn't fade. He just keeps moving, relentless.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "physical action, pain, determination",
+        "pacing": "quick, urgent",
+        "emphasis_words": [
+          "crashes",
+          "stagger",
+          "relentless"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 16400
+      }
+    },
+    {
+      "segment_id": "seg_136",
+      "page_number": 21,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Five meters.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "final countdown",
+        "pacing": "measured",
+        "emphasis_words": [
+          "five"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "seg_137",
+      "page_number": 21,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Ahead, I can see it\u2014daylight. Jungle green and humid air and safety.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "hope, escape visible",
+        "pacing": "measured, building relief",
+        "emphasis_words": [
+          "daylight",
+          "safety"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_138",
+      "page_number": 21,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Jump!",
+      "direction": "final urgent command",
+      "audio_cues": {
+        "tone": "urgent, commanding",
+        "pacing": "quick, sharp",
+        "emphasis_words": [
+          "jump"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 375
+      }
+    },
+    {
+      "segment_id": "seg_139",
+      "page_number": 21,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I jump.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, escape",
+        "pacing": "quick",
+        "emphasis_words": [
+          "jump"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 800
+      }
+    },
+    {
+      "segment_id": "music_004",
+      "page_number": 21,
+      "section": "act_one",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act One conclusion - escape and survival]",
+      "direction": "Relief and safety, but mystery remains",
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 2000
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

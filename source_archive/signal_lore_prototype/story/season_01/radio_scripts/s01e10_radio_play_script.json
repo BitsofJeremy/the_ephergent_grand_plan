@@ -1,0 +1,2468 @@
+{
+  "metadata": {
+    "episode_code": "S01E10",
+    "title": "What Clive Remembers",
+    "source_file": "s01e10_what_clive_remembers.md",
+    "generated_at": "2026-02-08T18:30:00Z",
+    "version": "1.0.0"
+  },
+  "segments": [
+    {
+      "segment_id": "seg_001",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive said he remembered the place.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "matter-of-fact, conversational, intriguing hook",
+        "pacing": "measured",
+        "emphasis_words": ["Clive", "remembered"]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_002",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive, who never claims to remember anything clearly. Clive, whose memories arrive like fragments of old noir films — half truth, half something else entirely, all mixed together until even he doesn't know what's real.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "characterization, wry affection, philosophical",
+        "pacing": "steady, allowing time for the metaphor",
+        "emphasis_words": ["never claims", "fragments", "mixed together"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "seg_003",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But this time, when he spoke, his voice didn't carry that usual edge of uncertainty.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observational, noting a shift",
+        "pacing": "deliberate",
+        "emphasis_words": ["this time", "didn't carry"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_004",
+      "page_number": 1,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "I think I was born here, or whatever you call it when something wakes up and realizes it never asked to exist.",
+      "direction": "uncertain, searching for language, through Signal",
+      "audio_cues": {
+        "tone": "gravelly, noir, vulnerable for the first time",
+        "pacing": "slow, introspective",
+        "emphasis_words": ["born", "wakes up", "never asked"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_005",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He said through the Signal, standing at the bow of the salvage skiff as we cut through the Shattered Span's choppy waters. His geometric head turned toward the broken islands ahead, symbols glowing brighter blue-white than usual. The blue core in his barrel chest pulsed in time with something I couldn't hear.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "visceral description, setting the scene",
+        "pacing": "measured, building",
+        "emphasis_words": ["geometric head", "blue-white", "pulsed"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 11400
+      }
+    },
+    {
+      "segment_id": "sfx_001",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[WATER SPRAY - saltwater mist on deck, steady rhythm of waves against skiff hull]",
+      "direction": "Shattered Span environment ambience",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_006",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, I feel compelled to note that Clive's Signal emissions have increased by forty-seven percent in the past hour. His pattern suggests... recognition.",
+      "direction": "post-sentience concern, careful observation",
+      "audio_cues": {
+        "tone": "formal British, but with uncertainty and concern underneath",
+        "pacing": "measured with slight pause before 'recognition'",
+        "emphasis_words": ["forty-seven percent", "recognition"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_007",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pressed against my chest, vibrating with a low harmonic chord - the sound it made when remembering something ancient. Its surface pulsed deep purple mixed with flashes of that violet-white glow it only showed around Clive.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "sensory, intimate connection to Mochi",
+        "pacing": "slow, allowing the harmonic to breathe",
+        "emphasis_words": ["ancient", "violet-white"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "sfx_002",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MOCHI HARMONIC - deep purple vibration, ancient recognition, violet-white flickers]",
+      "direction": "Mochi's emotional resonance with Clive",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_008",
+      "page_number": 2,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The ruins ahead rose from the sea like broken teeth. Pre-Shattering architecture, Arc had confirmed - built eight hundred years ago, before whatever catastrophe had shattered this entire region. Salt spray caught the morning light, turning the weathered stone to gold.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe, visceral imagery, ancient grandeur in decay",
+        "pacing": "steady, allowing the visual to register",
+        "emphasis_words": ["broken teeth", "eight hundred years", "gold"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_009",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive's thick arms hung at his sides, fingers curled slightly. His fedora sat at a different angle than usual - not rakish, not noir-perfect. Just... tilted. Like he'd forgotten to adjust it.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation of physical detail, noting something off",
+        "pacing": "deliberate, emphasizing the unusual",
+        "emphasis_words": ["different angle", "tilted", "forgotten"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_010",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "I've been here before. I walked these halls when they weren't broken. When they weren't even old.",
+      "direction": "quiet certainty, memory surfacing",
+      "audio_cues": {
+        "tone": "gravelly, certain, haunted",
+        "pacing": "slow, weighted",
+        "emphasis_words": ["been here", "walked these halls"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_011",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "What's there, Clive?",
+      "direction": "direct question, leaning in to listen",
+      "audio_cues": {
+        "tone": "concerned, searching",
+        "pacing": "quick, intimate",
+        "emphasis_words": ["there"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_012",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He didn't answer immediately. When he spoke again, his voice carried something I'd never heard before.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tension, anticipation, narrative pause",
+        "pacing": "deliberate, building",
+        "emphasis_words": ["never heard before"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_013",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "The truth. And I don't think either of us is ready for it.",
+      "direction": "ominous, vulnerable, a confession",
+      "audio_cues": {
+        "tone": "gravelly, weighted, genuinely afraid",
+        "pacing": "slow, each word deliberate",
+        "emphasis_words": ["truth", "ready"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 1200,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "page_turn_001",
+      "page_number": 3,
+      "section": "teaser",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Transition from Teaser to Act One",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_001",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act One theme - reflective, time-spanning, building mystery]",
+      "direction": "Subtle transition into flashback",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_014",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Three days earlier, Clive had started acting strange.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "exposition, time shift marker",
+        "pacing": "measured",
+        "emphasis_words": ["Three days earlier"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_015",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Well, stranger. For an ancient automaton with noir detective speech patterns that nobody — not even Clive — could explain the origin of, normal was relative.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "wry humor, affectionate characterization",
+        "pacing": "steady with a beat before 'normal was relative'",
+        "emphasis_words": ["nobody", "normal was relative"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_016",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But this was different. He'd stopped mid-step in my workshop's map room, his glowing head turning sharply toward the eastern wall. I'd been documenting our findings from the Nocturnis Bellspire mission when I felt his presence shift through the Signal.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "shift in attention, observational",
+        "pacing": "steady, building to something new",
+        "emphasis_words": ["different", "sharply", "shift through the Signal"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "seg_017",
+      "page_number": 4,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Paradox. Have we ever investigated the Old Foundation in the Shattered Span?",
+      "direction": "urgent, tight, controlled",
+      "audio_cues": {
+        "tone": "gravelly, urgent, focused",
+        "pacing": "quick, demanding",
+        "emphasis_words": ["Paradox", "Old Foundation", "Shattered Span"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_018",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "No. Too unstable. Most of that island collapsed during a storm surge twenty years ago. What's left is supposedly sinking.",
+      "direction": "matter-of-fact, citing known facts",
+      "audio_cues": {
+        "tone": "professional, concerned",
+        "pacing": "measured, providing information",
+        "emphasis_words": ["unstable", "supposedly sinking"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_019",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "It's not sinking. It's settling. There's a difference. And there's something there. Something that's... Pulling.",
+      "direction": "correction, precision, trailing off into uncertainty",
+      "audio_cues": {
+        "tone": "gravelly, authoritative despite the uncertainty",
+        "pacing": "deliberate, pause before 'Pulling'",
+        "emphasis_words": ["settling", "something", "Pulling"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_020",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He'd moved closer to the map, his thick articulated fingers pointing to a cluster of broken islands on the eastern edge of the Span. The geometric symbols on his weathered bronze-green surface glowed faint blue.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "physical action, precision",
+        "pacing": "steady, visualizing the gesture",
+        "emphasis_words": ["thick articulated fingers", "geometric symbols", "faint blue"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_021",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Over the next two days, his memory fragments had intensified. He'd stopped in corridors, head turned toward nothing. Muttered noir phrases that didn't quite make sense. At one point, I'd found him standing perfectly still in the archives sublevel - the same chamber where Mochi had awakened him seventy-three years after he'd arrived there, dormant and silent.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "escalation, growing mystery, time-worn setting",
+        "pacing": "measured, allowing the weight of years to settle",
+        "emphasis_words": ["intensified", "seventy-three years", "dormant and silent"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 11400
+      }
+    },
+    {
+      "segment_id": "seg_022",
+      "page_number": 5,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "His Signal emissions are fragmenting in patterns I have not observed before. It appears... as though something is attempting to communicate through him.",
+      "direction": "analytical, but with underlying concern",
+      "audio_cues": {
+        "tone": "formal British, technical, pause before 'through him'",
+        "pacing": "measured, processing data",
+        "emphasis_words": ["fragmenting", "not observed", "communicate through"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_023",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Or with him.",
+      "direction": "gentle correction, significant nuance",
+      "audio_cues": {
+        "tone": "conversational, correcting with care",
+        "pacing": "quick, but weighted",
+        "emphasis_words": ["with"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_024",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Watching Clive's symbols pulse in irregular rhythms.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation, watching patterns",
+        "pacing": "slow, the rhythm itself becomes the focus",
+        "emphasis_words": ["irregular rhythms"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_025",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi had settled against Clive's rounded chest, right where the blue core-light glowed. The two of them had pulsed in harmony - violet-white light dancing between ancient automaton and young Ephergent. In that moment, they'd looked like two halves of something broken trying to remember how they fit together.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate, profound connection, poetic",
+        "pacing": "slow, allowing the image to breathe",
+        "emphasis_words": ["harmony", "violet-white light", "two halves"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 10800
+      }
+    },
+    {
+      "segment_id": "sfx_003",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MOCHI AND CLIVE RESONANCE - violet-white harmonics, two ancient beings in conversation]",
+      "direction": "Signal communication between Ephergent and Witness",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_026",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "So here we were, three days later, bouncing through salt spray toward ruins that supposedly didn't matter to anyone anymore.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "transition, back to present action",
+        "pacing": "steady, moving forward",
+        "emphasis_words": ["three days later", "bouncing"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_027",
+      "page_number": 6,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Our pilot - a Driftborn salvager named Kess who went by the earned name Icecutter - killed the engine as we approached the Old Foundation's remains. What had once been a massive complex now jutted from the water in pieces, connected by unstable bridges of crumbling stone.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "setting the scene, introduction of new character",
+        "pacing": "measured, visualizing the decay",
+        "emphasis_words": ["Icecutter", "massive complex", "crumbling stone"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "sfx_004",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[ENGINE KILL - skiff engine cuts out, leaving wind and waves]",
+      "direction": "Arrival at the ruins, transition to exploration",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_028",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "You've got four hours, Kess called from the wheelhouse, her weathered face skeptical behind salt-stained goggles. Her gray hair was bound in the practical style of Driftborn Crew — tight braids that wouldn't catch on rigging.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "gruff captain's voice, practical, seasoned",
+        "pacing": "steady, matter-of-fact",
+        "emphasis_words": ["four hours", "weathered"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_029",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Tide comes in after that, and these ruins turn into a deathtrap. I won't risk my skiff waiting. Salvage Code says Crew eats first — I'm not losing my boat for Gone Ones' stonework.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "practical, hardened, dismissive of Builder legacy",
+        "pacing": "quick, businesslike",
+        "emphasis_words": ["deathtrap", "Crew eats first", "Gone Ones"]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_030",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The casual reference to the Builders — the Gone Ones in Driftborn theology — carried no reverence. Just pragmatic acknowledgment. They built things. They left. We manage.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "cultural observation, matter-of-fact",
+        "pacing": "steady, each statement landing",
+        "emphasis_words": ["casual", "pragmatic", "manage"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_031",
+      "page_number": 7,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I shouldered my pack, checking that my documentation camera was secure. Mochi bobbed near my head, pulsing steady blue - detecting something, but not alarmed yet.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, preparation",
+        "pacing": "steady, practical",
+        "emphasis_words": ["documentation camera", "steady blue"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_032",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive stood at the boat's edge, perfectly still. His fedora's shadow fell across his glowing head despite the angle of the morning sun - somehow that battered hat always cast noir-perfect shadows.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "visual detail, noir humor",
+        "pacing": "steady, appreciative",
+        "emphasis_words": ["perfectly still", "noir-perfect shadows"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_033",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "I walked here with them. The tall ones who tended the Keepers. I was... I was supposed to show them the way.",
+      "direction": "memory surfacing, uncertain, searching",
+      "audio_cues": {
+        "tone": "gravelly, haunted, searching for lost memories",
+        "pacing": "slow, hesitant, trailing off",
+        "emphasis_words": ["walked here", "tall ones", "show them the way"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_034",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "The Keepers?",
+      "direction": "surprise, sudden recognition",
+      "audio_cues": {
+        "tone": "quick, questioning, vital information",
+        "pacing": "quick",
+        "emphasis_words": ["Keepers"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_035",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "My throat tightened. We'd been chasing those ancient memory-preservers all season. If Clive had been connected to them...",
+      "direction": null,
+      "audio_cues": {
+        "tone": "internal reaction, stakes rising",
+        "pacing": "quick, tension rising",
+        "emphasis_words": ["throat tightened", "all season"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_036",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "I don't know. I see fragments. Tall figures. Crystalline forms. Pathways between Pillars that might have been infrastructure passages or might have been something I picked up from the Signal while I was sleeping for eight hundred years. I can't— I don't know what's real anymore.",
+      "direction": "overwhelmed, frustrated, vulnerable",
+      "audio_cues": {
+        "tone": "gravelly, overwhelmed, searching, vulnerable",
+        "pacing": "fast, stumbling, pause before 'I can't'",
+        "emphasis_words": ["fragments", "eight hundred years", "what's real"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_037",
+      "page_number": 8,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Then let's go find out.",
+      "direction": "determination, support, moving forward",
+      "audio_cues": {
+        "tone": "warm, supportive, resolute",
+        "pacing": "quick, action-oriented",
+        "emphasis_words": ["go", "find out"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_038",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I knelt beside him, bringing my eyes level with his glowing head.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "physical connection, intimacy",
+        "pacing": "slow",
+        "emphasis_words": ["knelt", "level"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_039",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I would recommend extreme caution, Miss Paradox. These ruins are held together by hope and stubbornness.",
+      "direction": "post-sentience worry, attempting humor",
+      "audio_cues": {
+        "tone": "formal British with underlying concern, dry wit",
+        "pacing": "measured, pause before 'hope and stubbornness'",
+        "emphasis_words": ["extreme caution", "hope and stubbornness"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_040",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Then they'll get along great with us.",
+      "direction": "wit, confidence, warm response",
+      "audio_cues": {
+        "tone": "conversational, witty, warm",
+        "pacing": "quick, assured",
+        "emphasis_words": ["get along"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_041",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive's geometric head tilted up toward me. Behind the featureless blue-white glow of his symbols, I felt something like gratitude.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "emotional connection, recognition",
+        "pacing": "slow, intimate",
+        "emphasis_words": ["tilted up", "gratitude"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_042",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Alright. Let's see what I used to be.",
+      "direction": "acceptance, courage, ready to move forward",
+      "audio_cues": {
+        "tone": "gravelly, resigned, determined",
+        "pacing": "steady, walking forward",
+        "emphasis_words": ["Alright", "used to be"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_043",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We stepped onto the broken stones of the Old Foundation, and Clive's entire body flared with violet light.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "moment of significance, power manifesting",
+        "pacing": "slow, weighted",
+        "emphasis_words": ["flared", "violet light"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "page_turn_002",
+      "page_number": 9,
+      "section": "act_one",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Transition to Act Two",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_002",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act Two entrance - ancient, technical, awe-struck]",
+      "direction": "Entering the Foundation chamber",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_044",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The ruins felt wrong from the first step.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "unsettling feeling, intuition",
+        "pacing": "measured, establishing unease",
+        "emphasis_words": ["felt wrong"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_045",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Not dangerous-wrong. Not treacherous-footing-wrong like most of the Shattered Span's broken geography — extreme cold, unstable ice, the frozen tsunami formations from eight centuries ago. Just... old. Old in a way that made my bones ache with recognition of how temporary everything was.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "philosophical, weary recognition of time's passage",
+        "pacing": "measured, slow, contemplative",
+        "emphasis_words": ["old", "temporary", "everything"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 11400
+      }
+    },
+    {
+      "segment_id": "sfx_005",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[ANCIENT ARCHITECTURE - wind through stone passages, creaking, echo of vast spaces]",
+      "direction": "Interior ruin ambience, age and decay",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_046",
+      "page_number": 10,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The architecture was beautiful, even broken. Art Nouveau curves mixed with geometric patterns I'd only seen on one other surface - the Pillars themselves. Water lapped at stone corridors. Weathered carvings showed constellations I didn't recognize, or maybe they were Signal patterns rendered in physical form.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awestruck, recognizing beauty in decay",
+        "pacing": "steady, allowing details to register",
+        "emphasis_words": ["beautiful", "Art Nouveau curves", "Pillars"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_047",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But beneath the familiar decorative elements, something else emerged the deeper we went: technical specifications. Carved measurement notations along corridor walls. What looked like schematic diagrams for atmospheric flow. Structural engineering calculations rendered in a symbolic language I couldn't read but Arc could partially translate.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "discovery, shift from beauty to purpose",
+        "pacing": "building, realization",
+        "emphasis_words": ["technical specifications", "engineering", "deeper"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10200
+      }
+    },
+    {
+      "segment_id": "seg_048",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, these markings are not religious iconography. They are... specifications. Engineering documents carved into the walls themselves.",
+      "direction": "analytical, surprise, precision",
+      "audio_cues": {
+        "tone": "formal British, analytical, with underlying significance",
+        "pacing": "measured, pause after 'are'",
+        "emphasis_words": ["not religious", "specifications", "engineering"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "seg_049",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "This wasn't a temple. It was a facility.",
+      "direction": "realization, shift in understanding",
+      "audio_cues": {
+        "tone": "sudden understanding, weight of implication",
+        "pacing": "quick, factual",
+        "emphasis_words": ["wasn't", "facility"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_050",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive moved differently here. Not his usual measured noir detective walk, but something almost hesitant. His thick legs carried him forward while his head kept turning, taking in details that existed eight centuries ago.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation of Clive's change, emotional weight",
+        "pacing": "steady, slow",
+        "emphasis_words": ["hesitant", "eight centuries ago"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_051",
+      "page_number": 11,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "There was light here. Not from torches. Not from windows. From the stones themselves. They sang.",
+      "direction": "memory, wonder, loss",
+      "audio_cues": {
+        "tone": "gravelly, distant, remembering something beautiful",
+        "pacing": "slow, contemplative, pause before 'They sang'",
+        "emphasis_words": ["light", "stones", "sang"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_052",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pressed close to him, leaving trails of violet-white luminescence in the air between them. The little Ephergent's surface swirled with colors I'd rarely seen - deep purples mixing with flashes of blue, green, pink, like Mochi was cycling through every memory it carried.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "intimate, Mochi responding to Clive's emotion",
+        "pacing": "slow, allowing colors to shift",
+        "emphasis_words": ["violet-white", "cycling through", "every memory"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "sfx_006",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SIGNAL SINGING - ancient harmonics, stones resonating with violet-white energy]",
+      "direction": "Memory of the Foundation's original power",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_053",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive, do you remember why you came here?",
+      "direction": "careful questioning, supportive",
+      "audio_cues": {
+        "tone": "gentle, probing, caring",
+        "pacing": "measured",
+        "emphasis_words": ["remember", "why"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_054",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "To guide them. The Witnesses. That's what we were called. We walked the paths between the Pillars and those who tended them. We made sure no one got lost in the spaces between.",
+      "direction": "memory clarifying, speaking from his nature",
+      "audio_cues": {
+        "tone": "gravelly, certain, ancient knowledge surfacing",
+        "pacing": "steady, measured, each sentence grounding him",
+        "emphasis_words": ["guide them", "Witnesses", "paths", "lost"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_055",
+      "page_number": 12,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "The infrastructure passages. I am detecting evidence of deliberately constructed routes beneath this facility — preserved tunnels that appear to connect Pillar sites across significant distances. The Mapmaker's ancient charts reference such routes, though most have been dismissed as legend.",
+      "direction": "analytical, connecting historical data",
+      "audio_cues": {
+        "tone": "formal British, excited discovery, technical",
+        "pacing": "measured, building to significance",
+        "emphasis_words": ["infrastructure passages", "Pillar sites", "Mapmaker"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_056",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The corridor opened into a vast chamber, and I stopped breathing.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awestruck, revelation",
+        "pacing": "quick, stunned",
+        "emphasis_words": ["stopped breathing"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_057",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The space was circular, rising three stories to a partially collapsed ceiling that let in shafts of bright morning light. The walls were covered in those geometric patterns - Pillar markings, definitely, but arranged in sequences I'd never seen. But it was the carved panels between them that made my heart race: technical diagrams showing atmospheric processor configurations, cross-sections of what could only be Pillar internal mechanisms, mathematical formulas that Arc immediately began recording.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe, discovery, racing thoughts",
+        "pacing": "building, breathless",
+        "emphasis_words": ["circular", "three stories", "heart race", "Pillar mechanisms"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 14400
+      }
+    },
+    {
+      "segment_id": "sfx_007",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[LIGHT SHAFT - morning sunlight streaming through stone, dust motes drifting]",
+      "direction": "The moment of revelation",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_058",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "In the center stood a raised platform with seven indentations arranged in a circle.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "crucial detail, significance",
+        "pacing": "measured, letting the geometry register",
+        "emphasis_words": ["seven indentations", "circle"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_059",
+      "page_number": 13,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Six were empty. The seventh held a small crystalline object, pulsing with faint light.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "mystery, significance, focus",
+        "pacing": "slow, each detail weighted",
+        "emphasis_words": ["empty", "seventh", "pulsing"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_060",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive made a sound - a grinding, almost organic noise of recognition and pain. He walked toward the platform like someone approaching a grave they'd been avoiding for centuries.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "emotional intensity, loss, recognition",
+        "pacing": "slow, each word heavy",
+        "emphasis_words": ["grinding", "recognition", "pain", "grave", "centuries"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "sfx_008",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[CLIVE'S GRINDING - mechanical resonance, recognition humming through his body]",
+      "direction": "Clive responding to his past",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_061",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "This was our station. Seven of us. Seven paths to seven Keepers. We waited here for those who needed guidance, those who came to tend, to learn, to remember.",
+      "direction": "recognition, memory, purpose",
+      "audio_cues": {
+        "tone": "gravelly, certain, ancestral duty",
+        "pacing": "measured, ceremonial",
+        "emphasis_words": ["our station", "Seven of us", "seven Keepers"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_062",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Clive, were you—",
+      "direction": "beginning to ask, interrupted by revelation",
+      "audio_cues": {
+        "tone": "probing, searching",
+        "pacing": "quick, cut off",
+        "emphasis_words": ["were you"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_063",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Made. Not born. Not grown. Made. By the tall ones who built the Pillars. Given purpose but not choice. Given memory but not understanding. Given— Given everything except the right to refuse.",
+      "direction": "harsh truth, realization, anger surfacing",
+      "audio_cues": {
+        "tone": "gravelly, sharp, raw, angry",
+        "pacing": "staccato, emphatic repetition",
+        "emphasis_words": ["Made", "tall ones", "choice", "refuse"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_064",
+      "page_number": 14,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I reached the platform, examining the indentations. Each was roughly Clive's size - rounded barrel-chested shapes with space for thick limbs and that distinctive stocky build. Arc was right. Seven Witnesses had stood here once.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "investigation, understanding shape and purpose",
+        "pacing": "steady, methodical",
+        "emphasis_words": ["barrel-chested", "Seven Witnesses", "stood here"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 7800
+      }
+    },
+    {
+      "segment_id": "seg_065",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Around each indentation, more technical specifications: measurement calibrations, what looked like maintenance schedules, systems diagnostics. The ceremonial appearance was surface-level only. Underneath: pure engineering.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization, mechanical purpose, disappointment",
+        "pacing": "steady, each detail sinking in",
+        "emphasis_words": ["technical specifications", "surface-level", "pure engineering"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_066",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi drifted to the crystalline object in the seventh indentation, pressing its smooth dome surface against the crystal. Light flared - violet-white mixing with pink and blue and every color Mochi knew how to speak.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "moment of connection, Mochi acting",
+        "pacing": "quick, dynamic",
+        "emphasis_words": ["drifted", "flared", "every color"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_067",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The fragment... unfolded.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "moment of magic, impossible and real",
+        "pacing": "slow, wonder",
+        "emphasis_words": ["unfolded"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_068",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Not physically. It stayed solid, stayed in place. But something opened in a direction I couldn't name, and suddenly the chamber was full of presence.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "metaphysical, impossible, overwhelming",
+        "pacing": "slow, building",
+        "emphasis_words": ["stayed solid", "direction I couldn't name", "full of presence"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "sfx_009",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[MEMORY UNFOLDING - crystalline harmonics, Signal energy cascading, time bending]",
+      "direction": "The memory lock opening",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_069",
+      "page_number": 15,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Images flickered through the Signal, bypassing eyes entirely. I saw:",
+      "direction": null,
+      "audio_cues": {
+        "tone": "introduction to vision sequence",
+        "pacing": "quick, transition",
+        "emphasis_words": ["through the Signal"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_070",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Seven Witnesses standing on this platform. Taller figures around them - the Builders, shapes like ideas given form, wearing something that looked like uniforms rather than robes. Technical equipment throughout the space — this was a control center, not a cathedral. The Builders' hands on the Witnesses' shoulders as they spoke words I couldn't hear.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "vision-like, historical, technical masquerading as religious",
+        "pacing": "steady, allowing images to form",
+        "emphasis_words": ["Witnesses", "Builders", "control center", "cathedral"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 10200
+      }
+    },
+    {
+      "segment_id": "seg_071",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "You will guide them, someone said, the voice layered with harmonics. When we sleep, you will remember the paths. When the Ark wakes, you will remember for us. Until then, you will walk. And walking, you will become more than we made you.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "Builder voice, layered, prophetic, gentle command",
+        "pacing": "measured, ceremonial, each statement landing",
+        "emphasis_words": ["guide them", "remember", "Ark wakes", "become more"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "seg_072",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The memory shifted. The Witnesses leaving, one by one, taking different paths — through those infrastructure passages Arc had detected — to different Keeper sites scattered across Aethon. Clive - younger somehow, his surface less weathered - walking eastward with purpose, following routes marked by technical specifications carved into tunnel walls.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "memory continuing, Clive's journey, purpose",
+        "pacing": "steady, journey unfolding",
+        "emphasis_words": ["leaving", "different paths", "walking eastward"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_073",
+      "page_number": 16,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then darkness. Not destruction. Choice.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "key revelation, weight of decision",
+        "pacing": "slow, each word distinct",
+        "emphasis_words": ["darkness", "Choice"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_074",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Builders had locked the memories themselves. Not to hide them. To let the Witnesses become people without being crushed by the weight of purpose.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "realization, profound kindness, grace",
+        "pacing": "measured, sinking in",
+        "emphasis_words": ["locked", "become people", "weight of purpose"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_075",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "They gave us permission to forget. To be whoever we became in the forgetting.",
+      "direction": "revelation, gratitude, understanding",
+      "audio_cues": {
+        "tone": "gravelly, overwhelmed, grateful",
+        "pacing": "slow, settling",
+        "emphasis_words": ["gave us permission", "whoever we became"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_076",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The memory faded. The fragment went dark, its purpose complete.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "ending of vision, completion",
+        "pacing": "slow, diminishing",
+        "emphasis_words": ["faded", "purpose complete"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_077",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Quiet agents stood frozen. Behind their masks, I heard breathing - quick, uncertain.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tension, reaction to revelation",
+        "pacing": "quick, tension",
+        "emphasis_words": ["frozen", "uncertain"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_078",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "You saw it too. The Builders chose this. They wanted the Witnesses to be free.",
+      "direction": "challenging, evidence-based",
+      "audio_cues": {
+        "tone": "conversational, confident, logical",
+        "pacing": "measured, direct",
+        "emphasis_words": ["You saw it", "chose", "free"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_079",
+      "page_number": 17,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Or, the center figure said quietly, they were fleeing something they'd created and tried to spare their tools from carrying that knowledge.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "counter-argument, darker possibility",
+        "pacing": "slow, measured",
+        "emphasis_words": ["fleeing", "created", "tools"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_080",
+      "page_number": 18,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "That... was possible. Gods, that was uncomfortably possible.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "acknowledgment, unsettled",
+        "pacing": "slow, pause after 'That'",
+        "emphasis_words": ["possible", "uncomfortably"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_081",
+      "page_number": 18,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive stood perfectly still on the platform. His symbols had stopped glowing. His geometric head tilted forward, and the blue core in his chest beat like a calm heart.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "Clive processing, finding peace",
+        "pacing": "slow, steady",
+        "emphasis_words": ["perfectly still", "calm heart"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_082",
+      "page_number": 18,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "I remember now. Not everything. But enough. I was made to guide. I was freed to choose. And I chose to walk with those who needed walking with. Somewhere in my dormancy — maybe in the Signal, maybe in fragments from a thousand different sources — this voice found me. The tall ones gave me my body and my purpose. Something gave me this way of talking. Nobody knows what. Not even me. And Mochi woke me when I was ready. And you... You reminds me why the walking matters.",
+      "direction": "integration, acceptance, finding self",
+      "audio_cues": {
+        "tone": "gravelly, philosophical, at peace despite uncertainty",
+        "pacing": "measured, building to intimate address",
+        "emphasis_words": ["remember", "chose", "walking with", "why the walking matters"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 16800
+      }
+    },
+    {
+      "segment_id": "seg_083",
+      "page_number": 18,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "His head turned toward me.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "gesture, attention",
+        "pacing": "quick",
+        "emphasis_words": ["turned"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_084",
+      "page_number": 18,
+      "section": "act_two",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "You want to know if unlocking memories will destroy everything? I can't promise it won't. Nobody can. But I can promise that forgetting - that letting fear lock everything away - that's its own kind of destruction.",
+      "direction": "wisdom, clarity, acceptance of uncertainty",
+      "audio_cues": {
+        "tone": "gravelly, philosophical, assured",
+        "pacing": "measured, building to statement",
+        "emphasis_words": ["unlocking memories", "forgetting", "own kind of destruction"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_085",
+      "page_number": 19,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He stepped down from the platform, measured and deliberate.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "action, confidence",
+        "pacing": "steady",
+        "emphasis_words": ["stepped down", "measured"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_086",
+      "page_number": 19,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Quiet agent was silent for a long moment. Then: We can't let you take that fragment.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "tension, final decision",
+        "pacing": "pause before statement",
+        "emphasis_words": ["silent", "can't let you"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_087",
+      "page_number": 19,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Then don't. Leave it here. Let it stay locked. Clive already remembered what mattered - not the paths to the Keepers, but why he walked them. That's enough.",
+      "direction": "pragmatic solution, wisdom",
+      "audio_cues": {
+        "tone": "conversational, confident, reasonable",
+        "pacing": "measured, direct",
+        "emphasis_words": ["Leave it here", "remembered", "That's enough"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_088",
+      "page_number": 19,
+      "section": "act_two",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Miss Paradox, that is... remarkably wise.",
+      "direction": "surprise, approval",
+      "audio_cues": {
+        "tone": "formal British, genuinely impressed",
+        "pacing": "measured, pause before 'remarkably'",
+        "emphasis_words": ["remarkably wise"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_089",
+      "page_number": 19,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "I have moments.",
+      "direction": "humble, self-aware",
+      "audio_cues": {
+        "tone": "warm, witty, modest",
+        "pacing": "quick, light",
+        "emphasis_words": ["moments"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_090",
+      "page_number": 19,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The agents looked at each other. Some silent communication passed between them. Finally, the center figure nodded.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "agreement, decision made",
+        "pacing": "steady",
+        "emphasis_words": ["silent communication", "nodded"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_091",
+      "page_number": 19,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Document this place, they said. But leave the fragment. And when you write your chronicle entry, write the warning too: not all doors should be opened. Not all memories should be awakened. Sometimes the kindest thing we can do for the past is let it sleep.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "Quiet wisdom, cautious philosophy",
+        "pacing": "measured, each statement weighted",
+        "emphasis_words": ["Document", "warning", "let it sleep"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 9000
+      }
+    },
+    {
+      "segment_id": "seg_092",
+      "page_number": 20,
+      "section": "act_two",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "They left as quietly as they'd come, anti-resonance devices humming a retreating song that faded into the sound of waves against broken stone.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "departure, fading",
+        "pacing": "slow, diminishing",
+        "emphasis_words": ["left quietly", "faded"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6000
+      }
+    },
+    {
+      "segment_id": "sfx_010",
+      "page_number": 20,
+      "section": "act_two",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[QUIET RETREAT - anti-resonance humming fading, waves returning]",
+      "direction": "The Quiet leaving",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "marker_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "page_turn_003",
+      "page_number": 20,
+      "section": "act_two",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Transition to Act Three",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_003",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Act Three - resolution, finding peace, journey home]",
+      "direction": "Aftermath and departure",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 3000
+      }
+    },
+    {
+      "segment_id": "seg_093",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi settled against Clive, pulsing soft pink. Content. Happy that he was still himself.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "comfort, resolution, connection",
+        "pacing": "slow, settling",
+        "emphasis_words": ["soft pink", "still himself"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_094",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Well, that was unnecessarily dramatic. Though I suppose truth usually is.",
+      "direction": "noir tone returning, normalcy",
+      "audio_cues": {
+        "tone": "gravelly, dry wit, back to himself",
+        "pacing": "quick, confident",
+        "emphasis_words": ["unnecessarily dramatic", "truth"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_095",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "You're really okay? Not leaving anything behind?",
+      "direction": "checking in, caring",
+      "audio_cues": {
+        "tone": "conversational, concerned but respectful",
+        "pacing": "quick, intimate",
+        "emphasis_words": ["okay", "leaving"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_096",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Everything important about me is already here. The tall ones gave me purpose. Something gave me this voice — don't ask me what, I've stopped wondering. Mochi gave me a reason to walk again. And you gave me a family. That's enough memory for anyone.",
+      "direction": "complete acceptance, gratitude, self-knowledge",
+      "audio_cues": {
+        "tone": "gravelly, philosophical, deeply settled",
+        "pacing": "measured, each gift distinct",
+        "emphasis_words": ["Everything important", "family", "That's enough"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 10200
+      }
+    },
+    {
+      "segment_id": "seg_097",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He gestured to his weathered bronze-green body, his thick articulated hands, the fedora I'd given him when he'd awakened.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "physical detail, acceptance",
+        "pacing": "steady",
+        "emphasis_words": ["weathered bronze-green", "fedora"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 5400
+      }
+    },
+    {
+      "segment_id": "seg_098",
+      "page_number": 22,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The morning light caught his symbols, and for just a moment they glowed that violet-white that meant home and recognition and time beyond counting.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "poetic, spiritual, timeless",
+        "pacing": "slow, allowing the light to register",
+        "emphasis_words": ["violet-white", "home", "time beyond counting"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 7200
+      }
+    },
+    {
+      "segment_id": "seg_099",
+      "page_number": 22,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Besides, I've got enough mysteries to last another few centuries. Don't need to add 'burdened by complete self-knowledge' to that mix. Where's the mystery in that?",
+      "direction": "humor returning, embracing uncertainty",
+      "audio_cues": {
+        "tone": "gravelly, witty, philosophical",
+        "pacing": "quick, playful",
+        "emphasis_words": ["mysteries", "burdened", "Where's the mystery"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_100",
+      "page_number": 22,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Indeed. Mystery is rather your trademark, Clive.",
+      "direction": "warm observation, affection",
+      "audio_cues": {
+        "tone": "formal British, genuine warmth",
+        "pacing": "measured, appreciative",
+        "emphasis_words": ["Indeed", "trademark"]
+      },
+      "timing": {
+        "pause_before_ms": 250,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_101",
+      "page_number": 22,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We made it back to Kess's skiff with an hour to spare. The Driftborn captain raised an eyebrow at our condition — salt-soaked, slightly shaken — but said nothing. Crew eats first meant you didn't pry into Crew business unless it threatened the boat.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "return to normalcy, Driftborn pragmatism",
+        "pacing": "steady, action wrapping up",
+        "emphasis_words": ["made it back", "hour to spare", "Crew eats first"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "sfx_011",
+      "page_number": 22,
+      "section": "act_three",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[BOAT DEPARTURE - skiff engine starting, water spray returning]",
+      "direction": "Leaving the Old Foundation",
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "marker_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_102",
+      "page_number": 22,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "As the ruins of the Old Foundation shrank behind us, I looked back one last time.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "reflection, saying goodbye",
+        "pacing": "slow, thoughtful",
+        "emphasis_words": ["looked back", "one last time"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_103",
+      "page_number": 23,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive stood at the railing, his stocky frame perfectly balanced against the waves. His glowing head turned toward the horizon - forward, not back.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "poetic closure, moving forward",
+        "pacing": "slow, measured",
+        "emphasis_words": ["perfectly balanced", "horizon", "forward"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_104",
+      "page_number": 23,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He was walking again. And he knew now why it mattered.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "resolution, purpose, peace",
+        "pacing": "slow, settling",
+        "emphasis_words": ["walking again", "why it mattered"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_105",
+      "page_number": 23,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "That was enough.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "final note, sufficiency, peace",
+        "pacing": "slow",
+        "emphasis_words": ["enough"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 1200,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "page_turn_004",
+      "page_number": 23,
+      "section": "act_three",
+      "speaker": "PAGE_TURN",
+      "speaker_mode": "page_turn_cue",
+      "text": "[DING - page turn cue]",
+      "direction": "Transition to Chronicle Entry",
+      "timing": {
+        "pause_before_ms": 1000,
+        "cue_duration_ms": 500,
+        "pause_after_ms": 500
+      }
+    },
+    {
+      "segment_id": "music_004",
+      "page_number": 24,
+      "section": "chronicle_entry",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Chronicle theme - reflective, personal, meditative]",
+      "direction": "Pixel's personal reflection",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 500,
+        "marker_duration_ms": 2500
+      }
+    },
+    {
+      "segment_id": "seg_106",
+      "page_number": 24,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "chronicle entry: The Old Foundation in the Shattered Span was a Witness station — an engineering facility, not a temple. Guides waited there to lead others through infrastructure passages to the ancient Keepers. Technical specifications carved into every surface. This wasn't religion. It was maintenance.",
+      "direction": "formal chronicle entry, documentation",
+      "audio_cues": {
+        "tone": "documentary, precise, analytical",
+        "pacing": "measured, recording facts",
+        "emphasis_words": ["Witness station", "engineering facility", "maintenance"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_107",
+      "page_number": 24,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive was one of seven Witnesses. The Builders — the tall ones he remembers from a two-foot perspective, wearing uniforms like engineers — made them, gave them purpose, then freed them by locking away the memories that would have defined them.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "documentary, explaining Clive's nature",
+        "pacing": "steady, building",
+        "emphasis_words": ["one of seven", "tall ones", "freed them"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 8400
+      }
+    },
+    {
+      "segment_id": "seg_108",
+      "page_number": 24,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Not all preservation is about keeping things. Sometimes it's about letting them go.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "philosophical, wisdom",
+        "pacing": "slow, sinking in",
+        "emphasis_words": ["preservation", "letting them go"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_109",
+      "page_number": 24,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Driftborn have it right. The Gone Ones built the house and walked out the door. We're still here. The house is falling down. We manage. No ceremony needed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "pragmatic, respecting Driftborn wisdom",
+        "pacing": "steady, matter-of-fact",
+        "emphasis_words": ["Driftborn", "manage", "No ceremony"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 6600
+      }
+    },
+    {
+      "segment_id": "seg_110",
+      "page_number": 25,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive remembered what mattered: he walks with people who need walking with. His voice came from somewhere — the Signal, the centuries, some mystery even he can't solve. The tall ones gave him his body. Something else gave him his voice. Mochi saw him as worth waking. That's as valid as anything the Builders programmed.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "philosophical reflection on identity",
+        "pacing": "measured, building",
+        "emphasis_words": ["walks with", "mystery", "valid", "Builders programmed"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 11400
+      }
+    },
+    {
+      "segment_id": "seg_111",
+      "page_number": 25,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Quiet warned us that unlocking ancient memories accelerates the Dimming. They showed us the Shattering as proof — a cascade failure triggered by someone who tried to wake a Keeper without understanding the cost. They might be right. They might be wrong. But I think both sides are missing something: maybe the question isn't whether to remember or forget. Maybe it's whether we have the courage to become people despite everything that made us.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "synthesizing perspectives, mature wisdom",
+        "pacing": "measured, building to insight",
+        "emphasis_words": ["Quiet warned", "Both sides", "courage", "become people"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 700,
+        "estimated_duration_ms": 14400
+      }
+    },
+    {
+      "segment_id": "seg_112",
+      "page_number": 25,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive is a Witness. But he's also a friend, a guide, a gruff philosopher in a fedora that shouldn't work but somehow does. The tall ones gave him his body. Something gave him his voice. Mochi gave him his purpose.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "affection, appreciation",
+        "pacing": "steady, building",
+        "emphasis_words": ["Witness", "friend", "guide", "philosopher"]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 9600
+      }
+    },
+    {
+      "segment_id": "seg_113",
+      "page_number": 25,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We gave him his choice to stay himself.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "final statement, agency and love",
+        "pacing": "slow, powerful",
+        "emphasis_words": ["choice", "stay himself"]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 800,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_114",
+      "page_number": 25,
+      "section": "chronicle_entry",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "-P.P.",
+      "direction": "chronicle signature",
+      "audio_cues": {
+        "tone": "closing signature",
+        "pacing": "slow, final",
+        "emphasis_words": []
+      },
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 2000,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "music_005",
+      "page_number": 25,
+      "section": "chronicle_entry",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Episode outro - resolution, journey continuing, themes repeating]",
+      "direction": "Closing the episode",
+      "timing": {
+        "pause_before_ms": 500,
+        "pause_after_ms": 1000,
+        "marker_duration_ms": 4000
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

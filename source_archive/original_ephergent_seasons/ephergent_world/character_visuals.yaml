@@ -1,0 +1,132 @@
+# Character Visual Descriptions for ComfyUI Prompt Injection
+# =========================================================
+# Each character has a concise prompt_snippet (50-80 tokens) optimized for Flux.
+# Used by generate_pipeline.py and panel_prompt_builder.py to inject visual
+# descriptions into panel prompts so Flux knows what characters look like.
+#
+# Fields:
+#   name:           Display name
+#   prompt_snippet:  Full visual description for single-character or featured scenes
+#   prompt_short:    Condensed description for multi-character scenes (4+ characters)
+#   tags:            Searchable tags for pipeline use
+
+characters:
+  pixel_paradox:
+    name: "Pixel Paradox (Piper Chen)"
+    prompt_snippet: >-
+      young 24 year old woman, round face, electric aqua blue hair in punk
+      asymmetrical bob shaved on left side with neon green highlighted tips,
+      bright green eyes, black cafe racer leather jacket with patches and DIY
+      press badges over vintage band tee, high-tech choker collar with glowing
+      recording devices, holographic press badge with pink letter 'e', steaming
+      coffee cup in hand, green cargo pants, chunky black combat boots
+    prompt_short: >-
+      young woman with electric aqua blue punk bob and neon green streaks,
+      green eyes, black leather jacket, holographic press badge
+    tags: [protagonist, human, female, journalist, captain]
+
+  a1_assistant:
+    name: "A1 (The Ephergent)"
+    prompt_snippet: >-
+      matte-black espresso machine with chrome stabilizers, electric-blue
+      quantum core glowing through porthole, brass 'A1' nameplate, steam
+      venting from pressure valve, floating dimensional stability readouts,
+      professional reality technician aesthetic, warm amber accent lighting
+    prompt_short: >-
+      matte-black espresso machine with glowing blue quantum core and
+      chrome stabilizers, brass 'A1' nameplate
+    tags: [ship, espresso-machine, ancient, ai]
+
+  clive:
+    name: "Clive"
+    prompt_snippet: >-
+      sentient orange Swingline 747 stapler with spring-loaded mechanical legs,
+      blue guidance indicator lights along body, noir detective aesthetic,
+      90-year-old patina and wear marks, staple-teeth visible, small but
+      dignified presence, office supply turned living artifact
+    prompt_short: >-
+      orange Swingline stapler with spring-loaded legs and blue indicator lights,
+      noir detective aesthetic
+    tags: [stapler, sentient-object, archivist]
+
+  meatball:
+    name: "Meatball"
+    prompt_snippet: >-
+      Rottweiler dog, purebred Rottweiler breed, glossy black and tan
+      markings, broad muscular head with tan eyebrow spots, floppy ears,
+      big intelligent warm brown eyes, thick leather collar with glowing 'e'
+      badge, lovable innocent expression, large oversized gentle dog, wet
+      nose, tongue-out smile, Rottweiler
+    prompt_short: >-
+      Rottweiler dog, purebred Rottweiler, black and tan markings, broad
+      head, leather collar with glowing 'e' badge, warm brown eyes
+    tags: [dog, rottweiler, sentient, pet]
+
+  baron_klaus:
+    name: "Baron Klaus von Gnomendorf"
+    prompt_snippet: >-
+      twelve-inch ceramic garden gnome, red pointed hat, meticulously painted
+      white beard, pompous dignified expression, traditional garden gnome outfit,
+      rigid ceramic posture, tiny garden monitoring equipment at miniature scale,
+      incongruously regal presence
+    prompt_short: >-
+      small ceramic garden gnome with red pointed hat and white beard,
+      pompous expression
+    tags: [gnome, ceramic, telepathic, miniature]
+
+  nano:
+    name: "Nano"
+    prompt_snippet: >-
+      mysterious figure in high-tech hooded cloak with embedded privacy
+      circuitry, face strategically shadowed revealing only piercing blue-green
+      eyes, sleek dark clothing with encryption modules, digital signal
+      distortion effects around edges, underground information broker aesthetic
+    prompt_short: >-
+      hooded figure with only piercing blue-green eyes visible, dark cloak
+      with embedded tech circuitry, signal distortion effects
+    tags: [broker, mysterious, shifting, hooded]
+
+  zephyr_glitch:
+    name: "Zephyr Glitch"
+    prompt_snippet: >-
+      young 21 year old man, shaved head with vibrant orange mohawk, neon green
+      AR glasses with scrolling matrix code reflections, worn black denim battle
+      vest with chrome spikes and punk band patches over black tech-wear, 
+      holographic badge, digital glitch fragmentation effects, neon green and
+      orange accent lighting, cyberpunk hacker energy
+    prompt_short: >-
+      young man with orange mohawk, neon green AR glasses, black punk vest
+      with chrome spikes, digital glitch effects
+    tags: [hacker, punk, human, male, fragmented]
+
+  luminara_usha:
+    name: "Luminara Usha"
+    prompt_snippet: >-
+      young 23 year old woman, deep rich brown skin, long flowing black hair
+      worn in elegant archival bun, intelligent warm amber eyes, photographer
+      utility jacket over heritage documentation tunic, archival camera on
+      shoulder strap, hands faintly glowing with captured light energy, warm
+      amber lighting aura
+    prompt_short: >-
+      young woman with deep brown skin, black hair in bun, amber eyes,
+      photographer jacket, faintly glowing hands
+    tags: [photographer, archivist, human, female, light-powers]
+
+  om_kai:
+    name: "Om Kai"
+    prompt_snippet: >-
+      mature 51 year old man, rich brown skin, clean shaved head, serene
+      peaceful expression, flowing balance robes with subtle reality
+      stabilization interface patterns woven into fabric, wooden mala prayer
+      beads around wrist, orange wisdom transmission indicators on robes,
+      meditative posture, monk-like presence
+    prompt_short: >-
+      older man with brown skin, shaved head, flowing robes with subtle
+      tech patterns, mala beads, serene expression
+    tags: [monk, philosopher, human, male, balance-keeper]
+
+# ── Multi-Character Prompt Budget Guidelines ──
+# 1 character  → use prompt_snippet (full description)
+# 2-3 characters → use prompt_snippet for featured, prompt_short for others
+# 4+ characters → use prompt_short for all
+# Background characters not in this file → describe by role only

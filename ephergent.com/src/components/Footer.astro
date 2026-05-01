@@ -1,0 +1,56 @@
+---
+// Footer.astro - Unified footer design for Ephergent
+---
+
+<footer class="mt-auto">
+  <!-- Gradient divider -->
+  <div class="mx-auto max-w-7xl px-6">
+    <div class="h-px bg-gradient-to-r from-accent-cyan to-transparent"></div>
+  </div>
+
+  <div class="mx-auto max-w-7xl px-6 pt-16 pb-8">
+    <!-- Link columns -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
+      <div>
+        <h4 class="font-mono text-[0.7rem] uppercase tracking-[0.15em] text-text-secondary mb-4">Shop</h4>
+        <ul class="space-y-2">
+          <li><a href="/shop/" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">All Products</a></li>
+          <li><a href="/digital/" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Digital Products</a></li>
+          <li><a href="/limited/" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Limited Editions</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="font-mono text-[0.7rem] uppercase tracking-[0.15em] text-text-secondary mb-4">Learn</h4>
+        <ul class="space-y-2">
+          <li><a href="/journal/" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Build Journal</a></li>
+          <li><a href="/about/" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">About</a></li>
+          <li><a href="/faq/" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">FAQ</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="font-mono text-[0.7rem] uppercase tracking-[0.15em] text-text-secondary mb-4">Our Family</h4>
+        <ul class="space-y-2">
+          <li><a href="https://beforegreatness.com" target="_blank" rel="noopener" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Before Greatness</a></li>
+          <li><a href="https://jeremyschroeder.net" target="_blank" rel="noopener" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Jeremy Schroeder</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="font-mono text-[0.7rem] uppercase tracking-[0.15em] text-text-secondary mb-4">Connect</h4>
+        <ul class="space-y-2">
+          <li><a href="https://github.com/bitsofjeremy" target="_blank" rel="noopener" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">GitHub</a></li>
+          <li><a href="https://youtube.com/@BitsofJeremy" target="_blank" rel="noopener" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">YouTube</a></li>
+          <li><a href="https://bsky.app/profile/bitsofjeremy.bsky.social" target="_blank" rel="noopener" class="text-sm text-text-secondary hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Bluesky</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Legal + Copyright -->
+    <div class="pt-8 border-t border-white/[0.06] flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex gap-4">
+        <a href="https://beforegreatness.com/privacy/" target="_blank" rel="noopener" class="text-xs text-text-secondary/60 hover:text-text-secondary transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Privacy Policy</a>
+        <a href="https://beforegreatness.com/terms/" target="_blank" rel="noopener" class="text-xs text-text-secondary/60 hover:text-text-secondary transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Terms of Service</a>
+      </div>
+      <p class="text-xs text-text-secondary/60">&copy; {new Date().getFullYear()} Before Greatness LLC &middot; Made in Colorado</p>
+    </div>
+  </div>
+</footer>

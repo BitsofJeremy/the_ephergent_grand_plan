@@ -1,0 +1,1391 @@
+{
+  "metadata": {
+    "episode_code": "S01E05",
+    "title": "The Driftborn's Debt - ACT THREE",
+    "source_file": "s01e05_the_driftborns_debt.md",
+    "generated_at": "2026-02-03T18:45:00Z",
+    "version": "1.0.0",
+    "note": "Act Three - Honoring the Keeper, Arc's identity crisis deepens, Clive's ancient memories surface"
+  },
+  "segments": [
+    {
+      "segment_id": "seg_166",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I ran to Arc. Talk to me. Are you okay?",
+      "direction": null,
+      "audio_cues": {
+        "tone": "urgent concern",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Talk to me",
+          "okay"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 0,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_167",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I... appear to be functional, Miss Paradox. Though I confess I experienced a moment of profound... I lack words for what I experienced.",
+      "direction": "Arc attempting normalcy while processing",
+      "audio_cues": {
+        "tone": "formal but uncertain, searching",
+        "pacing": "measured with hesitation",
+        "emphasis_words": [
+          "functional",
+          "profound",
+          "lack words"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_168",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "When the Keeper said 'Ark'?",
+      "direction": "Pixel naming the trigger",
+      "audio_cues": {
+        "tone": "seeking confirmation",
+        "pacing": "steady",
+        "emphasis_words": [
+          "Ark"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_169",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Yes. My designation. Or... perhaps not precisely my designation. He paused—an unusual length of silence for Arc. I find myself uncertain of what I know about myself. This is... troubling.",
+      "direction": "Arc's identity crisis",
+      "audio_cues": {
+        "tone": "formal but deeply uncertain",
+        "pacing": "slow with meaningful pause",
+        "emphasis_words": [
+          "designation",
+          "uncertain",
+          "troubling"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_170",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Clive stood perfectly still, looking at the dead Keeper. His symbols pulsed slowly, like a heartbeat counting down. That thing wasn't buried by accident. Someone tried to save it. Someone tried to hide it from whatever was killing it.",
+      "direction": "Clive's analysis and ancient memory",
+      "audio_cues": {
+        "tone": "gravelly wisdom, ancient knowing",
+        "pacing": "slow, measured",
+        "emphasis_words": [
+          "buried by accident",
+          "save it",
+          "hide it",
+          "killing it"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_171",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "And failed. I finished.",
+      "direction": "Pixel completing thought",
+      "audio_cues": {
+        "tone": "resigned acceptance",
+        "pacing": "quick",
+        "emphasis_words": [
+          "failed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_172",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "And failed.",
+      "direction": "Clive agreeing",
+      "audio_cues": {
+        "tone": "gravelly agreement",
+        "pacing": "slow",
+        "emphasis_words": [
+          "failed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "seg_173",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I picked up Mochi, who was still dim with grief, vibrating with that slow, heavy pulse. The warm stone-being pressed against my chest, and I held on tight.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "comfort and connection",
+        "pacing": "slower, intimate",
+        "emphasis_words": [
+          "picked up",
+          "held on tight"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_174",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Arc, did you get any of what the Keeper showed us? The images?",
+      "direction": "Pixel asking for data",
+      "audio_cues": {
+        "tone": "gathering information",
+        "pacing": "steady",
+        "emphasis_words": [
+          "what the Keeper showed",
+          "images"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_175",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Recording... compromised. Fragments only. But Miss Paradox... His voice was quieter than usual. The Dimming. If what I saw is accurate... it wasn't natural. It wasn't decay. Someone chose to—",
+      "direction": "Arc sharing analysis despite uncertainty",
+      "audio_cues": {
+        "tone": "careful revelation, quieter",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "compromised",
+          "Dimming",
+          "chose"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_176",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "To put the Pillars to sleep. Yeah. I saw it too.",
+      "direction": "Pixel completing the realization",
+      "audio_cues": {
+        "tone": "grim confirmation",
+        "pacing": "steady",
+        "emphasis_words": [
+          "put the Pillars to sleep",
+          "saw it too"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_177",
+      "page_number": 18,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "The question. He said, turning to face us, is who. And why. And whether they're still around to finish what they started.",
+      "direction": "Clive posing the bigger questions",
+      "audio_cues": {
+        "tone": "gravelly investigation",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "who",
+          "why",
+          "still around",
+          "finish"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "music_003",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "MUSIC",
+      "speaker_mode": "music_marker",
+      "text": "[MUSIC: Garden of Stones theme - ethereal, melancholic, honoring the dead]",
+      "direction": "Transition to burial sequence, solemn and respectful",
+      "timing": {
+        "fade_in_ms": 2000,
+        "marker_duration_ms": 4000,
+        "fade_out_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_178",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We buried the Keeper. Technically, Keepers probably don't need burial. Technically, it was just a broken piece of crystalline Signal-matter that had stopped functioning. Technically, we should have taken it back to Chronicle Hall for analysis.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "explaining actions, repetition of 'technically'",
+        "pacing": "steady",
+        "emphasis_words": [
+          "buried",
+          "Technically",
+          "Chronicle Hall"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_179",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "But Mochi wouldn't let us.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "simple statement of override",
+        "pacing": "quick",
+        "emphasis_words": [
+          "wouldn't let us"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_180",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The moment I tried to move toward the crate, Mochi flashed red and emitted an urgent trill. Then settled into a deep violet glow and that slow, heavy vibration.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "Mochi's clear communication",
+        "pacing": "steady",
+        "emphasis_words": [
+          "flashed red",
+          "urgent trill",
+          "violet glow"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_181",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Mochi wants it to stay here.",
+      "direction": "Pixel's translation",
+      "audio_cues": {
+        "tone": "understanding Mochi's desire",
+        "pacing": "quick",
+        "emphasis_words": [
+          "stay here"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_182",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Rhynn, who'd come back once The Quiet left, nodded slowly. The Old Foundation where I found it—there's a place there. The Driftborn call it the Garden of Stones. We bring our dead there. Let the ice preserve them.",
+      "direction": "Rhynn offering solution",
+      "audio_cues": {
+        "tone": "respectful explanation",
+        "pacing": "steady, ceremonial",
+        "emphasis_words": [
+          "Garden of Stones",
+          "dead",
+          "preserve"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_183",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Seems fitting. He said quietly. These things were made to preserve memory. Maybe the ice remembers.",
+      "direction": "Clive's wisdom",
+      "audio_cues": {
+        "tone": "gravelly reflection",
+        "pacing": "slow, thoughtful",
+        "emphasis_words": [
+          "fitting",
+          "preserve memory",
+          "ice remembers"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "sfx_025",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Boat travel through frozen waterways - wind, ice formations, journey to Garden]",
+      "direction": "Navigation through the frozen archipelago toward the sacred place",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_184",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We took Torva's boat through channels between frozen formations, past ships locked in the ice shelf at angles that hurt to look at, to a place where the old catastrophe had broken everything so thoroughly that it had found a kind of peace in its permanence.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "journeying toward sacred place",
+        "pacing": "steady, meditative",
+        "emphasis_words": [
+          "channels",
+          "broken everything",
+          "peace",
+          "permanence"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5600
+      }
+    },
+    {
+      "segment_id": "sfx_026",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Arrival at Garden of Stones - wind ceasing, ambient silence, ancient peace]",
+      "direction": "Entering the sacred burial place",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_185",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "The Garden of Stones was beautiful in a way that made my chest ache. Hundreds of rocks balanced on ice pillars, arranged with clear intention by Driftborn hands. Markers for the dead who'd lived in this broken, frozen place. Some stones rested on natural ice formations. Others sat in carved niches. All were deliberate. All were remembered.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "awe and emotion",
+        "pacing": "measured, reverent",
+        "emphasis_words": [
+          "beautiful",
+          "ache",
+          "Markers",
+          "remembered"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6400
+      }
+    },
+    {
+      "segment_id": "seg_186",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We added the Keeper to their number.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "ritual action",
+        "pacing": "slow, ceremonial",
+        "emphasis_words": [
+          "added",
+          "their number"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 500,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_187",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Arc was quiet the whole time. Not his usual precise observations or probability calculations. Just... quiet. His holographic face flickered occasionally, like he was processing something he didn't have words for.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation of Arc's struggle",
+        "pacing": "steady, observant",
+        "emphasis_words": [
+          "quiet",
+          "flickered",
+          "processing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_188",
+      "page_number": 19,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "When we finished, Mochi pressed against the Keeper one last time. The violet glow pulsed twice.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "farewell moment",
+        "pacing": "slow, final",
+        "emphasis_words": [
+          "pressed",
+          "last time",
+          "pulsed twice"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_189",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Then Mochi turned that same color toward Arc's wristband. Steady. Waiting.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "direction toward Arc",
+        "pacing": "slow, intentional",
+        "emphasis_words": [
+          "turned",
+          "Steady",
+          "Waiting"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_190",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I believe. Arc said slowly, that Mochi is attempting to convey something. Though I confess I lack the contextual framework to interpret—",
+      "direction": "Arc attempting analysis",
+      "audio_cues": {
+        "tone": "formal analysis, admitting limitation",
+        "pacing": "slow, uncertain",
+        "emphasis_words": [
+          "believe",
+          "convey",
+          "lack"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "sfx_027",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi color sequence - violet three times, blue, violet again - recognition, discovery, recognition]",
+      "direction": "Mochi's message about Arc and Keepers",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_191",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi pulsed violet three times. Then blue. Then violet again.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "Mochi's clear message",
+        "pacing": "slow, emphatic",
+        "emphasis_words": [
+          "violet",
+          "blue",
+          "violet"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_192",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Recognition. Discovery. Recognition.",
+      "direction": "Interpreting Mochi's colors",
+      "audio_cues": {
+        "tone": "interpretation",
+        "pacing": "slow, each word equal weight",
+        "emphasis_words": [
+          "Recognition",
+          "Discovery",
+          "Recognition"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_193",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Mochi knows something. I said. About you and the Keepers.",
+      "direction": "Pixel's interpretation",
+      "audio_cues": {
+        "tone": "realization",
+        "pacing": "steady",
+        "emphasis_words": [
+          "knows something",
+          "you and the Keepers"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_194",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "That would be impossible. I am an Analytical Resonance Core. I was built in The Nexus approximately fifty-seven years ago. I have complete documentation of my construction, my activation, my—",
+      "direction": "Arc's defensive facts crumbling",
+      "audio_cues": {
+        "tone": "formal facts masking doubt",
+        "pacing": "steady, slightly defensive",
+        "emphasis_words": [
+          "impossible",
+          "Analytical Resonance Core",
+          "fifty-seven years"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_195",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "He stopped. The holographic face scattered and reformed.",
+      "direction": "Arc's realization moment",
+      "audio_cues": {
+        "tone": "pause of recognition",
+        "pacing": "slow, fragmented",
+        "emphasis_words": [
+          "stopped",
+          "scattered",
+          "reformed"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_196",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Unless I don't. He finished quietly.",
+      "direction": "Arc's admission",
+      "audio_cues": {
+        "tone": "quiet realization",
+        "pacing": "slow, final",
+        "emphasis_words": [
+          "Unless I don't"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1800
+      }
+    },
+    {
+      "segment_id": "seg_197",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Clive tilted his head, studying Arc with what I'd learned to read as deep consideration. ARK Protocol. That's what the Keeper called. Not your designation. Your original designation.",
+      "direction": "Clive's revelation",
+      "audio_cues": {
+        "tone": "ancient knowing",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "ARK Protocol",
+          "original designation"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4400
+      }
+    },
+    {
+      "segment_id": "seg_198",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I... don't understand what you're suggesting.",
+      "direction": "Arc's confused response",
+      "audio_cues": {
+        "tone": "formal confusion",
+        "pacing": "steady",
+        "emphasis_words": [
+          "don't understand"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_199",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Neither do I. Yet. But I've been around long enough to know when something's remembering itself. He looked at me. Pixel asked what the Keeper showed us. What I saw was them—the Keepers, when they were alive and whole—and something else. Something built to carry their memories. Something that could move. Could preserve. Could continue.",
+      "direction": "Clive's interpretation from his visions",
+      "audio_cues": {
+        "tone": "ancient wisdom, revelation",
+        "pacing": "slow, building",
+        "emphasis_words": [
+          "remembering itself",
+          "memories",
+          "continue"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 6800
+      }
+    },
+    {
+      "segment_id": "seg_200",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "You think Arc is—",
+      "direction": "Pixel's startled question",
+      "audio_cues": {
+        "tone": "shocked realization starting",
+        "pacing": "quick",
+        "emphasis_words": [
+          "Arc"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 200,
+        "estimated_duration_ms": 1200
+      }
+    },
+    {
+      "segment_id": "seg_201",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "I don't think anything yet. But Mochi does. And Mochi's been right about everything else so far.",
+      "direction": "Clive's deference to Mochi",
+      "audio_cues": {
+        "tone": "accepting Mochi's wisdom",
+        "pacing": "steady, final",
+        "emphasis_words": [
+          "Mochi",
+          "right about everything"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 600,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_202",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "We stood in the Garden of Stones as the grey filtered light of the Shattered Span played across ice formations. The wind whistled through frozen passages. Somewhere distant, ice cracked and fell and no one would ever know what it had been.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "atmospheric reflection",
+        "pacing": "slow, meditative",
+        "emphasis_words": [
+          "Garden of Stones",
+          "grey filtered light",
+          "cracked and fell"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 5200
+      }
+    },
+    {
+      "segment_id": "seg_203",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "Arc was silent for a long time. Then: Miss Paradox, I find I would very much like to return to Chronicle Hall. I have research to conduct. Questions to ask. Memories to... to audit.",
+      "direction": "Arc seeking understanding",
+      "audio_cues": {
+        "tone": "formal but seeking",
+        "pacing": "slow with meaningful pauses",
+        "emphasis_words": [
+          "very much like",
+          "research",
+          "Memories",
+          "audit"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_204",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Yeah. I said softly. Yeah, okay.",
+      "direction": "Pixel's gentle agreement",
+      "audio_cues": {
+        "tone": "soft agreement",
+        "pacing": "slow",
+        "emphasis_words": [
+          "Yeah"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1600
+      }
+    },
+    {
+      "segment_id": "seg_205",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi had brightened to soft pink now—content, or at least comforted. Still tired. Still grieving. But held and safe.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "small comfort in grief",
+        "pacing": "slow, tender",
+        "emphasis_words": [
+          "soft pink",
+          "comforted",
+          "held and safe"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_206",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I looked back at the Keeper one last time. For what it's worth, I'm glad we tried.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "final farewell",
+        "pacing": "slow",
+        "emphasis_words": [
+          "last time",
+          "glad we tried"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_207",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "As am I. Arc said. Though the probable consequences are... substantial.",
+      "direction": "Arc's acknowledgment of cost",
+      "audio_cues": {
+        "tone": "formal acknowledgment",
+        "pacing": "steady",
+        "emphasis_words": [
+          "As am I",
+          "consequences",
+          "substantial"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2800
+      }
+    },
+    {
+      "segment_id": "seg_208",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "When have we ever cared about probable?",
+      "direction": "Pixel's characteristic defiance",
+      "audio_cues": {
+        "tone": "characteristic wit",
+        "pacing": "quick",
+        "emphasis_words": [
+          "probable"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2000
+      }
+    },
+    {
+      "segment_id": "seg_209",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "An excellent point. I've stopped trying to calculate odds where you're concerned, Miss Paradox. The mathematics consistently fail to account for your particular brand of stubborn hope.",
+      "direction": "Arc's concession and affection",
+      "audio_cues": {
+        "tone": "formal but warm",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "excellent point",
+          "stubborn hope"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4200
+      }
+    },
+    {
+      "segment_id": "seg_210",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "That might be the nicest thing you've ever said to me.",
+      "direction": "Pixel's warmth",
+      "audio_cues": {
+        "tone": "warm, genuine",
+        "pacing": "steady",
+        "emphasis_words": [
+          "nicest thing"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2200
+      }
+    },
+    {
+      "segment_id": "seg_211",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "arc",
+      "speaker_mode": "dialogue",
+      "text": "I would prefer you didn't tell anyone. I have a reputation for logic to maintain.",
+      "direction": "Arc's characteristic deflection",
+      "audio_cues": {
+        "tone": "dry wit, protecting reputation",
+        "pacing": "quick, defensive",
+        "emphasis_words": [
+          "prefer you didn't tell",
+          "logic"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2600
+      }
+    },
+    {
+      "segment_id": "seg_212",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Clive was the last to leave. He stood there, glowing head tilted down toward the dead Keeper, symbols pulsing in that ancient pattern I couldn't read.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "observation of Clive's farewell",
+        "pacing": "slow, respectful",
+        "emphasis_words": [
+          "last to leave",
+          "ancient pattern"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_213",
+      "page_number": 20,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "You okay?",
+      "direction": "Pixel checking on Clive",
+      "audio_cues": {
+        "tone": "gentle question",
+        "pacing": "quick",
+        "emphasis_words": [
+          "okay"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 900
+      }
+    },
+    {
+      "segment_id": "seg_214",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "I remember them. He said quietly. Not all of it. Just... I remember when they were everywhere. When memory was safe. When nothing was being lost.",
+      "direction": "Clive's ancient grief",
+      "audio_cues": {
+        "tone": "gravelly nostalgia, ancient loss",
+        "pacing": "slow, reflective",
+        "emphasis_words": [
+          "remember them",
+          "everywhere",
+          "memory was safe"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4000
+      }
+    },
+    {
+      "segment_id": "seg_215",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "We'll figure this out. The Dimming, the Keepers, all of it.",
+      "direction": "Pixel's determination",
+      "audio_cues": {
+        "tone": "resolute promise",
+        "pacing": "steady, determined",
+        "emphasis_words": [
+          "figure this out",
+          "Dimming",
+          "all of it"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_216",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "He turned to face me, fedora tilted at that rakish angle. Kid, you just picked a fight with people who think they're saving the world. You know what that means?",
+      "direction": "Clive's noir tone, serious warning",
+      "audio_cues": {
+        "tone": "gravelly warning, noir detective",
+        "pacing": "steady, measured",
+        "emphasis_words": [
+          "picked a fight",
+          "saving the world"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 3600
+      }
+    },
+    {
+      "segment_id": "seg_217",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Means they'll come after us.",
+      "direction": "Pixel stating fact",
+      "audio_cues": {
+        "tone": "accepting consequences",
+        "pacing": "quick",
+        "emphasis_words": [
+          "come after us"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "seg_218",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "clive",
+      "speaker_mode": "dialogue",
+      "text": "Means they already are. And means we'd better find those answers fast. Because if they're right—if waking these Keepers really is accelerating the end—then we're the ones killing the lights.",
+      "direction": "Clive's noir understanding of stakes",
+      "audio_cues": {
+        "tone": "gravelly noir wisdom, stakes clarified",
+        "pacing": "steady, deliberate",
+        "emphasis_words": [
+          "already are",
+          "fast",
+          "killing the lights"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 4800
+      }
+    },
+    {
+      "segment_id": "seg_219",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "He walked past me, his measured steps somehow heavier than before.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "physical description of departure",
+        "pacing": "slow",
+        "emphasis_words": [
+          "walked past",
+          "heavier"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2400
+      }
+    },
+    {
+      "segment_id": "seg_220",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "I looked at Mochi, glowing soft pink in my arms. He's wrong. Right? The Quiet's wrong about this?",
+      "direction": null,
+      "audio_cues": {
+        "tone": "seeking reassurance",
+        "pacing": "quick, questioning",
+        "emphasis_words": [
+          "wrong",
+          "Quiet's wrong"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 300,
+        "estimated_duration_ms": 2600
+      }
+    },
+    {
+      "segment_id": "sfx_028",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "SFX",
+      "speaker_mode": "sound_effect_marker",
+      "text": "[SFX: Mochi's response - green pulse, orange ripple, violet swirl - yes, maybe, mystery]",
+      "direction": "Mochi's honest ambiguous answer",
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "marker_duration_ms": 1500
+      }
+    },
+    {
+      "segment_id": "seg_221",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Green pulse. Yes. Then orange ripple. Maybe. Then violet swirl. Mystery.",
+      "direction": "Interpreting Mochi's colors",
+      "audio_cues": {
+        "tone": "understanding Mochi's wisdom",
+        "pacing": "slow, sequential",
+        "emphasis_words": [
+          "Green",
+          "orange",
+          "violet",
+          "Mystery"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 300,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 2600
+      }
+    },
+    {
+      "segment_id": "seg_222",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "dialogue",
+      "text": "Super helpful, as always.",
+      "direction": "Pixel's wry response",
+      "audio_cues": {
+        "tone": "dry humor",
+        "pacing": "quick",
+        "emphasis_words": [
+          "helpful"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 200,
+        "pause_after_ms": 400,
+        "estimated_duration_ms": 1400
+      }
+    },
+    {
+      "segment_id": "seg_223",
+      "page_number": 21,
+      "section": "act_three",
+      "speaker": "pixel",
+      "speaker_mode": "narration",
+      "text": "Mochi's warm surface pulsed against my chest—that gentle vibration that meant affection, comfort, presence. Even in doubt, even in grief, even in the space between knowing and not knowing... We had each other. And somehow, that felt like enough. For now.",
+      "direction": null,
+      "audio_cues": {
+        "tone": "final comfort, connection, hope",
+        "pacing": "slow, intimate, final",
+        "emphasis_words": [
+          "warm surface",
+          "affection",
+          "We had each other",
+          "enough"
+        ]
+      },
+      "timing": {
+        "pause_before_ms": 400,
+        "pause_after_ms": 1000,
+        "estimated_duration_ms": 5200
+      }
+    }
+  ],
+  "assembly_config": {
+    "default_pause_between_narration_ms": 300,
+    "default_pause_between_dialogue_ms": 200,
+    "pause_before_arc_dialogue_ms": 250,
+    "pause_before_clive_dialogue_ms": 300,
+    "pause_after_dialogue_ms": 400,
+    "page_turn_pause_before_ms": 1000,
+    "page_turn_pause_after_ms": 500,
+    "sfx_marker_silence_ms": 2000,
+    "music_marker_silence_ms": 3000
+  }
+}

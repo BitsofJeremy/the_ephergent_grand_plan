@@ -1,0 +1,96 @@
+---
+---
+<header class="fixed top-0 left-0 right-0 z-50 border-b border-border-subtle bg-bg-deep/90 backdrop-blur-sm">
+  <nav class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+    <a href="/" class="font-display font-bold text-xl text-text-primary tracking-tight hover:text-accent-cyan transition-colors duration-300 focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">
+      EPHERGENT
+    </a>
+    <div class="hidden md:flex items-center gap-8">
+      <a href="/games/" class="text-text-secondary hover:text-accent-cyan transition-colors duration-300 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Games</a>
+      <a href="/journal/" class="text-text-secondary hover:text-accent-cyan transition-colors duration-300 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Journal</a>
+      <a href="/crew/" class="text-text-secondary hover:text-accent-cyan transition-colors duration-300 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Crew</a>
+      <a href="/atlas/" class="text-text-secondary hover:text-accent-cyan transition-colors duration-300 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Lore Atlas</a>
+      <a href="/transmissions/" class="text-text-secondary hover:text-accent-cyan transition-colors duration-300 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-accent-cyan rounded">Transmissions</a>
+    </div>
+    <div class="flex items-center gap-4">
+      <!-- Mobile hamburger button -->
+      <button id="mobile-menu-btn" class="md:hidden relative w-8 h-8 flex items-center justify-center cursor-pointer text-text-primary" aria-label="Open menu">
+        <span class="hamburger-line hamburger-top"></span>
+        <span class="hamburger-line hamburger-mid"></span>
+        <span class="hamburger-line hamburger-bot"></span>
+      </button>
+    </div>
+  </nav>
+</header>
+
+<!-- Mobile menu backdrop -->
+<div id="mobile-backdrop" class="fixed inset-0 bg-black/50 z-[998] opacity-0 pointer-events-none transition-opacity duration-300"></div>
+
+<!-- Mobile menu panel -->
+<nav id="mobile-menu" class="fixed top-0 right-0 w-[75%] max-w-[320px] h-full bg-bg-deep/95 backdrop-blur-xl z-[999] transform translate-x-full transition-transform duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] flex flex-col pt-20 px-8 gap-6">
+  <a href="/games/" class="text-lg text-text-primary/80 hover:text-accent-cyan transition-colors mobile-link">Games</a>
+  <a href="/journal/" class="text-lg text-text-primary/80 hover:text-accent-cyan transition-colors mobile-link">Journal</a>
+  <a href="/crew/" class="text-lg text-text-primary/80 hover:text-accent-cyan transition-colors mobile-link">Crew</a>
+  <a href="/atlas/" class="text-lg text-text-primary/80 hover:text-accent-cyan transition-colors mobile-link">Lore Atlas</a>
+  <a href="/transmissions/" class="text-lg text-text-primary/80 hover:text-accent-cyan transition-colors mobile-link">Transmissions</a>
+  <div class="mt-auto mb-8">
+    <p class="text-xs text-text-secondary">Ephergent v1.0</p>
+  </div>
+</nav>
+
+<style>
+  .hamburger-line {
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    background: currentColor;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .hamburger-top { transform: translateY(-6px); }
+  .hamburger-mid { transform: translateY(0); }
+  .hamburger-bot { transform: translateY(6px); }
+
+  .menu-open .hamburger-top { transform: rotate(45deg); }
+  .menu-open .hamburger-mid { opacity: 0; }
+  .menu-open .hamburger-bot { transform: rotate(-45deg); }
+
+  .mobile-link {
+    opacity: 0;
+    transform: translateX(20px);
+    transition: all 0.3s ease;
+  }
+
+  #mobile-menu.open .mobile-link {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  #mobile-menu.open .mobile-link:nth-child(1) { transition-delay: 80ms; }
+  #mobile-menu.open .mobile-link:nth-child(2) { transition-delay: 160ms; }
+  #mobile-menu.open .mobile-link:nth-child(3) { transition-delay: 240ms; }
+  #mobile-menu.open .mobile-link:nth-child(4) { transition-delay: 320ms; }
+  #mobile-menu.open .mobile-link:nth-child(5) { transition-delay: 400ms; }
+</style>
+
+<script>
+  const menuBtn = document.getElementById('mobile-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const backdrop = document.getElementById('mobile-backdrop');
+
+  function toggleMenu() {
+    if (!mobileMenu || !backdrop || !menuBtn) return;
+    const isOpen = mobileMenu.classList.toggle('open');
+    mobileMenu.classList.toggle('translate-x-full', !isOpen);
+    mobileMenu.classList.toggle('translate-x-0', isOpen);
+    backdrop.classList.toggle('opacity-0', !isOpen);
+    backdrop.classList.toggle('opacity-100', isOpen);
+    backdrop.classList.toggle('pointer-events-none', !isOpen);
+    backdrop.classList.toggle('pointer-events-auto', isOpen);
+    menuBtn.classList.toggle('menu-open', isOpen);
+    menuBtn.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+    document.body.style.overflow = isOpen ? 'hidden' : '';
+  }
+
+  menuBtn?.addEventListener('click', toggleMenu);
+  backdrop?.addEventListener('click', toggleMenu);
+</script>

@@ -1,0 +1,44 @@
+---
+// Transmissions hub landing page
+---
+
+<html>
+  <head>
+    <title>Transmissions | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(120deg, #0ff1ce 0%, #0a0a1a 100%);
+      }
+      .trans-hero {
+        font-family: 'Orbitron', 'Share Tech Mono', monospace, sans-serif;
+        letter-spacing: 0.08em;
+        text-shadow: 0 2px 16px #0ff1ce88, 0 1px 0 #222;
+      }
+      .trans-desc {
+        font-family: 'Share Tech Mono', monospace;
+        color: #0ff1ce;
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+        text-shadow: 0 2px 8px #0ff1ce44;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce11 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-center relative overflow-hidden">
+    <div class="scanlines"></div>
+    <h1 class="trans-hero text-6xl font-black mb-6 mt-8 tracking-widest">TRANSMISSIONS</h1>
+    <div class="trans-desc">Weekly in-character broadcasts from the crew, written by Hermes agents.</div>
+    <!-- Transmissions list will be dynamically generated from content/transmissions/ -->
+  </body>
+</html>

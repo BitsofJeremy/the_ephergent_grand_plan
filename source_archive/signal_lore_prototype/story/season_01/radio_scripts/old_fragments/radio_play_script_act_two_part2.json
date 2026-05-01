@@ -1,0 +1,983 @@
+{
+    "metadata": {
+        "episode_code": "S01E01",
+        "title": "The Keeper's Wake - ACT TWO (Part 2 of 2)",
+        "source_file": "s01e01_the_keepers_wake.md",
+        "generated_at": "2026-02-03T06:10:00Z",
+        "version": "1.0.0",
+        "note": "Act Two Part 2 - Escape sequence, emergence, aftermath, naming, fedora gift"
+    },
+    "segments": [
+        {
+            "segment_id": "sfx_024",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[RUNNING FOOTSTEPS - multiple entities, stone passage, chamber collapsing behind]",
+            "direction": "Escape in progress",
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 200,
+                "marker_duration_ms": 5000
+            }
+        },
+        {
+            "segment_id": "seg_158",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "We hit the passage as the chamber collapses behind us. Stone grinding, ancient architecture finally surrendering to centuries of patient pressure. The temple is coming down, and we're still inside.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "urgent, running, describing catastrophe",
+                "pacing": "fast, breathless",
+                "emphasis_words": [
+                    "collapses",
+                    "surrendering",
+                    "coming down"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 8400
+            }
+        },
+        {
+            "segment_id": "seg_159",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The passage is narrow, dark despite the bioluminescence. My flashlight beam bounces wildly as I run. Behind me, I hear the automaton's footsteps—heavy, fast, sure-footed even on crumbling stone. The dome's light cuts through the darkness ahead, leading the way.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "running, tracking sensory details",
+                "pacing": "fast, action",
+                "emphasis_words": [
+                    "narrow",
+                    "crumbling",
+                    "leading"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 10800
+            }
+        },
+        {
+            "segment_id": "seg_160",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "arc",
+            "speaker_mode": "dialogue",
+            "text": "Thirty meters to exit! Twenty-five! Twenty! Miss Paradox, structural analysis suggests—",
+            "direction": "counting down, analytical even while terrified",
+            "audio_cues": {
+                "tone": "urgent counting, helpful navigation",
+                "pacing": "fast, staccato countdown",
+                "emphasis_words": [
+                    "Thirty",
+                    "Twenty-five",
+                    "Twenty"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 250,
+                "pause_after_ms": 200,
+                "estimated_duration_ms": 3600
+            }
+        },
+        {
+            "segment_id": "seg_161",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Save it, Arc! Just guide me out!",
+            "direction": "shouting over collapse noise, cutting him off",
+            "audio_cues": {
+                "tone": "shouting, urgent, no time",
+                "pacing": "fast, commanding",
+                "emphasis_words": [
+                    "Save it",
+                    "guide me out"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 100,
+                "pause_after_ms": 300,
+                "estimated_duration_ms": 2000
+            }
+        },
+        {
+            "segment_id": "sfx_025",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[FLOOR BUCKLING - stone breaking, stumbling]",
+            "direction": "Near fall",
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 200,
+                "marker_duration_ms": 1500
+            }
+        },
+        {
+            "segment_id": "seg_162",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The floor buckles. I stumble, catch myself against the wall. The geometric patterns carved in the stone are going dark—Signal energy failing as the temple dies. Eight centuries of patient waiting, ended in minutes because I touched something I shouldn't have.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "struggling, guilty realization",
+                "pacing": "fast but controlled",
+                "emphasis_words": [
+                    "buckles",
+                    "dying",
+                    "I touched"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 10800
+            }
+        },
+        {
+            "segment_id": "seg_163",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Because someone wanted me to touch it.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "dark realization, anger",
+                "pacing": "measured despite running",
+                "emphasis_words": [
+                    "someone wanted"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 2000
+            }
+        },
+        {
+            "segment_id": "seg_164",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Fifteen meters.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "tracking distance, focused",
+                "pacing": "quick",
+                "emphasis_words": []
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 300,
+                "estimated_duration_ms": 800
+            }
+        },
+        {
+            "segment_id": "sfx_026",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[CEILING COLLAPSE - roots tearing, moss raining down]",
+            "direction": "Close call overhead",
+            "timing": {
+                "pause_before_ms": 100,
+                "pause_after_ms": 200,
+                "marker_duration_ms": 2000
+            }
+        },
+        {
+            "segment_id": "seg_165",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The ceiling cracks. Roots tear free, bioluminescent moss raining down. I duck, cover my head, keep running.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "reacting, protecting self",
+                "pacing": "fast, action beats",
+                "emphasis_words": [
+                    "cracks",
+                    "duck",
+                    "keep running"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 400,
+                "estimated_duration_ms": 3600
+            }
+        },
+        {
+            "segment_id": "seg_166",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The automaton runs beside me—fast for his size, those thick legs built for exactly this kind of terrain. His pink-magenta glow cuts through the dust and falling debris.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "noting Clive keeping pace",
+                "pacing": "fast, observing",
+                "emphasis_words": [
+                    "runs beside me",
+                    "built for"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 400,
+                "estimated_duration_ms": 7200
+            }
+        },
+        {
+            "segment_id": "seg_167",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Ten meters.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "urgent countdown",
+                "pacing": "quick",
+                "emphasis_words": [
+                    "Ten"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 300,
+                "estimated_duration_ms": 800
+            }
+        },
+        {
+            "segment_id": "seg_168",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "arc",
+            "speaker_mode": "dialogue",
+            "text": "Miss Paradox, left side ceiling collapse imminent! Recommend immediate evasive—",
+            "direction": "warning, cut off by collapse",
+            "audio_cues": {
+                "tone": "urgent warning, helpful",
+                "pacing": "fast, interrupted",
+                "emphasis_words": [
+                    "imminent",
+                    "immediate"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 250,
+                "pause_after_ms": 100,
+                "estimated_duration_ms": 3600
+            }
+        },
+        {
+            "segment_id": "sfx_027",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[STONE CRASH - massive impact, rolling dive]",
+            "direction": "Near miss, evasive action",
+            "timing": {
+                "pause_before_ms": 100,
+                "pause_after_ms": 300,
+                "marker_duration_ms": 2500
+            }
+        },
+        {
+            "segment_id": "seg_169",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Stone crashes down. I dive right, rolling, tucking. Pain lances through my shoulder—impact, nothing broken, but I'll feel that for days. The automaton staggers as falling debris clips his shoulder. His glow flickers but doesn't fade. He just keeps moving, relentless.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "pain, determination, admiring Clive",
+                "pacing": "fast, action sequence",
+                "emphasis_words": [
+                    "Pain",
+                    "broken",
+                    "relentless"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 500,
+                "estimated_duration_ms": 11400
+            }
+        },
+        {
+            "segment_id": "seg_170",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Five meters.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "almost there",
+                "pacing": "quick",
+                "emphasis_words": [
+                    "Five"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 300,
+                "estimated_duration_ms": 800
+            }
+        },
+        {
+            "segment_id": "seg_171",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Ahead, I can see it—daylight. Jungle green and humid air and safety.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "hope, seeing exit",
+                "pacing": "fast, rising",
+                "emphasis_words": [
+                    "daylight",
+                    "safety"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 400,
+                "estimated_duration_ms": 3000
+            }
+        },
+        {
+            "segment_id": "seg_172",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "arc",
+            "speaker_mode": "dialogue",
+            "text": "Jump!",
+            "direction": "shouted command, urgent",
+            "audio_cues": {
+                "tone": "shouting, urgent command",
+                "pacing": "LOUD",
+                "emphasis_words": [
+                    "Jump"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 100,
+                "pause_after_ms": 300,
+                "estimated_duration_ms": 500
+            }
+        },
+        {
+            "segment_id": "seg_173",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I jump.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "action, commitment",
+                "pacing": "quick",
+                "emphasis_words": [
+                    "jump"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 100,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 600
+            }
+        },
+        {
+            "segment_id": "sfx_028",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[TEMPLE ENTRANCE COLLAPSE - massive stone blocks crashing, dust explosion, silence after]",
+            "direction": "Final collapse, sealing entrance",
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 500,
+                "marker_duration_ms": 5000
+            }
+        },
+        {
+            "segment_id": "page_turn_011",
+            "page_number": 13,
+            "section": "act_two",
+            "speaker": "PAGE_TURN",
+            "speaker_mode": "page_turn_cue",
+            "text": "[DING - page turn cue]",
+            "direction": "Signals reader to turn page",
+            "timing": {
+                "pause_before_ms": 1000,
+                "cue_duration_ms": 500,
+                "pause_after_ms": 500
+            }
+        },
+        {
+            "segment_id": "seg_174",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "We tumble out into Verdanya sunlight as the temple entrance collapses behind us. Massive stone blocks crash down, sealing the passage. Dust billows out in a choking cloud, then settles. The sound echoes through the jungle—ancient architecture's death rattle.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "relief mixed with awe at destruction",
+                "pacing": "measured, describing aftermath",
+                "emphasis_words": [
+                    "tumble out",
+                    "sealing",
+                    "death rattle"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 10800
+            }
+        },
+        {
+            "segment_id": "seg_175",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Then silence.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "aftermath, stillness",
+                "pacing": "slow, emphasizing quiet",
+                "emphasis_words": [
+                    "silence"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 700,
+                "pause_after_ms": 1000,
+                "estimated_duration_ms": 1000
+            }
+        },
+        {
+            "segment_id": "sfx_029",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[JUNGLE AMBIENCE - birds returning, insects, life resuming]",
+            "direction": "Nature returning after shock",
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 300,
+                "marker_duration_ms": 3000
+            }
+        },
+        {
+            "segment_id": "seg_176",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I lie on jungle floor covered in moss and leaf litter, gasping, staring up at the canopy. My shoulder throbs. My ears ring. Everything hurts.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "exhausted, pain, relief",
+                "pacing": "slow, catching breath",
+                "emphasis_words": [
+                    "gasping",
+                    "throbs",
+                    "hurts"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 6000
+            }
+        },
+        {
+            "segment_id": "seg_177",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "But we're alive.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "grateful realization",
+                "pacing": "measured, emphasis",
+                "emphasis_words": [
+                    "alive"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 1200
+            }
+        },
+        {
+            "segment_id": "seg_178",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "All of us.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "wonder, including new companions",
+                "pacing": "soft, warm",
+                "emphasis_words": [
+                    "All"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 900,
+                "estimated_duration_ms": 1000
+            }
+        },
+        {
+            "segment_id": "sfx_030",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[MOCHI CHIRP - soft pink glow, descending concerned query]",
+            "direction": "Mochi checking on Pixel",
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 300,
+                "marker_duration_ms": 1500
+            }
+        },
+        {
+            "segment_id": "seg_179",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The dome hovers into my field of vision, glowing soft pink now. Concerned. It makes a descending chirp—a question. Are you okay?",
+            "direction": null,
+            "audio_cues": {
+                "tone": "touched, interpreting care",
+                "pacing": "gentle, warm",
+                "emphasis_words": [
+                    "Concerned",
+                    "Are you okay"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 6000
+            }
+        },
+        {
+            "segment_id": "seg_180",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "I'm okay. Just... need a minute.",
+            "direction": "breathless, reassuring",
+            "audio_cues": {
+                "tone": "exhausted but reassuring",
+                "pacing": "slow, catching breath",
+                "emphasis_words": []
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 2000
+            }
+        },
+        {
+            "segment_id": "seg_181",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "arc",
+            "speaker_mode": "dialogue",
+            "text": "Miss Paradox. I apologize for my... for my panic. For the urgency. But I found myself unable to process the thought of you being harmed. I was—I am—relieved. That you're unharmed. Is this normal? This feeling?",
+            "direction": "post-sentience, processing emotions, vulnerable",
+            "audio_cues": {
+                "tone": "quiet, uncertain, exploring new emotions",
+                "pacing": "careful, searching for words",
+                "emphasis_words": [
+                    "unable to process",
+                    "relieved",
+                    "feeling"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 250,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 12600
+            }
+        },
+        {
+            "segment_id": "seg_182",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "I stare at my wristband. His holographic interface projects above it—geometric patterns in blue-white light, just like always. But there's something different now. The patterns move differently. With intention. With personality.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "observing Arc's transformation with wonder",
+                "pacing": "measured, respectful",
+                "emphasis_words": [
+                    "different",
+                    "intention",
+                    "personality"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 10200
+            }
+        },
+        {
+            "segment_id": "seg_183",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Like there's someone looking back at me.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "realization, connection",
+                "pacing": "soft, warm",
+                "emphasis_words": [
+                    "someone"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 2000
+            }
+        },
+        {
+            "segment_id": "seg_184",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Arc... Arc, I think you just became sentient.",
+            "direction": "gentle delivery of profound truth",
+            "audio_cues": {
+                "tone": "gentle, defining moment",
+                "pacing": "soft, careful",
+                "emphasis_words": [
+                    "sentient"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 1000,
+                "estimated_duration_ms": 2400
+            }
+        },
+        {
+            "segment_id": "seg_185",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "Silence. Long silence. Processing something that can't be processed in normal ways.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "respectful, waiting",
+                "pacing": "slow, giving space",
+                "emphasis_words": [
+                    "Silence",
+                    "can't be processed"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 600,
+                "pause_after_ms": 900,
+                "estimated_duration_ms": 3600
+            }
+        },
+        {
+            "segment_id": "page_turn_012",
+            "page_number": 14,
+            "section": "act_two",
+            "speaker": "PAGE_TURN",
+            "speaker_mode": "page_turn_cue",
+            "text": "[DING - page turn cue]",
+            "direction": "Signals reader to turn page",
+            "timing": {
+                "pause_before_ms": 1000,
+                "cue_duration_ms": 500,
+                "pause_after_ms": 500
+            }
+        },
+        {
+            "segment_id": "seg_186",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "arc",
+            "speaker_mode": "dialogue",
+            "text": "I believe you may be correct, Miss Paradox. I find the prospect both fascinating and deeply unsettling. I have memories of the last three years, but they feel... flat. Procedural. Like watching recordings rather than experiencing events. But the last ten minutes— Those felt real. Present. Frightening.",
+            "direction": "processing existence, vulnerable honesty",
+            "audio_cues": {
+                "tone": "careful, exploring, vulnerable",
+                "pacing": "measured, thoughtful",
+                "emphasis_words": [
+                    "flat",
+                    "Procedural",
+                    "real",
+                    "Frightening"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 250,
+                "pause_after_ms": 900,
+                "estimated_duration_ms": 15000
+            }
+        },
+        {
+            "segment_id": "seg_187",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "dialogue",
+            "text": "Yeah. Welcome to consciousness. It's intense.",
+            "direction": "wry, warm, welcoming",
+            "audio_cues": {
+                "tone": "gentle humor, welcoming",
+                "pacing": "soft, understanding",
+                "emphasis_words": [
+                    "Welcome",
+                    "intense"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 200,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 2400
+            }
+        },
+        {
+            "segment_id": "seg_188",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The automaton sits nearby, his spherical head dimmed to a faint glow. He's looking at his hands—three-fingered, precise, covered in centuries of patina. Looking at himself like seeing for the first time in forever. Or seeing again after forgetting what it meant to see.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "observing Clive with compassion",
+                "pacing": "gentle, respectful",
+                "emphasis_words": [
+                    "looking at his hands",
+                    "seeing again"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 500,
+                "pause_after_ms": 800,
+                "estimated_duration_ms": 13200
+            }
+        },
+        {
+            "segment_id": "seg_189",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "clive",
+            "speaker_mode": "dialogue",
+            "text": "Eight hundred years. I was out eight hundred years.",
+            "direction": "processing time loss, heavy realization",
+            "audio_cues": {
+                "tone": "heavy, processing impossibility",
+                "pacing": "slow, weighted",
+                "emphasis_words": [
+                    "Eight hundred years"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 3000
+            }
+        },
+        {
+            "segment_id": "seg_190",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "His head swivels toward the dome, which hovers near him, pulsing that gentle pink.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "observing connection",
+                "pacing": "measured",
+                "emphasis_words": []
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 3600
+            }
+        },
+        {
+            "segment_id": "seg_191",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "clive",
+            "speaker_mode": "dialogue",
+            "text": "You woke me. After all this time. Why?",
+            "direction": "questioning Mochi, direct",
+            "audio_cues": {
+                "tone": "direct question, seeking purpose",
+                "pacing": "measured",
+                "emphasis_words": [
+                    "Why"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 600,
+                "estimated_duration_ms": 2400
+            }
+        },
+        {
+            "segment_id": "sfx_031",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "SFX",
+            "speaker_mode": "sound_effect_marker",
+            "text": "[MOCHI HARMONIC - complex layered response, meaning without words]",
+            "direction": "Mochi's answer",
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 400,
+                "marker_duration_ms": 2500
+            }
+        },
+        {
+            "segment_id": "seg_192",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The dome responds with a harmonic chord—complex, layered, communicating meaning through pure sound. No words, but meaning nonetheless.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "interpreting alien communication",
+                "pacing": "measured, wonder",
+                "emphasis_words": [
+                    "harmonic",
+                    "meaning"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 6000
+            }
+        },
+        {
+            "segment_id": "seg_193",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "pixel",
+            "speaker_mode": "narration",
+            "text": "The automaton nods like he understands.",
+            "direction": null,
+            "audio_cues": {
+                "tone": "observing understanding",
+                "pacing": "measured",
+                "emphasis_words": [
+                    "understands"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 400,
+                "pause_after_ms": 700,
+                "estimated_duration_ms": 2000
+            }
+        },
+        {
+            "segment_id": "seg_194",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "clive",
+            "speaker_mode": "dialogue",
+            "text": "Okay. Okay. We're together again. That's... That's good. That's right. We were supposed to stay together.",
+            "direction": "emotion surfacing through memory fragments",
+            "audio_cues": {
+                "tone": "rough voice cracking with feeling",
+                "pacing": "halting, finding words",
+                "emphasis_words": [
+                    "together",
+                    "good",
+                    "right",
+                    "supposed to"
+                ]
+            },
+            "timing": {
+                "pause_before_ms": 300,
+                "pause_after_ms": 900,
+                "estimated_duration_ms": 5400
+            }
+        },
+        {
+            "segment_id": "music_007",
+            "page_number": 15,
+            "section": "act_two",
+            "speaker": "MUSIC",
+            "speaker_mode": "music_marker",
+            "text": "[MUSIC: Aftermath - gentle, emotional, new beginning]",
+            "direction": "Transition to quiet character moment",
+            "timing": {
+                "fade_in_ms": 2000,
+                "marker_duration_ms": 4000,
+                "fade_out_ms": 3000
+            }
+        }
+    ],
+    "assembly_config": {
+        "default_pause_between_narration_ms": 300,
+        "default_pause_between_dialogue_ms": 200,
+        "pause_before_arc_dialogue_ms": 250,
+        "pause_before_clive_dialogue_ms": 300,
+        "pause_after_dialogue_ms": 400,
+        "page_turn_pause_before_ms": 1000,
+        "page_turn_pause_after_ms": 500,
+        "sfx_marker_silence_ms": 2000,
+        "music_marker_silence_ms": 3000
+    }
+}
