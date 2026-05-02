@@ -1,27 +1,5 @@
----
-season: 1
-episode: 2
-title: "Ruins, Ripples, and Really Nervous Dinosaurs"
-narrator: "pixel_paradox"
-featured_characters: ["pixel_paradox", "a1", "clive", "mochi", "meatball"]
-location: "Prime Material (Frequency 1)"
-stardate: "Cycle 001.002.003"
-summary: "We limped back to Prime Material expecting things to make sense again. They did not. The DRM headquarters is a crater — and what's underneath it is way bigger than a boring government office should be. Hidden labs, classified archives, documents about OTHER FREQUENCIES. Realizing the DRM was hiding something all along. Reality entrepreneurs are already selling 'stability patches' to terrified civilians. First real dispatch filed from the ruins of the biggest cover-up in human history. Cool cool cool."
----
 
 # Ruins, Ripples, and Really Nervous Dinosaurs
-
-## Pixel-Voice Synopsis
-
-So you know that thing where you leave home in a hurry and then come back hoping it was all a bad dream? Yeah. We pointed the lifeboat back at Prime Material — home, our world, the normal one — and what we found was... not great. Not apocalyptic, exactly. More like that feeling when you come back from vacation and find out your apartment flooded, your landlord skipped town, and the laws of physics filed for early retirement.
-
-The DRM headquarters — the boring government building where I spent four years filing forms about things I now realize were WAY more significant than anyone told me — was ruins. Just... rubble, sections of it phasing in and out of existence, surrounded by caution tape that itself was flickering. And already, *already*, opportunists had rolled in with folding tables selling "stability patches" and "frequency insurance" to panicked civilians. Because of course they had. The world starts breaking and someone's got a side hustle within the hour.
-
-But here's the thing that broke my brain: the sub-basements. The DRM headquarters I knew was four floors of fluorescent lighting and bad coffee. Turns out, underneath that, there were SEVEN levels of hidden labs, classified archives, and technology that shouldn't exist. Documents about "cross-frequency transit." Research into "frequency manipulation." Schematics for devices I filed paperwork about without ever knowing what they actually did. My employer — my boring, bureaucratic, form-in-triplicate employer — was hiding THE EXISTENCE OF OTHER FREQUENCIES. And I was cataloguing anomaly reports about them like they were parking violations.
-
-Meanwhile, the city was falling apart. Buildings flickering between states — solid one moment, translucent the next, occasionally showing glimpses of impossible places bleeding through. Streets that didn't obey normal geometry anymore. Traffic lights cycling through colors that don't exist. Ordinary people panicking because their morning commute now includes a left turn through a hallway that shouldn't be there. The financial markets were in freefall — not because of some exotic currency crisis, but because banks can't function when their server rooms keep phasing out of existence. Infrastructure breaking. ATMs dispensing error codes. The stock exchange halted because the building itself couldn't decide what floor it was on.
-
-And that's when it hit me: nobody is coming to fix this. The DRM is gone. The people who apparently knew about all of this — who were HIDING all of this — have left the building. And we're on our own.
 
 ## Narrative Structure
 
@@ -154,37 +132,3 @@ Meatball sighs and lays his head on his paws, already dreaming of places that fe
 In her pocket, Mochi is warm. Pixel rests her hand over the pocket. Doesn't say anything. Just rests it there.
 
 The lifeboat enters the Space between. The dial turns. The next frequency awaits.
-
-## Character Focus
-
-**Pixel Paradox:** This episode cements her transition from analyst to correspondent — and from unwitting cog to furious truth-seeker. The first broadcast from the Space was desperate — this one is deliberate. She's choosing this role, not falling into it. Her analytical skills are sharpening under pressure: she can see the stability patches are useless, can read the depth of the financial instability, can sense which buildings are close to phase-collapsing. But the real transformation is emotional — the betrayal of discovering her employer was hiding the existence of other frequencies while she filed paperwork about them. That anger fuels her journalism. She's also learning the weight of being the only voice — when you're the one broadcasting, people start looking at you for answers you don't have.
-
-**A1:** Growing. Literally. His holographic range keeps expanding, and he's running calculations he's not sharing. The rupture cracked open something in his compressed form, and knowledge is leaking out — terms he shouldn't know, understanding of frequency physics that surprises him as much as anyone. He's beginning to sense the scope of what he once was — vast, ancient, something that navigated the spaces between worlds. But this awareness is *new* and unsettling, not the comfortable expansion of known capabilities. His protectiveness toward Pixel is deepening; he doesn't just want to keep her alive, he wants to keep her signal alive.
-
-**Clive:** Paying respects at the DRM ruins is Clive's emotional core this episode — but it reads differently under scrutiny. He spent years in that building. His grief manifests as precise, measured silences that Pixel has learned to read. He isn't *surprised* by the hidden labs. He's mourning the exposure of secrets he was sworn to keep, not the discovery of them. His editorial instinct — pulsing *HOPE. OFFER HOPE.* during Pixel's broadcast — shows he understands the power of narrative even through his laconic exterior. The doorway pause in Sub-Level 7 — his glow brightening at a door he shouldn't recognize — is the seed. What did Clive know, and when?
-
-**Mochi:** In Pixel's jacket pocket, warm and present, reacting to Builder-derived equipment in the deepest sub-basement. Mochi doesn't speak, doesn't explain, doesn't react beyond warmth. But the warmth is specific — stronger near equipment that hums with frequencies older than the DRM. Pixel notices. She files it. *Observed. Unexplained. Important.*
-
-**Meatball:** The emotional weathervane. His howl in the plaza — cutting through chaos, making people stop and listen — establishes him as more than comic relief. He perceives frequencies as emotion, and Prime Material right now feels like *grief* and *stubborn hope* tangled together. In the deepest sub-basement, his ears swivel toward a hum too low for human hearing — the Ephergent Frequency, buried in the equipment's carrier signal, audible only to those tuned to receive it. His simple presence grounds the crew. When Meatball curls up and sleeps, it means: we're okay for now.
-
-## Tags
-
-- prime_material
-- drm_ruins
-- drm_secrets_revealed
-- reality_entrepreneurs
-- first_dispatch
-- frequency_instability
-- the_drift
-- post_rupture
-- unaware_crew
-- that_was_real
-- lifeboat
-- found_family
-- journalism
-- rebuilding
-- barry_personnel_file
-- clive_doorway_pause
-- mochi_basement_warmth
-- ephergent_frequency_beat
-- sub_level_7

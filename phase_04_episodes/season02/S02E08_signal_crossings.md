@@ -1,76 +1,5 @@
 # S02E08 — Signal Crossings
 
-**Season 02: Resonance**
-**Episode 08 — Signal Crossings**
-
----
-
-## Cold Open
-
-*[SHIP — COCKPIT. Night. The crew is at their stations. Zephyr is at the signal analyzer, headphones on, eyes closed. The others wait.]*
-
-**PIXEL (V.O.)**
-Zephyr's been at that console for four hours. He won't say anything. He's just listening. Which, for Zephyr, means he's found something. It always means he's found something.
-
-*[Zephyr's hands tighten on the headphones. His breath catches.]*
-
-**ZEPHYR**
-It's him.
-
-**PIXEL**
-Zephyr—
-
-**ZEPHYR**
-It's him. That's Aether. That's my brother. I know the sound he makes. I know the frequency he—
-
-*[Zephyr pulls off the headphones like they've burned him. His hands are shaking.]*
-
-**ZEPHYR**
-He's not dead. I thought — I thought when he dissolved, I thought he was gone, but he's not gone, he's — he's so clear. He's so close. Pixel. Pixel, I can almost touch it.
-
-**A1**
-Your brother's signal is at bearing 221 mark 7. Distance: approximately 4.3 light-hours. Signal strength: faint but coherent. The signal is not reaching backward in time from this position. This is where the signal originates. This is where he is.
-
-**ZEPHYR**
-Where he *is*.
-
-**A1**
-Where he is. As far as I can determine.
-
-**CLIVE**
-What do you mean, reaching backward?
-
-**A1**
-The signal — Aether's signal — I am reading it as if it arrived before it was transmitted. This is not unusual for signals near the deep Space. Time is not always sequential out here. But Aether's signal in particular seems to be… waiting. Like he knows when we're coming. Like he's been broadcasting toward this moment for a very long time.
-
-**PIXEL**
-Zephyr. Breathe.
-
-**ZEPHYR**
-I'm breathing. I'm breathing. I'm breathing.
-
-**A1**
-I have a fix on a civilization at that bearing. The signal from that civilization has been transmitting for approximately six years. The signal appears to be a response. To a broadcast. Our broadcast. From six years ago.
-
-**PIXEL**
-Our broadcast six years ago?
-
-**A1**
-Our broadcast from six years ago. The signal we sent when we first powered up. The one that went everywhere. They heard it. And they've been broadcasting back. Translated into their own frequency. Carrying our signal forward without knowing what they were carrying.
-
-**OM KAI**
-Signal crossing. A signal returning as itself while becoming something else.
-
-**A1**
-Precisely.
-
-**PIXEL (V.O.)**
-Set course. We're going to meet our echo.
-
----
-
-## Act One — The Crossing
-
 *[DEEP SPACE — TRANSIT. Three days in. The crew is wound tight. Zephyr hasn't left the signal analyzer. A1's espresso output has shifted — rich, complex, layered with something that tastes like anticipation.]*
 
 *[SHIP — COCKPIT.]*
@@ -115,10 +44,6 @@ He's not alone.
 
 **A1**
 He is not alone.
-
----
-
-## Act Two — The Civilization
 
 *[APPROACH. Through the viewport: a civilization that is entirely light. Towers of pure coherent signal, pulsing in patterns that almost resolve into language. Structures that are also broadcasts. Architecture that is also conversation.]*
 
@@ -175,10 +100,6 @@ Yes. We approach. I want to hear him. I need to hear him. Even if I can't touch 
 
 **PIXEL**
 Then we approach.
-
----
-
-## Act Three — The Signal
 
 *[CIVILIZATION — BOUNDARY. The Ephergent at the edge of the signal field. Through the viewport: light that is language, structure that is story, a civilization that chose to become the act of speaking.]*
 
@@ -251,10 +172,6 @@ I know you will. You've always been good at keeping promises. You're the one who
 
 *[The signal fades. Zephyr is crying. Nobody says anything.]*
 
----
-
-## Tag
-
 *[SHIP — COMMON AREA. Much later. The crew is quiet. Zephyr is asleep in his bunk. A1's machine is in low-power mode, barely a hum. The espresso that comes out is thin, bitter, exhausted — the taste of someone who has given everything and is still giving.]*
 
 *[Pixel sits with Clive in the common area. Meatball is on the floor between them.]*
@@ -303,15 +220,3 @@ We know, A1. We know.
 Zephyr's sleeping. He's been asleep for six hours. I'm not going to wake him. He needs it. Aether said the frequency was worth following. I believe him. I believe him, which means I have to believe that what we're doing is right. Even when it costs. Even when it costs everything. Especially then.
 
 *[The Ephergent moves through the static. The signal continues. Somewhere, Aether is keeping the lights on.]*
-
----
-
-**END OF EPISODE**
-
----
-
-*Coffee Chart: S02E08*
-- *A1 rich/complex (anticipation, translation) — opening transit*
-- *A1 extraordinary/never-tasted (amplification, cost) — act 3*
-- *A1 thin/pale/weak (drained, exhausted) — post-transmission*
-- *A1 thin/bitter/exhausted (still present, still serving) — tag*

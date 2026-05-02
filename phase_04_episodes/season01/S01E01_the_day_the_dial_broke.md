@@ -1,25 +1,5 @@
----
-season: 1
-episode: 1
-title: "The Day the Dial Broke"
-narrator: "pixel_paradox"
-featured_characters: ["pixel_paradox", "a1", "clive", "mochi", "meatball"]
-location: "DRM HQ (Prime Material) → The Space"
-stardate: "Cycle 001.001.001"
-summary: "I thought I worked at the most boring government agency in existence. I filed forms I didn't understand, drank suspiciously perfect coffee from a machine that seemed to read my mind, and tried not to think too hard about why my desk companion occasionally moved on his own. Then the building started doing things that buildings can't do. Walls phasing. Rooms existing in two places at once. And suddenly I'm in some kind of evacuation vessel I didn't know existed, staring at an ocean made of... I don't even have words for what it's made of. The DRM was hiding everything. EVERYTHING. And now it's gone, and I'm broadcasting into the void because I don't know what else to do."
----
 
 # The Day the Dial Broke
-
-## Pixel-Voice Synopsis
-
-Okay, so — deep breath — imagine you're sitting at your desk at the Department of Reality Maintenance. Which, yes, sounds weird, but trust me, it was the most boring place on Earth. I'm a data analyst. I filed forms. Forms with names like "Subsection C: Ambient Variance Report" and "Form 19-Q: Environmental Compliance Metrics." I never really understood what any of it measured. Nobody did. It was government work. You filed the forms, you went home, you didn't ask questions.
-
-My espresso machine, A1, made perfect coffee every single time. Like, *unsettlingly* perfect. Sometimes I'd swear I saw a flicker of blue light from his chrome body, like a glitch. Sometimes the coffee tasted like it knew I'd had a bad morning before I did. But you don't question a good espresso machine. You just drink the coffee. Clive — my desk companion, a knee-high robot of ancient bronze alloy, his glowing sphere head topped with a weathered fedora, been at that desk since before I was born — sometimes I'd look up and he'd be in a slightly different spot. Meatball, my dog, snoring under my desk like always, except sometimes he'd perk up and stare at absolutely nothing with this look like he was *listening* to something I couldn't hear.
-
-And then the building started *screaming*. Not an alarm. Not a sound any building should make. The floor vibrated, the walls — I swear to you — the walls started *flickering*, like they couldn't decide what they were made of. My monitor cracked. The lights went wrong. And Clive — my *desk companion* — began pulsing light from his sphere head in a deliberate pattern. And somehow, in a way I cannot explain, I read it: *DEEP FAULT. RUN.* A robot. Told me to run. And I *listened*, because the hallway behind me had just folded in on itself like a piece of paper, and THAT ISN'T POSSIBLE.
-
-I grabbed A1, Clive clambered up onto my shoulder, whistled for Meatball, and we ran. Through hallways that were rewriting themselves, past rooms that existed in two places at once, to an evacuation bay I didn't even know was THERE. There was a vessel — a lifeboat — with a hatch and an engine and a pre-recorded message saying "Your reality is experiencing turbulence, please remain calm." TURBULENCE. And then we punched through something, and I looked out the porthole, and I saw... I don't know what I saw. An ocean. An impossible ocean of light and static and color, with the shadows of entire *worlds* drifting underneath it. I had no framework. No context. No idea what I was looking at. I just knew the DRM — my boring, pointless government job — had been hiding something so massive it broke my brain to look at it.
 
 ## Narrative Structure
 
@@ -69,7 +49,7 @@ The Space.
 
 In her pocket, against her hip, Mochi pulses warm. A slow, steady warmth that Pixel attributes to adrenaline, to fear, to the heat of running. She doesn't think about it. Not yet.
 
-The engine hums with a strange resonance — and underneath the hum, something else. An undertone that doesn't match any mechanical frequency. Pixel hears it as a texture, a color in the sound. A1 notices too — his chrome surface flickers, and for a moment his processing registers it and files it away without comment. Something old. Something that predates the engine. Something the lifeboat picked up from its surroundings and carried in, the way a seashell carries the memory of the ocean that made it.
+The engine hums with a strange resonance — and underneath the hum, something else. An undertone that doesn't match any mechanical frequency. Pixel hears it as a texture, a color in the sound. A1 notices too — his chrome surface flickers, and for a moment his processing registers it and files it away without comment. Something old. Something that predates the engine. Something the lifeboat picked up from its surroundings and carried in, the way a vessel carries the memory of the frequencies that shaped it.
 
 Pixel presses her face to the scratched porthole and her breath stops.
 
@@ -152,37 +132,3 @@ Meatball curls up at Pixel's feet and sighs — a deep, contented sigh that seem
 Pixel leans back against the cold metal wall of the lifeboat, exhausted, terrified, furious, and weirdly exhilarated. Everything she knew was a lie. Or not a lie — a *cover*. A carefully maintained fiction. And now the fiction is shattered and the truth is an ocean of impossible light and she's broadcasting into it from a boat that smells like toner.
 
 But the signal is alive. And so are they.
-
-## Character Focus
-
-**Pixel Paradox:** Transitions from bored, oblivious data analyst to accidental broadcaster. She had no idea what the DRM really was — filed forms she didn't understand, worked in a building with locked floors she assumed were storage, never questioned any of it. She's not special in any supernatural sense; she's just observant, analytical, and stubborn enough to notice patterns others ignore (like reading Clive's light patterns without knowing why she could). The rupture strips away every assumption she had about her life, and her response — fury, terror, and an overwhelming need to *document* — reveals who she really is. Her first broadcast isn't polished or planned. It's raw, confused, and angry. And that's what makes it real.
-
-**A1:** Until today, he was an espresso machine. A very good one. Suspiciously good — coffee that anticipated your mood, the occasional blue glitch, an oddly sophisticated vocabulary for a smart appliance. Nobody thought much of it. But the rupture cracked something open in him. In the Space, buried instincts are surfacing — fragments of knowledge he can't explain, echoes of a vastness that shouldn't fit inside chrome and circuits. He's not ready to name it. He's not sure it's real. So he makes espresso, because routine is how he holds himself together while something ancient and enormous slowly wakes up inside him. His bond with Pixel is genuine; she's always talked to him like a person, not a machine, and that matters more now than ever.
-
-**Clive:** The keeper of secrets. Ninety years at the DRM, and he knew *everything* — the real mission, the frequencies, the architecture, all of it. Bound by protocols older than Pixel's grandmother, communicating only in light patterns too subtle for anyone to decode. Except Pixel decoded them anyway, casually, without realizing she was doing anything unusual. Clive's been watching her for years because of that. His old partner Barry Kowalski went into the Space decades ago, and the official story was a lie Clive was required to maintain. Now the DRM is gone, the protocols are ash, and Clive is free to say what he's always known — in his own way, in his own time, one glow pattern at a time. His pause at the console panel — the way his sphere dimmed against the metal as if the surface felt familiar — is the first sign that Clive has been in places like this before. He doesn't explain. Not yet.
-
-**Mochi:** In Pixel's pocket, warm and patient, present from the very first moment. Pixel notices the warmth and attributes it to adrenaline, to body heat, to anything other than what it is. Mochi doesn't speak. Mochi doesn't act. Mochi simply is — warm, steady, tuned to something in the void that nobody else can name. The Ephergent Frequency hums beneath everything, and Mochi responds to it like a compass responds to north. The crew won't understand this for two more seasons. For now, it's just warmth in a pocket, noticed and dismissed.
-
-**Meatball:** A good dog in a strange situation. He's always been unusually perceptive — staring at empty corners, perking up at sounds nobody else heard, seeming to *understand* things a dog shouldn't. Pixel chalked it up to "weird dog stuff." But in the Space, Meatball is calm when he shouldn't be, attentive when he should be scared, and pressed against Pixel's leg like he's exactly where he belongs. The crew's emotional anchor, processing the impossible with a sigh and a tail wag.
-
-## Tags
-
-- reality_rupture
-- drm_collapse
-- frequency_space
-- lifeboat
-- first_broadcast
-- pilot_episode
-- frequency_model
-- quantum_static
-- found_family
-- the_drift
-- phase_shifter
-- prime_material
-- unaware_crew
-- first_contact
-- that_was_real
-- clive_wall_panel_recognition
-- mochi_first_warmth
-- ephergent_frequency_beat
-- barry_deliberate_departure

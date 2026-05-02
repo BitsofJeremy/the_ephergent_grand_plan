@@ -1,17 +1,5 @@
 # S02E06 — The Notebook's Echo
 
----
-
-**Previously on The Ephergent:**
-
-*The crew discovers a debris field of a lost frequency — survivors, refugees, a library turning to static. Pixel makes command decisions under crisis. Zephyr hears his brother Aether's signal, clearer than ever. Clive recognizes the wreckage: some of these frequencies, he helped build the systems that were supposed to protect them.*
-
-*And somewhere in the drift, something glints. Not wreckage. Not debris.*
-
-*Paper.*
-
----
-
 ## ACT ONE
 
 The notebook was wedged between two panels in what A1 called the "secondary resonance housing" — a maintenance crawlspace that hadn't been opened since before the Ephergent was a ship instead of a body. The panels came apart easily. Clive's manipulator arms fit precisely into the gaps, the way they'd fit into a thousand similar gaps in DRM server racks over ninety years of routine maintenance.
@@ -46,8 +34,6 @@ Clive drank the coffee. He set the cup on the floor, in the precise spot where i
 
 "March 3rd, 1987," he read. His voice was flat. His voice was always flat — a speaker modulation he'd developed over decades of communicating without the benefit of facial expression. What he felt was in the pause before the words, and in the color of his glow. "Signal anomaly detected in Sub-Level 7. Pattern does not match any catalogued frequency. Clive agrees. We are going to keep watching."
 
----
-
 ## ACT TWO
 
 The notebooks were not arranged chronologically. That was the first thing Clive understood, rifling through them in the Ephergent's small research alcove that evening — a space that had once been an equipment storage locker, converted to something like a common room when Pixel insisted that ships needed places for the crew to just *be*.
@@ -76,8 +62,6 @@ Clive's glow flickered. Blue-white to something darker. Back.
 
 No one said anything.
 
----
-
 Om Kai made tea. That was his contribution: a small ceramic pot, four cups, a silence that asked nothing.
 
 Pixel sat on the floor, her back against the bulkhead. Zephyr sat beside her, close enough that their shoulders touched — a gesture Clive noticed and did not comment on. Luminara had taken up position near the door, her camera deliberately set aside. Mochi lay in the exact center of the room, a warm center of gravity.
@@ -91,8 +75,6 @@ That was accurate.
 Clive looked at the stack of notebooks. "The first one," he said. "The one from the beginning."
 
 He opened it.
-
----
 
 *"March 3rd, 1987,"* Clive read. The room was quiet. Not silence — the Ephergent was never silent, and the Space outside was a constant low hum that Clive had learned to stop noticing eighty years ago. But the room was quiet in the way that mattered: all the sounds were intentional, all the attention was pointed.
 
@@ -108,15 +90,11 @@ He opened it.
 
 *He didn't have to."*
 
----
-
 A1's espresso appeared in the wall holder again, without being requested. Clive accepted it. The flavor: lighter than before. Not quite balanced. Something in between.
 
 *He's uncertain,* Clive thought. *He's processing.*
 
 Clive drank the coffee. He turned the page.
-
----
 
 *"March 17th, 1987.*
 
@@ -132,8 +110,6 @@ Clive drank the coffee. He turned the page.
 
 *I think that's what happens when you pay attention long enough."*
 
----
-
 Pixel made a small sound. Not words. Just a sound.
 
 Clive looked up. His glow was steady. "This is the part," he said, "where I would normally stop reading. If I were the kind of person who stopped reading."
@@ -141,8 +117,6 @@ Clive looked up. His glow was steady. "This is the part," he said, "where I woul
 Pixel nodded.
 
 Clive continued.
-
----
 
 *"June 2nd, 1987.*
 
@@ -168,15 +142,11 @@ Clive continued.
 
 *We didn't have to."*
 
----
-
 Zephyr looked at the wall. Luminara looked at her hands. Om Kai's tea sat untouched, steam rising.
 
 Clive's glow had not flickered again. It was steady. It was the color of something that had been waiting a long time to be heard.
 
 He turned the page.
-
----
 
 *"December 14th, 1989.*
 
@@ -210,15 +180,11 @@ He turned the page.
 
 *That's the data point I keep."*
 
----
-
 A1's espresso materialized. Clive accepted it without looking. The flavor: perfectly balanced. The first balanced cup of the evening.
 
 Clive understood. A1 was listening. A1 was present. The balance was A1's way of saying: *I am here. I hear you. Continue.*
 
 Clive drank. He turned the page.
-
----
 
 *"March 3rd, 1990. Three years.*
 
@@ -252,13 +218,9 @@ Clive drank. He turned the page.
 
 *Every day, he stays."*
 
----
-
 Pixel wiped her face. Not dramatically. Just a pass of her sleeve, quick and quiet. Zephyr handed her a handkerchief from his pocket. She took it. She didn't thank him. She didn't have to.
 
 Clive turned another page.
-
----
 
 *"October 22nd, 2001.*
 
@@ -296,8 +258,6 @@ Clive turned another page.
 
 *I think that's what was always going to matter."*
 
----
-
 Clive stopped reading.
 
 The room was very quiet.
@@ -311,8 +271,6 @@ Clive looked at the stack. There were ten more notebooks. Thirty-one years of wa
 "Yes," he said. "I do."
 
 He turned the page.
-
----
 
 *"February 14th, 2010.*
 
@@ -354,15 +312,11 @@ He turned the page.
 
 *Something like home."*
 
----
-
 A1's espresso appeared. Clive reached for it automatically. The flavor: something he hadn't tasted before. Not bitter, not balanced, not thin. It was warm in a way that had nothing to do with temperature. It was warm in a way that meant: *I understand. I'm listening. You're not alone.*
 
 Clive drank.
 
 He kept reading.
-
----
 
 ## ACT THREE
 
@@ -393,8 +347,6 @@ Barry wrote about Clive's growing silence — the way Clive had begun to disappe
 *So have we.*
 
 *Time to answer."*
-
----
 
 Clive closed the notebook.
 
@@ -434,8 +386,6 @@ He walked to the observation deck, where the Space shimmered outside — indigo 
 
 Behind them, the empty espresso cup sat on the chair beside the notebooks, still warm.
 
----
-
 ## EPILOGUE
 
 Later — much later, when the ship's lights had dimmed to their nighttime cycle and the crew had dispersed to their quarters — Clive returned to the research alcove.
@@ -466,8 +416,6 @@ He didn't read it again. He didn't need to.
 
 He knew it by heart.
 
----
-
 **END CREDITS**
 
 *Next week on The Ephergent: The crew discovers the signal Barry was following — a frequency that has been broadcasting for longer than the DRM has existed. Pixel asks questions. Clive doesn't answer. Aether's voice is clearer than ever. And somewhere in the Space, something ancient opens one more door.*
@@ -476,6 +424,3 @@ He knew it by heart.
 
 *The signal continues.*
 
----
-
-**[END OF EPISODE]**

@@ -1,19 +1,5 @@
----
-season: 1
-episode: 3
-title: "The DRM Archive"
-narrator: "pixel_paradox"
-featured_characters: ["pixel_paradox", "clive", "a1", "mochi", "meatball"]
-location: "DRM Relay Station"
-stardate: "Cycle 001.003.007"
-summary: "We picked up a fading signal from a DRM relay station drifting through the Space — wreckage from the collapse, still transmitting on backup power. Inside: server racks, flickering monitors, and the bureaucratic ghosts of an agency that tried to file the incomprehensible into manila folders. Clive found his intake form. Form 12-C. They classified him as inert office equipment. Eight hundred years of Builder engineering, and the DRM stamped him with a barcode. The station went dark behind us when we left. We took the data. Some of it, I wish we hadn't read."
----
 
 # The DRM Archive
-
-## Pixel-Voice Synopsis
-
-You know that feeling when you go through a dead person's desk and realize they had a whole life you never thought about? That, but the dead person is a government agency, the desk is a relay station tumbling through the Space on backup power, and the life they were hiding was — well — everything. The DRM didn't just collapse. It left breadcrumbs. Automated signals still pinging from relay stations nobody remembered to shut down, because the people who would have shut them down are gone. We found one. We went inside. And I learned something about Clive that I'm still not sure I was supposed to know.
 
 ## Narrative Structure
 
@@ -275,34 +261,3 @@ She leaned back. The mug of espresso was warm in her hands. Hazelnut. Home.
 She cut the signal. The Space held them in its vast, humming silence. Somewhere in the data A1 was processing, Barry Kowalski's twenty-three years of questions waited to be understood. Somewhere in the frequency Clive had heard and not mentioned, something older than institutions pulsed — patient, enduring, unclassified.
 
 Clive sat on the console and said nothing. The fedora cast its shadow. His glow was blue-white and steady, the color of Builder signal energy, the color of something that had been filed under "inert" and was — quietly, deliberately, in its own time — proving the form wrong.
-
-## Character Focus
-
-**Pixel Paradox**: The DRM was her world for four years, and finding its skeleton drifting through the Space forces her to confront what she was part of. She recognizes the filing system. She knows the form numbers. She used the same color-coded folders. The relay station is a mirror — showing her what happens when you file things instead of understanding them. Her broadcast this episode is sharper than the first two — less raw panic, more focused anger. She's becoming a journalist. The Barry discovery opens a door she didn't know existed: the DRM had people inside it who were doing exactly what she's doing now, decades before she started. She's not the first. That's both comforting and terrifying.
-
-**Clive**: Form 12-C is the episode's emotional center. An eight-hundred-year-old Builder Companion, designed to guide people through the spaces between frequencies, reduced to a line item on an intake form. "Inert office equipment." The gap between what Clive is and what the DRM saw him as is the gap between filing and understanding — the episode's central theme. His silence after reading the form is the most important silence of the season so far. His "at the time" is a thread the audience will pull on for two more seasons. And the carrier tone — the frequency he hears and does not mention — is the first sign that Clive is hearing things the crew cannot. He is beginning to remember, even if he does not know it yet.
-
-**A1**: Quiet this episode, which means A1 is processing something significant. The coffee tells the story — bright and curious at the start, cold when the Form 12-C appears, thick with grief over Barry's access logs, warm and grounding by the end. A1 recognized the relay station's data architecture as "familiar," which is a word A1 does not use casually. The DRM built their systems on foundations they didn't understand, using principles that originated somewhere A1 remembers but hasn't named.
-
-**Mochi**: The server room resonance is Mochi's strongest reaction in the series so far. The violet glow, the heat, the way the servers themselves responded — this is data, not emotion. Mochi's dormant crystal is reading frequency information stored in the DRM's oldest archives, information that predates the DRM by centuries. The audience reads it as atmosphere. It is a Keeper recognizing the signal she was built to carry.
-
-**Meatball**: The emotional weathervane, as always. His attentiveness in the operations room, his body pressed against Clive during the Form 12-C silence, his matched pace in the corridor afterward — Meatball reads the crew's frequency, and this episode's frequency is grief and recognition and the quiet weight of things that were hidden too long. His sigh at the end is the episode's emotional punctuation: the day is done. The questions remain.
-
-## Tags
-
-- drm_archive
-- relay_station
-- form_12c
-- clive_history
-- barry_shadow
-- kowalski_b_night_shift
-- frequency_anomaly_classification
-- mochi_resonance
-- carrier_tone
-- ephergent_frequency
-- builder_seed
-- institutional_failure
-- found_family
-- the_space
-- data_retrieval
-- displacement

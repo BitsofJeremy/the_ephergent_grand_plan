@@ -1,28 +1,5 @@
 # S03E08 — The Atlas Opens
 
-**Season 03: The Source**
-**Episode 08 — The Atlas Opens**
-
----
-
-## Cold Open
-
-*[SHIP — CARGO HOLD. Night. The crew is asleep except for Pixel, who is doing inventory. She opens the compartment where Mochi has been sitting quietly for the entire journey. Mochi is glowing — not the usual warm amber, but a deep, pulsing gold, like something waking up after a very long sleep.]*
-
-**PIXEL (V.O.)**
-Mochi's been doing that for three days now. Ever since we left the harbor. Ever since we set course for the Wellspring threshold. I keep thinking I should say something. I keep thinking someone should notice. But nobody's saying anything. Which either means nobody's noticed, or everybody's noticed and everyone's waiting for someone else to bring it up.
-
-*[Pixel reaches toward Mochi. Mochi's glow intensifies — a warmth, a welcome.]*
-
-**PIXEL (V.O.)**
-What are you, Mochi? What have you been carrying all this time?
-
-*[Mochi pulses. Not an answer. A response.]*
-
----
-
-## Act One — The Warming
-
 *[SHIP — COMMON AREA. Morning. The crew at breakfast. Mochi is in the center of the table, still glowing. Everyone is trying very hard not to look at it.]*
 
 **KLAUS**
@@ -104,10 +81,6 @@ Yes.
 **KLAUS**
 That is an extraordinarily patient piece of equipment.
 
----
-
-## Act Two — The Opening
-
 *[SHIP — CARGO HOLD. Later. The crew has gathered around Mochi. Pixel is holding it carefully, like something fragile and important.]*
 
 **PIXEL**
@@ -167,11 +140,7 @@ Ready.
 **PIXEL**
 Okay, Mochi. Open up.
 
-*[Pixel places Mochi on the deck. The glow intensifies. The cargo hold fills with light. And then — a map. A three-dimensional projection of the entire frequency network, rendered in light and signal and eight hundred years of accumulated data. The crew stands inside it, surrounded by every world that ever existed, every frequency that ever rang, every signal that ever called out into the void.]*
-
----
-
-## Act Three — The Map
+*[Pixel places Mochi on the floor. The glow intensifies. The cargo hold fills with light. And then — a map. A three-dimensional projection of the entire frequency network, rendered in light and signal and eight hundred years of accumulated data. The crew stands inside it, surrounded by every world that ever existed, every frequency that ever rang, every signal that ever called out into the void.]*
 
 *[CARGO HOLD — INSIDE THE MAP. The crew floating in signal-space, surrounded by the complete history of the Builders' frequency network.]*
 
@@ -228,11 +197,7 @@ I made something. I have never made anything like this. This is the taste of bei
 **PIXEL (V.O.)**
 Mochi pulses. Gold, warm, complete. The atlas is open. The signal is ready. And for the first time in eight hundred years, the map knows where it's supposed to go.
 
----
-
-## Tag
-
-*[CARGO HOLD — AFTER. The map has faded. The crew is sitting on the deck, exhausted, surrounded by the echo of eight hundred years of data. Mochi is back in Pixel's pocket — but different now. Not dormant. Not carrying. Present. Active. Part of the crew in a way it wasn't before.]*
+*[CARGO HOLD — AFTER. The map has faded. The crew is sitting on the floor, exhausted, surrounded by the echo of eight hundred years of data. Mochi is back in Pixel's pocket — but different now. Not dormant. Not carrying. Present. Active. Part of the crew in a way it wasn't before.]*
 
 **KLAUS**
 So Mochi was an atlas this whole time.
@@ -286,14 +251,3 @@ Eight days until we find out what the whole thing was for.
 Eight days. Eight days until we reach the signal. Eight days until we see Barry again. Eight days until we get the Builders' farewell and understand what they were trying to tell us. Eight days until the end of the journey and the beginning of whatever comes next.
 
 *[The Ephergent moves through the static. Mochi pulses in Pixel's pocket — warm, present, finally home. The signal continues. The map is open. And for the first time, the crew knows exactly where they're going.]*
-
----
-
-**END OF EPISODE**
-
----
-
-*Coffee Chart: S03E08*
-- *A1 extraordinary (recognition, being found) — map opening*
-- *A1 extraordinary (home, arrival, 800 years resolved) — Clive's recognition*
-- *A1 rich/warm (home, belonging) — tag*

@@ -2,14 +2,6 @@
 
 **A Radio Play**
 
----
-
-*STATION 14-THRESHOLD — MAIN ATRIUM*
-*The final broadcast. The lights dim. A low hum of aging systems fills the air.*
-
----
-
-**[COLD OPEN — STATIC]**
 
 **AUTOMATED VOICE:**
 *(fading in, distorted)*
@@ -17,9 +9,6 @@
 
 *(static crackle)*
 
----
-
-**[ACT ONE: THE KEEPER'S STATION]**
 
 *(Sound: footsteps echoing in a vast, empty corridor. Pipes groan. A distant mechanical whir winds down.)*
 
@@ -37,9 +26,6 @@ And now... I close it. Not because there's nothing left.
 
 I close it because there's nothing *coming*.
 
----
-
-**[ACT TWO: CLIVE'S MEMORY — C-1]**
 
 *(Sound: a sharp electronic click. The hum of early servo systems. A mechanical arm extending.)*
 
@@ -66,9 +52,6 @@ I've been trying to figure out what she meant for six hundred years.
 
 I think I finally understand.
 
----
-
-**[ACT THREE: THE THRESHOLD]**
 
 *(Sound: a massive door mechanism engaging — ancient gears, hydraulic slowdowns, the grinding of metal that hasn't moved in centuries.)*
 
@@ -83,9 +66,6 @@ Eight hundred years of opening. Now... the last close.
 
 Goodbye.
 
----
-
-**[ACT FOUR: CROSSING]**
 
 *(Sound: footsteps — two sets now. Different rhythms. They converge.)*
 
@@ -111,9 +91,6 @@ Now I *am* the story.
 
 *(Sound: a faint light pulses in the darkness — emergency lighting, dying.)*
 
----
-
-**[ACT FIVE: THE FAREWELL]**
 
 *(Sound: the station's final broadcast system crackling to life — an old record, scratched and beautiful.)*
 
@@ -166,9 +143,6 @@ I'm saying... the threshold isn't a door, Keeper.
 
 It's a choice.
 
----
-
-**[ACT SIX: THE LAST TRANSMISSION]**
 
 *(Sound: a radio crackling to life. A voice — broadcast across the void.)*
 
@@ -200,15 +174,8 @@ I kept the gauges updated. The maps too.
 
 *(final click)*
 
----
-
-**[END TRANSMISSION — STATIC FADES TO SILENCE]**
-
----
 
 *Running Time: 18:42*
-
----
 
 **[POST-CREDITS SCENE]**
 
@@ -222,7 +189,3 @@ I kept the gauges updated. The maps too.
 ...welcome to the other side...
 
 *(the ping continues, faint, steady — a heartbeat in the dark)*
-
----
-
-**END OF EPISODE**

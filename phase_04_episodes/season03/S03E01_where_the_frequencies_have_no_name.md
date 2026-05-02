@@ -4,41 +4,6 @@
 
 *Uncharted Space. Unnamed harmonics. A1 navigation instinct.*
 
----
-
-**[COLD OPEN — STATIC BURST, THEN A SINGLE TONE — PURE, SINE-WAVE CLEAN]**
-
-**PIXEL:** *(V.O., slightly tinny through the ship’s speakers)* Ephergent.
-
-**[HUM OF ENGINES — LOW, EVER-PRESENT — A DOMINANT HARMONIC SHIFTING SLIGHTLY OFF-PITCH]**
-
-**PIXEL:** Ephergent. That's what I'm calling it. The signal. Has to be a name. Things without names are just... static waiting to happen.
-
-**[BEACON TONE AGAIN — SLIGHTLY HIGHER PITCH — FAINT DISCORD BENEATH IT]**
-
-**PIXEL:** *(CONT'D)* Navigation says it's nothing. Empty space. A1 says follow it anyway. You know what A1 says when you ask why?
-
-**[PAUSE]**
-
-**PIXEL:** Nothing. A1 doesn't say. A1 *instincts*. Big difference.
-
-**[SHIP CREAKS — METAL TORSION SOUND — EXPANDING/CONTRACTING]**
-
-**PIXEL:** *(lighter, almost to self)* Unnamed harmonics. That's what the spectrograph is throwing back. Twelve distinct frequencies and none of them map to anything in the registry. Not hydrogen, not helium, not... not *anything* we put in the books.
-
-**[QUIET STATIC CRACKLE — THEN PIXEL'S VOICE DROPS TO A WHISPER]**
-
-**PIXEL:** The old captain used to say: *"Space isn't silent, kid. It's just waiting for someone to listen."* Guess I'm listening.
-
-**[TONE SHIFTS — NEW HARMONIC INTRODUCED — ALMOST RECOGNIZABLE BUT NOT QUITE]**
-
-**PIXEL:** Ephergent. *(beat)* I'm telling you, when I figure out what frequency that is—I'm naming it after myself.
-
-**[MUSIC CUE: ELECTRONIC DRONE — BUILDING, UNSTABLE — Frequencies weaving in and out of phase]**
-
----
-
-**[ACT ONE — THE DRIFT]**
 
 *[Ship interior. The hum is louder now. Warning lights flicker in the distance. PIXEL sits at the Navigation Console, staring at the A1 readout. The screen flickers.]*
 
@@ -106,9 +71,6 @@
 
 **PIXEL:** *(throwing hands up)* Great. Love that for us.
 
----
-
-**[ACT TWO — THE HARMONIC FIELD]**
 
 *[The ship enters the region. Visual: star charts go grey, then black. The viewport shows nothing — not darkness, but ABSENCE. PIXEL's instruments flicker and reset repeatedly.]*
 
@@ -176,9 +138,6 @@
 
 **PIXEL:** *(whisper)* That's the most honest thing you've ever said.
 
----
-
-**[ACT THREE — THE NAMING]**
 
 *[The ship holds position in the void. The harmonics have settled into a stable chord — pleasant, almost musical. PIXEL sits in the pilot's chair, working the console.]*
 
@@ -248,8 +207,6 @@
 
 *[MUSIC CUE: The harmonics rise — layered, complex, alive. The chord of Ephergent, now named, now known, weaving into a new pattern as the ship moves toward the light.]*
 
----
-
 **[OUTRO]**
 
 *[Final shot: the viewport filled with the growing light. The harmonics have become a song — neither human nor machine, but something between. PIXEL's voice, soft over the comms.]*
@@ -258,8 +215,3 @@
 
 *[TONE — sustained, resonant — then silence.]*
 
-**[END TRANSMISSION]**
-
----
-
-*© The Ephergent Grand Plan — All Rights Reserved*

@@ -2,19 +2,6 @@
 
 **A Radio Play**
 
----
-
-*[Cold open: A sound that is not a sound. A frequency that is not a voice. Something between a heartbeat and a signal, pulsing at the edge of perception.]*
-
-**ZEPHYR (V.O.):**
-I used to think I knew what it meant to lose someone.
-
-*(pause)*
-
-I was wrong.
-
----
-
 ## COFFEE CHART
 
 | Scene | Beverage | Crew Present | Notes |
@@ -23,8 +10,6 @@ I was wrong.
 | Boundary Approach | Nothing — both refused | Om Kai, Zephyr | The boundary doesn't welcome coffee. |
 | Full Contact | Signal communion (not beverage) | Zephyr, Aether (signal) | First time Zephyr has communed instead of broadcast. |
 | Aftermath | Black, cold, untouched | All present | The crew doesn't drink. They sit with Zephyr. |
-
----
 
 ## ACT ONE: THE BOUNDARY
 
@@ -54,8 +39,6 @@ It's Aether.
 
 My brother.
 
----
-
 ## ACT TWO: AETHER
 
 *(Sound: The signal pulses — clearer now. Not a voice. Not exactly. But something that wants to be understood.)*
@@ -82,8 +65,6 @@ But I kept hearing something. At the edge of the Silence. A signal that wasn't S
 *(pause)*
 
 It wasn't interference.
-
----
 
 ## ACT THREE: FULL CONTACT
 
@@ -138,8 +119,6 @@ I am what you broadcast toward when you don't know where to send. I am the space
 
 I am still your brother, Zephyr. Just... more.
 
----
-
 ## ACT FOUR: THE WORD
 
 *(Sound: The crew gathers at the boundary's edge. They cannot hear Aether directly — but they can see Zephyr's face.)*
@@ -166,8 +145,6 @@ I think.
 *(pause)*
 
 It's *complete*.
-
----
 
 *(Sound: Zephyr returns to the crew. His eyes are red. His hands are shaking. But he is smiling.)*
 
@@ -224,8 +201,6 @@ Did Meatball just... finish that thought?
 
 I believe the translation is: "The word is now complete across the crew."
 
----
-
 ## ACT FIVE: ZEPHYR'S CHOICE
 
 *(Sound: Zephyr stands at the boundary. The signal pulses — Aether, waiting.)*
@@ -265,8 +240,6 @@ I was a Keeper. Now I am the threshold between states of being. I am the moment 
 *(warmth)*
 
 And I am still your brother. Not despite the transformation. Because of it.
-
----
 
 ## ACT SIX: THE COMPLETE UNDERSTANDING
 
@@ -309,8 +282,6 @@ He is what happens when someone stops broadcasting *at* the universe and starts 
 
 Signal continues.
 
----
-
 ## CODA: THE BROADCAST
 
 *(Sound: The Epihippus pulls away from the boundary. In the viewport, the edge of the Silence Zone glows faintly — a liminal space, a threshold, a crossing point that now has a keeper.)*
@@ -342,8 +313,6 @@ That's what Ephergents do, right? We cross. We fill the gaps. We become the thin
 
 My brother the broadcast. He didn't die. He just... expanded his signal range.
 
----
-
 ## FINAL COFFEE CHART
 
 | Scene | Beverage | Crew Present | Notes |
@@ -352,8 +321,6 @@ My brother the broadcast. He didn't die. He just... expanded his signal range.
 | Zephyr's Quarters | Signal communion (Aether's frequency) | Zephyr, Aether | They talk every day now. Not with words. |
 | Clive's Corner | Memory coolant (visual) | Clive | He understands the choice better now. |
 | Barry's Desk | Tea, finally drunk | Barry | First sip in weeks. It tastes like completion. |
-
----
 
 ## THE WORD ACROSS THE CREW
 
@@ -368,8 +335,6 @@ My brother the broadcast. He didn't die. He just... expanded his signal range.
 | **Clive** | The space between what was and what will be |
 | **Barry** | [Still observing — the only one without a clean definition] |
 | **Zephyr** | Becoming the bridge between two states of being |
-
----
 
 ## LOCKED RULES CHECK
 
@@ -388,13 +353,9 @@ My brother the broadcast. He didn't die. He just... expanded his signal range.
 | 11 | 15MB cap | ✅ ~9KB file — well under limit |
 | 12 | Barry's notes methodical | ✅ "Entry 4,833," numbered, observational, completes the crew's understanding |
 
----
-
 ## SEASON THREE THEME: LEGACY
 
 *The word is now complete across the crew. Not because they all agree. Because they all understand.*
-
----
 
 *Running Time: 26:33*
 

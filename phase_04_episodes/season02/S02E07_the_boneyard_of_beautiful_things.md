@@ -1,17 +1,5 @@
 # S02E07 — The Boneyard of Beautiful Things
 
----
-
-**Previously on The Ephergent:**
-
-*The crew discovers Barry's notebooks — thirty-one years of watching, waiting, documenting a signal that kept saying "come find me." Clive reads the final entry: Barry followed the signal into the Space. He didn't come back. Not back the way Clive expected.*
-
-*But Barry is alive. Clive knows this like he knows his own core frequency.*
-
-*And now the signal is leading them somewhere.*
-
----
-
 ## ACT ONE
 
 The coordinates came through at 0347 station time.
@@ -29,8 +17,6 @@ The coordinates resolved on the main display: a location in the Space that shoul
 Clive didn't answer immediately. His processing had gone somewhere far away — somewhere that felt like thirty-one years of waiting and one final entry that said *see you later.*
 
 "To what Barry was following," he said. "To what has been waiting."
-
----
 
 The Ephergent moved through the Space at standard drift, following the bearing Clive had calculated from the notebooks' frequency data. The crew gathered in the navigation bay without being called — they had learned that when Clive went quiet in a certain way, something was happening that required all of them.
 
@@ -55,8 +41,6 @@ The room was very still.
 "You're saying there's a place in the Space where dead worlds pile up," Pixel said slowly. "Like — like wreckage."
 
 "Like a boneyard," Clive said. "A boneyard of beautiful things."
-
----
 
 ## ACT TWO
 
@@ -102,8 +86,6 @@ Luminara nodded. She didn't say anything else. She didn't have to.
 
 She stayed with him at the observation port as the boneyard opened around them, dead worlds layered like sediment, beautiful things that had tried to last and hadn't.
 
----
-
 The layer boundary appeared without warning.
 
 One moment the Ephergent was moving through the drift; the next, the ship's sensors registered a change in pressure — not physical pressure, but frequency pressure, the weight of accumulated signals pressing against the hull.
@@ -113,8 +95,6 @@ One moment the Ephergent was moving through the drift; the next, the ship's sens
 Outside the observation port, the boneyard revealed itself.
 
 It was not what any of them expected.
-
----
 
 ## ACT THREE
 
@@ -162,8 +142,6 @@ The room was very still.
 
 Mochi whined softly. The sound was small, but it filled the space.
 
----
-
 Clive moved to the command console before anyone could stop him. His manipulator arms interfaced with the Ephergent's systems directly — not through the standard input, but through the deep access port he'd installed himself decades ago, the one that let him speak to the ship in a language only they understood.
 
 "A1," he said. "I need you to do something."
@@ -189,8 +167,6 @@ Clive's glow dimmed slightly. Then it came back brighter than before.
 He paused.
 
 "Or until he answers."
-
----
 
 ## ACT FOUR
 
@@ -258,8 +234,6 @@ The tone shifted again — warmer now, brighter, the way a frequency sounds when
 
 *Time to answer.*
 
----
-
 ## EPILOGUE
 
 The Ephergent drifted in the boneyard as the crew watched the screens, the ports, the soft glow of millions of beautiful things that had tried to last and hadn't.
@@ -304,8 +278,6 @@ The boneyard of beautiful things had been waiting.
 
 And finally — finally — they were going to answer.
 
----
-
 **END CREDITS**
 
 *Next week on The Ephergent: The crew descends into the boneyard. Pixel asks questions about what they've found. Clive finds something he wasn't expecting. And in the deepest layer, where the oldest beautiful things wait, a voice speaks that hasn't been heard in longer than the DRM has existed.*
@@ -316,6 +288,3 @@ And finally — finally — they were going to answer.
 
 *The signal is finally being answered.*
 
----
-
-**[END OF EPISODE]**

@@ -1,11 +1,3 @@
----
-season: 2
-episode: 4
-title: "Toll Roads and Trade Winds"
-narrator: "pixel_paradox"
-featured_characters: ["pixel_paradox", "clive", "a1", "sable_voss", "squeeze_bot_7_3", "zephyr_glitch", "luminara_usha", "nano", "meatball", "om_kai"]
-location: "The Frequency Corridors — Toll Station Theta-9"
----
 
 # Toll Roads and Trade Winds
 
@@ -20,10 +12,6 @@ Clive has been trying to reach Theta-9 for three weeks. I didn't know why until 
 We weren't here to see Sable Voss. We were here because the signal Squeeze-Bot 7.3 intercepted pointed to something she'd been sitting on for six months — something that belonged in the logs of a frequency archaeologist, not in the locked ledgers of a toll collector who answers to no one. But when you go looking for buried signals in the corridors, you don't get to choose who else is buried there with you.
 
 This is the story of what we found, what it cost, and what Clive decided was worth paying.
-
----
-
-## Part One — Approach Vector
 
 The *Aether Meridian* held position at the edge of Theta-9's detection range, just inside the static buffer where the Station's scanners couldn't quite resolve them and their own instruments were still functional. A tense margin. A polite fiction of invisibility.
 
@@ -77,10 +65,6 @@ Pixel looked at the Station. At the shimmer of its modified geometry, the bulge 
 
 "Okay," she said. "Here's what we're going to do."
 
----
-
-## Part Two — The Toll Keeper
-
 Sable Voss met them in the Station's primary commerce hall, which was Builder architecture retrofitted for a purpose the original designers had never intended.
 
 The hall had been a frequency resonance chamber — a wide octagonal space where the Station's core systems maintained harmonic calibration. Now it held a reception desk carved from salvaged Builder material, three chairs upholstered in what looked like frequency-jelly membrane, and a coffee service that was aggressively non-Builder. The walls still hummed with original harmonics, but someone had added display cases along the perimeter, showing samples of Corridor artifacts — signal fragments, stabilized frequency crystals, fragments of ancient broadcasts preserved in crystalline matrices.
@@ -111,8 +95,6 @@ Then Voss smiled. It was not a warm expression.
 
 "Sit down, Pixel Paradox. It seems we have something to discuss."
 
----
-
 They sat.
 
 Voss poured the coffee herself — a gesture that was either hospitality or power move, impossible to distinguish. The liquid was dark, bitter, and carried a faint harmonic aftertaste that Pixel didn't love but recognized as quality. Builder-grade caffeine suspension. Probably worth more than their ship's fuel allocation for the month.
@@ -140,10 +122,6 @@ Voss turned to him. The uncertainty in her face sharpened into something else �
 "And you — " She stopped. Started again. "You're the one they were trying to warn."
 
 Clive's glow steadied. "I'm the one they were trying to reach."
-
----
-
-## Part Three — The Message in the Static
 
 Squeeze-Bot 7.3 was not designed for diplomacy.
 
@@ -209,10 +187,6 @@ Voss nodded slowly. She took Clive's hand.
 
 "Sublevel Seven," she said. "Now. Before I change my mind."
 
----
-
-## Part Four — What the Wind Carried
-
 Sublevel Seven was not what Pixel had expected.
 
 She had expected a vault. A sealed chamber, ancient and technological, the kind of controlled environment that Builder archives required. Instead, they descended through four levels of retrofitted maintenance corridors — Voss's additions layered over Builder bones — to reach a space that felt less like a vault and more like a chapel.
@@ -253,8 +227,6 @@ The corridor hummed with new stability — Builder harmonics restored, fed by th
 
 And Clive, for the first time in eight hundred years, remembered what he was supposed to do.
 
----
-
 ## Epilogue — What We Carried Forward
 
 The *Aether Meridian* broke orbit of Theta-9 three days later.
@@ -282,7 +254,5 @@ And somewhere in the static between frequencies, a signal that had been waiting 
 The trade winds carried it forward.
 
 The toll roads, for once, were free.
-
----
 
 *[End of Episode]*

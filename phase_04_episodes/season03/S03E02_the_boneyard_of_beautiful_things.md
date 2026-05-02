@@ -1,59 +1,5 @@
 # S03E02 — The Boneyard of Beautiful Things
 
-**Season 03: The Source**
-**Episode 02 — The Boneyard of Beautiful Things**
-
----
-
-## Cold Open
-
-*[SPACE — UNCHARTED DEEP. The Ephergent drifts through a field of silence so complete it has texture. Debris drifts past the viewport — antennae, sound-plates, crystalline fragments catching light that has no source. All of it dead. All of it beautiful.]*
-
-*[SHIP — COCKPIT. The crew at the viewport. A1's display shows forty-seven distinct frequency signatures, all flatlined.]*
-
-**A1**
-Forty-seven dead frequencies. I have no record of any of them in my archives. They existed. They ended. Beyond the reach of every database I contain.
-
-**LUMINARA**
-They're gorgeous.
-
-**KLAUS**
-They are dead.
-
-**LUMINARA**
-They are both. Look at that one — the crystalline structure. That's where an ocean used to be. Frozen mid-wave. Like someone pressed pause on a tide and walked away.
-
-**PIXEL**
-Barry's notes mentioned this place.
-
-*[He pulls up a salvage ledger on the secondary screen — handwritten observations, measurements, dates.]*
-
-**PIXEL (CONT'D)**
-"Frequency Graveyard. Cycle 287. Fourteen dead frequencies catalogued. Each one a complete world. Elegant in their silence. I am the only one to have logged them. I will return."
-
-**CLIVE**
-He came through here.
-
-**PIXEL**
-Thirty years ago, looks like.
-
-**CLIVE**
-He came through here and he didn't stop.
-
-*[Clive's glow flickers — something between recognition and grief.]*
-
-**CLIVE (CONT'D)**
-That was his way. Never stop. Never stay. Just keep following the signal until there's nothing left to follow.
-
-**A1**
-He left something for you.
-
-*[A1's machine makes a sound — a single, clear tone, like a bell struck once in a vast empty room.]*
-
----
-
-## Act One — The Graveyard
-
 *[FREQUENCY GRAVEYARD — SURFACE. The crew steps out onto a field of debris. The ground crunches underfoot — not rock, not metal, but something between: the remains of things that once sang. Antennae jutting from the dust like grave markers. Sound-plates stacked in neat rows by someone who measured grief in decibels.]*
 
 *[MOCHI pads ahead, nose to the ground. MOCHI sniffs a small bell half-buried in the debris, nudges it with a paw. A single, pure note rings out across the graveyard — clean, sustained, impossibly alive.]*
@@ -83,10 +29,6 @@ Barry's field notes. He logged each artifact he found. Frequency, coordinates, c
 
 **PIXEL (CONT'D)**
 "Antlers of pure signal, 3.2 megahertz, deceased. Beautiful. Not salvageable. Left for the next traveler."
-
----
-
-## Act Two — Clive's Recognition
 
 *[FREQUENCY GRAVEYARD — DERELICT VESSEL. A small ship, maybe a research craft, wedged between two dead frequency fields. Its hull is intact but its interior is a museum of silence — every instrument still, every surface coated in the fine dust of ended frequencies.]*
 
@@ -135,10 +77,6 @@ He's still out there. The notes say he kept going.
 
 **CLIVE**
 He always kept going. That was Barry. Never stop. Never stay. Just follow the signal until there's nothing left to follow.
-
----
-
-## Act Three — Barry's Field Notes
 
 *[SHIP — COMMON AREA. The crew gathered around the salvage ledger. A1 makes coffee — slow, vegetal, the flavor of something preserved in time. KLAUS and LUMINARA examine the debris samples outside. ZEPHYR studies frequency readouts at the nav station.]*
 
@@ -190,10 +128,6 @@ I took photographs. Of everything. The antennae, the sound-plates, the derelict.
 **OM KAI**
 You bear witness. That is its own kind of salvage.
 
----
-
-## Act Four — The Choice
-
 *[FREQUENCY GRAVEYARD — SUNSET. There is no sun here, but the light shifts anyway — the last echoes of dead stars casting a pale gold across the debris field. The crew stands among the remains, each processing the weight of what they've found.]*
 
 **PIXEL**
@@ -226,10 +160,6 @@ One more day.
 
 *[He turns back to the vessel. To the wall of staple patterns. To the message in a language only he can read.]*
 
----
-
-## Tag
-
 *[SHIP — COCKPIT. Night watch. The graveyard recedes on the rear display — a field of silent monuments growing smaller. CLIVE sits alone at the viewport, watching.]*
 
 *[A1's machine produces a small cup — not espresso, something softer. It sets it beside Clive without a word.]*
@@ -247,14 +177,3 @@ I do not know how to help a stapler grieve. But I can make things that are warm.
 *[BARRY. BARRY. BARRY.]*
 
 *[The signal continues. The graveyard falls away. And somewhere ahead, at the place where signals begin, a coffee pot waits.]*
-
----
-
-**END OF EPISODE**
-
----
-
-*Coffee Chart: S03E02*
-- *A1 vegetal/slow (grounding, preservation) — act one*
-- *A1 rich/warm/woodsmoke (waiting, hope) — act three*
-- *A1 soft/warm (presence, comfort) — tag*

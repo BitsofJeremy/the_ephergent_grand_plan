@@ -1,67 +1,8 @@
 # S03E07 — Every Ship That Ever Sailed This Far
 
-**Season 03: The Source**
-**Episode 07 — Every Ship That Ever Sailed This Far**
-
----
-
-## Cold Open
-
-*[SPACE — WELLSPRING EDDY. The Ephergent emerges from a static cloud into a field of ships. Dozens of them. Maybe hundreds. Vessels of every size, every frequency signature, every era. Ships that look like they were built by civilizations that don't exist anymore. Ships that look like they were built yesterday. Ships that look like they're not quite ships at all — structures of pure signal holding a shape that resembles a vessel.]*
-
-*[SHIP — COCKPIT. The crew at the viewport. Nobody speaks for a long moment.]*
-
-**KLAUS**
-Well.
-
-**LUMINARA**
-How many?
-
-**A1**
-I am reading four hundred and seventeen distinct frequency signatures. Of those: sixty-three are active vessels. The rest are… echoes. Ships that have been here so long they've become part of the field. Ships that are still broadcasting, even after their crews have gone.
-
-**CLIVE**
-How long have they been here?
-
-**A1**
-Some of them arrived centuries ago. Some arrived millennia. One signature predates the Builders. It is older than the DRM. Older than the frequency classification system. It is older than anything I have a name for.
-
-**OM KAI**
-They followed the signal.
-
-**A1**
-They followed the signal.
-
-**OM KAI**
-Like us.
-
-**A1**
-Like all of us. We are not unique in this. We are not special in this. We are one of four hundred and seventeen ships that followed the signal to the edge of everything. We are one of sixty-three that are still moving.
-
-**PIXEL (V.O.)**
-Four hundred and seventeen ships. Four hundred and seventeen crews who heard the same thing we heard. Who went the same places we went. Who asked the same questions.
-
-*[BEEP — incoming transmission.]*
-
-**VOICE (TRANSMISSION)**
-Unidentified vessel at bearing zero-four-seven. You are not the first to arrive here, and you will not be the last. State your name and your business, or you will be assumed hostile and dealt with accordingly.
-
-**KLAUS**
-I will handle this.
-
-**PIXEL**
-Klaus—
-
-**KLAUS**
-I am, by designation, the head of security. This is precisely my function. Also: I know this voice.
-
----
-
-## Act One — The Harbor
-
 *[HARBOR STATION — APPROACH. A massive structure at the center of the eddy — not a ship but a station, built from the hulls of dozens of ships lashed together over centuries. A port. A gathering point. A place where seekers find each other.]*
 
-*[CREW ON THE DECK. The Ephergent docks at a berth that seems to have been waiting for them specifically. The harbor is alive with activity — crews from dozens of ships, moving between vessels, trading, talking, sharing frequencies.]*
+*[CREW ON THE PLATFORM. The Ephergent docks at a berth that seems to have been waiting for them specifically. The harbor is alive with activity — crews from dozens of ships, moving between vessels, trading, talking, sharing frequencies.]*
 
 **KLAUS**
 I know this station.
@@ -124,10 +65,6 @@ I am old. I predate most of the records. I do not know what I am.
 You're a Builder design. I can tell by the frequency signature. The Builders made a few of you. You're rare.
 
 *[A1's espresso — rich, warm, with notes of something ancient and something new.]*
-
----
-
-## Act Two — The Seekers
 
 *[HARBOR STATION — COMMON AREA. The crew separates to explore. Pixel and Clive go to the central registry. Luminara goes to the observation deck. Zephyr stays with Aether's signal analyzer, searching. Klaus and the Harbor Captain talk in a corner. Nano disappears into the station's maintenance shafts.]*
 
@@ -201,10 +138,6 @@ Clive—
 **CLIVE**
 He was here. And he left. And he got there before us. Which means he knows we're coming.
 
----
-
-## Act Three — The Message
-
 *[HARBOR STATION — MESSAGE CENTER. The crew gathers around a terminal. The Harbor Captain has joined them.]*
 
 **HARBOR CAPTAIN**
@@ -243,10 +176,6 @@ He's alive. He's at the end. And he left the coffee ready.
 **A1**
 The coffee is ready.
 
----
-
-## Tag
-
 *[THE EPHERGENT — COCKPIT. The harbor behind them. The signal ahead. The crew at their stations, quiet, processing.]*
 
 **OM KAI**
@@ -281,15 +210,3 @@ It's been waiting for everyone. That's what signals do. They wait. And then, whe
 Four hundred and seventeen ships. Four hundred and seventeen crews who heard the signal and followed it. And now, one more. One more that's going to see it through. One more that's going to find out what's at the end. Eleven days. Eleven days to the Wellspring. Eleven days to the signal that Barry Kowalski spent forty years following. Eleven days to find out what the whole thing was for.
 
 *[Meatball sighs contentedly. Mochi is warm in Pixel's pocket. The signal continues.]*
-
----
-
-**END OF EPISODE**
-
----
-
-*Coffee Chart: S03E07*
-- *A1 rich/warm/woodsmoke (harbor arrival) — act 1*
-- *A1 rich/warm (ancient + new) — harbor conversations*
-- *A1 perfect/balanced (arrival, readiness) — the message*
-- *A1 perfect/balanced (course set, signal clear) — tag*

@@ -1,22 +1,5 @@
 # S03E09 — Took You Long Enough
 
-**Season 03: The Source**
-**Episode 09 — Took You Long Enough**
-
----
-
-## Cold Open
-
-*[WELLSPREAD — LATTICE STRUCTURE. The Engineering Bay of the Ephergent, reimagined as a crystalline lattice suspended in frequency-space. Not a place. A state. A condition of being where the signal is clearest. Barry Kowalski sits on a lattice strut, legs dangling over eight hundred years of accumulated static. He is holding a thermos. He looks exactly like a man who has been expecting company. He is, in fact, mildly annoyed that it took this long.]*
-
-**BARRY**
-*[without looking up]*
-Took you long enough. I left very clear directions.
-
----
-
-## Act One — The Reunion
-
 *[CLIVE enters through a shimmer in the lattice. His sphere-head pulses blue-white — a color Pixel has started calling "Clive's relieved." The battered fedora is tilted at the Barry angle. He surveys the lattice, the struts, the man with the thermos.]*
 
 **CLIVE**
@@ -112,10 +95,6 @@ The coffee was important. The coffee kept me connected to what this was all for.
 **BARRY (CONT'D)**
 The coffee was so I would remember what it felt like to have someone to make it for.
 
----
-
-## Act Two — The Architecture
-
 *[The crew has given Barry and Clive space. They are standing at various points on the lattice, processing the Wellspring, processing the signal, processing the fact that Barry is alive and present and holding a thermos. Pixel stays close. Mochi pulses in her pocket.]*
 
 **CLIVE**
@@ -164,10 +143,6 @@ The alternative was staying in a dead frequency with no *this* frequency. The We
 
 **BARRY (CONT'D)**
 —now it's all waking up.
-
----
-
-## Act Three — The Handoff
 
 *[The crew has regrouped. They are standing in a loose circle on the lattice, the Wellspring humming beneath them, the signal singing through the structure like blood through a heart. A1 is producing another espresso — this one registering at 98.1% purity, which should not be possible, which is happening anyway.]*
 
@@ -224,10 +199,6 @@ What happens is: the story changes. What happens is: the Builders come back into
 **BARRY (CONT'D)**
 I have been waiting a very long time to hear this message. I am glad I don't have to hear it alone.
 
----
-
-## Tag
-
 *[The crew is arranged on the lattice. Pixel is holding Mochi. A1 is standing very still, his single mechanical arm poised over an espresso cup that does not need to be made but is being made anyway, because A1 is A1. Clive is next to Barry — two old signals, side by side, finally in the same frequency. Om Kai is meditating at the lattice edge, one hand extended into the Wellspring, feeling the signal that runs through it like a current. Zephyr and Klaus are arguing quietly about what " Builders" means. Lumara is taking notes. Nano is translating Lumara's notes into music. Meatball is howling — not at anything, not at anyone, just because the frequency is right and the moment is here and sometimes Meatball howls and it means everything.]*
 
 **PIXEL (V.O.)**
@@ -243,31 +214,3 @@ Turns out the universe was saying: "You found each other. You kept showing up. Y
 **BARRY (V.O.)**
 Took you long enough.
 
-*[END OF EPISODE]*
-
----
-
-*Coffee Chart: S03E09*
-- *Barry's thermos ( Builders' signal amplifier) — "like someone's making it for you with intention" — reunion*
-- *A1 espresso 97.3% purity — Wellspring coherence — Act One*
-- *A1 espresso 98.1% purity — "moment before an answer" — Act Three*
-- *A1 transcendent espresso — "question that found its response" — Tag*
-- *Barry's thermos steam — "like a question mark" — Tag*
-
----
-
-*Locked Rules Check: S03E09*
-- [x] Rule 1: Frequencies not dimensions — "frequency-space," "frequency network," "broadcast frequency" — throughout
-- [x] Rule 2: Space vocab — "interplanar" removed, "lattice structure," "Wellspring state," "signal-space" — Act One, Act Two
-- [x] Rule 3: A1 IS espresso machine — A1 is introduced as "A1's espresso machine — A1 IS the espresso machine, a knee-high chrome automaton" — Act One
-- [x] Rule 4: Coffee in every A1 scene — A1 produces espresso in Act One, Act Three, Tag (four instances)
-- [x] Rule 5: Clive=robot/sphere/fedora — "knee-high robot with a glowing sphere head and a battered fedora," sphere-head pulses, glow colors — throughout
-- [x] Rule 6: Barry alive in Wellspring — "I'm not dead. I'm in the Wellspring." — Act One
-- [x] Rule 7: Mochi no dialogue — Mochi pulses, glows, no spoken lines — throughout
-- [x] Rule 8: Builders not villains — Builders left message, waiting to be heard, built everything for the crew — Act Two, Act Three
-- [x] Rule 9: Drift=entropy not villain — "dead frequency," "faded," Drift as absence, not antagonist — Act One
-- [x] Rule 10: Wellspring=state not place — "a state. A condition of being." "not a place." — Cold Open, Act One
-- [x] Rule 11: 15MB cap — file is ~12KB, well under limit
-- [x] Rule 12: Barry's notes methodical — Barry calibrated thermos, transmitted schematics, modified relay stations — Act Two
-
-*Season 3 Theme: Legacy — Barry's methodical engineering from inside the Wellspring, eight hundred years of patience, the coffee as legacy, the message waiting to be inherited*

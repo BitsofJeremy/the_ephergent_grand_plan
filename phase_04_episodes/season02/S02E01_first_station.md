@@ -1,11 +1,3 @@
----
-season: 2
-episode: 1
-title: "First Station"
-narrator: "pixel_paradox"
-featured_characters: ["pixel_paradox", "clive", "a1", "mochi", "meatball", "luminara_usha", "zephyr_glitch", "om_kai", "baron_klaus", "nano"]
-location: "Builder Station 3-Resonant"
----
 
 # First Station
 
@@ -16,10 +8,6 @@ Okay, so — here's the thing about finding something that's been waiting for yo
 We found Builder Station 3-Resonant on the forty-third day of Season Two. I'm numbering it that way because I've given up on standard calendars. Time is a suggestion out here, and not a very convincing one. The Station was floating in open Space between Frequencies 1 and 3 — that corridor where Prime Material's solidity and Cogsworth's clockwork precision create this faint geometric shimmer in the void, like the universe can't decide which physics to run. A1 had been tracking a faint structured signal for six days. Clive had been subtly steering us toward it for longer than that, though I didn't know it at the time. I thought we stumbled on it. We didn't stumble on anything. But that's a conversation for later. Much later.
 
 The Station was the most beautiful thing I have ever seen. I need you to understand that I don't say that lightly. I've watched frequency jellyfish pulse in the deep. I've seen echo whales singing through the static. I've stood at the edge of The Edge and looked at the place where reality gives up pretending to be solid. None of it prepared me for this.
-
----
-
-## Part One — Approach
 
 A1's coffee that morning was floral.
 
@@ -51,10 +39,6 @@ She filed it. She'd been filing Clive's little navigational certainties all seas
 
 Nobody said anything about that. But Luminara made a note in her log, and Klaus's hand went briefly to an interior coat pocket — the one where he kept things that interested him.
 
----
-
-## Part Two — The Station
-
 The viewscreen couldn't hold it.
 
 That was Pixel's first thought as Station 3-Resonant resolved out of the shimmer. The viewscreen was trying to render the Station the way it rendered everything — flat, bounded, framed — and the Station refused. It exceeded the frame. Not because it was too large, though it was large, immense, a structure that made A1 look like a grain of sand against a cathedral. But because the geometry itself was doing something the screen couldn't translate. Interlocking polyhedra — hundreds of them, nested inside each other and around each other in configurations that shouldn't have been stable and clearly were. Each surface covered in markings: frequency notation, dense and precise, the way sheet music looks to someone who can't read it — pattern upon pattern, meaning upon meaning, layer upon layer.
@@ -74,10 +58,6 @@ This wasn't backstory. This was a cathedral standing in the void, barely breathi
 A1 guided them in through the tertiary docking port — the one Clive knew about, the one that was exactly where Clive said it would be — and the docking seal engaged with a sound that was not mechanical. It was musical. A two-note chord, low and warm, like a door recognizing an old friend.
 
 Meatball barked once. Not alarm. Recognition.
-
----
-
-## Part Three — Waking Corridors
 
 The first thing Pixel noticed when the hatch opened was the warmth.
 
@@ -125,10 +105,6 @@ Klaus stood at the intersection of two corridors, coat perfectly arranged, one g
 
 "Who comes next," Om Kai said quietly, "is us."
 
----
-
-## Part Four — The Resonance Chamber
-
 They found it at the Station's center.
 
 The resonance chamber was spherical — a perfect sphere carved or grown from a single piece of translucent material that caught every trace of bioluminescent light the crew had triggered and focused it inward. The walls were lined with crystalline structures, each one shaped differently, each one etched with unique frequency notation, all of them dark and silent and waiting.
@@ -162,10 +138,6 @@ Mochi's warmth, in Pixel's hands, was extraordinary. The deepest violet. The mos
 Nobody could explain it. Luminara's spectral analyzer was producing readings she would spend the next three days analyzing. But explanation could wait. For this moment, the crew stood in the resonance chamber of a Builder Station and listened to something eight hundred years old remember how to sing.
 
 Om Kai sat down. Cross-legged, on the chamber floor, hands resting in their lap. Their eyes closed. The stillness they carried was, for once, not a practice. It was a response. The signal filled the space the way water fills a vessel — completely, without forcing.
-
----
-
-## Part Five — The Notebook
 
 It was Clive who found it. Or Clive who led them to it. The distinction, in retrospect, would matter.
 
@@ -219,10 +191,6 @@ Clive held the notebook. He looked at it for a long time. Then he closed it, car
 
 He said nothing for the rest of the episode.
 
----
-
-## Part Six — What Clive Saw
-
 Clive touched the archive terminal.
 
 He did not decide to. His hand moved the way hands move when they remember a surface — the way your fingers find a light switch in a dark room you haven't been in for years. Muscle memory, except Clive's muscles were Builder alloy and the memory was eight hundred years deep.
@@ -243,10 +211,6 @@ He adjusted his fedora. It was the gesture he made when he needed the world to k
 
 Barry's notebook was warm against his chest core.
 
----
-
-## Part Seven — What Was Left Behind
-
 The crew spent four hours in Station 3-Resonant. Luminara filled three data logs. Zephyr recorded the resonance chamber's output on every band his rig could access — and when he ran out of bands, he improvised new ones, because the signal had layers his equipment wasn't built to capture. Nano mapped the Station's mechanical systems with a methodical intensity that would have impressed Cogsworth's master engineers, moving from junction to junction, her hands reading eight-hundred-year-old engineering the way a pianist reads sheet music.
 
 Klaus found a secondary archive terminal in a corridor off the main chamber. The notation on its surface was partially worn — weather, time, the slow erosion of a building that has been breathing alone for centuries. He produced a small light from an interior pocket and examined the markings with the careful attention of someone building a case.
@@ -259,10 +223,6 @@ Mochi's warmth persisted for hours after they left the Station. In the satchel a
 
 Nobody could explain it. Nobody tried, yet.
 
----
-
-## Part Eight — The Silence
-
 In the common area, after, A1 produced coffee. It was warm and complex, with a honeyed finish that told Pixel something the espresso machine would never say aloud. The floral notes from the morning were gone. In their place: something layered. Something that tasted like it was composed of two feelings at once — wonder and recognition, ancient and immediate. Pixel drank it slowly and did not comment.
 
 Zephyr was in the communications bay. He hadn't spoken since they left the Station, which for Zephyr could mean anything from exhaustion to revelation. His rig was playing back the resonance chamber recording, filtering it, pulling it apart layer by layer. The primary harmonic — the stabilization broadcast — was extraordinary on its own. But Zephyr wasn't listening to the primary. He was listening underneath it.
@@ -272,8 +232,6 @@ The secondary signal. The layered pattern woven into the Station's architecture.
 He filed it. He didn't sleep that night. In the communications bay, in the blue glow of his rig's displays, Zephyr Glitch listened to a signal that wasn't static and wasn't a voice and wasn't anything he had a name for yet, and he thought about his brother, who had followed a signal too far and never came back.
 
 He wasn't ready to hope. He was ready to listen harder.
-
----
 
 In the corridor outside the engine room, Pixel found Clive.
 
@@ -295,10 +253,6 @@ Said nothing.
 
 Mochi, in the satchel, glowed a soft, steady violet. The satchel was warm.
 
----
-
-## Closing Transmission
-
 *"This is Pixel Paradox, broadcasting from the Ephergent. We found... I don't have a word for what we found. A building. An instrument. A cathedral that's been holding the universe together for eight hundred years on four percent power, because that's what it was built to do and nobody told it to stop.*
 
 *"The Builders were real. I mean — we knew they were real. We'd seen traces. Signals. The warmth in the walls. But this is different. This is standing inside something they made and feeling it breathe. They built an instrument the size of a small city and wrote the instructions on every surface and then they left. Or they dimmed. Or whatever happened to them happened, and the Station kept going. Kept humming. Kept the corridor stable while everything else fell apart.*
@@ -314,38 +268,3 @@ Mochi, in the satchel, glowed a soft, steady violet. The satchel was warm.
 *"The past isn't dead out here. It's just waiting for someone to walk into the room and turn the lights on.*
 
 *"This is the Ephergent. We're listening. And for the first time, we know where the sound is coming from."*
-
----
-
-## Episode Notes
-
-### Seeds Planted
-
-- **Barry Trail**: Field notebook found at Station 3-Resonant. Open on maintenance alcove workbench. Frequency stabilization math with Barry's annotations. Key entries: *"Station 3-Resonant. First entry. Infrastructure intact."* and *"Archive terminals respond to C-1 resonance patterns."* Margin note: *"C would know what this is. Wish he were here."* Clive recognizes the handwriting. Picks up notebook. Says nothing for the rest of the episode.
-
-- **Clive Memory Seed**: Touching archive terminal triggers first memory — one clear image: a room, a workbench, a project half-assembled (dome-shaped, matching Mochi's form). Feeling of focused patience. He does not tell the crew.
-
-- **Clive Navigation Beat**: Clive suggests tertiary docking port, starboard side, before the port is visible. It is the correct choice. No explanation offered. Pattern begins.
-
-- **Mochi Cue**: Mochi's warmth intensifies to deepest violet upon entering Station. Crystalline structures in resonance chamber respond to Mochi — hum shifts pitch when she is brought closer. Builder-adjacent material triggering stronger response than anything in Season One.
-
-- **Zephyr Signal Beat**: Zephyr identifies layered signal underneath the resonance chamber's primary harmonic. Structurally similar to a fragment caught in Season One. Files it. Doesn't sleep. Listens harder.
-
-- **Ephergent Frequency**: Station 3-Resonant is producing the Frequency — weakly, at 4% output, but undeniably. First time the crew can point to a source. A1 logs it as clearest recording to date. Reference signal for the season.
-
-### Character Moments
-
-- **A1**: Floral coffee in the morning (nostalgia, Builder recognition). Confirms the Frequency source with characteristic precision. The ship hums deeper near the Station.
-- **Luminara**: Forearms glow involuntarily near Station's organic components. Pulls her sleeves down. Says nothing. The scientist encounters data she can feel.
-- **Om Kai**: Sits in resonance chamber for four hours. "This place is not dead. It is between breaths."
-- **Klaus**: Examines secondary archive terminal. Building the case. Notes Clive's stillness with investigator's attention.
-- **Nano**: Maps Station's mechanical systems at speed. "That's not a building. That's an instrument."
-- **Meatball**: Still-tailed recognition at approach. Lies down in resonance chamber center. Has to be persuaded to leave.
-
-### Continuity Notes
-
-- Station 3-Resonant's position (Space between Frequencies 1 and 3) consistent with frequency system documentation
-- Barry's field notebook style matches Barry character bible — observations first, analysis second, personal remarks third
-- Clive's memory escalation: S02E01 = single image per season architecture
-- "Ephergent" used only as ship name throughout — no concept definition until S02E07
-- Space vocabulary maintained throughout — traverse, fly, navigate. No nautical metaphors.

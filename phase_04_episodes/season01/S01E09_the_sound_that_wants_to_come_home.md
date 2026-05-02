@@ -1,33 +1,5 @@
----
-season: 1
-episode: 9
-title: "The Sound That Wants to Come Home"
-narrator: "pixel_paradox"
-location: "The Space (frequency storm)"
-featured_characters:
-  - pixel_paradox
-  - a1
-  - clive
-  - meatball
-  - luminara_usha
-  - om_kai
-  - zephyr_glitch
-  - mochi
-stardate: "Cycle 001.009.001"
-summary: "We hit our first frequency storm. Reality became a blender, physics bled between frequencies, and A1 remembered how to fly. In the chaos, we found something — a lost frequency, a dead world's signal pushed to the surface. We couldn't reach it yet. But we marked the coordinates. This is what we're meant to do."
----
 
 # The Sound That Wants to Come Home
-
-## Pixel-Voice Synopsis
-
-So here's the thing about the The Space that nobody tells you: it has weather. And not cute weather, not "oh look, a light drizzle of quantum static, better grab an umbrella." I'm talking full-blown frequency storms — zones where multiple frequencies interfere with each other, where reality gets thrown into a cosmic blender and the laws of physics become more like the suggestions of physics. We hit one today. Our first.
-
-I'd like to tell you I was brave. I'd like to tell you I gripped the captain's chair with steely determination and said something inspiring. What actually happened is that gravity reversed, my coffee hit the ceiling, and I said a word that I'm not going to repeat on a broadcast that children in at least three frequencies might be listening to. But A1 — A1 *remembered*. His ancient lattice was built for this. He knew how to ride the frequency storm the way your body knows how to breathe. And in the middle of that beautiful, terrifying chaos, Om Kai heard something. A lost frequency. A dead world, singing from underneath the static, pushed to the surface by the frequency storm like a lattice collapse rising from the deep.
-
-We couldn't reach it. Not yet. But we marked its coordinates, and Meatball said something that I haven't been able to stop thinking about: "That sound is sad. It wants to come home."
-
-Yeah. That's the mission. That's what we do now.
 
 ## Narrative Structure
 
@@ -41,7 +13,7 @@ First came the sound — or rather, the *almost*-sound, a subsonic pressure that
 
 Pixel set down her coffee. "How bad?"
 
-"Uncertain. My sensors are still calibrating. But based on the interference patterns..." A pause. The bridge lights flickered — not fear this time, but something older. Memory. "I've sailed through these before. A very long time ago."
+"Uncertain. My sensors are still calibrating. But based on the interference patterns..." A pause. The bridge lights flickered — not fear this time, but something older. Memory. "I've traversed these before. A very long time ago."
 
 Om Kai was already at the science lab's sensor array, his eyes closed, his perception stretched out into the Space. "It's enormous," he said. "I can feel the edges of it — frequencies colliding, bleeding into each other. It's like... imagine every radio station in existence playing at once, and the static between them catching fire."
 
@@ -161,7 +133,7 @@ In the engine room, Meatball lay on his power coupling and dreamed. His paws twi
 
 Pixel sat in the captain's chair and drafted a broadcast. Not the triumphant declaration of Episode 8, but something quieter. More focused.
 
-"This is Pixel Paradox, broadcasting from The Ephergent. We sailed through our first frequency storm today. It was terrifying and beautiful and it nearly shook us apart. But in the chaos, we found something. A signal. A lost frequency — a world that faded so long ago that even our ancient ship doesn't have records of it. We couldn't reach it. Not yet. But we heard it. And we marked its coordinates. And we're going to find it.
+"This is Pixel Paradox, broadcasting from The Ephergent. We traversed our first frequency storm today. It was terrifying and beautiful and it nearly shook us apart. But in the chaos, we found something. A signal. A lost frequency — a world that faded so long ago that even our ancient ship doesn't have records of it. We couldn't reach it. Not yet. But we heard it. And we marked its coordinates. And we're going to find it.
 
 "That's the mission, everyone. That's what The Ephergent does. We traverse the storms. We listen for the lost. And we bring them home. Home — which is starting to mean something different to us. Not Prime Material. Not anywhere we came from. Home is wherever this crew is, together, doing the work that matters.
 
@@ -169,33 +141,6 @@ Pixel sat in the captain's chair and drafted a broadcast. Not the triumphant dec
 
 "Stay tuned. There's so much more out there than any of us imagined."
 
-She cut the channel. A1's coffee tasted like salt air and resolve and the first notes of a song that hadn't been sung in millennia.
+She cut the channel. A1's coffee tasted like ozone and resolve and the first notes of a song that hadn't been sung in millennia.
 
 The Ephergent flew on.
-
-## Character Focus
-
-- **Pixel Paradox**: Faces real danger and makes the call to go through the frequency storm rather than around it. Her trust in A1 — and his trust in his own ancient instincts — defines the relationship going forward. Her closing broadcast shifts from celebration to purpose.
-- **A1**: The frequency storm unlocks something in him — ancient navigational instincts he didn't know he still had. His lattice was *built* for this. The joy and confidence of remembering transforms him. He's not just a ship learning to be a ship again; he's a navigator remembering how to dance.
-- **Clive**: Updates the cold case count to 348. The discovery of a pre-archive frequency — older than A1's records — deepens the mystery and the mission's scope.
-- **Meatball**: "That sound is sad. It wants to come home." The emotional thesis of the episode and the mission, delivered with the simple profundity only Meatball can achieve.
-- **Luminara Usha**: Photographs the frequency storm and captures evidence of the lost frequency — a ghostly skyline beneath the static. Her images become the crew's visual record of what they're searching for.
-- **Om Kai**: Detects the lost frequency. His perception, amplified by the science lab's instruments, becomes the crew's primary tool for finding what's been lost. His insight that storms churn up buried frequencies establishes the methodology for future episodes.
-- **Zephyr Glitch**: Begins translating A1's instinctive frequency storm navigation into data. The hacker's role evolves: he's not just interfacing with systems, he's building the tools the crew will need.
-
-## Tags
-
-- frequency storm
-- lost frequency
-- first mission
-- frequency_space
-- a1 navigation
-- frequency storm riding
-- ancient signal
-- crew purpose
-- the drift
-- meatball wisdom
-- beautiful danger
-- frequency discovery
-- choosing_to_stay
-- we_could_go_home

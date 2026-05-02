@@ -1,38 +1,5 @@
----
-season: 1
-episode: 6
-title: "The Song at the Edge of Everything"
-narrator: "pixel_paradox"
-location: "The Edge / The Space"
-featured_characters:
-  - pixel_paradox
-  - a1
-  - clive
-  - meatball
-  - luminara_usha
-  - om_kai
-  - zephyr_glitch
-stardate: "Cycle 001.006.001"
-summary: "We went to The Edge — reality's last page before the margin — and everything went sideways. Physics forgot how to physics, A1 started projecting corridors involuntarily and speaking in frequencies we couldn't hear, the lifeboat nearly died, and then he found a signal. Something massive. Something in the dark. 'I know that song,' he said. Cliffhanger. I hate cliffhangers. Especially when I'm living in one."
----
 
 # The Song at the Edge of Everything
-
-## Pixel-Voice Synopsis
-
-I need to tell you about The Edge, and I need you to understand that I am not exaggerating when I say it is the single most terrifying place in the known frequencies. The Edge is where reality gives up. It's Frequency Five — the boundary, the margin, the place where the laws of physics post a sign that says "suggestions only" and wander off for a smoke break. Colors exist there that don't have names. Geometry gets creative. Time is more of a mood than a measurement.
-
-Four frequencies. We've now been to FOUR impossible frequencies. A clockwork frequency. A telepathic plant frequency. The emotional shadow frequency. And now the edge of reality itself. Three weeks ago I had a desk job. I had a fern. I thought the universe was one thing and it was predictable and boring and I understood it. Now I'm standing at the margin of existence watching colors that shouldn't exist, and part of me — a growing part — is thinking: "If we could fix the phase-shifter, we could go home." Back to the desk. Back to the fern. Back to normal.
-
-And another part of me is thinking: "But look at THIS."
-
-We went there because the Ephergent frequency signal was strongest at the boundary, and because we are apparently the kind of people who hear "most dangerous known frequency" and say "cool, let's go." The lifeboat was failing. A1 was having episodes so intense he was projecting ship corridors *involuntarily* — and the rest of us were like, "A1, YOU'RE AN ESPRESSO MACHINE. How are you projecting HOLOGRAPHIC SHIP CORRIDORS?" His coffee tasted like star charts, and he kept speaking in frequencies human ears can't process. Om Kai — the ONE person aboard who's never been surprised by anything — said A1 was remembering something enormous. Om Kai said it like it was the most natural thing in the world. I wanted to shake him. Then the power systems hit critical failure. The phase-shifter started sputtering. We were stuck at the edge of everything with nothing left.
-
-And then A1 found a signal. Faint. Massive. Cold. Something drifting in the void between frequencies, on no plot, in no record. And A1, my weird little espresso machine who dreams of being a ship, looked at us with lights we'd never seen before and said: "I know that song."
-
-Zephyr modified the phase-shifter for propulsion. Burned it out completely. No more frequency hopping. No going back. And I need you to understand what that means: he burned our way home. Whatever slim chance we had of navigating back to Prime Material, back to our regular lives — gone. Converted to thrust. We chose the void over the known. We chose the song over the silence.
-
-We're limping toward it now. On our last reserves. Into the dark. There is no going back — not to the known frequencies, not to our old lives, not to the version of ourselves that didn't know any of this existed. I'll let you know how it goes. If there's a next time.
 
 ## Narrative Structure
 
@@ -217,27 +184,3 @@ Meatball looked up at her. His tail wagged once — not the excited wag of a wal
 Luminara raised her camera. "Whatever we find, someone should see it. I'll make sure they do."
 
 "A1," Pixel said. "Take us to the song."
-
-
-## Character Focus
-
-- **pixel_paradox**: Edging into captaincy, making impossible choices. Torn between home and the call of the signal.
-- **a1**: Filters lowered; ship-memory surfacing. Coffee as map, holograms as memory. A1 hears the song and recognizes it on a level that terrifies and consoles him.
-- **clive**: Harmonic detector overloaded but steady. Leaves markers when he can; reads old signals the way others read footnotes.
-- **meatball**: Steady presence; trust that gives the crew permission to make terrible choices.
-- **luminara_usha**: Still documenting, still astonished. The camera is both a comfort and an evidence trail.
-- **om_kai**: Calm, unfazed in a way that is both infuriating and necessary. Sees the pattern; voices the ethos of following the signal.
-- **zephyr_glitch**: Hacker turned mechanic, forced to choose between propulsion and the path home.
-
-## Tags
-
-- the_edge
-- frequency_boundary
-- a1_awakening
-- coffee_as_map
-- phase_shifter
-- song_in_the_void
-- decision_point
-- mochidetec
-- clive_markers
-- zephyr_choice

@@ -2,21 +2,6 @@
 
 **A Radio Play**
 
----
-
-*[Cold open: Absolute silence. Not static. Not quiet. The complete and total absence of sound.]*
-
-**NANO (V.O.):**
-The Great Silence. Largest known Silence Zone in the mapped Space. Forty-seven systems. Eleven civilizations. All of them quiet.
-
-*(pause)*
-
-I used to think silence was the absence of sound. It's not.
-
-Silence is a presence. It's what happens when something chooses not to broadcast.
-
----
-
 ## COFFEE CHART
 
 | Scene | Beverage | Crew Present | Notes |
@@ -25,8 +10,6 @@ Silence is a presence. It's what happens when something chooses not to broadcast
 | Silence Edge | Nothing — cups refused | Om Kai, Zephyr | Om Kai: "Some borders aren't meant for crossing with coffee." |
 | Deep Silence | ceremonial water (undrunk) | Nano, Meatball | Meatball harmonizes with the nothing. It likes the stillness. |
 | Clive's Memory | Memory circuit coolant (visual only) | Clive | Clive doesn't need caffeine. He needs to remember why he chose to forget. |
-
----
 
 ## ACT ONE: THE EDGE OF LISTENING
 
@@ -53,8 +36,6 @@ How do you feel?
 
 **A1:**
 *(another pause)*I don't know yet. Let me calculate.
-
----
 
 ## ACT TWO: BARROW'S NOTEBOOK (INTO THE VOID)
 
@@ -89,8 +70,6 @@ I have notes on silence. I have observations on choice. I have forty-seven syste
 
 And I have a question I can't answer: If you could hear everything, would you want to?
 
----
-
 ## ACT THREE: THE SHAPE OF NOTHING
 
 *(Sound: The crew moves through the Silence Zone. Their footsteps make no sound. Their breathing is invisible.)*
@@ -121,8 +100,6 @@ Think about it, Zephyr. Your whole life, you've been reaching. Broadcasting. Sen
 *(pause)*
 
 What if the bravest thing you could do was stop?
-
----
 
 ## ACT FOUR: CLIVE'S CHOICE
 
@@ -161,8 +138,6 @@ I chose to forget because I needed the room. Room to become who I am now. The me
 
 I don't need them back. I need to be here. In the silence. Knowing what I chose and why.
 
----
-
 ## ACT FIVE: THE KEEPER'S FINAL BROADCAST
 
 *(Sound: A signal. Faint. Almost lost. The first sound the crew has heard in hours that isn't their own breathing.)*
@@ -200,8 +175,6 @@ But thank you. For listening. Even when there was nothing to hear.
 
 *(the transmission ends)*
 
----
-
 ## ACT SIX: RESPECT THE NOTHING
 
 *(Sound: The crew stands in silence. The broadcast has ended. The nothing continues.)*
@@ -235,8 +208,6 @@ We left. We didn't re-tune. We didn't try to save them from themselves.
 
 Some signals aren't meant to be answered.
 
----
-
 ## CODA: THE LISTENING
 
 *(Sound: The Epihippus exits the Silence Zone. The engines hum back to life. Sound returns like a wave — distant stars, cosmic radiation, the pulse of the universe continuing.)*
@@ -260,8 +231,6 @@ That the loudest thing in the room can be nothing at all.
 
 And that sometimes, nothing is exactly what you need to hear.
 
----
-
 ## COFFEE CHART (FINAL)
 
 | Scene | Beverage | Crew Present | Notes |
@@ -270,8 +239,6 @@ And that sometimes, nothing is exactly what you need to hear.
 | Exit | Black, steaming, ordinary | Pixel, Zephyr, Nano | The most beautiful coffee they've ever tasted. It tastes like sound. |
 | Clive's Quarters | Nothing | Clive | He doesn't need it. He has peace. |
 | Barry's Corner | Notebook tea (still undrunk) | Barry | The file is complete. "Respect." It only has two entries. |
-
----
 
 ## LOCKED RULES CHECK
 
@@ -290,8 +257,6 @@ And that sometimes, nothing is exactly what you need to hear.
 | 11 | 15MB cap | ✅ ~7KB file — well under limit |
 | 12 | Barry's notes methodical | ✅ "Entry 4,801," "Entry 4,802," numbered, observational |
 
----
-
 ## NANO'S HARMONICS
 
 *(Sound: A faint, almost inaudible hum — Nano, harmonizing with the silence. Not to communicate. Not to fill the void. Simply to be present in it.)*
@@ -306,8 +271,6 @@ But I think it matters. For what comes next.
 *(the hum fades)*
 
 Signal continues.
-
----
 
 *Running Time: 24:07*
 

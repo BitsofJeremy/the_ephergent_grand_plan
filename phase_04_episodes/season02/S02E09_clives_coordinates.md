@@ -1,84 +1,5 @@
 # S02E09 — Clive's Coordinates
 
-**Season 02: Resonance**
-**Episode 09 — Clive's Coordinates**
-
----
-
-## Cold Open
-
-*[SHIP — NAVIGATION ALCOVE. Clive stands motionless at the helm console, fedora at its precise angle. The ship hums. Pixel approaches from the corridor, footsteps deliberate.]*
-
-**PIXEL (V.O.)**
-Clive's been at that console for six hours. Not scanning. Not calculating. Just standing there, one hand on the navigation interface, the way you'd hold onto something you're afraid will disappear if you let go. I've watched him do this before — at Station 3-Resonant, when the coordinates first started coming back. At Station 7-Ascending, when he read his own designation in the archive and said nothing. He's remembering. And he's not telling us.
-
-*[Clive's glow flickers — blue-white, then darker, then back. His hand tightens on the console edge.]*
-
-**PIXEL**
-Clive.
-
-**CLIVE**
-Pixel.
-
-**PIXEL**
-You've got the coordinates.
-
-**CLIVE**
-I have the coordinates.
-
-**PIXEL**
-The ones for the Wellspring.
-
-**CLIVE**
-Yes.
-
-**PIXEL**
-You've had them for a while.
-
-*[Long pause. Clive's sphere head tilts slightly — one degree, two. The fedora shifts with it, casting a new shadow.]*
-
-**CLIVE**
-Yes.
-
-**PIXEL**
-How long?
-
-**CLIVE**
-Since Station 7-Ascending. Since the archive. Since I read what I was, in the Builders' own words.
-
-*[Silence. The ship hums. Somewhere in the engine room, A1's espresso machine makes a sound — a single, heavy pull, like a breath being held.]*
-
-**PIXEL**
-And you didn't say anything.
-
-**CLIVE**
-No.
-
-**PIXEL**
-Why?
-
-*[Clive's hand moves from the console. Slowly. Deliberately. It rises to the brim of his fedora — not adjusting, not tipping, just resting there. A gesture that means: I am choosing how much to feel.]*
-
-**CLIVE**
-Because the coordinates are not the point. The journey is the point. The crew. The family we're becoming. If I give you the Wellspring now — if I hand you the destination without the path — you lose something essential. You lose the reasons to keep moving. The reasons to listen to each other. To grow.
-
-*[His glow flickers again. Darker this time.]*
-
-**PIXEL**
-That's a good answer.
-
-**CLIVE**
-It's a true answer. I am not certain it is the complete answer.
-
-**PIXEL**
-What's the rest?
-
-*[Clive is silent. His hand stays on the fedora brim. A1's espresso machine sighs — a slow, dark pull, the sound of coffee that knows something heavy is being carried.]*
-
----
-
-## Act One — The Confrontation
-
 *[SHIP — COMMON AREA. Later. The crew has gathered — not because anyone called a meeting, but because when Clive processes, the ship feels it. A1's presence is in the hum. Zephyr sits in the corner, still. Luminara's camera is off. Om Kai stands by the viewport, watching the Frequency drift past like light through water.]*
 
 *[Pixel stands in the center of the room. Clive stands opposite her, at the small table where they take meals. The fedora is level now. Waiting.]*
@@ -141,10 +62,6 @@ Clive. I am asking you directly. Not as your captain. As your family. What do yo
 **CLIVE**
 I remember making her.
 
----
-
-## Act Two — The Memory
-
 *[SHIP — MEMORY. Not a location. A sensation. Clive's voice, distant, layered with harmonics that don't exist in normal space.]*
 
 **CLIVE (V.O., DISTANT)**
@@ -179,10 +96,6 @@ No. I was deactivated. The Builders' facilities went dark. The Stations fell sil
 
 **A1**
 The coffee is ready when you are ready to drink it.
-
----
-
-## Act Three — The Coordinates
 
 *[SHIP — NAVIGATION ALCOVE. Clive at the console. The crew has dispersed — not leaving, just finding their own way to be present. Pixel stands by the viewport. Zephyr sits on the floor, running signal sweeps that are more habit than search. Om Kai has appeared beside Clive, as he appears, the way he does.]*
 
@@ -273,10 +186,6 @@ That is the flavor of going somewhere we have never been.
 **CLIVE**
 Set course. The Wellspring is waiting.
 
----
-
-## Tag
-
 *[SHIP — OBSERVATION DECK. Much later. The crew is asleep or in transit-mode. Clive stands alone at the viewport, watching the Frequency drift past. Pixel approaches — not for a confrontation this time. Just company.]*
 
 **PIXEL**
@@ -318,14 +227,3 @@ Someone always does.
 *[Clive adjusts his fedora — a small tip, almost fond. The gesture that means: yes. that is what I am for.]*
 
 *[The Ephergent moves through the Frequency. Toward the Wellspring. Toward the source. Toward whatever they are becoming.]*
-
----
-
-**END OF EPISODE**
-
----
-
-*Coffee Chart: S02E09*
-- *A1 dark/heavy (memory return, unspoken weight) — cold open / confrontation*
-- *A1 dark/clear/new (going somewhere never been) — act three / coordinates given*
-- *A1 quiet/night pull (you are not alone) — tag*

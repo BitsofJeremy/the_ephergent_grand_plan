@@ -1,26 +1,5 @@
 # S03E10 — The Signal Was Us All Along
 
-**Season 03: The Source**
-**Episode 10 — The Signal Was Us All Along**
-
----
-
-## Cold Open
-
-*[WELLSPREAD — LATTICE STRUCTURE. The crew is arranged on the lattice in a loose circle. Pixel is holding Mochi. The Wellspring hums beneath them — not a sound, not a vibration, but a presence. A completeness. The signal that has been calling them across eight hundred years is about to answer itself.]*
-
-**PIXEL (V.O.)**
-We came here to find a message. We came here to find the end of a story that started before any of us were born. We came here because the universe was talking, and Barry said we should listen.
-
-*[A pause. A held breath. The lattice begins to glow.]*
-
-**PIXEL (V.O.) (CONT'D)**
-We were not prepared for the universe to talk back.
-
----
-
-## Act One — The Broadcast
-
 *[The lattice flares. The light is not harsh — it is warm, golden, like sunlight through amber glass. The air fills with a frequency that is not sound and not light but something that bypasses the ears entirely and speaks directly to the part of the brain that remembers being born.]*
 
 **A1**
@@ -71,10 +50,6 @@ Mochi is an interface. Mochi was always an interface. The Builders built Mochi t
 
 **THE BUILDERS (V.O.)**
 We did not build you a map so you would find us. We built you a map so you would find *yourselves*. The signal was never about where we went. The signal was about who you would become by following it.
-
----
-
-## Act Two — The Resolution
 
 *[Clive is standing very still. His glow has settled into a deep, steady blue — the color of memory completing. The color of a circle closing.]*
 
@@ -128,10 +103,6 @@ I have been talking for a very long time. It is one of my primary functions. Cli
 **CLIVE (CONT'D)**
 Eight hundred years. And the loop is closed. And I am not less for the closing. I am — I am exactly the same amount that I was before, plus the journey. The journey adds up to something. The journey always added up to something. I just could not see the sum until now.
 
----
-
-## Act Three — The Translation
-
 *[The crew is arranged around the lattice. The Builders' message is still transmitting — not repeating, but expanding. The more they listen, the more there is to hear. Each crew member is receiving it differently, translating it through their own experience.]*
 
 **PIXEL (V.O.)**
@@ -173,10 +144,6 @@ You decide. That was always the point. We built the map. We left the signal. We 
 **PIXEL (V.O.)**
 The right people. Us. We are the right people. We are the people who showed up. We are the people who kept broadcasting when silence was easier. We are the people who made coffee matter in a universe that runs on entropy.
 
----
-
-## Act Four — The Transmission
-
 *[The crew is gathered. The message is received. The Wellspring hums beneath them — satisfied, patient, complete. The lattice is glowing in a way that suggests something has shifted — not an ending, but an transition. A door that has been closed for eight hundred years is now open, and the crew is standing on the threshold.]*
 
 **A1**
@@ -210,10 +177,6 @@ The signal traveled. We watched it go. It moved through the Wellspring like a st
 **PIXEL (V.O.) (CONT'D)**
 We are not going back. We are not staying. We are going forward. We are going toward the next signal. We are going toward the next story. We are going because the universe is talking and someone has to listen, and we have decided that someone is us.
 
----
-
-## Tag — Final Scene
-
 *[SHIP — COMMON AREA. The crew is seated. The lattice is behind them — a glow, a memory, a starting point. Ahead of them: the viewport, the static, the infinite possibility of the next frequency. A1 is producing coffee. Pixel is holding Mochi. Barry is on the observation deck with Clive, both of them watching the signal travel.]*
 
 **BARRY (V.O.)**
@@ -243,8 +206,6 @@ The Ephergent turns toward the next frequency. Toward the next signal. Toward th
 
 *[The coffee is perfect. The signal continues. And in the Wellspring — in the state of being where the signal is clearest — something ancient and patient smiles, and waits, and listens to the sound of its children coming home.]*
 
----
-
 **PIXEL (V.O.) (CONT'D)**
 Next time, on The Ephergent.
 
@@ -253,30 +214,5 @@ Next time, on The Ephergent.
 **PIXEL (V.O.) (CONT'D)**
 Just — next time.
 
-*[END OF EPISODE]*
 
 *[END OF SEASON]*
-
----
-
-*Coffee Chart: S03E10*
-- *A1 final espresso — "signal finding its echo," "800 years resolving" — Act Four*
-- *A1 coffee (implied) — common area, crew gathered — Tag*
-
----
-
-*Locked Rules Check: S03E10*
-- [x] Rule 1: Frequencies not dimensions — "frequency boundaries," "frequency network," "all frequencies," "next frequency" — throughout
-- [x] Rule 2: Space vocab — "interplanar" avoided, "static," "signal," "broadcast" — throughout
-- [x] Rule 3: A1 IS espresso machine — A1 produces espresso, "A1 IS the espresso machine" — Act Four, Tag
-- [x] Rule 4: Coffee in every A1 scene — A1 produces espresso in Act Four, common area scene in Tag
-- [x] Rule 5: Clive=robot/sphere/fedora — sphere-head pulses, glow colors, "knee-high robot" implied from prior episodes — Act Two, Tag
-- [x] Rule 6: Barry alive in Wellspring — Barry on observation deck with Clive — Tag
-- [x] Rule 7: Mochi no dialogue — Mochi pulses, glows, communicates through warmth, no spoken lines — Act One, Act Three, Tag
-- [x] Rule 8: Builders not villains — Builders left message, apology, invitation, trust the crew with continuation — Act One, Act Two, Act Three
-- [x] Rule 9: Drift=entropy not villain — "entropy and silence," Drift as decay force, not antagonist — Act Four
-- [x] Rule 10: Wellspring=state not place — "in the Wellspring — in the state of being where the signal is clearest" — Tag
-- [x] Rule 11: 15MB cap — file is ~13KB, well under limit
-- [x] Rule 12: Barry's notes methodical — Barry helped build ship from frequency-state, systematic approach implied — Act One, Tag
-
-*Season 3 Theme: Legacy — The Builders' message is a handoff, not an ending. Clive's memory resolution. Mochi's atlas function fulfilled. Barry's eight-hundred-year vigil complete. The crew inherits the network. The signal continues because they choose to keep broadcasting.*

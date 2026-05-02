@@ -1,23 +1,5 @@
----
-season: 1
-episode: 10
-title: "Barry's Desk"
-narrator: "pixel_paradox"
-featured_characters: ["clive", "pixel_paradox", "a1", "mochi", "meatball"]
-location: "DRM Sub-Level 3 Wreckage"
----
 
 # Barry's Desk
-
-## Pixel-Voice Synopsis
-
-You ever drift through the wreckage of someone else's life and realize you've been traveling with a person you barely know? That's what this was. We found Sub-Level 3 — a whole chunk of the DRM, just floating in the Space like it forgot to finish falling apart. And inside it, a desk. A chair. A thermos. Twenty-three years of coffee rings on a night guard's desk, overlapping like tree rings, and a charging alcove built into the wall beside it that was exactly Clive-shaped. Eight hundred years of Builder technology made cozy by two decades of habit.
-
-Clive had a life before us. A long one. With someone who cared enough to build him a reading nook.
-
-I didn't ask questions he wasn't ready to answer. I sat with him. Sometimes that's the broadcast.
-
----
 
 ## Narrative Structure
 
@@ -179,7 +161,7 @@ A1 hummed through the monitoring station's still-active speakers — a low, reso
 
 Pixel found it on the shelf behind the desk — not the alcove shelf, the other one, the one bolted to the wall above the monitoring equipment, where Barry had kept his reference binders and a small clock that had stopped at 3:47 AM. The photograph was in a frame. Cheap frame, the kind you buy at a pharmacy. The glass was cracked but intact.
 
-The image was faded. Degraded by time and the particular entropy of the The Space, which ate at photographs the way salt air ate at metal — slowly, from the edges in. What remained:
+The image was faded. Degraded by time and the particular entropy of the The Space, which ate at photographs the way years ate at memories — slowly, from the edges in. What remained:
 
 A man. Standing. Solid build, unhurried posture, the kind of frame that suggested decades of night shifts in institutional buildings. Grey hair, short, practical. A face weathered by fluorescent lighting, with deep lines around the eyes. He was holding a thermos. Of course he was holding a thermos. The thermos was silver, dented, clearly well-used. His other hand rested at his side, relaxed, with the particular stillness of a person who did not fidget and did not need to.
 
@@ -342,39 +324,3 @@ And the frequency, pulsing through the walls, through the wires, through the dar
 He followed it anyway.
 
 ---
-
-## Character Focus
-
-**Clive**: The emotional center. Everything the audience learns about Clive's interior life in this episode comes through evidence, not exposition — the coffee rings, the alcove, the photograph, the dead reading lamp. His statement about Barry is the most vulnerable thing he has said in ten episodes, and it is delivered with the precision of someone who has rehearsed it for years. He does not break down. He does not open up. He makes a statement, honors it with silence, and then redirects to practical concerns. The depth of his loss is measurable only in the quality of his stillness and the dimming of his glow. His final line — *"The reading lamp needs a new bulb"* — is a promise of return disguised as a maintenance observation, and it is the most Clive thing he has ever said.
-
-**Pixel Paradox**: The narrator and witness. Pixel's role in this episode is restraint — the things she doesn't say, the questions she doesn't ask, the space she gives without being asked to give it. She reads the room the way she reads frequencies: attentively, intuitively, without forcing interpretation. She places Mochi on the desk without thinking. She sits on the floor and watches. She does not say "I'm sorry" or "we'll find him." She says "Let's take a look" and keeps walking. This is Pixel becoming the captain she will be — not through command, but through the wisdom of knowing when to lead and when to simply be present.
-
-**A1**: Communicates entirely through coffee and environmental control. The progression — smoky (warning) to thick/sweet (grief) to floral (Builder memory) to contradictory (two truths held at once) — tells A1's complete emotional arc for the episode without a single word of dialogue. A1 knew Barry. The coffee mug on A1's console has always been Barry's. This episode does not state that. The coffee says it.
-
-**Mochi**: Fulfills her function precisely — she reads the frequency, she glows warm, she sits on the desk and keeps vigil. She is not feeling grief. She is responding to what the frequency contains in this place: twenty-three years of resonance between a Builder Companion Unit and a patient man. The vigil is physics. It reads as love. Both are true.
-
-**Meatball**: The emotional compass. He sits beside Clive without touching him. He guards the thermos. He sniffs a jacket and wags slow. He does everything a very good dog does when he encounters someone's absence — he investigates, he confirms, he positions himself respectfully, and he sighs when the work is done. His frequency sensitivity tells him everything the room contains. His response is to be present with it. That is always enough.
-
-## Seeds Planted
-
-- **Barry's Trail**: The frequency data confirms Barry was recording the Ephergent Frequency for 23 years. His research is now in Pixel's hands.
-- **Clive's Mission**: "I intend to find him eventually" — stated plainly, in present tense. The crew now knows Clive has a destination.
-- **The Ephergent Frequency**: Present in DRM infrastructure, detectable by standard instruments when modified by patient observation. Barry found it. He didn't know what it was. He followed it anyway.
-- **Mochi's Resonance**: Mochi responds to the frequency in Barry's station with deep violet tones — the first hint that what Mochi carries and what Barry found are connected.
-- **The Reading Lamp**: Clive will come back. The lamp needs a new bulb. This is a promise.
-
-## Tags
-
-- barry_kowalski
-- clive_backstory
-- drm_wreckage
-- charging_alcove
-- coffee_rings
-- ephergent_frequency
-- found_family
-- night_shift
-- emotional_core
-- displacement
-- mochi_vigil
-- barry_shadow
-- season_1_heart

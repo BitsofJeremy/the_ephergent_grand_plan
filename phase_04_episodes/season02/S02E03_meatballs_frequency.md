@@ -1,50 +1,5 @@
 # S02E03 — Meatball's Frequency
 
-**Season 02: Resonance**
-**Episode 03 — Meatball's Frequency**
-
----
-
-## Cold Open
-
-*[SHIP — CARGO BAY. Meatball is lying on his side near a stack of crates, eyes closed. His ears twitch — not in sleep, but in something deeper. A low hum builds in his chest. Nano watches from a crate, antennae perked.]*
-
-*[The hum becomes audible. Not a sound Meatball is making — a sound Meatball is receiving. Picking up. Translating.]*
-
-**NANO**
-Meatball? What are you—
-
-*[Meatball's eyes open. One ear flattens. The other rotates toward something distant.]*
-
-**NANO (cont'd)**
-Meatball, you're vibrating.
-
-**MEATBALL**
-*…frequency…*
-
-**NANO**
-He speaks.
-
-**MEATBALL**
-*…not supposed to be here… dead zone… nothing survives a dead zone…*
-
-*[Nano's antennae flatten against his head.]*
-
-**NANO**
-A dead zone? Where? There's nothing on sensors—
-
-**MEATBALL**
-*…not on sensors. On me. On my frequency. Something's in the dead zone. Something's broadcasting. It's been broadcasting for a long time. Waiting.*
-
-*[Nano scrambles to the comm.]*
-
-**NANO (cont'd)**
-Pixel. Pixel, you need to hear this.
-
----
-
-## Act One — The Detection
-
 *[SHIP — COCKPIT. Full crew. Meatball is in the center of the deck, sitting upright, head tilted as if listening to something no one else can hear. A1 is beside him with a handheld scanner, watching readings he doesn't understand.]*
 
 **PIXEL**
@@ -79,8 +34,6 @@ What word.
 **MEATBALL**
 *…LISTEN.*
 
----
-
 *[SHIP — SIGNAL ROOM. Zephyr at the analyzer, headphones on, then off, then on again. His face is pale.]*
 
 **ZEPHYR**
@@ -108,10 +61,6 @@ A frequency called LISTEN. Like — like the act of listening has a shape. A for
 
 **A1**
 I am making clarity. I hope that is appropriate.
-
----
-
-## Act Two — The Approach
 
 *[DEEP SPACE — DEAD ZONE APPROACH. The Ephergent is at the edge of a region of space that looks like a wound. Stars stop at the boundary. Light doesn't enter. Nothing reflects. It's a sphere of absolute nothing — not darkness, not emptiness, but absence.]*
 
@@ -145,8 +94,6 @@ And the signal?
 
 **A1**
 The signal is LISTEN. Continuous. Undirectional. It is not broadcasting *to* anything. It is broadcasting *for* anything. It is waiting for someone to hear it and answer.
-
----
 
 *[SHIP — COMMON AREA. The crew is tense. Meatball is at the viewport, ears both pointing toward the dead zone.]*
 
@@ -191,10 +138,6 @@ Mochi is resonating. Mochi has found a frequency that matches its own. Mochi is�
 **PIXEL**
 Mochi is coming with us.
 
----
-
-## Act Three — The Buoy
-
 *[DEAD ZONE — INTERIOR. The Ephergent has entered. Inside, there is no light from the outside universe. The ship's running lights illuminate only what they touch — and everything else is truly, absolutely dark.]*
 
 *[At the center: the buoy. It is ancient. It looks like it was built by hands and then forgotten — but it's still broadcasting. A sphere covered in array elements, each one pulsing with a slow, rhythmic glow. LISTEN. LISTEN. LISTEN.]*
@@ -231,8 +174,6 @@ A signal that saves things by making people care about them.
 **A1**
 Precisely.
 
----
-
 *[BUOY — EXTERIOR. Pixel and Meatball in suits, outside the ship, approaching the buoy. The darkness is total. The only light comes from the buoy itself — a soft, rhythmic pulse. LISTEN. LISTEN.]*
 
 **PIXEL (V.O.)**
@@ -254,10 +195,6 @@ Why?
 *…because they listened. And they wanted to be listened to in return.*
 
 *[Mochi, inside the ship, pulses with light so bright it shows through the hull. The crew watches. The buoy's pulse synchronizes with Mochi's glow.]*
-
----
-
-## Tag
 
 *[SHIP — COMMON AREA. The crew is quiet. The buoy is behind them, still pulsing, but fainter now — satisfied. Meatball is lying down, exhausted, ears still. Nano is curled beside him.]*
 
@@ -294,15 +231,11 @@ Waiting for what?
 
 *[Silence. The crew looks at each other. Pixel finishes her tea. The buoy pulses. The dead zone begins to brighten — slowly, impossibly — with the light of a thousand stars being remembered.]*
 
----
-
 ## End of Scene
 
 *[SHIP — COCKPIT. Final frame. The Ephergent, silhouetted against the slowly illuminating dead zone. Meatball's ears both point forward now — toward the next signal, the next frequency, the next thing that needs to be heard.]*
 
 *[FADE OUT.]*
-
----
 
 *Crew Status: S02E03*
 - *Meatball: Exhausted, ears still resonating — will recover*
@@ -312,12 +245,6 @@ Waiting for what?
 
 *Signal Log: Buoy designation LISTEN — catalogued and preserved*
 *Next Contact: Unknown — multiple frequencies detected — heading unknown*
-
----
-
-**END OF EPISODE**
-
----
 
 *CETACEAST radio theater — Season 02: Resonance*
 *“Meatball’s Frequency” — S02E03*

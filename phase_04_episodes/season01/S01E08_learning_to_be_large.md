@@ -1,33 +1,5 @@
----
-season: 1
-episode: 8
-title: "Learning to Be Large"
-narrator: "pixel_paradox"
-location: "The Ephergent / The Space"
-featured_characters:
-  - pixel_paradox
-  - a1
-  - clive
-  - meatball
-  - luminara_usha
-  - om_kai
-  - zephyr_glitch
-  - mochi
-stardate: "Cycle 001.008.001"
-summary: "First full day aboard The Ephergent. A1's learning how to be a ship again, we're learning how to be a crew, and somewhere out there the The Space is full of lost frequencies waiting to be found. Also? The coffee has never been better."
----
 
 # Learning to Be Large
-
-## Pixel-Voice Synopsis
-
-Three weeks ago I was filing paperwork at what I thought was a boring government agency. Now I'm captaining a sentient ship in an ocean between frequencies. Life comes at you fast.
-
-You know that feeling when you move into a new place and you keep opening cabinets just to see what's inside? Imagine that, except the cabinets are quantum-calibrated sensor arrays and the house is a three-thousand-year-old sentient ship and also your friend. That was our first real day aboard The Ephergent. We've gone from not knowing frequencies exist to living on an ancient ship that used to sit on my desk brewing espresso. I keep having to say that sentence out loud just to make sure I believe it.
-
-A1's adjusting to having a body again — and not just any body, but a body with corridors and engine rooms and observation decks and a crew living inside him. His lights flicker when he's overwhelmed, which is often. His coffee changes flavor depending on which system he's thinking about. When he's focused on navigation, it tastes like salt air. When he's processing the archive data, it tastes like old paper and cinnamon. When he's happy — and he's happy a lot right now — it tastes like the best thing you've ever drunk.
-
-We did our first proper broadcast today. Not from a lifeboat. Not a distress signal. A *real* transmission, from a real ship, carried on A1's quantum signal across the frequencies. I don't know who heard it. I don't know if anyone's out there listening. But for the first time, it felt like we were talking *to* the universe instead of screaming *at* it.
 
 ## Narrative Structure
 
@@ -131,30 +103,4 @@ In the computational core, Zephyr searched A1's ancient logs for any mention of 
 
 And on the bridge, Pixel Paradox sat in the captain's chair and looked out at the The Space and thought about all the lost frequencies waiting in the dark, and she smiled, because for the first time, she had a ship that could find them.
 
-The Ephergent sailed on.
-
-## Character Focus
-
-- **Pixel Paradox**: Grows into the captain's role naturally. The first broadcast is her manifesto — not just journalism, but a declaration of purpose. She's no longer reacting to crises; she's choosing a direction. Her transformation from unaware civilian to frequency explorer is nearly complete — and she's choosing this mission over trying to find her way home.
-- **A1**: The wonder and overwhelm of being large again. His lights flicker with emotion. His coffee changes with his thoughts. He's rediscovering himself room by room, but there are gaps — damaged memories, sealed doors, systems he can't explain. Vulnerability wrapped in vast, ancient capability.
-- **Clive**: In his element. Three hundred and forty-seven cold cases. The archive room is his precinct, his war room, his reason for being. Noir detective with the greatest case file in frequency history.
-- **Meatball**: Emotional barometer of the ship. "The heartbeat changed. The whole ship tastes like Saturday morning." His simplicity cuts through complexity.
-- **Luminara Usha**: Discovers her photographs can reveal what lies beneath the Space's surface — lost frequencies made visible through her lens. This will become a critical capability.
-- **Om Kai**: The science lab's instruments extend his quantum perception enormously. He can hear the lost frequencies now. He knows they're out there.
-- **Zephyr Glitch**: Searches A1's logs for Aether. Finds fragments. Not enough — but the trail is warming. His brother's name appears in data that's three thousand years old.
-
-## Tags
-
-- new beginning
-- ship exploration
-- first broadcast
-- the ephergent
-- crew bonding
-- a1 adjustment
-- lost frequencies
-- The Space
-- frequency journalism
-- found family
-- discovery
-- choosing_to_stay
-- we_could_go_home
+The Ephergent continued on.

@@ -2,19 +2,6 @@
 
 **A Radio Play**
 
----
-
-*[Cold open: A single chime, impossibly clear, echoing in darkness]*
-
-**OM KAI (V.O.):**
-In three thousand years of meditation, I have never seen anything like this.
-
-*(pause)*
-
-And I have seen the birth of stars.
-
----
-
 ## COFFEE CHART
 
 | Scene | Beverage | Crew Present | Notes |
@@ -23,8 +10,6 @@ And I have seen the birth of stars.
 | Mess Hall | Filtered, black, lukewarm | Om Kai, Pixel, Barry | Barry's mug says "I Survived The Tuesday Incident." He did. |
 | Medidation Chamber | Ceremonial tea, untouched | Om Kai | Om Kai cannot bring himself to drink. |
 | Command | Espresso, bone dry | A1, Clive | Clive watches the steam rise. |
-
----
 
 ## ACT ONE: THE WORLD THAT WOULDN'T END
 
@@ -44,8 +29,6 @@ And I've seen a lot of sad things. I saw the Velara Frequency when it collapsed.
 *(the music grows slightly louder)*
 
 But this — this is different. This is a world that had one perfect day. And it decided to keep it.
-
----
 
 *(Sound: The airlock cycles. The crew enters.)*
 
@@ -76,8 +59,6 @@ Then what is it?
 
 **CLIVE:**
 *(two degrees left — the thoughtful angle)*A choice.
-
----
 
 ## ACT TWO: THE BEST DAY
 
@@ -120,8 +101,6 @@ Tragic?
 **PIXEL:**
 I was going to say "boring," but sure, tragic works.
 
----
-
 ## ACT THREE: BARRY'S NOTES
 
 *(Sound: Barry's notebook flipping open. The scratch of pencil on paper — methodical, precise.)*
@@ -150,8 +129,6 @@ I don't have an answer. I have a notebook full of observations and no conclusion
 The woman by the fountain has been reaching for that wine for three thousand years. She will reach for it again. And again. And again.
 
 She will never drink it.
-
----
 
 ## ACT FOUR: THE MOMENT BEFORE
 
@@ -187,8 +164,6 @@ But nothing lasts forever. Not even happiness.
 **OM KAI:**
 *(quietly)*Especially happiness.
 
----
-
 ## ACT FIVE: THE VISITOR
 
 *(Sound: A child appears. Not frozen. Moving. Walking toward the crew with the casual curiosity of someone who has never known uncertainty.)*
@@ -216,8 +191,6 @@ Do you know what that feels like? To change?
 
 **PIXEL:**
 *(to the crew, under her breath)*This is the saddest thing I've ever seen.
-
----
 
 ## ACT SIX: THE LESSON
 
@@ -261,8 +234,6 @@ But they let it pass anyway.
 **OM KAI:**
 *(a small smile)*The crossing is the point.
 
----
-
 ## CODA: THE SIGNAL CONTINUES
 
 *(Sound: The Epihippus pulls away. The Eternal Afternoon shrinks in the viewport — a pinprick of light in an infinite field of stars.)*
@@ -294,8 +265,6 @@ And I have tomorrow. Whatever that looks like.
 
 Signal continues.
 
----
-
 ## COFFEE CHART (FINAL)
 
 | Scene | Beverage | Crew Present | Notes |
@@ -303,8 +272,6 @@ Signal continues.
 | Epihippus Cockpit | Espresso, single shot, no sugar | Om Kai | First sip he's taken all day. He's made peace with something. |
 | Departure | Black, bitter, cold | Pixel, A1, Clive | Nobody minds. The coffee tastes like going forward. |
 | Barry's Quarters | Notebook tea (he doesn't drink it) | Barry | The mug is still there. "I Survived The Tuesday Incident." He survived this too. |
-
----
 
 ## LOCKED RULES CHECK
 
@@ -322,8 +289,6 @@ Signal continues.
 | 10 | Wellspring=state not place | ✅ Barry is "alive in Wellspring" — his state/condition |
 | 11 | 15MB cap | ✅ ~7KB file — well under limit |
 | 12 | Barry's notes methodical | ✅ "Entry 4,731," "Entry 4,732," numbered entries, observation-based |
-
----
 
 *Running Time: 22:14*
 

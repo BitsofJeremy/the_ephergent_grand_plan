@@ -1,11 +1,3 @@
----
-season: 2
-episode: 5
-title: "Wreckage and Will"
-narrator: "pixel_paradox"
-featured_characters: ["pixel_paradox", "clive", "a1", "squeeze_bot_7_3", "baron_klaus_von_gnomendorf", "zephyr_glitch", "nano", "meatball"]
-location: "The Breach — Debris Field of Station Prometheus-7"
----
 
 # Wreckage and Will
 
@@ -13,15 +5,11 @@ location: "The Breach — Debris Field of Station Prometheus-7"
 
 Let me tell you about the moment a captain learns what she's made of. Not the grand decisions — those are easy. Anyone can order a course change when the stakes are clear. It's the small things. The choice to check on a crew member who's gone quiet. The decision to stop for survivors when every instinct screams that stopping means dying. The fraction of a second where you could look away and instead you look closer, and in that fraction, everything changes.
 
-We weren't supposed to be in the Breach. No one is supposed to be in the Breach. It's a graveyard — seven hundred years of accumulated destruction, the remains of Station Prometheus-7 and everything that used to travel near it. Frequency currents tear through that region like water through a broken hull. Instruments fail. Signals scatter. And if you're unlucky enough to find something intact in all that wreckage, you're unlucky enough to have to decide what it means.
+We weren't supposed to be in the Breach. No one is supposed to be in the Breach. It's a graveyard — seven hundred years of accumulated destruction, the remains of Station Prometheus-7 and everything that used to travel near it. Frequency currents tear through that region like water through a broken container. Instruments fail. Signals scatter. And if you're unlucky enough to find something intact in all that wreckage, you're unlucky enough to have to decide what it means.
 
 This is the story of what we found in the debris field. What it cost. And what we decided to do with it anyway.
 
----
-
-## Part One — Static and Memory
-
-The *Aether Meridian* drifted at the edge of the Breach, close enough for the debris field's edge to look like a wall of sparks through the forward viewport. Pixel had ordered the ship into position an hour ago, and she hadn't moved from the captain's chair since.
+The *Aether Meridian* drifted at the edge of the Breach, close enough for the debris field's edge to look like a wall of sparks through the forward viewport. Pixel had ordered the ship into position an hour ago, and she hadn't moved from the command chair since.
 
 She was watching the debris field the way you watch a fire — unable to look away, unable to get closer, unable to pretend it wasn't there.
 
@@ -57,10 +45,6 @@ Meatball's ears flattened. He had been pressed against the viewport for the past
 
 "Two hundred and sixteen." Clive's glow flickered. "At last count. Which was seven hundred years ago."
 
----
-
-## Part Two — The Derelict
-
 Pixel made the call. She always made the call — that was what being captain meant, in the end. You decided, and then you lived with what you decided, and if you were lucky, your crew lived too.
 
 "We're going in," she said. "A1, plot a course through the debris field. I want minimum risk, maximum coverage. Zephyr, start scanning for survivors on those two beacon frequencies. Squeeze-Bot 7.3, you're with me on external imaging. I want to know what that unusual signal source looks like before we get anywhere near it."
@@ -92,10 +76,6 @@ Clive's glow was steady now — a hard amber, like a light that had been left on
 Clive did not answer.
 
 Squeeze-Bot 7.3 chirped from the imaging array. "Captain. I have visual on the unusual signal source. It is not a station. It is not debris. It is — " A pause, processing. "It is a garden ornament."
-
----
-
-## Part Three — Baron Klaus von Gnomendorf
 
 The object floated at the center of a small cleared space in the debris field — a space where the wreckage seemed to have arranged itself naturally, pulled by some gentle current that Pixel's instruments couldn't detect. It was the size of a large dog, roughly, and it was shaped like a gnome.
 
@@ -153,10 +133,6 @@ Pixel realized she was holding her breath.
 
 "*Are you the one?*" the voice asked. "*Are you the traveler who will listen?*"
 
----
-
-## Part Four — What the Debris Remembers
-
 They found the survivors in the wreckage of a small transport vessel — six souls, huddled in an emergency pod that had somehow maintained structural integrity for seven centuries. They were not human. They were not Builder. They were something that Pixel's database identified only as "frequency-adapted sophonts, origin unknown, population: critically endangered."
 
 The leader of the survivors was a creature named Tessera. She had skin that shifted color depending on her emotional state — right now, it was a deep, bruised purple that Pixel associated with exhaustion and grief. She had been the transport's navigator before the Station's destruction. She had been seventeen years old. She was seventeen years old still, because the emergency pod had entered a frequency drift that had slowed her personal time to a crawl.
@@ -182,10 +158,6 @@ Pixel didn't know what to say to that. She had been captain for two years. She h
 "I'm sorry," Pixel said. It was not enough. It was not nearly enough. But it was true.
 
 Tessera's skin shifted to something that might have been, impossibly, a faint warm gold. "Don't be sorry," she said. "Be the one who stopped."
-
----
-
-## Part Five — The Garden of Stars
 
 Pixel stood in the *Aether Meridian*'s cargo bay, in front of Baron Klaus von Gnomendorf.
 
@@ -229,10 +201,6 @@ Clive looked at her. His glow was bright now — brighter than she had ever seen
 
 "No," Pixel agreed. "It's a captain's decision."
 
----
-
-## Part Six — The Will to Carry
-
 The survivors settled into the *Aether Meridian* slowly, awkwardly, like people who had forgotten how to exist in spaces that moved.
 
 Tessera chose a cabin near the cargo bay — close to the gnome, Clive observed, though neither of them said it aloud. The other five survivors spent most of their time in the ship's small garden bay, where the artificial light was warm and the plants didn't mind being looked at. They had forgotten what it felt like to be surrounded by things that were still growing.
@@ -270,8 +238,6 @@ Pixel thought about it. About the *Aether Meridian*, and the crew that had becom
 Tessera's skin went still. Then, slowly, it shifted to a color Pixel had never seen before — a warm, steady gold that reminded her of Clive's glow on a good day.
 
 "You're talking to one," Tessera said. "Right now. Stopping was worth it."
-
----
 
 ## Pixel-Voice Conclusion
 

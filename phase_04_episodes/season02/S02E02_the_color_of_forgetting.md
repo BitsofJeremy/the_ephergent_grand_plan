@@ -1,54 +1,5 @@
 # S02E02 — The Color of Forgetting
 
-**Season 02: Resonance**
-**Episode 02 — The Color of Forgetting**
-
----
-
-## Cold Open
-
-*[SHIP — COCKPIT. Night watch. Pixel at the nav console, broadcasting softly into a headset. A1's machine hums quietly in the background. Meatball's head rests on Pixel's feet, ears twitching.]*
-
-**PIXEL (V.O.)**
-…third hour into the shift. The static's been steady for about six hours now, which is either good — means nothing's collapsed — or bad — means nothing's shifted. Hard to tell from the inside. A1, you want to give me a reading?
-
-**A1**
-The static is static, Pixel. It is very, very good at being itself.
-
-**PIXEL (V.O.)**
-…and that's the report. Nothing happening. Which, honestly, is fine. Nothing is fine. Nothing is—
-
-*[BEEP — proximity alert. A1's espresso machine makes a sound like a sharp intake of breath.]*
-
-**A1**
-We have a contact.
-
-**PIXEL**
-Don't say that.
-
-**A1**
-I am saying that. Bearing 047 mark 3. Visual confirms — or rather, visual would confirm if we had visual. I am reading… a frequency. Transmissive. Fading.
-
-**PIXEL**
-Define fading.
-
-**A1**
-Define fading. Define fading. Define fading.
-
-*[A1's machine makes a grinding, distressed noise.]*
-
-**A1**
-It is becoming less. Not gone. Becoming less. There is a difference. It is becoming less of itself.
-
-**PIXEL (V.O.)**
-Contact. We have contact. Setting course.
-
-*[Meatball's ears flatten. Mochi, in Pixel's jacket pocket, dims — a slight cooling, a faint decrease in warmth. Nobody notices yet.]*
-
----
-
-## Act One — Veranth
-
 *[SPACE. The Ephergent emerges from a static cloud into — color. Specifically, the absence of it. Veranth is a world going translucent. Through the viewport: a planet whose edges are blurry, like a photograph left in sunlight. At the borders, you can see through it to the stars behind.]*
 
 *[SHIP — COCKPIT. Full crew present. Clive at sensors. Om Kai seated in his usual meditation spot, eyes closed.]*
@@ -97,10 +48,6 @@ Memory structures. Cultural records. The things that tell them who they are.
 **PIXEL (V.O.)**
 Alright. This is what we do. This is exactly what we do. Everyone suit up.
 
----
-
-## Act Two — The Broadcast
-
 *[VERANTH — SURFACE. A city going transparent. Buildings are becoming see-through — you can see through the parliament to the sky behind it, through the hospital to the ground beneath it, through the homes to the foundations on which they were built and then abandoned. The citizens are fading too, but slowly, like they're holding on by habit.]*
 
 *[CREW ON SURFACE. Pixel broadcasting. Luminara photographing. Om Kai seated at the edge of the fading, hands in his lap. Clive walking the perimeter with sensors. Zephyr at a terminal, downloading what he can. Nano standing on Zephyr's shoulder for better angle.]*
@@ -140,10 +87,6 @@ And when we have to leave?
 We leave. And we come back. That's the part they're learning. We come back.
 
 *[Mochi dims again — noticeably this time. Pixel's hand goes to her pocket. She feels the cooling. She doesn't comment on it. She files it away.]*
-
----
-
-## Act Three — The Color Returns (Temporarily)
 
 *[VERANTH — PUBLIC SQUARE. The crew has been broadcasting for nine hours. Luminara has taken four thousand photographs. Om Kai has been meditating in the same position for six hours. Pixel has been talking into her comm for so long her voice has gone hoarse.]*
 
@@ -194,10 +137,6 @@ Barry said that. A long time ago. He said it about the DRM. About the whole syst
 **PIXEL**
 Let's go home.
 
----
-
-## Tag
-
 *[SHIP — COMMON AREA. The crew is tired. Pixel is making tea for everyone because her voice is gone. Meatball is asleep in his spot by the engine. Mochi is in Pixel's pocket, warm again — but not as warm as before.]*
 
 **ZEPHYR**
@@ -247,15 +186,3 @@ I know. I know. I know.
 Good.
 
 *[Meatball sighs in his sleep. The signal continues.]*
-
----
-
-**END OF EPISODE**
-
----
-
-*Coffee Chart: S02E02*
-- *A1 thin/pale (worried, boosting signal) — opening*
-- *A1 thin/pale (anxious, focused) — mid-episode*
-- *A1 balanced (content, the signal held) — resolution*
-- *A1 balanced/thin (exhausted but stable) — tag*

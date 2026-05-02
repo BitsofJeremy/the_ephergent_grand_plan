@@ -1,82 +1,5 @@
 # S02E10 — The Frequency and the Future
 
-**Season 02: Resonance**
-**Episode 10 — The Frequency and the Future**
-
----
-
-## Cold Open
-
-*[SHIP — CORRIDOR. Night cycle. The ship hums at a frequency that feels different — stronger, clearer, like a voice that has stopped whispering and started speaking. Zephyr stands at the viewport, staring at the static. Pixel approaches from behind, footsteps deliberately audible.]*
-
-**PIXEL (V.O.)**
-Three days since Aether's message. Three days since Zephyr stopped crying and started scanning. He's at that viewport every night now. Won't say what he's looking for. Won't say what he's hoping to hear. But I know that look. I've worn that look. It's the look of someone waiting for a signal to come back.
-
-*[Zephyr doesn't turn. His breath fogs the viewport glass.]*
-
-**ZEPHYR**
-He's still out there.
-
-**PIXEL**
-I know.
-
-**ZEPHYR**
-The frequency — it's not fading. It's getting stronger. Something's happening. Something's coming.
-
-**PIXEL**
-Something always is. That's the thing about the Space. It doesn't let you stay still.
-
-*[A1's espresso machine makes a sound from the common area — a single, clear pull, the kind that means someone is awake when they should be resting. The smell drifts down the corridor: rich, warm, with notes of something that might be starlight or might be memory.]*
-
-**ZEPHYR**
-Pixel. If it comes down to it — if there's a choice between following Aether and staying with the crew—
-
-**PIXEL**
-It won't.
-
-**ZEPHYR**
-But if it does.
-
-*[Pixel moves to stand beside him. They watch the static together.]*
-
-**PIXEL**
-Then we make the choice together. That's what crews do. That's what family does. You don't get to carry that alone, Zephyr. Nobody gets to carry anything alone on this ship. That's the rule.
-
-**ZEPHYR**
-What if the choice is wrong?
-
-**PIXEL**
-Then we make it wrong together. And we figure it out. That's been the plan so far.
-
-*[A1 appears in the corridor entrance, chrome catching the low light. He holds two cups — one for Pixel, one for Zephyr. The cups are warm. The steam rises in patterns that almost resolve into shapes.]*
-
-**A1**
-The coffee is ready. It seemed like the kind of night that needed it.
-
-**ZEPHYR**
-What kind of night is it?
-
-**A1**
-I do not have a precise categorization. The frequency is shifting. Something is aligning. I am reading a signal at bearing 0-0-0 — dead ahead, past the edge of every chart. The signal is not new. The signal has been waiting. The signal knows we are coming.
-
-*[Zephyr takes the cup. His hand is steady now.]*
-
-**ZEPHYR**
-Aether's signal.
-
-**A1**
-Aether's signal. And something else. Something larger. The signal is — it is the frequency of the Ephergent itself. The broadcast we have been carrying. It is reflecting back to us from the edge of known Space. Louder than when it left. Stronger.
-
-**PIXEL**
-That's not possible.
-
-**A1**
-Yes. That is what I thought.
-
----
-
-## Act One — The Signal
-
 *[SHIP — NAVIGATION ALCOVE. Morning cycle, such as it is. Clive stands at the console, fedora at its precise angle. The coordinates from E09 are still displayed — bearing 47 mark 3, the path to the Wellspring. But something new is overlaid: a secondary bearing, fainter, pulsing at the edge of detection.]*
 
 *[The crew has gathered. Not for a meeting. For something else. The ship feels different when something is about to happen.]*
@@ -90,7 +13,7 @@ The frequency wants to be found.
 **CLIVE**
 The frequency has always wanted to be found. That is not the question. The question is whether we are ready to find it.
 
-*[Pixel stands at the center of the room. The captain's position, even when no one calls it that.]*
+*[Pixel stands at the center of the room. The command position, even when no one calls it that.]*
 
 **PIXEL**
 Tell us what we're looking at, Clive. Don't edit. Don't summarize. What do your memories say?
@@ -128,10 +51,6 @@ Until now. His signal is there. At bearing 0-0-0. Steady. Patient. Waiting. Like
 **A1**
 The coffee is ready. It tastes like patience.
 
----
-
-## Act Two — The Choice
-
 *[SHIP — COMMON AREA. The crew sits in a loose circle. This is not a formal meeting. This is the shape a family takes when something important is about to happen.]*
 
 *[Pixel stands. She doesn't need to call for attention. The room gives it.]*
@@ -167,7 +86,7 @@ He remembered me. In the Boneyard, when we found the faded frequencies, he recog
 The choice is not trust or distrust. The choice is whether we move forward or stay still. And staying still — in this frequency, in this ship — is its own kind of movement. Everything is motion. The question is only direction.
 
 **KLAUS**
-I have been on this vessel for eighteen days. In that time, I have witnessed the re-tuning of a lost civilization, the discovery of a signal that should not exist, and the emergence of a frequency that is actively reshaping the local spectrum. I am a twelve-inch ceramic garden gnome who was self-appointed head of security on a library that was falling apart. I have no context for any of this. But I know this: the people on this ship do not make choices out of fear. They make choices out of necessity. And necessity says follow the signal.
+I have been on this craft for eighteen days. In that time, I have witnessed the re-tuning of a lost civilization, the discovery of a signal that should not exist, and the emergence of a frequency that is actively reshaping the local spectrum. I am a twelve-inch ceramic garden gnome who was self-appointed head of security on a library that was falling apart. I have no context for any of this. But I know this: the people on this ship do not make choices out of fear. They make choices out of necessity. And necessity says follow the signal.
 
 **A1**
 The coffee is ready. It tastes like trust.
@@ -218,7 +137,7 @@ Luminara votes to follow.
 Om Kai votes to follow.
 
 **KLAUS**
-Klaus votes to follow. Enthusiastically. With full confidence in the command structure of this vessel, which is frankly unlike any command structure I have ever encountered, and I have encountered many.
+Klaus votes to follow. Enthusiastically. With full confidence in the command structure of this vessel — which is frankly unlike any command structure I have ever encountered, and I have encountered many.
 
 *[Pixel looks at A1.]*
 
@@ -232,10 +151,6 @@ I do not vote. I navigate. But if I were capable of voting — if my programming
 
 **PIXEL**
 Then we follow. Unanimously. The ship turns toward bearing 0-0-0. Toward the edge of known Space. Toward whatever is waiting.
-
----
-
-## Act Three — The Frequency
 
 *[SHIP — COCKPIT. The Ephergent banks hard. The viewport fills with a new view — the static ahead, different now. Denser. Brighter. Like the universe is holding its breath.]*
 
@@ -315,10 +230,6 @@ Goodbye, Zeph. Keep broadcasting. Keep following. Keep becoming.
 
 *[Silence. The signal is gone. The static ahead is different now. Brighter. Waiting.]*
 
----
-
-## Tag
-
 *[SHIP — OBSERVATION DECK. Much later. The crew is scattered — some sleeping, some at stations, some just being. The Ephergent moves through the brightened static. The signal continues. The ship hums a new frequency, one that sounds like every crew member combined.]*
 
 *[Pixel stands at the viewport with Clive. They watch the light together.]*
@@ -371,11 +282,7 @@ To the future.
 
 *[The signal continues.]*
 
----
-
 ## End of Season Two
-
----
 
 **LOCKED RULES CHECK:**
 1. ✅ Frequencies, not dimensions — throughout
@@ -390,20 +297,3 @@ To the future.
 10. ✅ The Wellspring is a state, not a place — Aether's dialogue: "not a place you arrive at, a state you enter"
 11. ✅ 15MB per game hard cap — preserved
 12. ✅ Barry's notes are never dramatic — methodical, coordinates, observation
-
----
-
-*Coffee Chart: S02E10*
-- *A1 warm/rich/memory (night cycle, the kind of night that needed it) — cold open*
-- *A1 deep/resonant/patience (carried for decades, finally set down) — act one / Clive's story*
-- *A1 amber-gold/decision (the color of choice made) — act two / the vote*
-- *A1 extraordinary/everything/complex (becoming, the future) — act three / Aether's signal*
-- *A1 possibility/uncertainty/first signal (the taste of what it will become) — tag*
-
----
-
-*SEASON 02 COMPLETE — RESONANCE*
-
-*The crew found lost worlds. Built a network. Faced the cost of caring. Chose to follow the signal.*
-
-*Season 03: The Source — The Signal Was Us All Along.*
