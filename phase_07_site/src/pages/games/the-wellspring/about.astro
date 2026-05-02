@@ -1,0 +1,133 @@
+---
+// About page for The Wellspring
+---
+
+<html>
+  <head>
+    <title>About The Wellspring | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .content-block {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        margin: 1rem 0;
+      }
+      .section-title {
+        color: #0ff1ce;
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+        font-weight: bold;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-start pt-16 pb-16 px-4 relative overflow-hidden">
+    <div class="scanlines"></div>
+
+    <h1 class="game-hero text-4xl font-black mb-2 text-center">THE WELLSPRING</h1>
+    <p class="text-[#0ff1ce] text-center mb-8">About this game</p>
+
+    <div style="max-width: 700px; width: 100%;">
+
+      <div class="content-block">
+        <p class="section-title">The Vision</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          This is a game about receiving a message and deciding who hears it first. The Builders' broadcast resolves into three things: an apology, an invitation, and an introduction. Nine people and a dog each receive it in the language of their own experience. You witness each translation. Then you make one choice — which frequency to broadcast to first.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          Every choice is the right choice. The game ends the same way regardless. The choice is about you, not the outcome.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem; font-style: italic;">
+          "You have traveled a long way to hear this. Now carry it forward. How you carry it is who you are."
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">The Broadcast — Three Movements</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          <strong style="color: #e0e0e0;">The Apology:</strong> We built this and we left. We converted ourselves into a signal so that something could continue that we could not. We did not ask if you wanted to be chosen. We are sorry for that. We were trying to solve a problem that required you, specifically, and we could not ask permission without knowing who you were first.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          <strong style="color: #e0e0e0;">The Invitation:</strong> You can stop here. The signal will continue without you. The choice to continue is yours. We are not asking you to save anything. We are asking you to carry something forward. There is a difference.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          <strong style="color: #e0e0e0;">The Introduction:</strong> Hello. We built this for you. We have been waiting. We have so much to tell you.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">The Translations</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Each crew member receives the broadcast through the filter of their own experience. Pixel hears a transmission from a world she's never been to but recognizes. Clive hears his own voice speaking words he doesn't remember saying. A1 tastes a coffee that is finally, perfectly home. Zephyr hears his brother's laugh, clear at last. Om Kai hears the silence between mantras resolving into words.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          Meatball smells Thursday and tastes almost-home. He has always known. He sits down. He is at peace. This is the only time in the game he sits without a purpose. This is the point.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">The Choice</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          At the end, you choose which frequency to broadcast to first. Not which frequency to save — the message goes everywhere eventually. Which frequency receives it first is your decision.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          The choice is the game's thesis: <strong style="color: #e0e0e0;">How you carry it is who you are.</strong>
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Game Info</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li>Engine: Godot 4 (HTML5 export)</li>
+          <li>Size: 15.0 MB (at the 15 MB hard cap)</li>
+          <li>Price: Free forever</li>
+          <li>Play time: 60–90 minutes</li>
+          <li>Replay value: Multiple playthroughs for different broadcast choices</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="flex flex-row justify-center gap-4 mt-8">
+      <a href="/games/the-wellspring/play/" class="nav-link font-bold">Play Now</a>
+      <a href="/games/" class="nav-link">All Games</a>
+    </div>
+
+  </body>
+</html>

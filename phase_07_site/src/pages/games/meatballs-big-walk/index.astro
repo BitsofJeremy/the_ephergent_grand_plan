@@ -5,13 +5,125 @@
 <html>
   <head>
     <title>Meatball's Big Walk | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .tagline {
+        color: #0ff1ce;
+        font-size: 1.25rem;
+        text-shadow: 0 0 10px #0ff1ce44;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .game-card {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 2rem;
+        max-width: 700px;
+        margin: 0 auto;
+      }
+      .crew-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        gap: 1rem;
+        margin: 1.5rem 0;
+      }
+      .crew-tag {
+        background: rgba(15,241,206,0.1);
+        border: 1px solid #0ff1ce44;
+        border-radius: 0.5rem;
+        padding: 0.5rem;
+        text-align: center;
+        font-size: 0.85rem;
+      }
+      .specs {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 0.75rem;
+        margin: 1.5rem 0;
+        font-size: 0.9rem;
+      }
+      .spec-item {
+        display: flex;
+        justify-content: space-between;
+        padding: 0.25rem 0;
+        border-bottom: 1px solid #0ff1ce22;
+      }
+      .spec-label {
+        color: #0ff1ce88;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
   </head>
-  <body class="bg-black text-white min-h-screen flex flex-col items-center justify-center">
-    <h1 class="text-3xl font-bold mb-4">Meatball's Big Walk</h1>
-    <nav class="space-x-6 mb-4">
-      <a href="/games/meatballs-big-walk/play/" class="underline">Play</a>
-      <a href="/games/meatballs-big-walk/about/" class="underline">About</a>
-    </nav>
-    <p class="mb-4">A browser-playable Godot game from the Ephergent universe.</p>
+  <body class="min-h-screen flex flex-col items-center justify-center relative overflow-hidden p-8">
+    <div class="scanlines"></div>
+    <div class="game-card">
+      <h1 class="game-hero text-4xl font-black mb-2 text-center">MEATBALL'S BIG WALK</h1>
+      <p class="tagline text-center mb-8">A very good dog explores the ship. Sniffs everything. Judges everyone.</p>
+
+      <div class="specs">
+        <div class="spec-item"><span class="spec-label">Genre</span><span>Point-and-Click</span></div>
+        <div class="spec-item"><span class="spec-label">Engine</span><span>Godot 4</span></div>
+        <div class="spec-item"><span class="spec-label">Size</span><span>12.4 MB</span></div>
+        <div class="spec-item"><span class="spec-label">Season</span><span>1</span></div>
+        <div class="spec-item"><span class="spec-label">Character</span><span>Meatball</span></div>
+        <div class="spec-item"><span class="spec-label">Price</span><span>Free forever</span></div>
+      </div>
+
+      <div>
+        <p class="text-sm text-[#0ff1ce88] mb-2">Featured Crew</p>
+        <div class="crew-grid">
+          <div class="crew-tag">Meatball</div>
+          <div class="crew-tag">Pixel Paradox</div>
+          <div class="crew-tag">A1</div>
+          <div class="crew-tag">Clive</div>
+        </div>
+      </div>
+
+      <p class="mt-6 text-sm leading-relaxed" style="color: #a0a0b0;">
+        Meatball is a very good dog. He has an excellent nose. He uses it to investigate every corner of The Ephergent — the ship that is also an espresso machine, the knee-high robot with the fedora, and one mug that smells like it belongs to someone Meatball has never met but somehow recognizes.
+      </p>
+
+      <p class="mt-4 text-sm leading-relaxed" style="color: #a0a0b0;">
+        Barry Kowalski is not in this game. He is in every room. The mug on A1's console. The charging alcove in the engine room. The coffee ring stains. Meatball knows. Meatball does not have the vocabulary to say so.
+      </p>
+
+      <div class="flex flex-row justify-center gap-4 mt-8">
+        <a href="/games/meatballs-big-walk/play/" class="nav-link font-bold">Play Now</a>
+        <a href="/games/meatballs-big-walk/about/" class="nav-link">About</a>
+      </div>
+    </div>
   </body>
 </html>

@@ -1,0 +1,132 @@
+---
+// About page for Builder Station
+---
+
+<html>
+  <head>
+    <title>About Builder Station | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .content-block {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        margin: 1rem 0;
+      }
+      .section-title {
+        color: #0ff1ce;
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+        font-weight: bold;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-start pt-16 pb-16 px-4 relative overflow-hidden">
+    <div class="scanlines"></div>
+
+    <h1 class="game-hero text-4xl font-black mb-2 text-center">BUILDER STATION</h1>
+    <p class="text-[#0ff1ce] text-center mb-8">About this game</p>
+
+    <div style="max-width: 700px; width: 100%;">
+
+      <div class="content-block">
+        <p class="section-title">Station 7-Ascending</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Geometric corridors that fold through themselves. Resonance chambers that hum at frequencies the human ear can barely detect. Archive terminals that Clive's interface can access but whose screens show nothing — because Clive is the only one who was built to read Builder records.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          Architecture: geometric, precise, suffocating in its beauty. Walls of unknown material that shift color depending on angle — bronze, copper, deep shadow, the faintest blue-white at the edges. No organic curves. No wasted space. Every corridor leads somewhere. Every junction has been considered.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">No Fail State</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          There is no combat. No timer. No fail state. You explore at your own pace. The station has been waiting for eight hundred years. It is patient. Clive goes still in resonance chambers. Pixel keeps her recording device running. Mochi is warm in Pixel's pocket.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          The core loop: Explore room → interact with terminal/puzzle/object → Clive reacts → new area opens → find Barry's notes → piece together two stories (Clive's memories, Barry's investigation) → reach the Station's heart.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Clive's Memory</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Clive was not merely a Builder Companion Unit. He was a calibration instrument — designed to maintain the resonance network, to tune the Stations, to be the hands that kept the signal stable. His memory was not lost in the Dimming. His memory was removed, because the Builders knew what was coming and decided he needed to forget.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          Pixel does not say: "That sounds like they were protecting you." She does not need to. Clive knows.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Barry's Field Notes</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Barry Kowalski was here. His field notes are everywhere: handwriting on archive terminal screens, annotations in crevices, pages tucked into calibration panels.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.5rem; font-style: italic;">
+          "It remembers me. I don't remember it remembering me."
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.5rem; font-style: italic;">
+          "The resonance chamber responds to C-1 calibration patterns. I tested this. Clive won't remember. I'm leaving this for whoever finds him."
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.5rem; font-style: italic;">
+          "They built this to last forever. They built him to last longer. I think those are different things."
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Game Info</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li>Engine: Godot 4 (HTML5 export)</li>
+          <li>Size: 14.9 MB</li>
+          <li>Price: Free forever</li>
+          <li>Play time: 45–90 minutes (focused). 2–3 hours (completionist).</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="flex flex-row justify-center gap-4 mt-8">
+      <a href="/games/builder-station/play/" class="nav-link font-bold">Play Now</a>
+      <a href="/games/" class="nav-link">All Games</a>
+    </div>
+
+  </body>
+</html>

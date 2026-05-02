@@ -1,5 +1,5 @@
 ---
-// Games hub landing page
+// Games hub — all 6 Ephergent games
 ---
 
 <html>
@@ -8,19 +8,78 @@
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
     <style>
       body {
-        background: linear-gradient(120deg, #0a0a1a 0%, #0ff1ce 100%);
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
       }
       .games-hero {
-        font-family: 'Orbitron', 'Share Tech Mono', monospace, sans-serif;
-        letter-spacing: 0.08em;
-        text-shadow: 0 2px 16px #0ff1ce88, 0 1px 0 #222;
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+        font-size: 3rem;
       }
       .games-desc {
-        font-family: 'Share Tech Mono', monospace;
         color: #0ff1ce;
-        font-size: 1.5rem;
-        margin-bottom: 2rem;
-        text-shadow: 0 2px 8px #0ff1ce44;
+        font-size: 1.1rem;
+        text-shadow: 0 0 10px #0ff1ce44;
+      }
+      .game-card {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        transition: border-color 0.2s;
+      }
+      .game-card:hover {
+        border-color: #0ff1ce88;
+      }
+      .game-title {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        font-size: 1.3rem;
+        text-shadow: 0 0 10px #0ff1ce44;
+      }
+      .game-tagline {
+        color: #a0a0b0;
+        font-size: 0.95rem;
+        margin-top: 0.5rem;
+      }
+      .game-meta {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+        margin-top: 0.75rem;
+        font-size: 0.8rem;
+      }
+      .game-meta-item {
+        background: rgba(15,241,206,0.1);
+        border: 1px solid #0ff1ce33;
+        border-radius: 0.25rem;
+        padding: 0.2rem 0.5rem;
+        color: #0ff1ce88;
+      }
+      .game-card a {
+        color: #0ff1ce;
+        text-decoration: none;
+        font-size: 0.9rem;
+        border: 1px solid #0ff1ce66;
+        border-radius: 1rem;
+        padding: 0.3rem 1rem;
+        display: inline-block;
+        margin-top: 0.75rem;
+        transition: all 0.2s;
+      }
+      .game-card a:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .games-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 1.5rem;
+        max-width: 1000px;
+        width: 100%;
       }
       .scanlines {
         position: fixed;
@@ -29,16 +88,99 @@
         background: repeating-linear-gradient(
           to bottom,
           transparent, transparent 6px,
-          #0ff1ce11 7px, transparent 8px
+          #0ff1ce08 7px, transparent 8px
         );
         z-index: 10;
       }
     </style>
   </head>
-  <body class="min-h-screen flex flex-col items-center justify-center relative overflow-hidden">
+  <body class="min-h-screen flex flex-col items-center justify-start pt-16 pb-16 px-4 relative overflow-hidden">
     <div class="scanlines"></div>
-    <h1 class="games-hero text-6xl font-black mb-6 mt-8 tracking-widest">GAMES</h1>
-    <div class="games-desc">Explore browser-playable Godot and retro games from the Ephergent universe.</div>
-    <!-- Game list will be dynamically generated from content/games/ -->
+
+    <h1 class="games-hero mb-4 text-center">GAMES</h1>
+    <p class="games-desc text-center mb-12">Six games. Free forever. Browser-playable. 15MB hard cap.</p>
+
+    <div class="games-grid">
+
+      <!-- Meatball's Big Walk -->
+      <div class="game-card">
+        <div class="game-title">Meatball's Big Walk</div>
+        <div class="game-tagline">A very good dog explores the ship. Sniffs everything. Judges everyone.</div>
+        <div class="game-meta">
+          <span class="game-meta-item">Season 1</span>
+          <span class="game-meta-item">Point-and-Click</span>
+          <span class="game-meta-item">Meatball</span>
+          <span class="game-meta-item">12.4 MB</span>
+        </div>
+        <a href="/games/meatballs-big-walk/">Play →</a>
+      </div>
+
+      <!-- Tune the Dial -->
+      <div class="game-card">
+        <div class="game-title">Tune the Dial</div>
+        <div class="game-tagline">Turn the dial. Find the signal. Hear what the universe is saying.</div>
+        <div class="game-meta">
+          <span class="game-meta-item">Season 1</span>
+          <span class="game-meta-item">Frequency Puzzle</span>
+          <span class="game-meta-item">Pixel Paradox</span>
+          <span class="game-meta-item">11.2 MB</span>
+        </div>
+        <a href="/games/tune-the-dial/">Play →</a>
+      </div>
+
+      <!-- Static Run -->
+      <div class="game-card">
+        <div class="game-title">Static Run</div>
+        <div class="game-tagline">Run. Don't look back. The entropy fragments aren't chasing you — they're just waiting for you to stop.</div>
+        <div class="game-meta">
+          <span class="game-meta-item">Season 2</span>
+          <span class="game-meta-item">Endless Runner</span>
+          <span class="game-meta-item">Nano</span>
+          <span class="game-meta-item">14.1 MB</span>
+        </div>
+        <a href="/games/static-run/">Play →</a>
+      </div>
+
+      <!-- The Laughing Funeral -->
+      <div class="game-card">
+        <div class="game-title">The Laughing Funeral</div>
+        <div class="game-tagline">In Nocturne Aeturnus, grief is architecture. Someone laughed at a funeral. Investigate.</div>
+        <div class="game-meta">
+          <span class="game-meta-item">Season 2</span>
+          <span class="game-meta-item">Point-and-Click Mystery</span>
+          <span class="game-meta-item">Baron Klaus</span>
+          <span class="game-meta-item">13.8 MB</span>
+        </div>
+        <a href="/games/the-laughing-funeral/">Play →</a>
+      </div>
+
+      <!-- Builder Station -->
+      <div class="game-card">
+        <div class="game-title">Builder Station</div>
+        <div class="game-tagline">An ancient structure in the Space between worlds. Clive remembers more than he says.</div>
+        <div class="game-meta">
+          <span class="game-meta-item">Season 2</span>
+          <span class="game-meta-item">Exploration</span>
+          <span class="game-meta-item">Pixel Paradox</span>
+          <span class="game-meta-item">14.9 MB</span>
+        </div>
+        <a href="/games/builder-station/">Play →</a>
+      </div>
+
+      <!-- The Wellspring -->
+      <div class="game-card">
+        <div class="game-title">The Wellspring</div>
+        <div class="game-tagline">The message was always for you. Now receive it. Now carry it forward.</div>
+        <div class="game-meta">
+          <span class="game-meta-item">Season 3</span>
+          <span class="game-meta-item">Narrative Broadcast</span>
+          <span class="game-meta-item">Barry Kowalski</span>
+          <span class="game-meta-item">15.0 MB</span>
+        </div>
+        <a href="/games/the-wellspring/">Play →</a>
+      </div>
+
+    </div>
+
   </body>
 </html>

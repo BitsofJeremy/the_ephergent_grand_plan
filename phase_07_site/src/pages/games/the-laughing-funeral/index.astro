@@ -5,13 +5,103 @@
 <html>
   <head>
     <title>The Laughing Funeral | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .tagline {
+        color: #0ff1ce;
+        font-size: 1.25rem;
+        text-shadow: 0 0 10px #0ff1ce44;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .game-card {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 2rem;
+        max-width: 700px;
+        margin: 0 auto;
+      }
+      .specs {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 0.75rem;
+        margin: 1.5rem 0;
+        font-size: 0.9rem;
+      }
+      .spec-item {
+        display: flex;
+        justify-content: space-between;
+        padding: 0.25rem 0;
+        border-bottom: 1px solid #0ff1ce22;
+      }
+      .spec-label {
+        color: #0ff1ce88;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
   </head>
-  <body class="bg-black text-white min-h-screen flex flex-col items-center justify-center">
-    <h1 class="text-3xl font-bold mb-4">The Laughing Funeral</h1>
-    <nav class="space-x-6 mb-4">
-      <a href="/games/the-laughing-funeral/play/" class="underline">Play</a>
-      <a href="/games/the-laughing-funeral/about/" class="underline">About</a>
-    </nav>
-    <p class="mb-4">A browser-playable Godot game from the Ephergent universe.</p>
+  <body class="min-h-screen flex flex-col items-center justify-center relative overflow-hidden p-8">
+    <div class="scanlines"></div>
+    <div class="game-card">
+      <h1 class="game-hero text-4xl font-black mb-2 text-center">THE LAUGHING FUNERAL</h1>
+      <p class="tagline text-center mb-8">In Nocturne Aeturnus, grief is architecture. Someone laughed at a funeral. That should be impossible. Investigate.</p>
+
+      <div class="specs">
+        <div class="spec-item"><span class="spec-label">Genre</span><span>Point-and-Click Mystery</span></div>
+        <div class="spec-item"><span class="spec-label">Engine</span><span>Godot 4</span></div>
+        <div class="spec-item"><span class="spec-label">Size</span><span>13.8 MB</span></div>
+        <div class="spec-item"><span class="spec-label">Season</span><span>2</span></div>
+        <div class="spec-item"><span class="spec-label">Character</span><span>Baron Klaus</span></div>
+        <div class="spec-item"><span class="spec-label">Price</span><span>Free forever</span></div>
+      </div>
+
+      <p class="mt-6 text-sm leading-relaxed" style="color: #a0a0b0;">
+        Nocturne Aeturnus: a gothic frequency of permanent twilight where emotions crystallize into mineral and grief is the culture's most valued public art. Here, laughter at a funeral is not merely in poor taste — it is a structural violation. The social fabric is literally woven from collective emotional output.
+      </p>
+
+      <p class="mt-4 text-sm leading-relaxed" style="color: #a0a0b0;">
+        Someone died. A funeral was held. And at that funeral — everyone laughed. Clearly. Joyfully. Without exception.
+
+        The Ministry of Emotional Integrity classified this as "a cultural anomaly requiring no further inquiry." Baron Klaus knows what that phrase means. He is going back to find out what happened, and this time, he has the Ephergent at his back.
+      </p>
+
+      <div class="flex flex-row justify-center gap-4 mt-8">
+        <a href="/games/the-laughing-funeral/play/" class="nav-link font-bold">Play Now</a>
+        <a href="/games/the-laughing-funeral/about/" class="nav-link">About</a>
+      </div>
+    </div>
   </body>
 </html>

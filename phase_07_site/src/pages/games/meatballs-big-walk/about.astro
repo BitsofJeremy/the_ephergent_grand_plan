@@ -1,0 +1,124 @@
+---
+// About page for Meatball's Big Walk
+---
+
+<html>
+  <head>
+    <title>About Meatball's Big Walk | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .content-block {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        margin: 1rem 0;
+      }
+      .section-title {
+        color: #0ff1ce;
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+        font-weight: bold;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-start pt-16 pb-16 px-4 relative overflow-hidden">
+    <div class="scanlines"></div>
+
+    <h1 class="game-hero text-4xl font-black mb-2 text-center">MEATBALL'S BIG WALK</h1>
+    <p class="text-[#0ff1ce] text-center mb-8">About this game</p>
+
+    <div style="max-width: 700px; width: 100%;">
+
+      <div class="content-block">
+        <p class="section-title">Story Context</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Meatball arrived on The Ephergent the way all the best crew members arrive: uninvited, certain he belonged, immediately in charge of morale. He was Pixel's dog before the DRM collapsed. He was there when the frequency split. He rode in the lifeboat with her, A1, and Clive, and he did not panic, because Pixel was there and Pixel needed him not to panic. He has not stopped working since.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          On the ship, Meatball has a job: supervise. He takes this job seriously. He inspects every new room thoroughly. He evaluates all visitors. He maintains a detailed mental database of who deserves treats and who does not. The crew does not know this database exists. They are aware of its effects.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">How to Play</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li><strong style="color: #e0e0e0;">Click to move</strong> — Meatball walks to the location and stops</li>
+          <li><strong style="color: #e0e0e0;">Click on objects</strong> — Meatball investigates (sniffs, paws, sits next to, stares at)</li>
+          <li><strong style="color: #e0e0e0;">Hover</strong> — Cursor changes to indicate interactable objects</li>
+          <li><strong style="color: #e0e0e0;">Internal states</strong> — Meatball reacts to the environment without player input: tail wags, ear perks, head tilts, occasional soft bark at nothing in particular</li>
+        </ul>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">What's in the Box</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Four crew members, three decks, one engine room, one mug that means more than anyone will say out loud, and a dog who has been paying attention the whole time.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          Barry Kowalski is not in this game. He is in every room.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Atlas Connection</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Completing Meatball's Big Walk unlocks the <strong style="color: #e0e0e0;">"Barry Kowalski's Presence"</strong> lore entry in the Lore Atlas — documenting the physical traces Barry left across The Ephergent before he went to the Wellspring.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Game Info</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li>Engine: Godot 4 (HTML5 export)</li>
+          <li>Size: 12.4 MB</li>
+          <li>Price: Free forever</li>
+          <li>Play time: 20–40 minutes</li>
+          <li>Completionists: 60–90 minutes</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="flex flex-row justify-center gap-4 mt-8">
+      <a href="/games/meatballs-big-walk/play/" class="nav-link font-bold">Play Now</a>
+      <a href="/games/" class="nav-link">All Games</a>
+    </div>
+
+  </body>
+</html>

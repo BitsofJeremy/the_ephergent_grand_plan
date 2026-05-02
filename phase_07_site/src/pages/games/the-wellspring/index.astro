@@ -5,13 +5,109 @@
 <html>
   <head>
     <title>The Wellspring | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .tagline {
+        color: #0ff1ce;
+        font-size: 1.25rem;
+        text-shadow: 0 0 10px #0ff1ce44;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .game-card {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 2rem;
+        max-width: 700px;
+        margin: 0 auto;
+      }
+      .specs {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 0.75rem;
+        margin: 1.5rem 0;
+        font-size: 0.9rem;
+      }
+      .spec-item {
+        display: flex;
+        justify-content: space-between;
+        padding: 0.25rem 0;
+        border-bottom: 1px solid #0ff1ce22;
+      }
+      .spec-label {
+        color: #0ff1ce88;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
   </head>
-  <body class="bg-black text-white min-h-screen flex flex-col items-center justify-center">
-    <h1 class="text-3xl font-bold mb-4">The Wellspring</h1>
-    <nav class="space-x-6 mb-4">
-      <a href="/games/the-wellspring/play/" class="underline">Play</a>
-      <a href="/games/the-wellspring/about/" class="underline">About</a>
-    </nav>
-    <p class="mb-4">A browser-playable Godot game from the Ephergent universe.</p>
+  <body class="min-h-screen flex flex-col items-center justify-center relative overflow-hidden p-8">
+    <div class="scanlines"></div>
+    <div class="game-card">
+      <h1 class="game-hero text-4xl font-black mb-2 text-center">THE WELLSPRING</h1>
+      <p class="tagline text-center mb-8">The message was always for you. Now receive it. Now carry it forward.</p>
+
+      <div class="specs">
+        <div class="spec-item"><span class="spec-label">Genre</span><span>Narrative Broadcast</span></div>
+        <div class="spec-item"><span class="spec-label">Engine</span><span>Godot 4</span></div>
+        <div class="spec-item"><span class="spec-label">Size</span><span>15.0 MB</span></div>
+        <div class="spec-item"><span class="spec-label">Season</span><span>3</span></div>
+        <div class="spec-item"><span class="spec-label">Character</span><span>Barry Kowalski</span></div>
+        <div class="spec-item"><span class="spec-label">Price</span><span>Free forever</span></div>
+      </div>
+
+      <p class="mt-6 text-sm leading-relaxed" style="color: #a0a0b0;">
+        The Wellspring is the last game. Not the biggest — the last. The difference matters.
+      </p>
+
+      <p class="mt-4 text-sm leading-relaxed" style="color: #a0a0b0;">
+        You enter the Wellspring — the signal center, the origin point. Barry Kowalski is here. He has been here for four years. He has been waiting. He sits on a lattice strut with his thermos. He has a notebook. He has four years of coffee kept precisely warm.
+      </p>
+
+      <p class="mt-4 text-sm leading-relaxed" style="color: #a0a0b0;">
+        He says: "Took you long enough." He says: "I left very clear directions." He says: "The coffee is ready."
+      </p>
+
+      <p class="mt-4 text-sm leading-relaxed" style="color: #a0a0b0;">
+        The Builders' broadcast resolves into three things: an apology, an invitation, and an introduction. Every choice is the right choice. The game ends the same way regardless. The choice is about you, not the outcome.
+      </p>
+
+      <div class="flex flex-row justify-center gap-4 mt-8">
+        <a href="/games/the-wellspring/play/" class="nav-link font-bold">Play Now</a>
+        <a href="/games/the-wellspring/about/" class="nav-link">About</a>
+      </div>
+    </div>
   </body>
 </html>

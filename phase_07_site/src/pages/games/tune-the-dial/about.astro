@@ -1,0 +1,134 @@
+---
+// About page for Tune the Dial
+---
+
+<html>
+  <head>
+    <title>About Tune the Dial | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .content-block {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        margin: 1rem 0;
+      }
+      .section-title {
+        color: #0ff1ce;
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+        font-weight: bold;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-start pt-16 pb-16 px-4 relative overflow-hidden">
+    <div class="scanlines"></div>
+
+    <h1 class="game-hero text-4xl font-black mb-2 text-center">TUNE THE DIAL</h1>
+    <p class="text-[#0ff1ce] text-center mb-8">About this game</p>
+
+    <div style="max-width: 700px; width: 100%;">
+
+      <div class="content-block">
+        <p class="section-title">The Core Mechanic</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          A single dial. A waveform display. A signal meter. Turn the dial, listen to the noise, find the signal. Each of the five frequencies has a unique waveform, audio character, and color tint. Builder Stations have their own signatures — attenuated, older, with a characteristic warble of age. Hold steady on a signal for three seconds and it locks. A lore entry unlocks.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          This is not an action game. It is a listening game. Your primary tool is patience.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Signal Tiers</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li><strong style="color: #e0e0e0;">Tier 1 — The Five Frequencies:</strong> Wide bands, strong signals. Tutorial territory.</li>
+          <li><strong style="color: #e0e0e0;">Tier 2 — Builder Stations:</strong> Narrower bands, weaker signals, require slower movement.</li>
+          <li><strong style="color: #e0e0e0;">Tier 3 — The Ephergent Frequency:</strong> A single channel, 5 positions wide, sounds different to each crew member.</li>
+          <li><strong style="color: #e0e0e0;">Tier 4 — Barry's Hidden Pattern:</strong> 3 positions wide. No signal meter response. Only patience finds it.</li>
+        </ul>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Character Perspectives</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Each crew member hears the same frequency differently. Select a character to hear their version:
+        </p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem; margin-top: 0.5rem;">
+          <li><strong style="color: #e0e0e0;">Pixel:</strong> Broadcast clarity — a transmission from a world she's never been to but recognizes.</li>
+          <li><strong style="color: #e0e0e0;">Clive:</strong> His own voice speaking words he doesn't remember saying.</li>
+          <li><strong style="color: #e0e0e0;">Om Kai:</strong> The silence between mantras.</li>
+          <li><strong style="color: #e0e0e0;">Zephyr:</strong> His brother's laugh, far away but not gone.</li>
+          <li><strong style="color: #e0e0e0;">Meatball:</strong> Smells like Thursday and tastes like almost-home.</li>
+        </ul>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">The Hidden Barry Pattern</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          The hardest signal in the game. Three positions wide. Does not produce a clean waveform — it produces a rhythmic modulation within the noise itself. The signal meter does not respond. Finding it is optional. Finding it changes everything.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Atlas Connections</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Each frequency unlocked connects to its Lore Atlas entry. The Ephergent Frequency unlocks the signal's own entry. The hidden Barry pattern unlocks a question, not an answer.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Game Info</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li>Engine: Godot 4 (HTML5 export)</li>
+          <li>Size: 11.2 MB</li>
+          <li>Price: Free forever</li>
+          <li>Play time: 30–60 minutes (Tier 1–3). Indefinitely long (finding Barry's pattern).</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="flex flex-row justify-center gap-4 mt-8">
+      <a href="/games/tune-the-dial/play/" class="nav-link font-bold">Play Now</a>
+      <a href="/games/" class="nav-link">All Games</a>
+    </div>
+
+  </body>
+</html>

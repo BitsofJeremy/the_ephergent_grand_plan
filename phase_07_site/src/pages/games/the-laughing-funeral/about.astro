@@ -1,0 +1,127 @@
+---
+// About page for The Laughing Funeral
+---
+
+<html>
+  <head>
+    <title>About The Laughing Funeral | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .content-block {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        margin: 1rem 0;
+      }
+      .section-title {
+        color: #0ff1ce;
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+        font-weight: bold;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-start pt-16 pb-16 px-4 relative overflow-hidden">
+    <div class="scanlines"></div>
+
+    <h1 class="game-hero text-4xl font-black mb-2 text-center">THE LAUGHING FUNERAL</h1>
+    <p class="text-[#0ff1ce] text-center mb-8">About this game</p>
+
+    <div style="max-width: 700px; width: 100%;">
+
+      <div class="content-block">
+        <p class="section-title">Setting — Nocturne Aeturnus</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          A gothic frequency of perpetual twilight — deep indigo sky, violet Sorrowful Moon, air thick with petrichor and the mineral tang of crystallized feelings. The architecture is gothic: tall spires, flying buttresses, facades that pulse with emotional resonance visible in the stonework. Grief crystallizes into spires. Joy is rarer, more volatile, more dangerous.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          The funeral house is three hundred years old, built during the Third Sorrow Renaissance, its walls encrusted with crystallized tears. Nothing has ever gone wrong here. Until now.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">The Mystery</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Thaddeus Mourning died. A funeral was held. At that funeral — in a place where laughter during mourning is a structural violation of the social fabric — everyone present laughed. Clearly. Joyfully. Without exception.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          The Ministry classified it. The dead person's sister couldn't. She remembered Klaus — the last investigator who refused to look away. She contacted him through a frequency she thought was secure.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Baron Klaus</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Investigator. Procurement specialist. A man who left Nocturne fifteen years ago under circumstances he has never explained. He is not a detective. He is a man who does not look away. In Nocturne, that is considered the same thing.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          Klaus goes back. The Ministry made his position obsolete last time. This time, he has the Ephergent.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Barry's Field Note</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          In the funeral house archive room, Klaus finds a field note. The handwriting is Prime Material. It's Barry Kowalski's.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.5rem; font-style: italic;">
+          "I came here looking for a signal. I found a silence. The silence was louder. If you're reading this, you've found the same silence. Here's what I found: the signal was never here. The signal was waiting for someone to stop listening so it could be heard. Don't stop listening. The silence is the message."
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Game Info</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li>Engine: Godot 4 (HTML5 export)</li>
+          <li>Size: 13.8 MB</li>
+          <li>Price: Free forever</li>
+          <li>Play time: 45–90 minutes</li>
+          <li>Completionists: 2–3 hours</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="flex flex-row justify-center gap-4 mt-8">
+      <a href="/games/the-laughing-funeral/play/" class="nav-link font-bold">Play Now</a>
+      <a href="/games/" class="nav-link">All Games</a>
+    </div>
+
+  </body>
+</html>

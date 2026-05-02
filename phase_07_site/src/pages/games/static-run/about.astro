@@ -1,0 +1,117 @@
+---
+// About page for Static Run
+---
+
+<html>
+  <head>
+    <title>About Static Run | ephergent.com</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #0a0a1a 100%);
+        min-height: 100vh;
+        font-family: 'Share Tech Mono', monospace;
+        color: #e0e0e0;
+      }
+      .game-hero {
+        font-family: 'Orbitron', sans-serif;
+        color: #0ff1ce;
+        text-shadow: 0 0 20px #0ff1ce88;
+      }
+      .content-block {
+        background: rgba(10,16,32,0.8);
+        border: 1px solid #0ff1ce33;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        margin: 1rem 0;
+      }
+      .section-title {
+        color: #0ff1ce;
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+        font-weight: bold;
+      }
+      .nav-link {
+        color: #fff;
+        border: 2px solid #0ff1ce;
+        border-radius: 1.5rem;
+        padding: 0.5rem 1.5rem;
+        text-decoration: none;
+        transition: all 0.2s;
+        display: inline-block;
+      }
+      .nav-link:hover {
+        background: #0ff1ce;
+        color: #0a0a1a;
+      }
+      .scanlines {
+        position: fixed;
+        top: 0; left: 0; width: 100vw; height: 100vh;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+          to bottom,
+          transparent, transparent 6px,
+          #0ff1ce08 7px, transparent 8px
+        );
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen flex flex-col items-center justify-start pt-16 pb-16 px-4 relative overflow-hidden">
+    <div class="scanlines"></div>
+
+    <h1 class="game-hero text-4xl font-black mb-2 text-center">STATIC RUN</h1>
+    <p class="text-[#0ff1ce] text-center mb-8">About this game</p>
+
+    <div style="max-width: 700px; width: 100%;">
+
+      <div class="content-block">
+        <p class="section-title">The Core Mechanic</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          You run. You do not stop running. The entropy fragments are always behind you. They will never catch Nano if the player keeps moving. There is no death by catching. There is death by obstacle — by losing momentum, by hesitating, by slowing down long enough that the corridor collapses around you.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          <strong style="color: #e0e0e0;">Controls:</strong> Single input (spacebar, click, tap). Hold to maintain speed. Release to briefly slow and navigate obstacles.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.5rem;">
+          <strong style="color: #e0e0e0;">Scoring:</strong> Distance run. Multipliers for near-misses and speed maintenance.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">The Corridor</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          The interstitial corridor is procedurally generated from Builder Station architectural fragments — geometric walls, resonance conduits, memory core housings — assembled into a corridor that should not exist and does exist anyway. The corridor collapses behind Nano as she runs. What she runs through is already gone by the time she reaches the end. She is running through the shape of something that used to be.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Barry's Notebook Pages</p>
+        <p style="color: #a0a0b0; line-height: 1.7;">
+          Five pages, torn and scattered across the entropy fragments. Each is readable as a standalone note. Together, they spell out a coordinate — not to a location, but to a moment. The last time Barry Kowalski was certain of something.
+        </p>
+        <p style="color: #a0a0b0; line-height: 1.7; margin-top: 0.75rem;">
+          The fragments that carry the pages look different from other entropy fragments: darker, more deliberate, moving with purpose. To collect a page, you must slow down — just enough — and grab it without stopping entirely. Finding all five pages changes the ending screen. Not the outcome — the meaning of the running.
+        </p>
+      </div>
+
+      <div class="content-block">
+        <p class="section-title">Game Info</p>
+        <ul style="color: #a0a0b0; line-height: 1.9; padding-left: 1.5rem;">
+          <li>Engine: Godot 4 (HTML5 export)</li>
+          <li>Size: 14.1 MB</li>
+          <li>Price: Free forever</li>
+          <li>Play time: Infinite (endless runner)</li>
+          <li>Completionists: Multiple runs + willingness to slow down</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="flex flex-row justify-center gap-4 mt-8">
+      <a href="/games/static-run/play/" class="nav-link font-bold">Play Now</a>
+      <a href="/games/" class="nav-link">All Games</a>
+    </div>
+
+  </body>
+</html>
