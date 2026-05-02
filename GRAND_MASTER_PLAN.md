@@ -578,14 +578,220 @@ How transmissions appear on ephergent.com. Format, length (300-600 words recomme
 ### PHASE 7 — SITE & LORE ATLAS
 **Deliverables** → `phase_07_site/`
 
-**Task 7.1**: ephergent.com Content Map  
+**Task 7.1**: ephergent.com Content Map
 What sections exist on the site. How games, transmissions, lore, and comics connect. What's free, what requires engagement to unlock.
 
-**Task 7.2**: Lore Atlas Structure  
+**Task 7.2**: Lore Atlas Structure
 The lore atlas sections. Which documents feed which sections. How Builder Station lore, character profiles, and world entries are presented to readers.
 
-**Task 7.3**: Astro Technical Notes  
+**Task 7.3**: Astro Technical Notes
 Document the Astro 5 quirk: use `import.meta.glob` not `getCollection()` in `getStaticPaths`. Include other technical decisions relevant to the site build.
+
+**Task 7.4**: Interactive Station Terminal
+Build `EPHERGENT://` — the interactive JS terminal overlay. See full spec in `## EPHERGENT:// — INTERACTIVE STATION TERMINAL` above. Deliverables: `terminal/index.html`, `terminal.js`, `terminal.css`, `frequency_map.json`, `a1_responses.js`, `clive_haiku.js`, `easter_eggs.js`. Execute across heartbeat runs — Phase 1 first.
+
+---
+
+## EPHERGENT:// — INTERACTIVE STATION TERMINAL
+
+*"You are not a user. You are a frequency."*
+
+A fully interactive in-browser command-line interface layered over `ephergent.com`. Visitors land on a boot sequence, get dropped into a fake `EPHERGENT://` prompt, and can type commands to explore the universe. The interface IS the experience — not a supplement to it.
+
+**Core aesthetic:** IBM 3270 mainframe meets deep-space radio telescope. Amber/green phosphor glow, monospace everything, scanlines, the quiet hum of a station that's been broadcasting for 800 years alone. The site already has the bones — JetBrains Mono, `#08080d` dark background, amber `#ffb020` labels, CRT scanline overlay. The terminal is the natural evolution.
+
+---
+
+### IMPLEMENTATION OVERVIEW
+
+**Phasing:**
+- **Phase 1**: Full terminal with all core commands + easter eggs. Drop-in overlay on homepage. No audio integration yet.
+- **Phase 2**: Frequency-to-episode mapping, `TUNE` command fully working, audio integration when episodes have T2A.
+- **Phase 3**: Session persistence — unlockables carry across visits via `localStorage`. Classified entries stay revealed.
+- **Phase 4**: Multi-station routing — `STATION [callsign]` switches context (Station Alpha, Station Omega, The Wellspring relay).
+
+**Technical approach:** Single vanilla JS + HTML file. No Astro dependency — can be dropped anywhere on the site. One `<div id="terminal-overlay">` covers the page, or runs as a dedicated `/terminal/` route.
+
+---
+
+### BOOT SEQUENCE
+
+```
+EPHERGENT STATION TERMINAL v0.7.3
+INITIALIZING SUBSYSTEMS...
+  [OK] Signal Antenna.......... 800 YEARS ONLINE
+  [OK] Reality Stability....... QUESTIONABLE
+  [OK] Coffee Status........... A1 IS OPERATIONAL
+  [OK] Clive Consciousness...... UNCERTAIN
+  [OK] Mochi Warmth............ ALWAYS
+  [OK] Absurdist Protocol...... ENGAGED
+
+EPHERGENT://
+```
+
+---
+
+### CORE COMMANDS
+
+| Command | Output |
+|---------|--------|
+| `HELP` | List available commands |
+| `MANIFEST` | Crew roster (Pixel, A1, Clive, Meatball, Mochi) with status |
+| `BROADCAST` | Play the latest transmission (links to S01E01) |
+| `LIST FREQUENCIES` | Show all 37 episode transmissions |
+| `TUNE [freq]` | "Tune" to a frequency — returns synopsis + link |
+| `STATUS` | Station status: signal strength, drift, crew locations |
+| `ATLAS` | Pull a random lore entry from the Lore Atlas |
+| `A1 [message]` | Talk to A1 — responds in dry espresso-machine prose |
+| `CLIVE` | Clive's sphere pulses a haiku (different each time) |
+| `MEOZT` | Mochi translation — interpret a line of cosmic static |
+| `LOG` | Mission log — recaps current episode arc |
+| `DIAL` | Spin the dial — random episode recommendation |
+| `ABOOT` | About the station (about page / lore) |
+| `CLEAR` | Clear terminal |
+| `EXIT` | "You cannot exit. The signal is eternal." |
+
+---
+
+### HIDDEN EASTER EGGS
+
+**`MOCHI`** — Mochi doesn't speak. Mochi *pulses*. A warm vibration in the terminal that the user feels, not reads. Text appears: "Mochi is warm against your chest. Mochi has always been warm. Mochi is not worried. Mochi is never worried. You should try that."
+
+**`MANIFEST --classified`** — Reveals redacted entries. Some clearances require finding a frequency code first. Redacted text flickers, then partially resolves.
+
+**`RESET`** — Boot error sequence, then: `ERROR: Reality already unstable. Reset denied. Proceed to signal.`
+
+**`TIME`** — Station time is always 800 years in the past. Text: `The dial broke. We stopped counting. A1 says the coffee is still perfect.`
+
+**`BARRY`** — Barry Kowalski's methodical notes scrolled at terminal speed. Always ends mid-sentence. Example: *"Frequency log, Station 4, entry 23: The resonance pattern suggests the Builders were expecting something. Not hoping. Expecting. That's a different kind of faith entirely —"* (cuts off).
+
+**`THE BUILDERS`** — A defense. Earnest. Text: *"They understood that the next phase required their absence. They were not wrong. They were not right. They were Builders. They built for what came after, even when after meant they wouldn't be there to see it."*
+
+**`FREQUENCY:[number]`** — Cheat code. Directly access any episode by number. `FREQUENCY:1047` → S01E01. The numbers don't map cleanly to episode numbers — the station is old and the calibration drifted.
+
+**`INVADER`** — Screen flickers. A brief visual distortion. Then: `INBOUND SIGNAL DETECTED... RECOGNIZED... FRIEND. MOSTLY.`
+
+**`ANSWER`** — The phone ringing text gag. `The telephone is ringing. You've been asleep. It's 3AM and it's YOUR MOTHER. You know what she's going to say. The phone keeps ringing. This is a dream. You're not picking up.`
+
+**`STATION OMEGA`** — Unlocks after visiting 10+ episodes. Clive speaks directly: *"You've been listening for a while now. That's good. That's what the signal is for."*
+
+**`THE DIMMING`** — Clive gives the official Builder account. Measured. Unembellished. Ends: *"They chose to leave. They chose to leave well. That is the whole of it."*
+
+**`HELP` (second time)** — Slightly different output. Now includes `STATION` and `CLASSIFIED` as hints.
+
+---
+
+### FREQUENCY CODES
+
+Each episode maps to a non-obvious frequency code. The codes drift — they were calibrated once, by people who are no longer available to recalibrate. Finding a code by accident feels like tuning into something you weren't supposed to hear.
+
+| Episode | Frequency |
+|---------|-----------|
+| S01E01 | 1047 |
+| S01E02 | 1103 |
+| S01E03 | 0972 |
+| ... | ... |
+| S03E10 | 0881 |
+
+Exact codes: see `phase_07_site/terminal/frequency_map.json` in the dev repo.
+
+---
+
+### A1 PERSONALITY ENGINE
+
+A1 responds to any input after `A1 ` — `A1 hello`, `A1 what do you know about the Drift`, `A1 are you afraid`. Responses follow the coffee rule:
+
+- A1 notes what it's brewing first, always
+- A1 says less than it knows
+- A1 occasionally volunteers exactly one sentence that recontextualizes everything
+- A1 never lies
+
+Example: `A1 why are we here`
+→ `"Brewing: dark roast, notes of ash and old paper. We are here because the signal was broadcasting. We followed it. That is the short answer. The long answer is in the episodes."`
+
+---
+
+### CLIVE HAIKU DATABASE
+
+`CLIVE` returns one of 15+ procedurally-selected haikus. Clive speaks in haiku naturally — his internal process is already in that rhythm.
+
+Examples:
+```
+Between the stations
+the silence hums with lost worlds
+we drift, untuned
+```
+
+```
+The coffee is warm.
+A1 says nothing. That's enough.
+We keep going.
+```
+
+```
+Eight hundred years old.
+Still here. Still adjusting the fedora.
+Still making notes.
+```
+
+---
+
+### SESSION PERSISTENCE (Phase 3)
+
+`localStorage` tracks:
+- Commands unlocked (e.g. `--classified` after first `MANIFEST`)
+- Episodes "visited" via TUNE
+- Hidden easter eggs found
+- Dial spins completed
+
+On return visit: `"WELCOME BACK, FREQUENCY. THE SIGNAL REMEMBERS YOU."`
+
+---
+
+### VOICE INTEGRATION (Phase 2+)
+
+When T2A audio is available for an episode:
+- `BROADCAST` and `TUNE [freq]` can trigger MiniMax T2A playback
+- A1 responses route through Pixel's voice clone (moss_audio_b81c04d0-428d-11f1-9e81-7a02684cce23)
+- Clive haikus display as amber text — no voice for Clive
+- Mochi is always warmth + text, never voice
+
+---
+
+### IMPLEMENTATION FILES
+
+```
+phase_07_site/
+├── terminal/
+│   ├── index.html          ← Terminal overlay (Phase 1 deliverable)
+│   ├── terminal.js         ← Command parser, state machine, easter eggs
+│   ├── terminal.css        ← CRT effects, phosphor glow, scanlines
+│   ├── frequency_map.json  ← Episode → frequency code mapping
+│   ├── a1_responses.js     ← A1 personality engine + response bank
+│   ├── clive_haiku.js      ← Clive haiku database
+│   ├── easter_eggs.js      ← Hidden command handlers
+│   └── sounds/              ← Optional: keyclick sounds, static ambience
+└── astro_components/
+    └── Terminal.astro      ← Astro wrapper (for integration into main site)
+```
+
+---
+
+### CONNECTION TO EXISTING SITE
+
+The terminal overlays the homepage without modifying the underlying page structure. The homepage remains fully accessible — the terminal is an optional layer visitors can dismiss. Episode pages do not have the terminal by default — it's a homepage/landing experience that links out to episodes.
+
+---
+
+### REJECTED ALTERNATIVES
+
+- **Modal/popup terminal**: Rejected — the overlay feels more authentic to the aesthetic. The whole screen IS the terminal, not a window into it.
+- **Typed input only, no clicking**: Rejected — mobile users need tap-to-focus on the input. The illusion is the same.
+- **Voice-only easter eggs**: Rejected — Mochi doesn't speak. The terminal respects that. Audio comes later, through T2A, not easter eggs.
+
+---
+
+*This spec was designed to be executable by any LLM during a heartbeat run. The terminal should feel like it was written by someone who has actually been listening to the signal.*
 
 ---
 
