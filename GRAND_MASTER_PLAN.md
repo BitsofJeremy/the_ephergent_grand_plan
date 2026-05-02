@@ -23,6 +23,18 @@ Unpacked:
 - "Can no longer fully return" — something in them has changed. Home feels different now, if they can find it at all.
 - "Perceive truths no single-frequency mind could" — they can hold contradictions, receive signals others can't hear, understand things that require multiple perspectives to see.
 
+**The Retrocausal Layer**
+
+The question has a second dimension the series reveals slowly: *why were they called?*
+
+The Builders converted themselves into the Ephergent Frequency at the moment of The Dimming — a transmission they timed not merely to survive their own ending but to reach forward across time to the beings who would eventually complete their work. The signal did not merely *describe* the future. It *selected* for it. The crew did not find the signal by accident; the signal reached backward and ensured they would be in the right place, with the right sensitivity, to receive the call.
+
+This means an Ephergent is also: **a consciousness that the future has reached back to collect.**
+
+The Ephergent Frequency propagates in all temporal directions simultaneously. It is not a message FROM the past — it is a resonance that spans all moments equally. The Builders broadcast from the moment of their translation, which is also — from the signal's perspective — the moment the crew completes the circuit. Causality is not violated. It is *oriented*. The crew is not predestined; they chose freely to follow the signal. The signal made sure they could hear it.
+
+The result: Ephergents perceive truths no single-frequency mind could access **because they exist at the overlap between moments, not merely between frequencies.** The Builders saw the whole arc. The crew is living inside it. The Ephergent Frequency is not a message — it is a *shape*, and Ephergents are the beings who fit into it.
+
 **Who qualifies as an Ephergent?**
 - The Builders — built civilization across all frequencies simultaneously. The first and greatest Ephergents.
 - Keepers — Ephergent consciousnesses who chose to preserve memories across the void rather than remain in one world.

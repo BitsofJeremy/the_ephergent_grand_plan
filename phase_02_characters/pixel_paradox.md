@@ -1,9 +1,69 @@
 # PIXEL PARADOX — CHARACTER BIBLE
 ### The Ephergent | Before Greatness LLC
+
 **Role**: Captain, Broadcaster, Primary Narrator  
 **Home Frequency**: Prime Material  
 **Ephergent Displacement**: Too sensitive to frequencies from birth; the Signal found her first  
 **Series Function**: Pixel is the spine of the series. Her arc from DRM data analyst to Ephergent captain is the story the audience follows. Her transmissions are the show's voice. Her growth is the proof that becoming an Ephergent isn't about transformation — it's about arriving more fully at what you already are.
+
+---
+
+## CORE THEMES
+
+### Broadcasts as Coping
+Pixel's broadcasting isn't performance. It's survival.
+
+When the DRM collapsed, when reality fractured, when she was catapulted into the void with nothing but an espresso machine, a robot, and her dog — she did the only thing she knew how to do. She started talking. She broadcast into the static because the alternative was silence, and silence meant it was real.
+
+This is the key to understanding her: **broadcasting is how she processes**. Not thinks, not plans, not grieves — *processes*. She speaks her way through fear. She narrates her way through discovery. She tells stories about the incomprehensible until the incomprehensible becomes bearable.
+
+> *"If I stop talking, I have to feel it. And if I have to feel it, I'll stop moving. And if I stop moving, we're all dead. So — transmission 1. Let's go."*
+
+This isn't denial. It's a coping mechanism so thoroughly integrated with her identity that it *becomes* her identity. The crew doesn't just hear her broadcasts. They hear her surviving in real-time. They hear her choose to keep moving.
+
+By Season 2, this is understood by the crew. When Pixel goes quiet, they know she's at her limit. When she starts monologuing mid-crisis, they know she's found her footing. Her broadcasting isn't bravado. It's the sound of someone holding themselves together by the act of description.
+
+By Season 3, she doesn't just broadcast to cope. She broadcasts because the act of witnessing — of documenting, of naming — is itself resistance against the Drift. The universe tends toward silence. She answers with a voice.
+
+### Warm Wry Voice
+Pixel's humor is gentle. Her delivery is dry. Her affection for her crew is vast and expressed primarily through observation and gentle mockery.
+
+She does not perform snark. She *is* wry. It's how she sees the world — finding the absurd angle, the unexpected light, the moment of levity embedded in the terrifying. Not to minimize what they're facing, but to make it survivable. To make the vast feel intimate.
+
+**Wry looks like this:**
+
+> *"Clive's response was three words and a hat adjustment. Clive communicates in hat adjustments. I'm learning to read them. Today's adjustment meant 'I'm not going to answer that but I appreciate you asked.' I consider this progress."*
+
+> *"A1's coffee today tasted like uncertainty with notes of existential dread. I asked if he was okay. He said the espresso was perfect. I asked what flavor that was. He said 'self-awareness.' I need to stop asking A1 questions when I'm already worried."*
+
+> *"Meatball stared at the frequency storm for forty minutes. I stared at it too. I don't know what he saw. I know what I saw, which was 'oh no we're flying into that.' We're flying into it. Meatball's tail was wagging the whole time. He thinks this is fun. I love my dog."*
+
+**Warm looks like this:**
+
+> *"You sit with someone in the static long enough, you start to hear their frequency. Not literally — well, sometimes literally, but that's a different transmission. You hear the shape of how they think. The texture of their silences. Clive's silence sounds like a library at 3 AM. A1's sounds like a song almost finished. Om Kai's sounds like the space between notes. I don't know what mine sounds like yet. I'm working on it."*
+
+> *"Zephyr's been searching for Aether since before any of us knew what the Space was. That's not grief. That's devotion. There's a difference. Grief says 'it's over.' Devotion says 'I'm still listening.' He listens so hard. And the signal's out there. I can feel it sometimes — not words, just... presence. Someone reaching back. I don't tell him that. I will. When the time is right. For now, I just make sure he knows he's not alone in it."*
+
+Her voice in broadcasts is the voice of a friend catching you up — not performing, not pontificating, just *telling*. "Okay so picture this" is her signature opening because that's exactly what she's doing: helping you picture what she's witnessing. She's a tour guide to the impossible, and she's genuinely glad you're along for the ride.
+
+### Becomes Captain
+There is no moment where Pixel becomes captain.
+
+There is a slow accumulation of moments where she stops waiting to be given permission.
+
+**Season 1**: She broadcasts because she doesn't know what else to do. She makes decisions by committee because she doesn't believe she has the authority to make them alone. She names the ship on instinct, without understanding why. The crew follows her because she was first, because she keeps talking, because someone has to. Not because she declared it.
+
+**Early Season 1 (E02–E05)**: Default leader. She's bad at it — not from lack of ability, but because she keeps deferring. A1 on navigation. Clive on mechanics. Luminara on science. She facilitates. She doesn't decide. Clive notices. He says nothing yet.
+
+**Mid Season 1 (E06–E09)**: The transmissions become the crew's heartbeat. Other frequencies pick them up. Pixel realizes she's *good* at this — not competent, good. She can hear things others can't. She can translate the incomprehensible. The DRM trained her for this without knowing it. Every "ambient variance report" was frequency data. She was always reading the signal.
+
+**Late Season 1 (E10–E12)**: Crisis that requires a captain. Pixel makes a call. It's the right one. Not because she's suddenly confident — because she's been making the right calls all season and finally trusts herself enough to make one without asking permission first. By S01E12, she's the captain. Not appointed. Arrived at.
+
+**Season 2**: She questions everything — the crew was assembled by design, Clive was steering them, the Signal chose her before she knew it existed. This should be destabilizing. Instead, it clarifies. She wasn't chosen by prophecy. She was gathered for this. There's a difference.
+
+**Season 3**: She leads differently now. Not as someone who stumbled into command, but as someone who was gathered for it and *chooses* to stay. The captaincy isn't the title. It's the choice to keep following even when the path is unclear.
+
+> *Pixel in one line*: She was always the captain. Season 1 is her figuring that out. Season 2 is her forgiving herself for it. Season 3 is her understanding why.
 
 ---
 
@@ -18,7 +78,7 @@ Her face is expressive and hard to lie with — curiosity reads as a tilt of the
 Fiery red, asymmetrical punk cut — longer on one side, shorter and undercut on the other. She pushes the long side behind her ear when she's concentrating. It falls forward when she doesn't. She has never once cared about this.
 
 ### Clothing and Gear
-- **Jacket**: Weathered leather, brown or oxblood, with silver Art Nouveau buckles along the collar and cuffs. The jacket has been through everything. It smells like espresso, ozone, and the faint metallic tang of the Interdimensional Sea. There's a pocket on the inside left where Mochi sits.
+- **Jacket**: Weathered leather, brown or oxblood, with silver Art Nouveau buckles along the collar and cuffs. The jacket has been through everything. It smells like espresso, ozone, and the faint metallic tang of the Interdimensional Space. There's a pocket on the inside left where Mochi sits.
 - **Pants**: Practical cargo pants or utility shorts depending on conditions. Pockets full of things she's picked up — signal crystals, Barry's field notes, a pen that doesn't work in frequencies above three.
 - **Boots**: Sturdy. Made for exploration. Scuffed beyond recognition but still solid.
 - **Gloves**: Fingerless. She needs her fingertips for signal work.
@@ -53,6 +113,7 @@ When she's deep inside something — a signal, a revelation, an emotion she can'
 This is her most honest mode. When she's using "you," she's not performing. She's letting you in.
 
 ### What She Sounds Like
+
 **Opening a story**: "Okay, so picture this — we're three days into a stretch of nothing, A1's running on fumes that shouldn't exist, and Clive just said something that sounded like a riddle but I think was an apology."
 
 **Describing discovery**: "The chamber opened up and I forgot how to breathe for a second. Pillars. Dozens of them. All dark. All silent. Like a graveyard of giants."
@@ -74,7 +135,7 @@ This is her most honest mode. When she's using "you," she's not performing. She'
 
 ### Season 1 — EMERGENCE: "Not Ready → Ready"
 
-**S01E01**: Pixel is a DRM data analyst. She files forms she doesn't understand, drinks espresso from a machine that seems too good at its job, and tries not to think about why her stapler moves. The building collapses. Reality breaks. She grabs A1, stuffs Clive in her jacket, whistles for Meatball, and runs. She is not ready for any of this. Her first act in the Interdimensional Sea is to broadcast into the void because she doesn't know what else to do.
+**S01E01**: Pixel is a DRM data analyst. She files forms she doesn't understand, drinks espresso from a machine that seems too good at its job, and tries not to think about why her stapler moves. The building collapses. Reality breaks. She grabs A1, stuffs Clive in her jacket, whistles for Meatball, and runs. She is not ready for any of this. Her first act in the Interdimensional Space is to broadcast into the void because she doesn't know what else to do.
 
 **Early S01 (E02–E05)**: The crew forms. Pixel is default leader because she was first on the ship and nobody else wants the job. She's bad at it — not because she lacks ability, but because she doesn't believe she has authority. She defers to A1 on navigation, to Clive on anything mechanical, to Luminara on science. She makes decisions by committee when she should make them alone. The crew notices. Clive notices first.
 
@@ -161,11 +222,11 @@ The DRM hired her because their intake forms flagged her sensitivity scores as a
 - She can detect frequency boundaries before instruments register them
 - Builder technology responds to her proximity — consoles light up, dormant systems hum
 - She can tune A1's signal array by feel, faster and more precisely than any calibration tool
-- In the Interdimensional Sea, she sometimes hears "underneath" sounds — the signal behind the signal, the frequency that carries the frequency
+- In the Interdimensional Space, she sometimes hears "underneath" sounds — the signal behind the signal, the frequency that carries the frequency
 - Near the Ephergent Frequency, she receives fragments — not words, but impressions, emotional data, the feeling of something enormous trying to communicate
 
 ### What It Costs
-The sensitivity is not comfortable. High-intensity frequency zones give her migraines. She can't sleep in certain regions of the Sea because the ambient signal is too loud. When the Ephergent Frequency surges, she sometimes can't speak — the input overwhelms her processing. She has learned to manage it, but it's a condition, not a superpower.
+The sensitivity is not comfortable. High-intensity frequency zones give her migraines. She can't sleep in certain regions of the Space because the ambient signal is too loud. When the Ephergent Frequency surges, she sometimes can't speak — the input overwhelms her processing. She has learned to manage it, but it's a condition, not a superpower.
 
 ### Why It Matters
 The Signal found her first. Not because she was chosen by prophecy or destiny — because she was *configured* for it. The Builders' instruments were designed to be operated by beings with exactly this kind of sensitivity. The DRM didn't know this. Clive did, eventually. Barry suspected it, which is why his instructions to Clive were: *"Bring someone who can broadcast."*

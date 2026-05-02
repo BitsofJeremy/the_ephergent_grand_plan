@@ -1,8 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-const lore = await getCollection('lore', ({ data }) => data.type === 'frequency');
+
 export async function getStaticPaths() {
+  const lore = await getCollection('lore', ({ data }) => data.type === 'frequency');
   return lore.map((l) => ({ params: { slug: l.slug }, props: { entry: l } }));
 }
 const { entry } = Astro.props;
@@ -11,7 +12,7 @@ const { Content } = await entry.render();
 <BaseLayout title={entry.data.title ?? entry.slug} description={entry.data.summary ?? `Frequency: ${entry.data.title ?? entry.slug}`}>
   <section class="section-hero">
     <div class="max-w-6xl mx-auto px-6 py-16">
-      <a href="/atlas/" class="text-text-secondary hover:text-accent-cyan text-sm mb-4 inline-block">← Back to Lore Atlas</a>
+      <a href="/atlas/" class="text-text-secondary hover:text-accent-cyan text-sm mb-4 inline-block"> Back to Lore Atlas</a>
       <h1 class="font-display font-black text-4xl md:text-5xl tracking-tight mt-4">{entry.data.title ?? entry.slug}</h1>
       {entry.data.summary && <p class="text-text-secondary text-lg mt-2 max-w-2xl">{entry.data.summary}</p>}
     </div>

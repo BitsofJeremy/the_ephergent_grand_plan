@@ -1,31 +1,215 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-const modules = import.meta.glob('./journal/*.md', { eager: true });
-const Ep = modules['./journal/S01E01_the_day_the_dial_broke.md'];
+import { getCollection } from 'astro:content';
+
+// Boot sequence lines for the terminal effect
+const bootLines = [
+  "EPHERGENT STATION OS v0.7.3",
+  "Copyright (C) 2847 Station Authority",
+  "",
+  "Initializing core systems...",
+  "[OK] Life support grid",
+  "[OK] Reality anchors",
+  "[OK] Frequency receivers",
+  "[OK] The Drift monitoring system",
+  "",
+  "Loading crew manifest...",
+  "[OK] 9 crew members active",
+  "[OK] 1 keeper protocols",
+  "[OK] 1 companion registered",
+  "",
+  "WARNING: Station has been adrift for 847 cycles",
+  "WARNING: Original mission parameters classified",
+  "WARNING: Some frequencies are not safe",
+  "",
+  "Last transmission received: Cycle 892.017",
+  "Signal origin: UNKNOWN",
+  "Signal content: UNKNOWN",
+  "",
+  "CONNECTION ESTABLISHED",
+  "WELCOME TO EPHERGENT TERMINAL",
+];
+
+// Latest episode info (S01E01)
+const latestEpisode = {
+  season: '01',
+  episode: '01',
+  title: 'The Day the Dial Broke',
+  stardate: 'Cycle 001.001.001',
+  summary: 'Pixel Paradox discovers the Department of Reality Maintenance was hiding something vast. Walls phase. Rooms fold. And suddenly she\'s in a lifeboat she never knew existed, broadcasting into an ocean of impossible light.',
+};
+
+// Crew manifest teaser
+const crewPreview = [
+  { name: 'Pixel Paradox', role: 'Broadcast Lead' },
+  { name: 'A1', role: 'Espresso Intelligence' },
+  { name: 'Clive', role: 'Keeper Emeritus' },
+  { name: 'Meatball', role: 'Companion/Emotional Support' },
+];
 ---
 
-<BaseLayout title="Ephergent — Tune the Dial" description={Ep?.frontmatter?.summary ?? 'Tune the dial, find your frequency.'}>
-  <div class="hero-mesh min-h-screen flex items-center">
-    <section class="max-w-4xl mx-auto p-8">
-      <h1 class="text-6xl font-black tracking-tight mb-4" style="font-family: 'Space Grotesk', Inter, system-ui;">EPHERGENT</h1>
-      <p class="text-lg text-text-secondary mb-6">Tune the dial. Discover Season 01 — Episode 01.</p>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <article class="product-glow glow-cyan rounded-lg p-6 bg-bg-surface/60 border border-border-subtle">
-          <h2 class="text-2xl font-semibold mb-2">{Ep?.frontmatter?.title ?? 'Episode 01'}</h2>
-          <p class="text-sm text-text-secondary mb-4">{Ep?.frontmatter?.summary ?? 'A first transmission from Pixel Paradox.'}</p>
-          <a href="/journal/S01E01_the_day_the_dial_broke/" class="inline-block px-4 py-2 rounded-md bg-accent-cyan text-bg-deep font-semibold">Read Episode 01</a>
-        </article>
+<BaseLayout title="Ephergent Terminal" description="The Ephergent  a space station still broadcasting after 800 years.">
+  <div class="terminal-container min-h-screen font-mono">
+    <!-- Scan line overlay -->
+    <div class="scanlines" aria-hidden="true"></div>
+    
+    <main class="max-w-5xl mx-auto p-6 md:p-12">
+      <!-- Boot Sequence -->
+      <section class="boot-sequence mb-12" aria-label="System boot sequence">
+        <div class="text-sm leading-relaxed" style="color: #00e676;">
+          {bootLines.map(line => (
+            <div style={line.startsWith('[') ? 'color: #ffb020;' : ''}>
+              {line || '\u00A0'}
+            </div>
+          ))}
+        </div>
+      </section>
 
-        <aside class="p-6 rounded-lg bg-bg-elevated/60 border border-border-subtle">
-          <h3 class="font-semibold mb-2">Quick Links</h3>
-          <ul class="space-y-2 text-sm">
-            <li><a href="/games/" class="text-accent-cyan">Games</a></li>
-            <li><a href="/crew/" class="text-accent-cyan">Crew</a></li>
-            <li><a href="/atlas/" class="text-accent-cyan">Lore Atlas</a></li>
-            <li><a href="/transmissions/" class="text-accent-cyan">Transmissions</a></li>
-          </ul>
-        </aside>
+      <!-- Divider -->
+      <div class="my-8" aria-hidden="true">
+        <span class="text-xs" style="color: #9090b0;"></span>
       </div>
-    </section>
+
+      <!-- Crew Manifest -->
+      <section class="crew-manifest mb-12" aria-label="Crew manifest">
+        <h2 class="text-lg mb-4 tracking-wider" style="color: #00d4ff;">CREW MANIFEST // ACTIVE</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {crewPreview.map(c => (
+            <div class="crew-entry">
+              <span style="color: #00e676;"></span>
+              <span class="ml-2" style="color: #e8e8f0;">{c.name}</span>
+              <span class="ml-2" style="color: #9090b0;"> {c.role}</span>
+            </div>
+          ))}
+        </div>
+        <a href="/crew/" class="text-sm mt-4 inline-block transition-colors hover-opacity" style="color: #ffb020;">[ VIEW FULL MANIFEST ]</a>
+      </section>
+
+      <!-- Divider -->
+      <div class="my-8" aria-hidden="true">
+        <span class="text-xs" style="color: #9090b0;"></span>
+      </div>
+
+      <!-- Latest Transmission -->
+      <section class="latest-transmission mb-12" aria-label="Latest transmission">
+        <h2 class="text-lg mb-4 tracking-wider" style="color: #00d4ff;">LATEST TRANSMISSION</h2>
+        <article class="rounded-lg p-6" style="background: rgba(18, 18, 25, 0.4); border: 1px solid #2a2a3a;">
+          <div class="flex items-center gap-4 mb-4">
+            <span class="font-bold" style="color: #00e676;">S{latestEpisode.season}E{latestEpisode.episode}</span>
+            <span style="color: #9090b0;">|</span>
+            <span class="text-sm" style="color: #ffb020;">{latestEpisode.stardate}</span>
+          </div>
+          <h3 class="text-2xl mb-3" style="color: #e8e8f0;">{latestEpisode.title}</h3>
+          <p class="leading-relaxed mb-6" style="color: #9090b0;">{latestEpisode.summary}</p>
+          <a href="/transmissions/S01E01_the_day_the_dial_broke/" class="inline-flex items-center gap-2 px-4 py-2 rounded transition-all" style="border: 1px solid #00d4ff; color: #00d4ff;">
+            <span></span>
+            ACCESS TRANSMISSION
+          </a>
+        </article>
+      </section>
+
+      <!-- Divider -->
+      <div class="my-8" aria-hidden="true">
+        <span class="text-xs" style="color: #9090b0;"></span>
+      </div>
+
+      <!-- Navigation -->
+      <nav class="grid grid-cols-2 md:grid-cols-4 gap-4" aria-label="Terminal navigation">
+        <a href="/transmissions/" class="nav-link rounded p-4 text-center transition-all" style="border: 1px solid #2a2a3a;">
+          <div class="text-xs mb-1" style="color: #ffb020;">[01]</div>
+          <div style="color: #e8e8f0;">TRANSMISSIONS</div>
+          <div class="text-xs" style="color: #9090b0;">Episode Archive</div>
+        </a>
+        <a href="/crew/" class="nav-link rounded p-4 text-center transition-all" style="border: 1px solid #2a2a3a;">
+          <div class="text-xs mb-1" style="color: #ffb020;">[02]</div>
+          <div style="color: #e8e8f0;">CREW</div>
+          <div class="text-xs" style="color: #9090b0;">Personnel Files</div>
+        </a>
+        <a href="/atlas/" class="nav-link rounded p-4 text-center transition-all" style="border: 1px solid #2a2a3a;">
+          <div class="text-xs mb-1" style="color: #ffb020;">[03]</div>
+          <div style="color: #e8e8f0;">ATLAS</div>
+          <div class="text-xs" style="color: #9090b0;">Lore & History</div>
+        </a>
+        <a href="/games/" class="nav-link rounded p-4 text-center transition-all" style="border: 1px solid #2a2a3a;">
+          <div class="text-xs mb-1" style="color: #ffb020;">[04]</div>
+          <div style="color: #e8e8f0;">GAMES</div>
+          <div class="text-xs" style="color: #9090b0;">Interactive</div>
+        </a>
+      </nav>
+
+      <!-- Footer status -->
+      <footer class="mt-16 pt-8" style="border-top: 1px solid #2a2a3a;">
+        <div class="flex flex-wrap gap-4 text-xs" style="color: #9090b0;">
+          <span style="color: #00e676;"> SYSTEM ONLINE</span>
+          <span>|</span>
+          <span>STATION DRIFT: +847 cycles</span>
+          <span>|</span>
+          <span>FREQUENCY LOCK: UNSTABLE</span>
+          <span>|</span>
+          <a href="/transmissions/" class="transition-colors" style="color: #00d4ff;">BEGIN TRANSMISSION SEQUENCE </a>
+        </div>
+      </footer>
+    </main>
   </div>
 </BaseLayout>
+
+<style>
+  .terminal-container {
+    background: #08080d;
+    min-height: 100vh;
+    position: relative;
+  }
+
+  .scanlines {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1000;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.15) 0px,
+      rgba(0, 0, 0, 0.15) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+  }
+
+  .scanlines::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(
+      ellipse at center,
+      transparent 0%,
+      rgba(0, 0, 0, 0.3) 100%
+    );
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .boot-sequence {
+    animation: flicker 0.15s infinite;
+  }
+
+  @keyframes flicker {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.98; }
+  }
+
+  .nav-link:hover {
+    border-color: #00d4ff !important;
+    background: rgba(18, 18, 25, 0.6);
+  }
+
+  .hover-opacity:hover {
+    opacity: 0.8;
+  }
+</style>

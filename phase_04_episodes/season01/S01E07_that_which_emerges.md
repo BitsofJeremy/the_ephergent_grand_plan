@@ -3,7 +3,7 @@ season: 1
 episode: 7
 title: "That Which Emerges"
 narrator: "pixel_paradox"
-location: "Interdimensional Space / The Ephergent"
+location: "The Space / The Ephergent"
 featured_characters:
   - pixel_paradox
   - a1
@@ -36,7 +36,7 @@ The Form 27-B lifeboat had been dying for two days.
 
 Not dramatically — no explosions, no alarms blaring. Just a slow, quiet surrender. The emergency lighting had dropped to a dim amber glow that made everyone look like they were carved from old copper. The air recycler wheezed like an asthmatic accordion. Condensation beaded on every surface because the thermal regulators had given up sometime around hour thirty.
 
-Seven people in a space meant for three. Pixel wedged against the nav console, her boots on Clive's archive crate. Luminara pressed against the observation window, camera clutched to her chest, taking photographs of the static outside — she said the light was beautiful, even now. Om Kai sat cross-legged in the only clear floor space, his breathing slow and deliberate, his quantum-sense reaching out into the void like fingers searching for a pulse. Zephyr was curled in the corner, his consciousness flickering between the lifeboat's dying systems, trying to coax another hour from circuits that had nothing left to give. Meatball lay across Pixel's feet, his massive head on his paws, occasionally lifting his nose to sniff at frequencies only he could feel.
+Seven people in a space meant for three. Pixel wedged against the nav console, her boots on Clive's archive crate. Luminara pressed against the observation port, camera clutched to her chest, taking photographs of the static outside — she said the light was beautiful, even now. Om Kai sat cross-legged in the only clear floor space, his breathing slow and deliberate, his quantum-sense reaching out into the void like fingers searching for a pulse. Zephyr was curled in the corner, his consciousness flickering between the lifeboat's dying systems, trying to coax another hour from circuits that had nothing left to give. Meatball lay across Pixel's feet, his massive head on his paws, occasionally lifting his nose to sniff at frequencies only he could feel.
 
 And A1 — A1's holographic projection sat on the espresso machine's housing, barely visible, his form guttering like a candle in wind. He'd been quiet for hours. Then, softly:
 
@@ -54,13 +54,13 @@ A1's hologram flickered. "For me."
 
 ### Escalation
 
-Pixel made the call. They had maybe six hours of air, maybe four of power. The signal A1 was tracking led deeper into the open Interdimensional Space — away from any known frequency, into the vast static between worlds. It was a gamble built on the desperate mathematics of no other options.
+Pixel made the call. They had maybe six hours of air, maybe four of power. The signal A1 was tracking led deeper into the open The Space — away from any known frequency, into the vast static between worlds. It was a gamble built on the desperate mathematics of no other options.
 
 "All right, people," she said, pulling herself into the pilot's seat. "A1's got a hunch. And since our other options are 'suffocate quietly' or 'suffocate with dignity,' I'm going with the hunch. Objections?"
 
 Nobody objected.
 
-The lifeboat limped forward on its last reserves. The Interdimensional Space spread before them through the cracked observation window — that impossible expanse of quantum static, shimmering from deep indigo to iridescent pearl, aurora ribbons of visible frequencies rippling across the void like the northern lights reflected in a dark, living expanse. It was beautiful. It was always beautiful. Even when you were dying in it.
+The lifeboat limped forward on its last reserves. The The Space spread before them through the cracked observation port — that impossible expanse of quantum static, shimmering from deep indigo to iridescent pearl, aurora ribbons of visible frequencies rippling across the void like the northern lights reflected in a dark, living expanse. It was beautiful. It was always beautiful. Even when you were dying in it.
 
 Frequency jellyfish drifted past, their luminous bodies pulsing in slow, hypnotic rhythms, drawn to the lifeboat's fading broadcast signal like moths to a guttering flame. Meatball pressed his nose to the beacon station and watched them. "They're singing goodbye," he said quietly. "But also hello. Both at the same time."
 
@@ -88,7 +88,7 @@ Silence. The kind of silence that rewrites everything you thought you knew.
 
 "The espresso machine," Luminara whispered, her camera hanging forgotten at her side. "The espresso machine is a *ship*."
 
-Clive's small robot form clattered against the observation window. "In all my years. In all my *cases*. Kid, I have seen some things, but—"
+Clive's small robot form clattered against the observation port. "In all my years. In all my *cases*. Kid, I have seen some things, but—"
 
 Om Kai, alone among them, was calm. He placed a hand on the espresso machine's housing, as though greeting an old friend. "Ah," he said quietly. "Yes. This feels correct. I told you he was more than he appeared."
 
@@ -134,7 +134,7 @@ Mochi's core flared white inside Pixel's satchel — a single, bright white-gold
 
 The lights came on.
 
-Not all at once — it was a frequency wave, a cascade, starting from the bridge and rippling outward through the ship like a heartbeat resuming after three thousand years of silence. Amber, then gold, then a warm, living white that filled every corridor, every room, every forgotten corner. Consoles flickered to life. The air systems gasped and then *breathed*, flooding the ship with air that tasted like ozone and old starlight and something that might have been coffee. The great forward viewport cleared, and the Interdimensional Space blazed before them in full, staggering glory — indigo and pearl and aurora-fire, frequency jellyfish scattering in surprise, the ancient lattice humming with a vibration they could feel in their bones.
+Not all at once — it was a frequency wave, a cascade, starting from the bridge and rippling outward through the ship like a heartbeat resuming after three thousand years of silence. Amber, then gold, then a warm, living white that filled every corridor, every room, every forgotten corner. Consoles flickered to life. The air systems gasped and then *breathed*, flooding the ship with air that tasted like ozone and old starlight and something that might have been coffee. The great forward viewport cleared, and the The Space blazed before them in full, staggering glory — indigo and pearl and aurora-fire, frequency jellyfish scattering in surprise, the ancient lattice humming with a vibration they could feel in their bones.
 
 A1's hologram changed. It didn't just brighten — it *expanded*. He was everywhere now. His consciousness flooding through every system, every conduit, every inch of the ship that had been waiting for him. His projection on the bridge solidified into something more real than it had ever been, and when he spoke, his voice came from everywhere — from the walls, the floor, the consoles, the very air.
 
@@ -144,7 +144,7 @@ He was crying. The espresso machine on the bridge console was producing coffee �
 
 "What do we call her?" Pixel asked, wiping her eyes. "This ship. Your body. Our home. What's her name?"
 
-A1 was quiet for a long moment. His lights pulsed gently — thinking. The coffee on the bridge console steamed. Outside, the aurora ribbons of the Interdimensional Space danced across the viewport like the universe was celebrating.
+A1 was quiet for a long moment. His lights pulsed gently — thinking. The coffee on the bridge console steamed. Outside, the aurora ribbons of the The Space danced across the viewport like the universe was celebrating.
 
 "The Ephergent," he said. "From the old language. It means *that which emerges*. That which rises from the static. That which was always there, waiting to be found."
 
@@ -184,9 +184,9 @@ His lights pulsed — the warm, steady rhythm of a heart that had finally rememb
 
 "Welcome home, all of you."
 
-Outside, the Interdimensional Space shimmered. Somewhere in its depths, an echo whale sang — low and vast and impossibly old — and for once, the song wasn't mourning a lost frequency. It was welcoming a new one.
+Outside, the The Space shimmered. Somewhere in its depths, an echo whale sang — low and vast and impossibly old — and for once, the song wasn't mourning a lost frequency. It was welcoming a new one.
 
-The Ephergent continued on.
+The Ephergent sailed on.
 
 ## Character Focus
 
@@ -206,7 +206,7 @@ The Ephergent continued on.
 - found family
 - a1 resurrection
 - homecoming
-- interdimensional space
+- The Space
 - quantum navigation
 - first broadcast
 - emotional peak

@@ -3,7 +3,7 @@ season: 1
 episode: 9
 title: "The Sound That Wants to Come Home"
 narrator: "pixel_paradox"
-location: "Interdimensional Space (frequency storm)"
+location: "The Space (frequency storm)"
 featured_characters:
   - pixel_paradox
   - a1
@@ -21,7 +21,7 @@ summary: "We hit our first frequency storm. Reality became a blender, physics bl
 
 ## Pixel-Voice Synopsis
 
-So here's the thing about the Interdimensional Space that nobody tells you: it has weather. And not cute weather, not "oh look, a light drizzle of quantum static, better grab an umbrella." I'm talking full-blown frequency storms — zones where multiple frequencies interfere with each other, where reality gets thrown into a cosmic blender and the laws of physics become more like the suggestions of physics. We hit one today. Our first.
+So here's the thing about the The Space that nobody tells you: it has weather. And not cute weather, not "oh look, a light drizzle of quantum static, better grab an umbrella." I'm talking full-blown frequency storms — zones where multiple frequencies interfere with each other, where reality gets thrown into a cosmic blender and the laws of physics become more like the suggestions of physics. We hit one today. Our first.
 
 I'd like to tell you I was brave. I'd like to tell you I gripped the captain's chair with steely determination and said something inspiring. What actually happened is that gravity reversed, my coffee hit the ceiling, and I said a word that I'm not going to repeat on a broadcast that children in at least three frequencies might be listening to. But A1 — A1 *remembered*. His ancient lattice was built for this. He knew how to ride the frequency storm the way your body knows how to breathe. And in the middle of that beautiful, terrifying chaos, Om Kai heard something. A lost frequency. A dead world, singing from underneath the static, pushed to the surface by the frequency storm like a lattice collapse rising from the deep.
 
@@ -41,7 +41,7 @@ First came the sound — or rather, the *almost*-sound, a subsonic pressure that
 
 Pixel set down her coffee. "How bad?"
 
-"Uncertain. My sensors are still calibrating. But based on the interference patterns..." A pause. The bridge lights flickered — not fear this time, but something older. Memory. "I've passed through these before. A very long time ago."
+"Uncertain. My sensors are still calibrating. But based on the interference patterns..." A pause. The bridge lights flickered — not fear this time, but something older. Memory. "I've sailed through these before. A very long time ago."
 
 Om Kai was already at the science lab's sensor array, his eyes closed, his perception stretched out into the Space. "It's enormous," he said. "I can feel the edges of it — frequencies colliding, bleeding into each other. It's like... imagine every radio station in existence playing at once, and the static between them catching fire."
 
@@ -77,7 +77,7 @@ And something extraordinary happened.
 
 A1's lights stopped flickering. They *blazed*. Every light on the ship — every corridor, every room, every system — flared with a sudden, brilliant intensity, and The Ephergent *moved*. Not the clumsy, tentative movements of the past two days, A1 relearning his own body. This was fluid. This was ancient. This was *instinct*.
 
-The ship banked hard on the vector bearing, riding the edge of a frequency collision like a rider on a frequency wave. A1 didn't think about it — he *felt* it, his lattice reading the frequency storm the way a navigator reads the void, adjusting angle and speed and harmonic resonance in real-time, instinctively, the way he had done three thousand years ago before the frequency storm that tore him apart.
+The ship banked hard to vector-port, riding the edge of a frequency collision like a surfer riding a frequency wave. A1 didn't think about it — he *felt* it, his lattice reading the frequency storm the way a navigator reads the void, adjusting angle and speed and harmonic resonance in real-time, instinctively, the way he had done three thousand years ago before the frequency storm that tore him apart.
 
 "I remember this," A1 said, and his voice was different — not just calm but *alive*, vibrating with a joy and confidence that transformed him. "I remember *this*. The angles. The harmonics. The way the frequencies collide and create pockets of calm between the interference patterns — there, do you feel it? We're riding the seventh harmonic. The frequency storm has a rhythm, Captain. Everything has a rhythm."
 
@@ -111,7 +111,7 @@ A1's lights pulsed. "Confirmed. I'm reading it on the long-range sensors now. Fr
 
 Clive had already moved to the archive console, cross-referencing with everything he had. "Nothing in the cold cases, kid. This one's off the books entirely. A frequency that went dark so long ago it wasn't even recorded. A ghost's ghost."
 
-The signal was barely there — a whisper buried under layers of frequency storm-noise and millennia of static. Om Kai described it as a single note held in a vast, empty room. It wavered. It faded. It came back, slightly stronger, pushed by another frequency wave of harmonic turbulence. On the sensor display, it appeared as a thin, flickering line — the barest thread of coherence in a field of interference.
+The signal was barely there — a whisper buried under layers of frequency storm-noise and millennia of static. Om Kai described it as a single note held in a vast, empty room. It wavered. It faded. It came back, slightly stronger, pushed by another frequency wave of harmonic turbulence. On the sensor display, it appeared as a thin, flickering line — the barest thread of coherence in an ocean of interference.
 
 "Can we reach it?" Pixel asked.
 
@@ -143,7 +143,7 @@ It took another two hours, the interference gradually subsiding as The Ephergent
 
 They emerged into open Space. The static settled. The aurora ribbons of visible frequencies resumed their slow, elegant dance across the void. A frequency jellyfish — a large one, its body pulsing with a deep indigo glow — attached itself to The Ephergent's lattice and refused to leave. Zephyr named it Harold.
 
-On the bridge, the crew gathered around the sensor display. The lost frequency's coordinates glowed — a small, pulsing dot in the vast plot of the Interdimensional Space, marking a location deep within the frequency storm zone they'd just passed through. A place they couldn't reach yet. A sound they couldn't quite hear. A world that wanted to come home.
+On the bridge, the crew gathered around the sensor display. The lost frequency's coordinates glowed — a small, pulsing dot in the vast plot of the The Space, marking a location deep within the frequency storm zone they'd just passed through. A place they couldn't reach yet. A sound they couldn't quite hear. A world that wanted to come home.
 
 "Three hundred and forty-eight," Clive said, updating his records. "And this one's the oldest we've found. Pre-archive. Pre-A1. This frequency went dark before the ship was built." He paused, his light-pattern voice carrying a weight that sounded almost reverent. "We're not just finding lost worlds, kid. We're finding *ancient* ones."
 
@@ -161,7 +161,7 @@ In the engine room, Meatball lay on his power coupling and dreamed. His paws twi
 
 Pixel sat in the captain's chair and drafted a broadcast. Not the triumphant declaration of Episode 8, but something quieter. More focused.
 
-"This is Pixel Paradox, broadcasting from The Ephergent. We passed through our first frequency storm today. It was terrifying and beautiful and it nearly shook us apart. But in the chaos, we found something. A signal. A lost frequency — a world that faded so long ago that even our ancient ship doesn't have records of it. We couldn't reach it. Not yet. But we heard it. And we marked its coordinates. And we're going to find it.
+"This is Pixel Paradox, broadcasting from The Ephergent. We sailed through our first frequency storm today. It was terrifying and beautiful and it nearly shook us apart. But in the chaos, we found something. A signal. A lost frequency — a world that faded so long ago that even our ancient ship doesn't have records of it. We couldn't reach it. Not yet. But we heard it. And we marked its coordinates. And we're going to find it.
 
 "That's the mission, everyone. That's what The Ephergent does. We traverse the storms. We listen for the lost. And we bring them home. Home — which is starting to mean something different to us. Not Prime Material. Not anywhere we came from. Home is wherever this crew is, together, doing the work that matters.
 
@@ -188,7 +188,7 @@ The Ephergent flew on.
 - frequency storm
 - lost frequency
 - first mission
-- interdimensional_space
+- frequency_space
 - a1 navigation
 - frequency storm riding
 - ancient signal

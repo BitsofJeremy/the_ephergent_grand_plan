@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "episodes": [
+    {
+      "id": "S01E01",
+      "season": 1,
+      "episode": 1,
+      "title": "The Day the Dial Broke",
+      "file": "audio/season01/S01E01.mp3",
+      "duration_sec": 349.848,
+      "file_size_bytes": 5598188,
+      "speaker_count": 2
+    }
+  ],
+  "generated_at": "2026-05-01T22:32:56Z"
+}

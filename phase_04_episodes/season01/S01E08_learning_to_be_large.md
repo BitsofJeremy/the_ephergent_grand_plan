@@ -3,7 +3,7 @@ season: 1
 episode: 8
 title: "Learning to Be Large"
 narrator: "pixel_paradox"
-location: "The Ephergent / Interdimensional Space"
+location: "The Ephergent / The Space"
 featured_characters:
   - pixel_paradox
   - a1
@@ -14,14 +14,14 @@ featured_characters:
   - zephyr_glitch
   - mochi
 stardate: "Cycle 001.008.001"
-summary: "First full day aboard The Ephergent. A1's learning how to be a ship again, we're learning how to be a crew, and somewhere out there the Interdimensional Space is full of lost frequencies waiting to be found. Also? The coffee has never been better."
+summary: "First full day aboard The Ephergent. A1's learning how to be a ship again, we're learning how to be a crew, and somewhere out there the The Space is full of lost frequencies waiting to be found. Also? The coffee has never been better."
 ---
 
 # Learning to Be Large
 
 ## Pixel-Voice Synopsis
 
-Three weeks ago I was filing paperwork at what I thought was a boring government agency. Now I'm captaining a sentient ship in an expanse between frequencies. Life comes at you fast.
+Three weeks ago I was filing paperwork at what I thought was a boring government agency. Now I'm captaining a sentient ship in an ocean between frequencies. Life comes at you fast.
 
 You know that feeling when you move into a new place and you keep opening cabinets just to see what's inside? Imagine that, except the cabinets are quantum-calibrated sensor arrays and the house is a three-thousand-year-old sentient ship and also your friend. That was our first real day aboard The Ephergent. We've gone from not knowing frequencies exist to living on an ancient ship that used to sit on my desk brewing espresso. I keep having to say that sentence out loud just to make sure I believe it.
 
@@ -61,7 +61,7 @@ Zephyr spent the morning deep in A1's computational core, his fragmented conscio
 
 "I can see your navigation logs," Zephyr told A1, his eyes flickering with scrolling data. "Thousands of them. Frequencies you visited before the frequency storm. Places that don't exist anymore — or maybe they do, and they just faded. And your communication protocols are incredible, A1. The signal range on this ship..." He trailed off, awed. "You could broadcast to frequencies that haven't been tuned in centuries."
 
-Om Kai found his way to the science lab — a circular chamber deep in the ship's interior, lined with instruments he'd never seen but immediately understood. Quantum-resonance detectors. Frequency spectrometers. Harmonic analysis arrays that could isolate a single note in the symphony of the Interdimensional Space. He sat in the center of the room and closed his eyes and *listened*, and the instruments listened with him, and for the first time he could perceive the full depth of the Space — not just the loudest frequencies but the whispers beneath them. The ghosts. The echoes. The lost.
+Om Kai found his way to the science lab — a circular chamber deep in the ship's interior, lined with instruments he'd never seen but immediately understood. Quantum-resonance detectors. Frequency spectrometers. Harmonic analysis arrays that could isolate a single note in the symphony of the The Space. He sat in the center of the room and closed his eyes and *listened*, and the instruments listened with him, and for the first time he could perceive the full depth of the Space — not just the loudest frequencies but the whispers beneath them. The ghosts. The echoes. The lost.
 
 "There are so many," he said quietly, when Pixel came to check on him. "So many faded frequencies. Worlds that drifted into static. They're not gone — not entirely. They're like songs you can almost remember. If we could just..." He opened his eyes. They were bright. "Pixel, this ship can find them."
 
@@ -81,7 +81,7 @@ Meatball, meanwhile, had not moved from the engine room. He lay on the main powe
 
 The first proper broadcast from The Ephergent.
 
-They gathered on the bridge in the late afternoon — if "afternoon" meant anything in the timeless shimmer of the Interdimensional Space. A1 had prepared the broadcast array, his ancient quantum signal amplifiers coming online one by one, each one a harmonic that extended their range further into the frequencies. The bridge console still brewed espresso. Some things were non-negotiable.
+They gathered on the bridge in the late afternoon — if "afternoon" meant anything in the timeless shimmer of the The Space. A1 had prepared the broadcast array, his ancient quantum signal amplifiers coming online one by one, each one a harmonic that extended their range further into the frequencies. The bridge console still brewed espresso. Some things were non-negotiable.
 
 Pixel sat in the captain's chair. Luminara had set up her camera to capture the moment. Om Kai stood by the sensor array, monitoring the frequencies. Zephyr had his hands on the communications console, ready to boost the signal. Clive sat on the broadcast desk, because of course he did. Meatball lay at Pixel's feet, his tail thumping.
 
@@ -91,11 +91,11 @@ Pixel sat in the captain's chair. Luminara had set up her camera to capture the 
 
 "Then let's be loud." Pixel leaned forward. "Open channel."
 
-The broadcast console hummed. A1's quantum signal bloomed outward from The Ephergent like a flower opening — not a tight beam but a frequency wave, expanding through the Interdimensional Space, riding the aurora ribbons, threading through the static. Frequency jellyfish turned toward the ship, their luminous bodies pulsing in resonance with the signal. Somewhere far below the surface of the Space, something vast and ancient stirred, listening.
+The broadcast console hummed. A1's quantum signal bloomed outward from The Ephergent like a flower opening — not a tight beam but a frequency wave, expanding through the The Space, riding the aurora ribbons, threading through the static. Frequency jellyfish turned toward the ship, their luminous bodies pulsing in resonance with the signal. Somewhere far below the surface of the Space, something vast and ancient stirred, listening.
 
 Pixel took a breath.
 
-"This is Pixel Paradox, Lead Correspondent of The Ephergent — and yeah, that's the name of the ship *and* the broadcast now, because we're efficient like that. We're transmitting from the Interdimensional Space aboard a vessel that's older than most of your civilizations and currently being held together by quantum engineering, sheer stubbornness, and the best coffee in any frequency.
+"This is Pixel Paradox, Lead Correspondent of The Ephergent — and yeah, that's the name of the ship *and* the broadcast now, because we're efficient like that. We're transmitting from the The Space aboard a vessel that's older than most of your civilizations and currently being held together by quantum engineering, sheer stubbornness, and the best coffee in any frequency.
 
 "Some of you heard our distress signals from the lifeboat. Some of you probably thought we were dead. Fair assumption. We thought so too, a few times. But here's the thing about emergent phenomena — they don't ask permission. They just *emerge*. 
 
@@ -129,15 +129,15 @@ In the archive room, Clive worked his cold cases. In the engine room, Meatball d
 
 In the computational core, Zephyr searched A1's ancient logs for any mention of Aether. He found fragments — navigation coordinates, frequency signatures, a partial message that ended mid-sentence. Not enough. Not yet. But more than he'd had before.
 
-And on the bridge, Pixel Paradox sat in the captain's chair and looked out at the Interdimensional Space and thought about all the lost frequencies waiting in the dark, and she smiled, because for the first time, she had a ship that could find them.
+And on the bridge, Pixel Paradox sat in the captain's chair and looked out at the The Space and thought about all the lost frequencies waiting in the dark, and she smiled, because for the first time, she had a ship that could find them.
 
-The Ephergent continued on.
+The Ephergent sailed on.
 
 ## Character Focus
 
-- **Pixel Paradox**: Grows into the captain's role naturally. The first broadcast is her manifesto — not just journalism, but a declaration of purpose. She's no longer reacting to crises; she's choosing a direction. Her transformation from unaware civilian to interdimensional explorer is nearly complete — and she's choosing this mission over trying to find her way home.
+- **Pixel Paradox**: Grows into the captain's role naturally. The first broadcast is her manifesto — not just journalism, but a declaration of purpose. She's no longer reacting to crises; she's choosing a direction. Her transformation from unaware civilian to frequency explorer is nearly complete — and she's choosing this mission over trying to find her way home.
 - **A1**: The wonder and overwhelm of being large again. His lights flicker with emotion. His coffee changes with his thoughts. He's rediscovering himself room by room, but there are gaps — damaged memories, sealed doors, systems he can't explain. Vulnerability wrapped in vast, ancient capability.
-- **Clive**: In his element. Three hundred and forty-seven cold cases. The archive room is his precinct, his war room, his reason for being. Noir detective with the greatest case file in interdimensional history.
+- **Clive**: In his element. Three hundred and forty-seven cold cases. The archive room is his precinct, his war room, his reason for being. Noir detective with the greatest case file in frequency history.
 - **Meatball**: Emotional barometer of the ship. "The heartbeat changed. The whole ship tastes like Saturday morning." His simplicity cuts through complexity.
 - **Luminara Usha**: Discovers her photographs can reveal what lies beneath the Space's surface — lost frequencies made visible through her lens. This will become a critical capability.
 - **Om Kai**: The science lab's instruments extend his quantum perception enormously. He can hear the lost frequencies now. He knows they're out there.
@@ -152,7 +152,7 @@ The Ephergent continued on.
 - crew bonding
 - a1 adjustment
 - lost frequencies
-- interdimensional space
+- The Space
 - frequency journalism
 - found family
 - discovery

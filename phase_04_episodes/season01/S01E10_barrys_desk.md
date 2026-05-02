@@ -25,7 +25,7 @@ I didn't ask questions he wasn't ready to answer. I sat with him. Sometimes that
 
 The first thing Pixel saw was a filing cabinet.
 
-It drifted past the observation window at the speed of a slow sigh — grey metal, dented at one corner, a drawer hanging open with papers still inside. The papers fluttered in something that wasn't wind, because there was no wind in the Interdimensional Space. They fluttered anyway. The Space had opinions about paperwork.
+It drifted past the observation port at the speed of a slow sigh — grey metal, dented at one corner, a drawer hanging open with papers still inside. The papers fluttered in something that wasn't wind, because there was no wind in the The Space. They fluttered anyway. The Space had opinions about paperwork.
 
 "A1," Pixel said, leaning closer to the glass. "Are you seeing this?"
 
@@ -35,13 +35,13 @@ More shapes materialized from the shimmer ahead. A desk lamp, still attached to 
 
 "DRM wreckage," Pixel said, mostly to herself. Then, louder: "Clive, come look at this."
 
-Clive was already there. She hadn't heard him approach — she never did, those deliberate, precise footfalls somehow quieter than their weight suggested — but when she turned, he was standing on the console ledge beside her, his glowing head tilted toward the window, the fedora casting its impossible shadow across the featureless sphere of his face. His chest core pulsed blue-white. Steady. Measured.
+Clive was already there. She hadn't heard him approach — she never did, those deliberate, precise footfalls somehow quieter than their weight suggested — but when she turned, he was standing on the console ledge beside her, his glowing head tilted toward the port, the fedora casting its impossible shadow across the featureless sphere of his face. His chest core pulsed blue-white. Steady. Measured.
 
 He said nothing for a long time.
 
 The wreckage thickened as A1 navigated through it. Entire rooms, some still partially intact, tumbling in slow rotation through the static-bright void. A break room with a microwave still bolted to the counter. A section of stairwell — three steps, a landing, three more steps, leading from nothing to nothing. A doorframe with a placard that read **SUB-LEVEL 2 — AUTHORIZED PERSONNEL ONLY** in the DRM's particular shade of bureaucratic authority.
 
-Meatball padded up to the window and sat down heavily beside Pixel's legs. His ears were forward, tracking something the instruments hadn't registered yet. His tail was still — not tucked, not wagging. Still. Meatball was listening to something in the wreckage, and what he heard required attention.
+Meatball padded up to the port and sat down heavily beside Pixel's legs. His ears were forward, tracking something the instruments hadn't registered yet. His tail was still — not tucked, not wagging. Still. Meatball was listening to something in the wreckage, and what he heard required attention.
 
 "It's the DRM," Pixel said. "Or pieces of it. The building must have broken apart when reality ruptured and scattered into the Space."
 
@@ -51,7 +51,7 @@ Clive adjusted his fedora. The gesture was small, precise, and Pixel had learned
 
 He paused. The kind of pause that was retrieval, not hesitation — reaching into whatever archive lived behind the blue-white glow and pulling something forward.
 
-"Sub-Level 3 would have had strong resonance with the Space itself. The equipment down there was calibrated for interdimensional monitoring. It would have fallen into the between."
+"Sub-Level 3 would have had strong resonance with the Space itself. The equipment down there was calibrated for frequency monitoring. It would have fallen into the between."
 
 "You know a lot about Sub-Level 3," Pixel said. Not a question. Not an accusation. An observation, set down gently, like placing a cup on a table without spilling.
 
@@ -61,7 +61,7 @@ Clive's glow dimmed by perhaps ten percent. "I spent some time there."
 
 ### Approach — The Silence Pocket
 
-A1 found it twenty minutes later — a pocket of unusual stillness in the drift of wreckage, a place where the debris field thinned and the Interdimensional Space went quiet. Not empty-quiet. *Held*-quiet. The kind of silence you find in libraries and hospital corridors and the rooms where people have sat for a very long time without needing to speak.
+A1 found it twenty minutes later — a pocket of unusual stillness in the drift of wreckage, a place where the debris field thinned and the The Space went quiet. Not empty-quiet. *Held*-quiet. The kind of silence you find in libraries and hospital corridors and the rooms where people have sat for a very long time without needing to speak.
 
 The coffee changed. Pixel noticed it before she tasted it — A1's hum shifted register, dropping into something lower, more resonant, and the brew that appeared was thick and dark and tasted like molasses and old wood. Sweet and heavy. Grief coffee. A1 was mourning something, or remembering something, and the crew had learned not to ask when the coffee turned thick. You just drank it and sat with whatever it meant.
 
@@ -179,7 +179,7 @@ A1 hummed through the monitoring station's still-active speakers — a low, reso
 
 Pixel found it on the shelf behind the desk — not the alcove shelf, the other one, the one bolted to the wall above the monitoring equipment, where Barry had kept his reference binders and a small clock that had stopped at 3:47 AM. The photograph was in a frame. Cheap frame, the kind you buy at a pharmacy. The glass was cracked but intact.
 
-The image was faded. Degraded by time and the particular entropy of the Interdimensional Space, which ate at photographs the way salt air ate at metal — slowly, from the edges in. What remained:
+The image was faded. Degraded by time and the particular entropy of the The Space, which ate at photographs the way salt air ate at metal — slowly, from the edges in. What remained:
 
 A man. Standing. Solid build, unhurried posture, the kind of frame that suggested decades of night shifts in institutional buildings. Grey hair, short, practical. A face weathered by fluorescent lighting, with deep lines around the eyes. He was holding a thermos. Of course he was holding a thermos. The thermos was silver, dented, clearly well-used. His other hand rested at his side, relaxed, with the particular stillness of a person who did not fidget and did not need to.
 
@@ -227,7 +227,7 @@ The sentence landed in the room and the room held it. Mochi's glow pulsed — no
 
 Clive looked at Pixel. The glowing sphere of his head, featureless and endlessly expressive, tilted at the angle that meant: *I have said what I can say. Do not ask for more. Not yet.*
 
-"The monitoring equipment in this station," Clive said, and his voice shifted register — still measured, still precise, but redirected now, turned outward, away from the thing behind him and toward the thing ahead. "Barry's instruments were calibrated for interdimensional frequency monitoring. Standard DRM issue, modified by someone with more patience than credentials. There may be useful data in the logs."
+"The monitoring equipment in this station," Clive said, and his voice shifted register — still measured, still precise, but redirected now, turned outward, away from the thing behind him and toward the thing ahead. "Barry's instruments were calibrated for frequency monitoring. Standard DRM issue, modified by someone with more patience than credentials. There may be useful data in the logs."
 
 He changed the subject with the precision of a door closing. Not slammed. Latched. The conversation was on the other side now, and the handle was on Clive's side, and he would open it again when he was ready and not before.
 
@@ -333,7 +333,7 @@ Meatball settled on his cushion in the common area and sighed — the deep, full
 
 Mochi glowed in the satchel. Warm. Steady. The frequency that had pulsed through Barry's instruments for twenty-three years pulsed through Mochi too, and it would pulse through her until the map inside her opened and the atlas spilled its light and every frequency the Builders had ever charted was visible at last. But that was later. For now, Mochi was warm, and the warmth was enough.
 
-The Ephergent moved through the Interdimensional Space, leaving DRM wreckage behind. Somewhere ahead: the next signal, the next Station, the next step on a trail laid by a man with a thermos and a notebook who had walked into the impossible because he found something worth walking toward.
+The Ephergent moved through the The Space, leaving DRM wreckage behind. Somewhere ahead: the next signal, the next Station, the next step on a trail laid by a man with a thermos and a notebook who had walked into the impossible because he found something worth walking toward.
 
 Somewhere behind: a desk. A thermos. Coffee rings like tree rings. A charging alcove with a dead reading lamp and an empty shelf where a book used to be.
 

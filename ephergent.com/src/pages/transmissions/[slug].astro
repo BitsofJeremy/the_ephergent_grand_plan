@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../../layouts/BaseLayout.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
 export async function getStaticPaths() {
   const posts = await getCollection('transmissions');
   return posts.map((p) => ({ params: { slug: p.slug }, props: { entry: p } }));
@@ -11,7 +11,7 @@ const { Content } = await entry.render();
 <BaseLayout title={entry.data.title ?? entry.slug} description={entry.data.excerpt ?? entry.data.summary ?? `Transmission: ${entry.data.title ?? entry.slug}`}>
   <section class="section-hero">
     <div class="max-w-6xl mx-auto px-6 py-16">
-      <a href="/transmissions/" class="text-text-secondary hover:text-accent-cyan text-sm mb-4 inline-block">← Back to Transmissions</a>
+      <a href="/transmissions/" class="text-text-secondary hover:text-accent-cyan text-sm mb-4 inline-block"> Back to Transmissions</a>
       <h1 class="font-display font-black text-4xl md:text-5xl tracking-tight mt-4">{entry.data.title ?? entry.slug}</h1>
       {entry.data.excerpt && <p class="text-text-secondary text-lg mt-2 max-w-2xl">{entry.data.excerpt}</p>}
     </div>

@@ -69,7 +69,7 @@ The crew steps out and just... stares. Pixel reaches down and picks up a crystal
 
 Pixel's observational instincts kick in immediately. She can *see* the instability — not through any supernatural perception, but the way a journalist reads a room. The emotional spectrum, which should be rich and layered (she's guessing, based on the empty crystal displays and the architecture designed to house something luminous), is full of gaps. The air feels *thin*, emotionally. Like a concert hall with the acoustics stripped out.
 
-"The rupture," A1 confirms, analyzing readings. "The frequency earthquake destabilized Nocturne's emotional substrate. The crystallization process requires stable frequency resonance — the emotions need a consistent dimensional vibration to solidify. Without it, they remain gaseous, ephemeral. They *feel* but cannot *become*."
+"The rupture," A1 confirms, analyzing readings. "The frequency earthquake destabilized Nocturne's emotional substrate. The crystallization process requires stable frequency resonance — the emotions need a consistent frequency vibration to solidify. Without it, they remain gaseous, ephemeral. They *feel* but cannot *become*."
 
 A local approaches them — an elderly figure with eyes like polished amethyst and skin that seems to absorb light. Pixel tries not to stare. Fails. The figure regards them with weary curiosity. "You're from outside," they say, their voice a low chord that Pixel feels in her sternum. "We felt your arrival. A new frequency, small and mechanical." They look at the lifeboat. "The Sorrowful Moon has been flickering for twelve cycles. The Melancholic Joy will not solidify. Even common sorrow — the foundation of our economy, our art, our architecture — evaporates before it can be harvested." They pause. "We are not starving for food, travelers. We are starving for *feeling*."
 
@@ -171,7 +171,7 @@ A1 says nothing, but his holographic projection extends slightly toward Luminara
 
 Meatball walks up to Luminara and leans his full weight against her legs, which is Meatball for "you're family now."
 
-The lifeboat is more cramped than ever. Luminara wedges herself into a corner with her camera case, her faintly glowing hands illuminating the dim interior in soft, shifting colors. A1 makes espresso — "Welcome aboard. It's not much, but the coffee is exceptional" — and Luminara takes her first sip and her eyes widen in a way that Pixel recognizes. Everyone has that reaction to A1's espresso.
+The lifeboat is more cramped than ever. Luminara wedges herself into a corner with her camera case, her faintly glowing hands illuminating the dim interior in soft, shifting colors. A1 makes espresso — "Welcome aboard. It's not much, but the coffee is exceptional, warm and bright as C-bg minor" — and Luminara takes her first sip and her eyes widen in a way that Pixel recognizes. Everyone has that reaction to A1's espresso.
 
 "So," Luminara says, cradling the cup, "how many other frequencies are there?"
 

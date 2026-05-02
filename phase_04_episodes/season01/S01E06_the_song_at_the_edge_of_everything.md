@@ -3,7 +3,7 @@ season: 1
 episode: 6
 title: "The Song at the Edge of Everything"
 narrator: "pixel_paradox"
-location: "The Edge / Interdimensional Space"
+location: "The Edge / The Space"
 featured_characters:
   - pixel_paradox
   - a1
@@ -20,7 +20,7 @@ summary: "We went to The Edge — reality's last page before the margin — and 
 
 ## Pixel-Voice Synopsis
 
-I need to tell you about The Edge, and I need you to understand that I am not exaggerating when I say it is the single most terrifying place in the known multiverse. The Edge is where reality gives up. It's Frequency Five — the boundary, the margin, the place where the laws of physics post a sign that says "suggestions only" and wander off for a smoke break. Colors exist there that don't have names. Geometry gets creative. Time is more of a mood than a measurement.
+I need to tell you about The Edge, and I need you to understand that I am not exaggerating when I say it is the single most terrifying place in the known frequencies. The Edge is where reality gives up. It's Frequency Five — the boundary, the margin, the place where the laws of physics post a sign that says "suggestions only" and wander off for a smoke break. Colors exist there that don't have names. Geometry gets creative. Time is more of a mood than a measurement.
 
 Four frequencies. We've now been to FOUR impossible frequencies. A clockwork frequency. A telepathic plant frequency. The emotional shadow frequency. And now the edge of reality itself. Three weeks ago I had a desk job. I had a fern. I thought the universe was one thing and it was predictable and boring and I understood it. Now I'm standing at the margin of existence watching colors that shouldn't exist, and part of me — a growing part — is thinking: "If we could fix the phase-shifter, we could go home." Back to the desk. Back to the fern. Back to normal.
 
@@ -40,7 +40,7 @@ We're limping toward it now. On our last reserves. Into the dark. There is no go
 
 The Edge announced itself before they arrived, the way a cliff announces itself to someone walking in fog — not through sight, but through a sudden, visceral sense of *absence* ahead.
 
-The Interdimensional Space, usually a roiling quantum expanse of static and possibility, grew strange as they approached Frequency Five. The static thinned. The quantum foam that normally buffeted the lifeboat in random, chaotic patterns began to move in long, slow currents, like the breathing of something immense and sleeping. The light changed — or rather, the concept of light changed. Colors appeared in the viewport that the crew's eyes couldn't quite process, hues that seemed to exist between the colors they knew, filling gaps they hadn't realized were there.
+The Space, usually a roiling quantum expanse of static and possibility, grew strange as they approached Frequency Five. The static thinned. The quantum foam that normally buffeted the lifeboat in random, chaotic patterns began to move in long, slow currents, like the breathing of something immense and sleeping. The light changed — or rather, the concept of light changed. Colors appeared in the viewport that the crew's eyes couldn't quite process, hues that seemed to exist between the colors they knew, filling gaps they hadn't realized were there.
 
 "I'm seeing a color that isn't purple and isn't green and isn't anything," Luminara said, her camera raised, her face pale. "My camera can't capture it. The sensor just... gives up."
 
@@ -50,7 +50,7 @@ The Interdimensional Space, usually a roiling quantum expanse of static and poss
 
 The Form 27-B lifeboat crossed the threshold into Frequency Five with a sound like glass singing — a high, clear note that seemed to come from the lattice itself, vibrating in sympathy with the frequency boundary. And then they were in it.
 
-The Edge was not a place so much as a *state* — a state of reality deciding what it wanted to be and not quite committing. The sky, if it was a sky, shifted between geometries. Sometimes it was flat and close, pressing down like a ceiling painted with impossible constellations. Sometimes it yawned open into depths that made the Interdimensional Space look like a puddle. The ground — when there was ground — came and went like ideas, solid one moment, conceptual the next.
+The Edge was not a place so much as a *state* — a state of reality deciding what it wanted to be and not quite committing. The sky, if it was a sky, shifted between geometries. Sometimes it was flat and close, pressing down like a ceiling painted with impossible constellations. Sometimes it yawned open into depths that made the Space look like a puddle. The ground — when there was ground — came and went like ideas, solid one moment, conceptual the next.
 
 "Gravity is... intermittent," A1 reported, his voice carrying a strange undertone, almost a harmony with itself. "I'm reading gravitational constants that change depending on which direction I measure them. Up appears to be a local phenomenon rather than a universal one."
 
@@ -124,7 +124,7 @@ Om Kai translated, his face grave. "He said: 'I am remembering my name. It is ve
 
 The lifeboat chose that moment to start dying.
 
-It hadn't been healthy since the evacuation — the Form 27-B was a lifeboat, designed for short hops and emergency situations, not for sustained interdimensional travel with a crew three times its intended capacity. The power cells had been draining steadily since Prime Material. The phase-shifter, their only means of hopping between known frequencies, had been stuttering since Cogsworth. The lattice integrity was maintained more by Clive's harmonic stabilization and collective optimism than by actual structural engineering.
+It hadn't been healthy since the evacuation — the Form 27-B was a lifeboat, designed for short hops and emergency situations, not for sustained frequency travel with a crew three times its intended capacity. The power cells had been draining steadily since Prime Material. The phase-shifter, their only means of hopping between known frequencies, had been stuttering since Cogsworth. The lattice integrity was maintained more by Clive's harmonic stabilization and collective optimism than by actual structural engineering.
 
 At The Edge, where physics was optional and reality was a rough draft, everything accelerated.
 

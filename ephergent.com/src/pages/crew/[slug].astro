@@ -1,36 +1,174 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../../layouts/BaseLayout.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
 export async function getStaticPaths() {
   const crew = await getCollection('crew');
   return crew.map((c) => ({ params: { slug: c.slug }, props: { entry: c } }));
 }
+
 const { entry } = Astro.props;
 const { Content } = await entry.render();
----
-<BaseLayout title={entry.data.name ?? entry.slug} description={`Crew profile: ${entry.data.name ?? entry.slug}`}>
-  <section class="section-hero">
-    <div class="max-w-6xl mx-auto px-6 py-16">
-      <a href="/crew/" class="text-text-secondary hover:text-accent-cyan text-sm mb-4 inline-block">← Back to Crew</a>
-      <h1 class="font-display font-black text-4xl md:text-5xl tracking-tight mt-4">{entry.data.name ?? entry.slug}</h1>
-      {entry.data.role && <p class="text-accent-cyan text-lg mt-2">{entry.data.role}</p>}
-    </div>
-  </section>
 
-  <section class="max-w-6xl mx-auto px-6 py-12">
-    <div class="max-w-3xl">
-      {entry.data.quote && (
-        <blockquote class="text-xl md:text-2xl text-text-primary font-display leading-relaxed border-l-4 border-accent-cyan pl-6 my-8">
-          "{entry.data.quote}"
-        </blockquote>
-      )}
-      <div class="prose prose-invert prose-lg max-w-none space-y-4">
-        <Content />
-      </div>
-      <div class="mt-8 pt-8 border-t border-border-subtle">
-        {entry.data.pronouns && <p class="text-text-secondary text-sm">Pronouns: {entry.data.pronouns}</p>}
-        {entry.data.voice && <p class="text-text-secondary text-sm mt-1">Voice: {entry.data.voice}</p>}
-      </div>
-    </div>
-  </section>
+// Extract all fields in frontmatter to avoid complex template expressions
+const d = entry.data;
+const name = d.name || entry.slug;
+const role = d.role || '';
+const quote = d.quote || '';
+const quoteText = quote.replace(/^["']|["']$/g, '');
+const pronouns = d.pronouns || '';
+const color_accent = d.color_accent || '';
+const season_intro = d.season_intro || '';
+const voice = d.voice || '';
+const games = Array.isArray(d.games) ? d.games.join(', ') : '';
+const hasGames = Array.isArray(d.games) && d.games.length > 0;
+const hasQuote = quote.length > 0;
+const hasColor = color_accent.length > 0;
+const hasSeason = season_intro.length > 0;
+const hasVoice = voice.length > 0;
+---
+<BaseLayout title={name} description={`Crew profile: ${name}`}>
+  <div class="terminal-container min-h-screen font-mono">
+    <div class="scanlines" aria-hidden="true"></div>
+
+    <main class="max-w-4xl mx-auto p-6 md:p-12">
+      <a href="/crew/" class="back-link text-sm mb-6 inline-block transition-colors">
+         CREW MANIFEST
+      </a>
+
+      <header class="mb-8">
+        <div class="label-accent text-xs mb-4">PERSONNEL FILE // CLASSIFIED</div>
+
+        <div class="personnel-card border rounded-lg p-6">
+          {hasColor && (
+            <div class="h-1 w-full rounded mb-6" style={`background-color: ${color_accent}`}></div>
+          )}
+
+          <div class="flex flex-wrap items-start gap-6 mb-6">
+            <div class="flex-1">
+              <h1 class="text-3xl md:text-4xl font-bold tracking-tight mb-2 label-green">
+                {name}
+              </h1>
+              {hasQuote && (
+                <p class="text-sm label-secondary">({pronouns})</p>
+              )}
+            </div>
+            <div class="text-right">
+              <div class="label-secondary text-xs">STATUS</div>
+              <div class="label-green text-sm"> ACTIVE</div>
+            </div>
+          </div>
+
+          {hasVoice && (
+            <p class="text-xl mb-4 label-cyan">{role}</p>
+          )}
+
+          {hasQuote && (
+            <blockquote class="text-lg italic pl-4 my-4 label-secondary quote-block">
+              &quot;{quoteText}&quot;
+            </blockquote>
+          )}
+
+          <div class="meta-grid grid grid-cols-2 md:grid-cols-4 gap-4 mt-6 pt-6">
+            {hasSeason && (
+              <div>
+                <div class="label-secondary text-xs">FIRST APPEARANCE</div>
+                <div class="label-accent">Season {season_intro}</div>
+              </div>
+            )}
+            {hasVoice && (
+              <div>
+                <div class="label-secondary text-xs">VOICE</div>
+                <div class="label-primary text-sm">{voice}</div>
+              </div>
+            )}
+            {hasGames && (
+              <div>
+                <div class="label-secondary text-xs">GAMES</div>
+                <div class="label-cyan text-sm">{games}</div>
+              </div>
+            )}
+          </div>
+        </div>
+      </header>
+
+      <article class="crew-data">
+        <div class="label-accent text-xs mb-4">FULL PSYCHOLOGICAL PROFILE</div>
+        <div class="space-y-4">
+          <Content />
+        </div>
+      </article>
+
+      <footer class="footer mt-12 pt-8">
+        <a href="/crew/" class="back-link transition-colors">
+           Return to Crew Manifest
+        </a>
+      </footer>
+    </main>
+  </div>
 </BaseLayout>
+
+<style>
+  .terminal-container {
+    background: #08080d;
+    min-height: 100vh;
+    position: relative;
+  }
+
+  .scanlines {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1000;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.15) 0px,
+      rgba(0, 0, 0, 0.15) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .label-primary { color: #e8e8f0; }
+  .label-secondary { color: #9090b0; }
+  .label-accent { color: #ffb020; }
+  .label-green { color: #00e676; }
+  .label-cyan { color: #00d4ff; }
+
+  .personnel-card {
+    background: rgba(18, 18, 25, 0.4);
+    border-color: #2a2a3a;
+  }
+
+  .quote-block {
+    border-left: 2px solid rgba(255, 176, 32, 0.5);
+  }
+
+  .meta-grid {
+    border-top: 1px solid #2a2a3a;
+  }
+
+  .footer {
+    border-top: 1px solid #2a2a3a;
+  }
+
+  .back-link {
+    color: #9090b0;
+  }
+
+  .back-link:hover {
+    color: #00d4ff;
+  }
+
+  .crew-data p {
+    font-family: 'Inter', sans-serif;
+    color: #e8e8f0;
+  }
+</style>

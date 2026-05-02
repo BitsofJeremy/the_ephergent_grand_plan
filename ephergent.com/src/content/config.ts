@@ -19,6 +19,10 @@ export const collections = {
       voice: z.string().optional(),
       portrait: z.string().optional(),
       lore_links: z.array(z.string()).optional(),
+      season_intro: z.number().optional(),
+      games: z.array(z.string()).optional(),
+      quote: z.string().optional(),
+      color_accent: z.string().optional(),
     }),
   }),
   lore: defineCollection({
