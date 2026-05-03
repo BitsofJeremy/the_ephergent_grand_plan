@@ -1,0 +1,822 @@
+{% extends "base.html" %}
+
+{% block title %}Character Management - THE EPHERGENT{% endblock %}
+
+{% block extra_head %}
+<style>
+    .character-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 1.5rem;
+        margin-top: 2rem;
+    }
+
+    .character-card {
+        background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--reality-static) 100%);
+        border: 2px solid var(--border-primary);
+        border-radius: 8px;
+        padding: 1.5rem;
+        position: relative;
+        transition: all 0.3s ease;
+        overflow: hidden;
+    }
+
+    .character-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(241, 44, 165, 0.3);
+    }
+
+    .character-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(241, 44, 165, 0.1), transparent);
+        transition: left 0.5s;
+        z-index: 0;
+    }
+
+    .character-card:hover::before {
+        left: 100%;
+    }
+
+    .character-card-content {
+        position: relative;
+        z-index: 1;
+    }
+
+    .character-avatar {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        border: 3px solid var(--pink);
+        object-fit: cover;
+        margin-bottom: 1rem;
+        transition: all 0.3s ease;
+    }
+
+    .character-avatar:hover {
+        transform: scale(1.1) rotate(5deg);
+        box-shadow: 0 0 20px rgba(241, 44, 165, 0.5);
+    }
+
+    .character-name {
+        font-family: 'B612 Mono', monospace;
+        color: var(--pink);
+        margin-bottom: 0.5rem;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .character-topics {
+        font-size: 0.9rem;
+        color: var(--text-primary);
+        margin-bottom: 1rem;
+        line-height: 1.4;
+    }
+
+    .generation-status {
+        display: flex;
+        align-items: center;
+        margin: 1rem 0;
+        padding: 0.5rem;
+        border-radius: 4px;
+        font-size: 0.85rem;
+        font-weight: 500;
+    }
+
+    .status-idle {
+        background: rgba(108, 117, 125, 0.2);
+        color: var(--text-primary);
+    }
+
+    .status-generating, .status-queued {
+        background: rgba(255, 193, 7, 0.2);
+        color: #ffc107;
+    }
+
+    .status-completed {
+        background: rgba(25, 135, 84, 0.2);
+        color: #28a745;
+    }
+
+    .status-failed {
+        background: rgba(220, 53, 69, 0.2);
+        color: #dc3545;
+    }
+
+    .progress-bar-container {
+        width: 100%;
+        height: 4px;
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 2px;
+        margin-top: 0.5rem;
+        overflow: hidden;
+    }
+
+    .progress-bar {
+        height: 100%;
+        background: linear-gradient(90deg, var(--pink), #d115a0);
+        border-radius: 2px;
+        transition: width 0.3s ease;
+        width: 0%;
+    }
+
+    .generation-message {
+        font-size: 0.75rem;
+        color: rgba(255, 255, 255, 0.7);
+        margin-top: 0.25rem;
+    }
+
+    .btn-regenerate {
+        background: var(--pink);
+        color: var(--black);
+        border: none;
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        border-radius: 4px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .btn-regenerate:hover:not(:disabled) {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(241, 44, 165, 0.4);
+        color: var(--black);
+    }
+
+    .btn-regenerate:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+    }
+
+    .btn-regenerate::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+        transition: left 0.5s;
+    }
+
+    .btn-regenerate:hover:not(:disabled)::before {
+        left: 100%;
+    }
+
+    .bulk-actions {
+        background: linear-gradient(135deg, var(--reality-static) 0%, var(--cosmic-blue) 100%);
+        border: 2px solid var(--pink);
+        border-radius: 8px;
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .bulk-progress {
+        margin-top: 1rem;
+        display: none;
+    }
+
+    .overall-progress-bar {
+        width: 100%;
+        height: 8px;
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 4px;
+        overflow: hidden;
+        margin-bottom: 0.5rem;
+    }
+
+    .overall-progress-fill {
+        height: 100%;
+        background: linear-gradient(90deg, var(--pink), #d115a0);
+        border-radius: 4px;
+        width: 0%;
+        transition: width 0.3s ease;
+    }
+
+    .stats-summary {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .stat-item {
+        text-align: center;
+        padding: 1rem;
+        background: rgba(241, 44, 165, 0.1);
+        border: 1px solid rgba(241, 44, 165, 0.3);
+        border-radius: 4px;
+    }
+
+    .stat-number {
+        font-family: 'B612 Mono', monospace;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: var(--pink);
+    }
+
+    .stat-label {
+        font-size: 0.8rem;
+        color: var(--text-primary);
+        text-transform: uppercase;
+        margin-top: 0.25rem;
+    }
+
+    .loading-spinner {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border: 2px solid rgba(241, 44, 165, 0.3);
+        border-radius: 50%;
+        border-top-color: var(--pink);
+        animation: spin 1s ease-in-out infinite;
+        margin-right: 0.5rem;
+    }
+
+    @keyframes spin {
+        to { transform: rotate(360deg); }
+    }
+
+    .image-comparison {
+        display: flex;
+        gap: 1rem;
+        margin-top: 1rem;
+        align-items: center;
+    }
+
+    .image-comparison img {
+        width: 50px;
+        height: 50px;
+        border-radius: 4px;
+        border: 1px solid var(--pink);
+        object-fit: cover;
+    }
+
+    .comparison-arrow {
+        color: var(--pink);
+        font-size: 1.2rem;
+    }
+
+    .admin-header {
+        background: linear-gradient(135deg, var(--cosmic-blue) 0%, var(--reality-static) 100%);
+        border: 2px solid var(--pink);
+        border-radius: 8px;
+        padding: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .admin-header::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(circle, rgba(241, 44, 165, 0.1) 0%, transparent 70%);
+        animation: rotate 20s linear infinite;
+        z-index: 0;
+    }
+
+    .admin-header-content {
+        position: relative;
+        z-index: 1;
+    }
+
+    @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+    }
+
+    .connection-status {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        font-size: 0.85rem;
+        font-weight: 500;
+        margin: 0.5rem;
+        transition: all 0.3s ease;
+    }
+
+    .connection-healthy {
+        background: rgba(25, 135, 84, 0.2);
+        color: #28a745;
+        border: 1px solid rgba(25, 135, 84, 0.3);
+    }
+
+    .connection-unhealthy {
+        background: rgba(220, 53, 69, 0.2);
+        color: #dc3545;
+        border: 1px solid rgba(220, 53, 69, 0.3);
+    }
+
+    .connection-status i {
+        margin-right: 0.5rem;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="admin-header">
+    <div class="admin-header-content">
+        <h1 class="glitch" data-text="CHARACTER MANAGEMENT">CHARACTER MANAGEMENT</h1>
+        <p class="mb-3">Manage character profile images and monitor generation status</p>
+
+        <!-- Service Health Status -->
+        <div class="mt-3">
+            <div id="comfyui-status" class="connection-status connection-unhealthy">
+                <i class="fas fa-times-circle"></i>
+                <span>ComfyUI: Checking...</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Statistics Summary -->
+<div class="stats-summary" id="stats-summary">
+    <div class="stat-item">
+        <div class="stat-number" id="stat-total">-</div>
+        <div class="stat-label">Total Characters</div>
+    </div>
+    <div class="stat-item">
+        <div class="stat-number" id="stat-generating">-</div>
+        <div class="stat-label">Generating</div>
+    </div>
+    <div class="stat-item">
+        <div class="stat-number" id="stat-queued">-</div>
+        <div class="stat-label">Queued</div>
+    </div>
+    <div class="stat-item">
+        <div class="stat-number" id="stat-completed">-</div>
+        <div class="stat-label">Completed</div>
+    </div>
+    <div class="stat-item">
+        <div class="stat-number" id="stat-failed">-</div>
+        <div class="stat-label">Failed</div>
+    </div>
+</div>
+
+<!-- Bulk Actions -->
+<div class="bulk-actions">
+    <h3 class="text-pink mb-3">Bulk Operations</h3>
+    <p class="mb-3">Regenerate profile images for all characters at once</p>
+
+    <button id="regenerate-all-btn" class="reality-button">
+        <i class="fas fa-sync-alt me-2"></i>
+        REGENERATE ALL CHARACTER IMAGES
+    </button>
+
+    <div class="bulk-progress" id="bulk-progress">
+        <div class="overall-progress-bar">
+            <div class="overall-progress-fill" id="overall-progress-fill"></div>
+        </div>
+        <div id="bulk-progress-text">Starting bulk regeneration...</div>
+    </div>
+</div>
+
+<!-- Character Grid -->
+<div class="character-grid" id="character-grid">
+    <!-- Characters will be loaded here -->
+</div>
+
+<!-- Loading Message -->
+<div id="loading-message" class="text-center">
+    <div class="loading-spinner"></div>
+    <span>Loading characters...</span>
+</div>
+
+<!-- Error Message -->
+<div id="error-message" class="alert alert-danger" style="display: none;">
+    <h4>Error Loading Characters</h4>
+    <p id="error-text"></p>
+    <button class="btn btn-primary" onclick="loadCharacters()">Try Again</button>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+// Global variables
+let characters = [];
+let generationStatus = {};
+let statusPollingInterval = null;
+let bulkGenerationActive = false;
+
+// Initialize the page
+document.addEventListener('DOMContentLoaded', function() {
+    checkComfyUIStatus();
+    loadCharacters();
+    startStatusPolling();
+
+    // Setup bulk regeneration button
+    document.getElementById('regenerate-all-btn').addEventListener('click', startBulkRegeneration);
+});
+
+// Check ComfyUI service status
+async function checkComfyUIStatus() {
+    try {
+        const response = await fetch('/api/health');
+        const data = await response.json();
+
+        const statusEl = document.getElementById('comfyui-status');
+        const icon = statusEl.querySelector('i');
+        const text = statusEl.querySelector('span');
+
+        if (data.services && data.services.comfyui && data.services.comfyui.status === 'healthy') {
+            statusEl.className = 'connection-status connection-healthy';
+            icon.className = 'fas fa-check-circle';
+            text.textContent = 'ComfyUI: Connected';
+        } else {
+            statusEl.className = 'connection-status connection-unhealthy';
+            icon.className = 'fas fa-times-circle';
+            text.textContent = 'ComfyUI: Disconnected';
+        }
+    } catch (error) {
+        console.error('Error checking ComfyUI status:', error);
+    }
+}
+
+// Load all characters
+async function loadCharacters() {
+    try {
+        document.getElementById('loading-message').style.display = 'block';
+        document.getElementById('error-message').style.display = 'none';
+
+        const response = await fetch('/api/characters/');
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+
+        characters = await response.json();
+        renderCharacters();
+        updateStats();
+
+        document.getElementById('loading-message').style.display = 'none';
+
+    } catch (error) {
+        console.error('Error loading characters:', error);
+        document.getElementById('loading-message').style.display = 'none';
+        document.getElementById('error-message').style.display = 'block';
+        document.getElementById('error-text').textContent = error.message;
+    }
+}
+
+// Render character cards
+function renderCharacters() {
+    const grid = document.getElementById('character-grid');
+    grid.innerHTML = '';
+
+    characters.forEach(character => {
+        const card = createCharacterCard(character);
+        grid.appendChild(card);
+    });
+}
+
+// Create a character card element
+function createCharacterCard(character) {
+    const card = document.createElement('div');
+    card.className = 'character-card';
+    card.id = `character-${character.id}`;
+
+    const status = generationStatus[character.id] || { status: 'idle', progress: 0, message: '' };
+    const isGenerating = status.status === 'generating' || status.status === 'queued';
+
+    // Determine image source with cache busting for recently completed generations
+    let imageSrc = character.image || `/static/img/characters/${character.id}_resized.png`;
+    if (status.status === 'completed' && status.completed_at) {
+        imageSrc += `?t=${Math.floor(status.completed_at)}`;
+    }
+
+    card.innerHTML = `
+        <div class="character-card-content">
+            <div class="d-flex align-items-center mb-3">
+                <img src="${imageSrc}"
+                     alt="${character.name}"
+                     class="character-avatar me-3"
+                     onerror="this.src='/static/img/placeholder-character.png'">
+                <div>
+                    <h4 class="character-name mb-1">${character.name}</h4>
+                    <div class="character-topics">${character.topics ? character.topics.join(', ') : 'No topics specified'}</div>
+                </div>
+            </div>
+
+            <div class="generation-status status-${status.status}" id="status-${character.id}">
+                <div class="d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center">
+                        ${getStatusIcon(status.status)}
+                        <span class="ms-2">${getStatusText(status.status)}</span>
+                    </div>
+                    <div class="text-end">
+                        <small>${status.progress || 0}%</small>
+                    </div>
+                </div>
+                ${status.status === 'generating' || status.status === 'queued' ? `
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" style="width: ${status.progress || 0}%"></div>
+                    </div>
+                ` : ''}
+                ${status.message ? `<div class="generation-message">${status.message}</div>` : ''}
+            </div>
+
+            <div class="mt-3 d-flex justify-content-between align-items-center">
+                <button class="btn-regenerate ${isGenerating ? 'disabled' : ''}"
+                        onclick="regenerateCharacterImage('${character.id}')"
+                        ${isGenerating ? 'disabled' : ''}>
+                    <i class="fas fa-sync-alt me-1"></i>
+                    ${isGenerating ? 'Generating...' : 'Regenerate'}
+                </button>
+
+                <small class="text-muted">
+                    ${character.default ? '<i class="fas fa-star text-warning me-1"></i>Default' : ''}
+                </small>
+            </div>
+        </div>
+    `;
+
+    return card;
+}
+
+// Get status icon
+function getStatusIcon(status) {
+    switch (status) {
+        case 'generating':
+        case 'queued':
+            return '<div class="loading-spinner"></div>';
+        case 'completed':
+            return '<i class="fas fa-check-circle text-success"></i>';
+        case 'failed':
+            return '<i class="fas fa-exclamation-circle text-danger"></i>';
+        default:
+            return '<i class="fas fa-circle text-muted"></i>';
+    }
+}
+
+// Get status text
+function getStatusText(status) {
+    switch (status) {
+        case 'generating':
+            return 'Generating...';
+        case 'queued':
+            return 'Queued';
+        case 'completed':
+            return 'Completed';
+        case 'failed':
+            return 'Failed';
+        default:
+            return 'Ready';
+    }
+}
+
+// Update statistics
+function updateStats() {
+    const stats = {
+        total: characters.length,
+        generating: 0,
+        queued: 0,
+        completed: 0,
+        failed: 0,
+        idle: 0
+    };
+
+    characters.forEach(character => {
+        const status = generationStatus[character.id] || { status: 'idle' };
+        if (stats.hasOwnProperty(status.status)) {
+            stats[status.status]++;
+        } else {
+            stats.idle++;
+        }
+    });
+
+    document.getElementById('stat-total').textContent = stats.total;
+    document.getElementById('stat-generating').textContent = stats.generating;
+    document.getElementById('stat-queued').textContent = stats.queued;
+    document.getElementById('stat-completed').textContent = stats.completed;
+    document.getElementById('stat-failed').textContent = stats.failed;
+}
+
+// Start polling for status updates
+function startStatusPolling() {
+    statusPollingInterval = setInterval(updateGenerationStatus, 2000);
+}
+
+// Update generation status from API
+async function updateGenerationStatus() {
+    try {
+        const response = await fetch('/api/characters/generation-status');
+        if (!response.ok) return;
+
+        const data = await response.json();
+
+        // Update individual character statuses
+        data.characters.forEach(charStatus => {
+            generationStatus[charStatus.character_id] = charStatus;
+            updateCharacterStatusUI(charStatus);
+        });
+
+        // Update overall stats
+        updateStats();
+
+        // Update bulk progress if active
+        if (bulkGenerationActive) {
+            updateBulkProgress(data.summary);
+        }
+
+    } catch (error) {
+        console.error('Error updating status:', error);
+    }
+}
+
+// Update character status UI
+function updateCharacterStatusUI(status) {
+    const statusElement = document.getElementById(`status-${status.character_id}`);
+    const card = document.getElementById(`character-${status.character_id}`);
+
+    if (!statusElement || !card) return;
+
+    // Update status display
+    statusElement.className = `generation-status status-${status.status}`;
+
+    const isGenerating = status.status === 'generating' || status.status === 'queued';
+    const progressBar = statusElement.querySelector('.progress-bar');
+
+    statusElement.innerHTML = `
+        <div class="d-flex align-items-center justify-content-between">
+            <div class="d-flex align-items-center">
+                ${getStatusIcon(status.status)}
+                <span class="ms-2">${getStatusText(status.status)}</span>
+            </div>
+            <div class="text-end">
+                <small>${status.progress || 0}%</small>
+            </div>
+        </div>
+        ${isGenerating ? `
+            <div class="progress-bar-container">
+                <div class="progress-bar" style="width: ${status.progress || 0}%"></div>
+            </div>
+        ` : ''}
+        ${status.message ? `<div class="generation-message">${status.message}</div>` : ''}
+    `;
+
+    // Update button state
+    const button = card.querySelector('.btn-regenerate');
+    if (button) {
+        if (isGenerating) {
+            button.disabled = true;
+            button.innerHTML = '<i class="fas fa-sync-alt me-1 fa-spin"></i>Generating...';
+            button.classList.add('disabled');
+        } else {
+            button.disabled = false;
+            button.innerHTML = '<i class="fas fa-sync-alt me-1"></i>Regenerate';
+            button.classList.remove('disabled');
+        }
+    }
+
+    // Update character image if completed
+    if (status.status === 'completed' && status.completed_at) {
+        const img = card.querySelector('.character-avatar');
+        const character = characters.find(c => c.id === status.character_id);
+        if (img && character) {
+            const newSrc = `/static/img/characters/${character.id}_resized.png?t=${Math.floor(status.completed_at)}`;
+            img.src = newSrc;
+        }
+    }
+}
+
+// Regenerate single character image
+async function regenerateCharacterImage(characterId) {
+    try {
+        const response = await fetch(`/api/characters/${characterId}/regenerate-image`, {
+            method: 'POST'
+        });
+
+        if (!response.ok) {
+            const error = await response.json();
+            throw new Error(error.message || `HTTP ${response.status}`);
+        }
+
+        const result = await response.json();
+        showNotification('success', `Image generation started for ${result.character_id}`);
+
+    } catch (error) {
+        console.error('Error starting regeneration:', error);
+        showNotification('error', `Failed to start generation: ${error.message}`);
+    }
+}
+
+// Start bulk regeneration
+async function startBulkRegeneration() {
+    if (bulkGenerationActive) return;
+
+    try {
+        const button = document.getElementById('regenerate-all-btn');
+        button.disabled = true;
+        button.innerHTML = '<i class="fas fa-sync-alt me-2 fa-spin"></i>Starting Bulk Generation...';
+
+        const response = await fetch('/api/characters/regenerate-all', {
+            method: 'POST'
+        });
+
+        if (!response.ok) {
+            const error = await response.json();
+            throw new Error(error.message || `HTTP ${response.status}`);
+        }
+
+        const result = await response.json();
+        bulkGenerationActive = true;
+
+        // Show bulk progress UI
+        document.getElementById('bulk-progress').style.display = 'block';
+        document.getElementById('bulk-progress-text').textContent = result.message;
+
+        showNotification('info', `Started bulk generation for ${result.character_count} characters`);
+
+    } catch (error) {
+        console.error('Error starting bulk regeneration:', error);
+        showNotification('error', `Failed to start bulk generation: ${error.message}`);
+
+        const button = document.getElementById('regenerate-all-btn');
+        button.disabled = false;
+        button.innerHTML = '<i class="fas fa-sync-alt me-2"></i>REGENERATE ALL CHARACTER IMAGES';
+    }
+}
+
+// Update bulk progress
+function updateBulkProgress(summary) {
+    if (!bulkGenerationActive) return;
+
+    const total = summary.total || 1;
+    const completed = summary.completed || 0;
+    const failed = summary.failed || 0;
+    const generating = summary.generating || 0;
+    const queued = summary.queued || 0;
+
+    const finished = completed + failed;
+    const progressPercent = Math.round((finished / total) * 100);
+
+    // Update progress bar
+    document.getElementById('overall-progress-fill').style.width = `${progressPercent}%`;
+
+    // Update progress text
+    const progressText = document.getElementById('bulk-progress-text');
+    if (generating > 0 || queued > 0) {
+        progressText.textContent = `Processing: ${finished}/${total} complete (${generating} generating, ${queued} queued)`;
+    } else {
+        progressText.textContent = `Bulk generation complete: ${completed} successful, ${failed} failed`;
+
+        // Reset bulk generation state
+        bulkGenerationActive = false;
+        document.getElementById('bulk-progress').style.display = 'none';
+
+        const button = document.getElementById('regenerate-all-btn');
+        button.disabled = false;
+        button.innerHTML = '<i class="fas fa-sync-alt me-2"></i>REGENERATE ALL CHARACTER IMAGES';
+
+        showNotification('success', `Bulk generation completed! ${completed} successful, ${failed} failed.`);
+    }
+}
+
+// Show notification
+function showNotification(type, message) {
+    // Create notification element
+    const notification = document.createElement('div');
+    notification.className = `alert alert-${type === 'error' ? 'danger' : type === 'success' ? 'success' : 'info'} alert-dismissible fade show`;
+    notification.style.position = 'fixed';
+    notification.style.top = '100px';
+    notification.style.right = '20px';
+    notification.style.zIndex = '9999';
+    notification.style.minWidth = '300px';
+
+    notification.innerHTML = `
+        ${message}
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    `;
+
+    document.body.appendChild(notification);
+
+    // Auto-remove after 5 seconds
+    setTimeout(() => {
+        if (notification.parentNode) {
+            notification.parentNode.removeChild(notification);
+        }
+    }, 5000);
+}
+
+// Cleanup on page unload
+window.addEventListener('beforeunload', function() {
+    if (statusPollingInterval) {
+        clearInterval(statusPollingInterval);
+    }
+});
+</script>
+{% endblock %}

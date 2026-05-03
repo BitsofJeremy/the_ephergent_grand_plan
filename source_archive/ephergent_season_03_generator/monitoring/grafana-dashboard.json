@@ -1,0 +1,426 @@
+{
+  "uid": "ephergent-story-gen",
+  "title": "Ephergent Story Generator - Production Monitoring",
+  "tags": [
+    "ephergent",
+    "story-generator",
+    "production"
+  ],
+  "timezone": "browser",
+  "refresh": "30s",
+  "time": {
+    "from": "now-6h",
+    "to": "now"
+  },
+  "panels": [
+    {
+      "id": 1,
+      "title": "Application Status",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "up{job=\"ephergent_app\"}",
+          "legendFormat": "App Status"
+        }
+      ],
+      "gridPos": {
+        "h": 4,
+        "w": 4,
+        "x": 0,
+        "y": 0
+      },
+      "options": {
+        "colorMode": "background",
+        "graphMode": "none",
+        "textMode": "value_and_name"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "mappings": [
+            {
+              "type": "value",
+              "value": "0",
+              "text": "DOWN"
+            },
+            {
+              "type": "value",
+              "value": "1",
+              "text": "UP"
+            }
+          ],
+          "thresholds": {
+            "steps": [
+              {
+                "value": 0,
+                "color": "red"
+              },
+              {
+                "value": 1,
+                "color": "green"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "title": "Stories Created (Rate)",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "rate(ephergent_stories_created_total[5m])",
+          "legendFormat": "Stories/sec"
+        }
+      ],
+      "gridPos": {
+        "h": 4,
+        "w": 4,
+        "x": 4,
+        "y": 0
+      }
+    },
+    {
+      "id": 3,
+      "title": "Stories Completed",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "ephergent_stories_completed_total",
+          "legendFormat": "Total Completed"
+        }
+      ],
+      "gridPos": {
+        "h": 4,
+        "w": 4,
+        "x": 8,
+        "y": 0
+      }
+    },
+    {
+      "id": 4,
+      "title": "Queue Size",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "ephergent_story_queue_size{status=\"pending\"}",
+          "legendFormat": "Pending"
+        },
+        {
+          "expr": "ephergent_story_queue_size{status=\"processing\"}",
+          "legendFormat": "Processing"
+        },
+        {
+          "expr": "ephergent_story_queue_size{status=\"failed\"}",
+          "legendFormat": "Failed"
+        }
+      ],
+      "gridPos": {
+        "h": 4,
+        "w": 12,
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 5,
+      "title": "Workflow Steps - Success vs Failed",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "sum(rate(ephergent_workflow_steps_completed_total[5m]))",
+          "legendFormat": "Completed"
+        },
+        {
+          "expr": "sum(rate(ephergent_workflow_steps_failed_total[5m]))",
+          "legendFormat": "Failed"
+        }
+      ],
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 4
+      }
+    },
+    {
+      "id": 6,
+      "title": "Workflow Step Duration (P95)",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, rate(ephergent_workflow_step_duration_seconds_bucket[5m]))",
+          "legendFormat": "{{step}}"
+        }
+      ],
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 12,
+        "y": 4
+      }
+    },
+    {
+      "id": 7,
+      "title": "HTTP Request Rate",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "sum(rate(ephergent_http_requests_total[5m])) by (endpoint)",
+          "legendFormat": "{{endpoint}}"
+        }
+      ],
+      "gridPos": {
+        "h": 8,
+        "w": 8,
+        "x": 0,
+        "y": 12
+      }
+    },
+    {
+      "id": 8,
+      "title": "HTTP Request Latency (P95)",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, rate(ephergent_http_request_duration_seconds_bucket[5m]))",
+          "legendFormat": "P95"
+        },
+        {
+          "expr": "histogram_quantile(0.50, rate(ephergent_http_request_duration_seconds_bucket[5m]))",
+          "legendFormat": "P50"
+        }
+      ],
+      "gridPos": {
+        "h": 8,
+        "w": 8,
+        "x": 8,
+        "y": 12
+      }
+    },
+    {
+      "id": 9,
+      "title": "HTTP Status Codes",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "sum(rate(ephergent_http_requests_total{status_code=~\"2..\"}[5m]))",
+          "legendFormat": "2xx Success"
+        },
+        {
+          "expr": "sum(rate(ephergent_http_requests_total{status_code=~\"4..\"}[5m]))",
+          "legendFormat": "4xx Client Error"
+        },
+        {
+          "expr": "sum(rate(ephergent_http_requests_total{status_code=~\"5..\"}[5m]))",
+          "legendFormat": "5xx Server Error"
+        }
+      ],
+      "gridPos": {
+        "h": 8,
+        "w": 8,
+        "x": 16,
+        "y": 12
+      }
+    },
+    {
+      "id": 10,
+      "title": "Service Availability",
+      "type": "stat",
+      "targets": [
+        {
+          "expr": "ephergent_external_service_available{service=\"database\"}",
+          "legendFormat": "Database"
+        },
+        {
+          "expr": "ephergent_external_service_available{service=\"gemini\"}",
+          "legendFormat": "Gemini"
+        },
+        {
+          "expr": "ephergent_external_service_available{service=\"comfyui\"}",
+          "legendFormat": "ComfyUI"
+        },
+        {
+          "expr": "ephergent_external_service_available{service=\"youtube\"}",
+          "legendFormat": "YouTube"
+        },
+        {
+          "expr": "ephergent_external_service_available{service=\"ghost\"}",
+          "legendFormat": "Ghost"
+        }
+      ],
+      "gridPos": {
+        "h": 6,
+        "w": 12,
+        "x": 0,
+        "y": 20
+      },
+      "options": {
+        "colorMode": "background",
+        "graphMode": "none"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "mappings": [
+            {
+              "type": "value",
+              "value": "0",
+              "text": "DOWN"
+            },
+            {
+              "type": "value",
+              "value": "1",
+              "text": "UP"
+            }
+          ],
+          "thresholds": {
+            "steps": [
+              {
+                "value": 0,
+                "color": "red"
+              },
+              {
+                "value": 1,
+                "color": "green"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": 11,
+      "title": "External API Duration",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, rate(ephergent_external_api_duration_seconds_bucket[5m]))",
+          "legendFormat": "{{service}}"
+        }
+      ],
+      "gridPos": {
+        "h": 6,
+        "w": 12,
+        "x": 12,
+        "y": 20
+      }
+    },
+    {
+      "id": 12,
+      "title": "Media Generated",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "sum(rate(ephergent_images_generated_total[5m]))",
+          "legendFormat": "Images"
+        },
+        {
+          "expr": "sum(rate(ephergent_audio_generated_total[5m]))",
+          "legendFormat": "Audio"
+        },
+        {
+          "expr": "rate(ephergent_videos_generated_total[5m])",
+          "legendFormat": "Videos"
+        }
+      ],
+      "gridPos": {
+        "h": 6,
+        "w": 12,
+        "x": 0,
+        "y": 26
+      }
+    },
+    {
+      "id": 13,
+      "title": "Media Generation Errors",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "sum(rate(ephergent_media_generation_errors_total[5m])) by (media_type)",
+          "legendFormat": "{{media_type}}"
+        }
+      ],
+      "gridPos": {
+        "h": 6,
+        "w": 12,
+        "x": 12,
+        "y": 26
+      }
+    },
+    {
+      "id": 14,
+      "title": "Database Connections",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "ephergent_database_connections_active",
+          "legendFormat": "Active Connections"
+        }
+      ],
+      "gridPos": {
+        "h": 6,
+        "w": 8,
+        "x": 0,
+        "y": 32
+      }
+    },
+    {
+      "id": 15,
+      "title": "Database Query Duration",
+      "type": "graph",
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.95, rate(ephergent_database_query_duration_seconds_bucket[5m]))",
+          "legendFormat": "{{query_type}} P95"
+        }
+      ],
+      "gridPos": {
+        "h": 6,
+        "w": 8,
+        "x": 8,
+        "y": 32
+      }
+    },
+    {
+      "id": 16,
+      "title": "Worker Status",
+      "type": "table",
+      "targets": [
+        {
+          "expr": "time() - ephergent_worker_heartbeat_timestamp",
+          "legendFormat": "{{worker_id}}"
+        }
+      ],
+      "gridPos": {
+        "h": 6,
+        "w": 8,
+        "x": 16,
+        "y": 32
+      },
+      "fieldConfig": {
+        "defaults": {
+          "unit": "s",
+          "custom": {
+            "displayMode": "color-background"
+          },
+          "thresholds": {
+            "steps": [
+              {
+                "value": 0,
+                "color": "green"
+              },
+              {
+                "value": 60,
+                "color": "yellow"
+              },
+              {
+                "value": 300,
+                "color": "red"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{% extends "admin/base.html" %}
+
+{% block title %}Admin Tasks{% endblock %}
+
+{% block content %}
+<div class="admin-header">
+    <div>
+        <h1><i class="fas fa-tasks me-2"></i>Admin Tasks Monitor</h1>
+        <p class="text-muted mb-0">Monitor and manage administrative background tasks</p>
+    </div>
+    <div>
+        <a href="{{ url_for('admin.task_new') }}" class="btn-admin-primary">
+            <i class="fas fa-plus me-2"></i>Create New Task
+        </a>
+    </div>
+</div>
+
+<!-- Filters -->
+<div class="stat-card mb-4">
+    <form method="GET" action="{{ url_for('admin.tasks') }}" class="row g-3">
+        <div class="col-md-4">
+            <label for="status" class="form-label">Status Filter</label>
+            <select name="status" id="status" class="form-select" onchange="this.form.submit()">
+                <option value="all" {% if status_filter == 'all' %}selected{% endif %}>All Tasks</option>
+                <option value="pending" {% if status_filter == 'pending' %}selected{% endif %}>Pending</option>
+                <option value="running" {% if status_filter == 'running' %}selected{% endif %}>Running</option>
+                <option value="completed" {% if status_filter == 'completed' %}selected{% endif %}>Completed</option>
+                <option value="failed" {% if status_filter == 'failed' %}selected{% endif %}>Failed</option>
+                <option value="cancelled" {% if status_filter == 'cancelled' %}selected{% endif %}>Cancelled</option>
+            </select>
+        </div>
+        <div class="col-md-6 d-flex align-items-end">
+            <button type="button" class="btn btn-outline-primary w-100" onclick="location.reload()">
+                <i class="fas fa-sync-alt me-2"></i>Refresh
+            </button>
+        </div>
+        <div class="col-md-2 d-flex align-items-end">
+            <a href="{{ url_for('admin.tasks') }}" class="btn btn-outline-secondary w-100">
+                <i class="fas fa-times me-1"></i>Clear
+            </a>
+        </div>
+    </form>
+</div>
+
+<!-- Tasks Table -->
+<div class="stat-card">
+    {% if tasks %}
+        <div class="table-responsive">
+            <table id="tasksTable" class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Task Type</th>
+                        <th>Status</th>
+                        <th>Progress</th>
+                        <th>Created</th>
+                        <th>Started</th>
+                        <th>Duration</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for task in tasks %}
+                    <tr>
+                        <td><strong>#{{ task.id }}</strong></td>
+                        <td>{{ task.task_type|replace('_', ' ')|title }}</td>
+                        <td>
+                            {% if task.task_status == 'completed' %}
+                                <span class="badge bg-success">{{ task.task_status }}</span>
+                            {% elif task.task_status == 'failed' %}
+                                <span class="badge bg-danger">{{ task.task_status }}</span>
+                            {% elif task.task_status == 'running' %}
+                                <span class="badge bg-primary">
+                                    <i class="fas fa-spinner fa-spin me-1"></i>{{ task.task_status }}
+                                </span>
+                            {% elif task.task_status == 'cancelled' %}
+                                <span class="badge bg-warning">{{ task.task_status }}</span>
+                            {% else %}
+                                <span class="badge bg-secondary">{{ task.task_status }}</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <div class="progress" style="height: 24px; min-width: 120px;">
+                                <div class="progress-bar
+                                    {% if task.task_status == 'failed' %}bg-danger
+                                    {% elif task.task_status == 'completed' %}bg-success
+                                    {% elif task.task_status == 'running' %}progress-bar-striped progress-bar-animated
+                                    {% endif %}"
+                                     role="progressbar"
+                                     style="width: {{ task.progress_percent }}%;"
+                                     aria-valuenow="{{ task.progress_percent }}"
+                                     aria-valuemin="0" aria-valuemax="100">
+                                    {{ task.progress_percent }}%
+                                </div>
+                            </div>
+                            {% if task.progress_message %}
+                                <small class="text-muted">{{ task.progress_message[:50] }}</small>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <small>{{ task.created_at.strftime('%m/%d %H:%M') }}</small>
+                        </td>
+                        <td>
+                            {% if task.started_at %}
+                                <small>{{ task.started_at.strftime('%m/%d %H:%M') }}</small>
+                            {% else %}
+                                <small class="text-muted">Not started</small>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if task.get_duration() %}
+                                <small>{{ '%.1f' | format(task.get_duration().total_seconds()) }}s</small>
+                            {% else %}
+                                <small class="text-muted">-</small>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <div class="btn-group btn-group-sm" role="group">
+                                <a href="{{ url_for('admin.task_detail', id=task.id) }}"
+                                   class="btn btn-outline-info" title="View Details">
+                                    <i class="fas fa-eye"></i>
+                                </a>
+                                {% if task.task_status in ['pending', 'running'] %}
+                                    <button type="button"
+                                            class="btn btn-outline-warning"
+                                            onclick="cancelTask({{ task.id }})"
+                                            title="Cancel Task">
+                                        <i class="fas fa-stop"></i>
+                                    </button>
+                                {% endif %}
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% else %}
+        <div class="text-center py-5">
+            <i class="fas fa-tasks fa-3x text-muted mb-3"></i>
+            <p class="text-muted">No admin tasks found.</p>
+            <a href="{{ url_for('admin.task_new') }}" class="btn-admin-primary">
+                <i class="fas fa-plus me-2"></i>Create Your First Task
+            </a>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+$(document).ready(function() {
+    // Initialize DataTables
+    $('#tasksTable').DataTable({
+        "pageLength": 25,
+        "order": [[0, "desc"]], // Sort by ID descending (newest first)
+        "columnDefs": [
+            { "orderable": false, "targets": [3, 7] } // Disable sorting for progress and actions
+        ]
+    });
+
+    // Auto-refresh running tasks every 5 seconds
+    const hasRunningTasks = {{ ('true' if tasks and tasks|selectattr('task_status', 'equalto', 'running')|list else 'false')|safe }};
+    if (hasRunningTasks) {
+        setInterval(function() {
+            location.reload();
+        }, 5000);
+    }
+});
+
+function cancelTask(taskId) {
+    if (confirm('Are you sure you want to cancel this task?')) {
+        fetch(`/admin/tasks/${taskId}/cancel`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            }
+        })
+        .then(response => {
+            if (response.ok) {
+                location.reload();
+            } else {
+                alert('Error cancelling task');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('An error occurred while cancelling the task.');
+        });
+    }
+}
+</script>
+{% endblock %}

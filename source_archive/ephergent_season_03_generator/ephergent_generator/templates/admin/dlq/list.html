@@ -1,0 +1,202 @@
+{% extends "admin/base.html" %}
+
+{% block title %}Failed Stories (DLQ){% endblock %}
+
+{% block content %}
+<div class="admin-header">
+    <div>
+        <h1><i class="fas fa-exclamation-triangle me-2"></i>Failed Stories (DLQ)</h1>
+        <p class="text-muted mb-0">Dead Letter Queue - Stories that failed during processing</p>
+    </div>
+</div>
+
+<!-- Status Filter Tabs -->
+<div class="stat-card mb-4">
+    <ul class="nav nav-tabs mb-3" role="tablist">
+        <li class="nav-item" role="presentation">
+            <a class="nav-link {% if status_filter == 'all' or not status_filter %}active{% endif %}"
+               href="{{ url_for('admin.dlq_list', status='all') }}">
+                All <span class="badge bg-secondary ms-1">{{ counts.total or 0 }}</span>
+            </a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link {% if status_filter == 'pending' %}active{% endif %}"
+               href="{{ url_for('admin.dlq_list', status='pending') }}">
+                Pending <span class="badge bg-warning text-dark ms-1">{{ counts.pending or 0 }}</span>
+            </a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link {% if status_filter == 'investigating' %}active{% endif %}"
+               href="{{ url_for('admin.dlq_list', status='investigating') }}">
+                Investigating <span class="badge bg-info ms-1">{{ counts.investigating or 0 }}</span>
+            </a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link {% if status_filter == 'resolved' %}active{% endif %}"
+               href="{{ url_for('admin.dlq_list', status='resolved') }}">
+                Resolved <span class="badge bg-success ms-1">{{ counts.resolved or 0 }}</span>
+            </a>
+        </li>
+        <li class="nav-item" role="presentation">
+            <a class="nav-link {% if status_filter == 'archived' %}active{% endif %}"
+               href="{{ url_for('admin.dlq_list', status='archived') }}">
+                Archived <span class="badge bg-secondary ms-1">{{ counts.archived or 0 }}</span>
+            </a>
+        </li>
+    </ul>
+
+    <!-- Error Type Filter -->
+    <form method="GET" action="{{ url_for('admin.dlq_list') }}" class="row g-3">
+        <input type="hidden" name="status" value="{{ status_filter }}">
+        <div class="col-md-4">
+            <label for="error_type" class="form-label">Error Type Filter</label>
+            <select name="error_type" id="error_type" class="form-select" onchange="this.form.submit()">
+                <option value="all" {% if error_type_filter == 'all' or not error_type_filter %}selected{% endif %}>All Error Types</option>
+                <option value="gemini_error" {% if error_type_filter == 'gemini_error' %}selected{% endif %}>Gemini Error</option>
+                <option value="comfyui_error" {% if error_type_filter == 'comfyui_error' %}selected{% endif %}>ComfyUI Error</option>
+                <option value="audio_error" {% if error_type_filter == 'audio_error' %}selected{% endif %}>Audio Error</option>
+                <option value="video_error" {% if error_type_filter == 'video_error' %}selected{% endif %}>Video Error</option>
+                <option value="youtube_error" {% if error_type_filter == 'youtube_error' %}selected{% endif %}>YouTube Error</option>
+                <option value="ghost_error" {% if error_type_filter == 'ghost_error' %}selected{% endif %}>Ghost Error</option>
+                <option value="validation_error" {% if error_type_filter == 'validation_error' %}selected{% endif %}>Validation Error</option>
+                <option value="timeout_error" {% if error_type_filter == 'timeout_error' %}selected{% endif %}>Timeout Error</option>
+                <option value="unknown_error" {% if error_type_filter == 'unknown_error' %}selected{% endif %}>Unknown Error</option>
+            </select>
+        </div>
+        <div class="col-md-4 d-flex align-items-end">
+            <a href="{{ url_for('admin.dlq_list') }}" class="btn btn-outline-secondary w-100">
+                <i class="fas fa-times me-1"></i>Clear Filters
+            </a>
+        </div>
+    </form>
+</div>
+
+<!-- Failures Table -->
+<div class="stat-card">
+    {% if failures and failures.items %}
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Priority</th>
+                        <th>Story Topic</th>
+                        <th>Failed Step</th>
+                        <th>Error Type</th>
+                        <th>Retry Count</th>
+                        <th>Status</th>
+                        <th>Created</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for failure in failures.items %}
+                    <tr>
+                        <td>
+                            <span class="badge bg-{{ 'danger' if failure.priority == 'high' else 'warning' if failure.priority == 'medium' else 'secondary' }}">
+                                {{ failure.priority|upper }}
+                            </span>
+                        </td>
+                        <td>
+                            <strong>{{ failure.story.topic[:50] }}{% if failure.story.topic|length > 50 %}...{% endif %}</strong>
+                        </td>
+                        <td><code>{{ failure.failed_step }}</code></td>
+                        <td>
+                            <span class="badge bg-danger">{{ failure.error_type }}</span>
+                        </td>
+                        <td>
+                            <span class="badge bg-secondary">{{ failure.retry_count }}</span>
+                        </td>
+                        <td>
+                            {% if failure.status == 'pending' %}
+                                <span class="badge bg-warning text-dark">Pending</span>
+                            {% elif failure.status == 'investigating' %}
+                                <span class="badge bg-info">Investigating</span>
+                            {% elif failure.status == 'resolved' %}
+                                <span class="badge bg-success">Resolved</span>
+                            {% elif failure.status == 'archived' %}
+                                <span class="badge bg-secondary">Archived</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <small>{{ failure.created_at.strftime('%Y-%m-%d %H:%M') }}</small>
+                        </td>
+                        <td>
+                            <a href="{{ url_for('admin.dlq_detail', id=failure.id) }}"
+                               class="btn btn-sm btn-outline-primary"
+                               title="View Details">
+                                <i class="fas fa-eye"></i> View
+                            </a>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Pagination -->
+        {% if failures.pages > 1 %}
+        <nav aria-label="Page navigation" class="mt-4">
+            <ul class="pagination justify-content-center">
+                <li class="page-item {% if not failures.has_prev %}disabled{% endif %}">
+                    <a class="page-link" href="{{ url_for('admin.dlq_list', page=failures.prev_num, status=status_filter, error_type=error_type_filter) if failures.has_prev else '#' }}">
+                        <i class="fas fa-chevron-left"></i> Previous
+                    </a>
+                </li>
+
+                {% for page_num in failures.iter_pages(left_edge=1, right_edge=1, left_current=2, right_current=2) %}
+                    {% if page_num %}
+                        <li class="page-item {% if page_num == failures.page %}active{% endif %}">
+                            <a class="page-link" href="{{ url_for('admin.dlq_list', page=page_num, status=status_filter, error_type=error_type_filter) }}">
+                                {{ page_num }}
+                            </a>
+                        </li>
+                    {% else %}
+                        <li class="page-item disabled">
+                            <span class="page-link">...</span>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+
+                <li class="page-item {% if not failures.has_next %}disabled{% endif %}">
+                    <a class="page-link" href="{{ url_for('admin.dlq_list', page=failures.next_num, status=status_filter, error_type=error_type_filter) if failures.has_next else '#' }}">
+                        Next <i class="fas fa-chevron-right"></i>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        {% endif %}
+    {% else %}
+        <div class="text-center py-5">
+            <i class="fas fa-check-circle fa-3x text-success mb-3"></i>
+            <h3>No Failed Stories</h3>
+            <p class="text-muted">
+                {% if status_filter and status_filter != 'all' %}
+                    No stories with status "{{ status_filter }}" found.
+                {% elif error_type_filter and error_type_filter != 'all' %}
+                    No stories with error type "{{ error_type_filter }}" found.
+                {% else %}
+                    Great! All stories are processing successfully.
+                {% endif %}
+            </p>
+            {% if status_filter or error_type_filter %}
+                <a href="{{ url_for('admin.dlq_list') }}" class="btn btn-outline-secondary">
+                    <i class="fas fa-times me-2"></i>Clear Filters
+                </a>
+            {% endif %}
+        </div>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+$(document).ready(function() {
+    // Auto-refresh every 30 seconds if on pending status
+    {% if status_filter == 'pending' %}
+    setTimeout(function() {
+        location.reload();
+    }, 30000);
+    {% endif %}
+});
+</script>
+{% endblock %}

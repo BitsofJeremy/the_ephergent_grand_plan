@@ -1,0 +1,348 @@
+{% extends "base.html" %}
+
+{% block title %}Story Status - {{ super() }}{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <!-- Story Status Header -->
+            <div class="card mb-4">
+                <div class="card-header 
+                    {% if story.current_step.value == 'completed' %}bg-success{% elif story.current_step.value == 'failed' %}bg-danger{% else %}bg-info{% endif %} 
+                    text-white">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h3 class="mb-0">
+                            <i class="bi bi-{% if story.current_step.value == 'completed' %}check-circle{% elif story.current_step.value == 'failed' %}x-circle{% else %}clock{% endif %}"></i>
+                            Story Processing Status
+                        </h3>
+                        <div class="btn-group">
+                            <button class="btn btn-light btn-sm" onclick="location.reload()">
+                                <i class="bi bi-arrow-clockwise"></i> Refresh
+                            </button>
+                            {% if story.current_step.value == 'failed' or story.current_step.value == 'completed' %}
+                            <button class="btn btn-warning btn-sm" onclick="regenerateStory({{ story.id }})">
+                                <i class="bi bi-arrow-clockwise"></i> Regenerate
+                            </button>
+                            {% endif %}
+                            <a href="{{ url_for('main.stories') }}" class="btn btn-light btn-sm">
+                                <i class="bi bi-collection"></i> All Stories
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4 class="mb-3">{{ story.topic }}</h4>
+                            <div class="story-meta mb-3">
+                                {% if story.genre %}
+                                    <span class="badge bg-primary me-1">{{ story.genre|title }}</span>
+                                {% endif %}
+                                {% if story.tone %}
+                                    <span class="badge bg-secondary me-1">{{ story.tone|title }}</span>
+                                {% endif %}
+                                <br>
+                                <small class="text-muted">
+                                    <i class="bi bi-clock"></i> Submitted: {{ story.created_at.strftime('%B %d, %Y at %I:%M %p') }}
+                                    <br><i class="bi bi-arrow-clockwise"></i> Last Updated: {{ story.updated_at.strftime('%B %d, %Y at %I:%M %p') }}
+                                </small>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="text-md-end">
+                                <div class="status-badge mb-2">
+                                    {% if story.current_step.value == 'queued' %}
+                                        <span class="badge bg-secondary fs-6">Queued for Processing</span>
+                                    {% elif story.current_step.value == 'story_generation' %}
+                                        <span class="badge bg-info fs-6">Generating Story</span>
+                                    {% elif story.current_step.value == 'title_generation' %}
+                                        <span class="badge bg-info fs-6">Generating Title</span>
+                                    {% elif story.current_step.value == 'image_generation' %}
+                                        <span class="badge bg-info fs-6">Generating Images</span>
+                                    {% elif story.current_step.value == 'audio_generation' %}
+                                        <span class="badge bg-info fs-6">Generating Audio</span>
+                                    {% elif story.current_step.value == 'completed' %}
+                                        <span class="badge bg-success fs-6">Completed</span>
+                                    {% elif story.current_step.value == 'failed' %}
+                                        <span class="badge bg-danger fs-6">Failed</span>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Progress Steps -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title mb-4">Processing Steps</h5>
+                    <div class="progress-steps">
+                        <div class="row">
+                            <!-- Step 1: Queue -->
+                            <div class="col-12 col-md-2 mb-3">
+                                <div class="text-center">
+                                    <div class="step-icon 
+                                        {% if story.current_step.value in ['queued', 'story_generation', 'title_generation', 'image_generation', 'audio_generation', 'completed'] %}
+                                            completed
+                                        {% else %}
+                                            pending
+                                        {% endif %}">
+                                        <i class="bi bi-list-check"></i>
+                                    </div>
+                                    <div class="step-label">Queued</div>
+                                </div>
+                            </div>
+                            
+                            <!-- Step 2: Story Generation -->
+                            <div class="col-12 col-md-2 mb-3">
+                                <div class="text-center">
+                                    <div class="step-icon 
+                                        {% if story.current_step.value == 'story_generation' %}
+                                            active
+                                        {% elif story.current_step.value in ['title_generation', 'image_generation', 'audio_generation', 'completed'] %}
+                                            completed
+                                        {% else %}
+                                            pending
+                                        {% endif %}">
+                                        <i class="bi bi-file-text"></i>
+                                    </div>
+                                    <div class="step-label">Generate Story</div>
+                                </div>
+                            </div>
+                            
+                            <!-- Step 3: Title Generation -->
+                            <div class="col-12 col-md-2 mb-3">
+                                <div class="text-center">
+                                    <div class="step-icon 
+                                        {% if story.current_step.value == 'title_generation' %}
+                                            active
+                                        {% elif story.current_step.value in ['image_generation', 'audio_generation', 'completed'] %}
+                                            completed
+                                        {% else %}
+                                            pending
+                                        {% endif %}">
+                                        <i class="bi bi-type-h1"></i>
+                                    </div>
+                                    <div class="step-label">Generate Title</div>
+                                </div>
+                            </div>
+                            
+                            <!-- Step 4: Image Generation (Future) -->
+                            <div class="col-12 col-md-2 mb-3">
+                                <div class="text-center">
+                                    <div class="step-icon 
+                                        {% if story.current_step.value == 'image_generation' %}
+                                            active
+                                        {% elif story.current_step.value in ['audio_generation', 'completed'] %}
+                                            completed
+                                        {% else %}
+                                            pending
+                                        {% endif %}">
+                                        <i class="bi bi-image"></i>
+                                    </div>
+                                    <div class="step-label">Generate Images</div>
+                                    <div class="text-muted small">(Coming Soon)</div>
+                                </div>
+                            </div>
+                            
+                            <!-- Step 5: Audio Generation (Future) -->
+                            <div class="col-12 col-md-2 mb-3">
+                                <div class="text-center">
+                                    <div class="step-icon 
+                                        {% if story.current_step.value == 'audio_generation' %}
+                                            active
+                                        {% elif story.current_step.value == 'completed' %}
+                                            completed
+                                        {% else %}
+                                            pending
+                                        {% endif %}">
+                                        <i class="bi bi-music-note"></i>
+                                    </div>
+                                    <div class="step-label">Generate Audio</div>
+                                    <div class="text-muted small">(Coming Soon)</div>
+                                </div>
+                            </div>
+                            
+                            <!-- Step 6: Completed -->
+                            <div class="col-12 col-md-2 mb-3">
+                                <div class="text-center">
+                                    <div class="step-icon 
+                                        {% if story.current_step.value == 'completed' %}
+                                            completed
+                                        {% else %}
+                                            pending
+                                        {% endif %}">
+                                        <i class="bi bi-check-circle"></i>
+                                    </div>
+                                    <div class="step-label">Completed</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Generated Content Preview (if available) -->
+            {% if story.content or story.title %}
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0"><i class="bi bi-eye"></i> Generated Content Preview</h5>
+                </div>
+                <div class="card-body">
+                    {% if story.title %}
+                        <div class="mb-3">
+                            <h6 class="text-muted">Generated Title:</h6>
+                            <h4>{{ story.title }}</h4>
+                        </div>
+                    {% endif %}
+                    
+                    {% if story.content %}
+                        <div class="mb-3">
+                            <h6 class="text-muted">Story Content:</h6>
+                            <div class="story-preview">
+                                {{ story.content[:500]|nl2br|safe }}
+                                {% if story.content|length > 500 %}
+                                    <span class="text-muted">... (truncated)</span>
+                                {% endif %}
+                            </div>
+                            {% if story.word_count %}
+                                <small class="text-muted">{{ story.word_count }} words</small>
+                            {% endif %}
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+            
+            <!-- Error Information -->
+            {% if story.current_step.value == 'failed' and story.error_message %}
+            <div class="card mb-4">
+                <div class="card-header bg-danger text-white">
+                    <h5 class="mb-0"><i class="bi bi-exclamation-triangle"></i> Error Details</h5>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-danger">
+                        {{ story.error_message }}
+                    </div>
+                    <a href="{{ url_for('main.generate') }}" class="btn btn-primary">
+                        <i class="bi bi-arrow-clockwise"></i> Try Again
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+            
+            <!-- Action Buttons -->
+            <div class="text-center">
+                {% if story.current_step.value == 'completed' %}
+                    <a href="{{ url_for('main.view_story', id=story.id) }}" class="btn btn-success">
+                        <i class="bi bi-eye"></i> View Complete Story
+                    </a>
+                {% endif %}
+                <a href="{{ url_for('main.generate') }}" class="btn btn-outline-primary">
+                    <i class="bi bi-plus-circle"></i> Submit Another Topic
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Regenerate Story Function -->
+<script>
+function regenerateStory(storyId) {
+    if (confirm('Are you sure you want to regenerate this story? This will delete the current content and create a new version from scratch.')) {
+        // Show loading state
+        const button = event.target.closest('button');
+        const originalText = button.innerHTML;
+        button.innerHTML = '<i class="spinner-border spinner-border-sm me-1"></i>Regenerating...';
+        button.disabled = true;
+        
+        // Make the request
+        fetch(`/story/${storyId}/regenerate`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            }
+        })
+        .then(response => {
+            if (response.ok) {
+                // Refresh current page to show new status
+                location.reload();
+            } else {
+                throw new Error('Failed to regenerate story');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Failed to regenerate story. Please try again.');
+            // Restore button
+            button.innerHTML = originalText;
+            button.disabled = false;
+        });
+    }
+}
+</script>
+
+<!-- Auto-refresh for processing stories -->
+{% if story.current_step.value not in ['completed', 'failed'] %}
+<script>
+// Auto-refresh every 5 seconds for processing stories
+setTimeout(function() {
+    location.reload();
+}, 5000);
+</script>
+{% endif %}
+{% endblock %}
+
+{% block extra_head %}
+<style>
+.step-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 10px;
+    font-size: 20px;
+}
+
+.step-icon.pending {
+    background-color: #e9ecef;
+    color: #6c757d;
+}
+
+.step-icon.active {
+    background-color: #0dcaf0;
+    color: white;
+    animation: pulse 2s infinite;
+}
+
+.step-icon.completed {
+    background-color: #198754;
+    color: white;
+}
+
+.step-label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+.story-preview {
+    background: rgba(22, 33, 62, 0.8);
+    border: 1px solid var(--pink);
+    color: var(--white);
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+</style>
+{% endblock %}

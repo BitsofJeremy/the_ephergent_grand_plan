@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}THE EPHERGENT - Season 02 Generator{% endblock %}</title>
+
+    {# Favicons #}
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='img/favicon/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='img/favicon/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename='img/favicon/favicon-16x16.png') }}">
+    <link rel="manifest" href="{{ url_for('static', filename='img/favicon/site.webmanifest') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon/favicon.ico') }}">
+
+    {# Google Fonts #}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=B612+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:wght@400;500;700&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+    {# Bootstrap CSS #}
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+    {# Font Awesome #}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    {# Ephergent Theme CSS #}
+    <style>
+        :root {
+            --pink: #f12ca5;
+            --black: #000000;
+            --white: #FFFFFF;
+            --cosmic-blue: #1a1a2e;
+            --reality-static: #16213e;
+            
+            /* Dark mode (default) variables */
+            --bg-primary: var(--black);
+            --bg-secondary: var(--cosmic-blue);
+            --bg-card: var(--reality-static);
+            --text-primary: var(--white);
+            --text-secondary: var(--pink);
+            --border-primary: var(--pink);
+        }
+        
+        /* Light mode override */
+        [data-theme="light"] {
+            --bg-primary: #f8f9fa;
+            --bg-secondary: #ffffff;
+            --bg-card: #ffffff;
+            --text-primary: #212529;
+            --text-secondary: var(--pink);
+            --border-primary: var(--pink);
+            --cosmic-blue: #e9ecef;
+            --reality-static: #f8f9fa;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            background: var(--bg-primary);
+            font-family: 'Montserrat', sans-serif;
+            color: var(--text-secondary);
+            display: flex;
+            flex-direction: column;
+            overflow-x: hidden;
+            position: relative;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'B612 Mono', monospace;
+            color: var(--text-primary);
+            transition: color 0.3s ease;
+        }
+
+        h1.text-pink, h2.text-pink, h3.text-pink, h4.text-pink, h5.text-pink, h6.text-pink {
+            color: var(--text-secondary);
+        }
+
+        a {
+            color: var(--pink);
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #d115a0;
+            text-decoration: underline;
+        }
+
+        .cosmic-card {
+            background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+            border: 2px solid var(--border-primary);
+            box-shadow: 
+                5px 5px 0 var(--border-primary),
+                10px 10px 0 rgba(241, 44, 165, 0.3);
+            padding: 2rem;
+            margin: 1rem 0;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .cosmic-card:hover {
+            transform: scale(1.02) rotate(0) !important;
+            box-shadow: 
+                8px 8px 0 var(--pink),
+                15px 15px 0 rgba(241, 44, 165, 0.2);
+        }
+
+        .cosmic-card::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, transparent, var(--pink), transparent);
+            z-index: -1;
+            filter: blur(10px);
+            opacity: 0.3;
+        }
+
+        .navbar {
+            background-color: rgba(0, 0, 0, 0.8);
+            border-bottom: 1px solid var(--border-primary);
+            transition: background-color 0.3s ease, border-bottom 0.3s ease;
+        }
+        
+        [data-theme="light"] .navbar {
+            background-color: rgba(248, 249, 250, 0.95);
+            border-bottom: 1px solid var(--border-primary);
+        }
+
+        .navbar-brand {
+            font-family: 'B612 Mono', monospace;
+            font-weight: 700;
+            color: var(--pink) !important;
+        }
+
+        .navbar .nav-link {
+            color: var(--white);
+            transition: color 0.3s ease;
+        }
+
+        .navbar .nav-link:hover {
+            color: var(--pink);
+        }
+
+        .navbar .nav-link.active {
+            color: var(--pink) !important;
+            font-weight: bold;
+        }
+
+        .reality-button {
+            background: var(--pink);
+            color: var(--black);
+            border: none;
+            padding: 0.75rem 1.5rem;
+            font-family: 'B612 Mono', monospace;
+            font-weight: 700;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            font-size: 0.9rem;
+        }
+
+        .reality-button:hover {
+            transform: translateY(-3px) rotate(2deg);
+            box-shadow: 5px 5px 0 var(--white);
+            color: var(--black);
+        }
+
+        .reality-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+            transition: left 0.5s;
+        }
+
+        .reality-button:hover::before {
+            left: 100%;
+        }
+
+        .reality-button.btn-sm {
+            padding: 0.4rem 0.8rem;
+            font-size: 0.75rem;
+        }
+
+        .border-pink {
+            border: 1px solid var(--pink);
+        }
+
+        .text-pink {
+            color: var(--pink);
+        }
+
+        .bg-pink {
+            background-color: var(--pink);
+        }
+
+        .font-courier-prime {
+            font-family: 'Courier Prime', monospace;
+        }
+
+        footer {
+            background-color: rgba(0, 0, 0, 0.8);
+            color: var(--white);
+            padding: 1.5rem 0;
+            border-top: 1px solid var(--pink);
+            text-align: center;
+            font-size: 0.9rem;
+            margin-top: auto;
+        }
+
+        .alert {
+            border-radius: 0;
+            margin-bottom: 0;
+        }
+
+        .content-container {
+            padding: 2rem 0 4rem;
+            min-height: calc(100vh - 150px);
+            flex-grow: 1;
+        }
+
+        #cosmic-particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .particle {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: var(--pink);
+            border-radius: 50%;
+            opacity: 0;
+            animation: float 20s infinite linear;
+        }
+
+        .particle:nth-child(odd) {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .particle:nth-child(3n) {
+            background: rgba(241, 44, 165, 0.4);
+        }
+
+        @keyframes float {
+            0% {
+                transform: translateY(0) rotate(0deg);
+                opacity: 0;
+            }
+            10%, 90% {
+                opacity: 0.5;
+            }
+            100% {
+                transform: translateY(-100vh) rotate(360deg);
+                opacity: 0;
+            }
+        }
+
+        .glitch {
+            position: relative;
+            display: inline-block;
+        }
+
+        .glitch:before,
+        .glitch:after {
+            content: attr(data-text);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: inherit;
+        }
+
+        .glitch:before {
+            animation: glitch-1 2.5s infinite;
+            color: #ff00c1;
+            z-index: -1;
+        }
+
+        .glitch:after {
+            animation: glitch-2 2.5s infinite;
+            color: #00ffff;
+            z-index: -2;
+        }
+
+        @keyframes glitch-1 {
+            0%, 14%, 16%, 49%, 51%, 99%, 100% { transform: none; }
+            15% { transform: translate(-3px, -1px) skewX(5deg); }
+            50% { transform: translate(3px, 1px) skewX(5deg); }
+        }
+
+        @keyframes glitch-2 {
+            0%, 20%, 22%, 62%, 64%, 99%, 100% { transform: none; }
+            21% { transform: translate(3px, 2px) skewX(-5deg); }
+            63% { transform: translate(-3px, -2px) skewX(-5deg); }
+        }
+
+        .btn-primary {
+            background-color: var(--pink);
+            border-color: var(--pink);
+            color: var(--black);
+        }
+
+        .btn-primary:hover {
+            background-color: #d115a0;
+            border-color: #d115a0;
+            color: var(--white);
+        }
+
+        .card {
+            background-color: var(--reality-static);
+            border: 1px solid var(--pink);
+            color: var(--white);
+        }
+
+        .card-header {
+            background-color: rgba(241, 44, 165, 0.1);
+            border-bottom: 1px solid var(--pink);
+        }
+
+        .form-control {
+            background-color: rgba(22, 33, 62, 0.8);
+            border: 1px solid var(--pink);
+            color: var(--white);
+        }
+
+        .form-control:focus {
+            background-color: rgba(22, 33, 62, 0.9);
+            border-color: var(--pink);
+            box-shadow: 0 0 0 0.25rem rgba(241, 44, 165, 0.25);
+            color: var(--white);
+        }
+
+        .form-control::placeholder {
+            color: rgba(255, 255, 255, 0.6);
+        }
+        
+        /* Light mode specific overrides */
+        [data-theme="light"] .form-control {
+            background-color: rgba(248, 249, 250, 0.8);
+            border: 1px solid var(--pink);
+            color: var(--text-primary);
+        }
+        
+        [data-theme="light"] .form-control:focus {
+            background-color: rgba(248, 249, 250, 0.9);
+            border-color: var(--pink);
+            color: var(--text-primary);
+        }
+        
+        [data-theme="light"] .form-control::placeholder {
+            color: rgba(33, 37, 41, 0.6);
+        }
+        
+        [data-theme="light"] .card {
+            background-color: var(--bg-card);
+            color: var(--text-primary);
+        }
+        
+        [data-theme="light"] .text-white,
+        [data-theme="light"] .text-white-50 {
+            color: var(--text-primary) !important;
+        }
+        
+        [data-theme="light"] .particle {
+            background: var(--pink);
+        }
+        
+        [data-theme="light"] footer {
+            background-color: rgba(248, 249, 250, 0.8);
+            color: var(--text-primary);
+            border-top: 1px solid var(--pink);
+        }
+        
+        /* Dark mode toggle button */
+        #darkModeToggle {
+            transition: color 0.3s ease;
+        }
+        
+        #darkModeToggle:hover {
+            color: var(--pink) !important;
+        }
+
+        /* Dropdown menu styling */
+        .dropdown-menu {
+            background-color: var(--reality-static);
+            border: 1px solid var(--pink);
+            border-radius: 4px;
+        }
+
+        .dropdown-item {
+            color: var(--text-primary);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .dropdown-item:hover, .dropdown-item:focus {
+            background-color: rgba(241, 44, 165, 0.1);
+            color: var(--pink);
+        }
+
+        [data-theme="light"] .dropdown-menu {
+            background-color: var(--bg-card);
+            border-color: var(--pink);
+        }
+
+        [data-theme="light"] .dropdown-item {
+            color: var(--text-primary);
+        }
+
+        [data-theme="light"] .dropdown-item:hover,
+        [data-theme="light"] .dropdown-item:focus {
+            background-color: rgba(241, 44, 165, 0.1);
+            color: var(--pink);
+        }
+    </style>
+    
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="{{ url_for('main.index') }}">THE EPHERGENT</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('main.index') }}">HOME</a>
+                    </li>
+                    {% if current_user.is_authenticated %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url_for('main.generate') }}">GENERATE STORY</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url_for('main.stories') }}">MY STORIES</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url_for('main.queue_status') }}">QUEUE STATUS</a>
+                        </li>
+                    {% endif %}
+                    {% if current_user.is_authenticated and current_user.is_admin %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url_for('main.health_dashboard') }}">SERVICE HEALTH</a>
+                        </li>
+                    {% endif %}
+                    {% if current_user.is_authenticated %}
+                        {% if current_user.is_admin %}
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="adminDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    ADMIN
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="adminDropdown">
+                                    <li><a class="dropdown-item" href="{{ url_for('admin.dashboard') }}">
+                                        <i class="fas fa-home me-2"></i>Admin Dashboard
+                                    </a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="{{ url_for('admin.characters') }}">
+                                        <i class="fas fa-users me-2"></i>Characters
+                                    </a></li>
+                                    <li><a class="dropdown-item" href="{{ url_for('admin.character_images') }}">
+                                        <i class="fas fa-image me-2"></i>Character Images
+                                    </a></li>
+                                    <li><a class="dropdown-item" href="{{ url_for('admin.config') }}">
+                                        <i class="fas fa-sliders-h me-2"></i>System Config
+                                    </a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" href="{{ url_for('auth.api_keys') }}">
+                                        <i class="fas fa-key me-2"></i>API Keys
+                                    </a></li>
+                                </ul>
+                            </li>
+                        {% endif %}
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="fas fa-user me-1"></i>{{ current_user.username }}
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="userDropdown">
+                                <li><a class="dropdown-item" href="{{ url_for('auth.profile') }}">
+                                    <i class="fas fa-user-circle me-2"></i>Profile
+                                </a></li>
+                                <li><a class="dropdown-item" href="{{ url_for('auth.api_keys') }}">
+                                    <i class="fas fa-key me-2"></i>API Keys
+                                </a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" href="{{ url_for('auth.logout') }}">
+                                    <i class="fas fa-sign-out-alt me-2"></i>Logout
+                                </a></li>
+                            </ul>
+                        </li>
+                    {% else %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ url_for('auth.login') }}">
+                                <i class="fas fa-sign-in-alt me-1"></i>LOGIN
+                            </a>
+                        </li>
+                    {% endif %}
+                    <li class="nav-item">
+                        <button id="darkModeToggle" class="btn nav-link" style="border: none; background: none;">
+                            <i id="darkModeIcon" class="fas fa-moon text-pink"></i>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Flash Messages -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <div class="container mt-4">
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ 'danger' if category == 'error' else 'info' if category == 'info' else 'success' if category == 'success' else 'warning' }} alert-dismissible fade show" role="alert">
+                        {{ message }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    {% endwith %}
+
+    <!-- Main Content -->
+    <div class="container content-container">
+        {% block content %}{% endblock %}
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 mb-3 mb-md-0 text-md-start">
+                    <p class="mb-1">THE EPHERGENT™ | Reality Optional, Truth Inevitable</p>
+                    <p class="mb-1">Est. All Timelines | Season 02 Generator</p>
+                    <p class="mb-1">Pay with Crystallized Laughter</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="mt-2 small text-muted">
+                        <span class="icon-text">
+                            <i class="fas fa-robot text-pink me-2"></i>
+                            <span>Powered by AI Technology</span>
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Cosmic Particles Container -->
+    <div id="cosmic-particles"></div>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+    <!-- Particle Script -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Initialize particles
+        const particleContainer = document.getElementById('cosmic-particles');
+        if (particleContainer) {
+            const particleCount = 30;
+            for (let i = 0; i < particleCount; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + 'vw';
+                particle.style.top = Math.random() * 100 + 'vh';
+                particle.style.animationDuration = (Math.random() * 15 + 10) + 's';
+                particle.style.animationDelay = (Math.random() * 10) + 's';
+                particleContainer.appendChild(particle);
+            }
+        }
+        
+        // Dark mode toggle functionality
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const darkModeIcon = document.getElementById('darkModeIcon');
+        const body = document.body;
+        
+        // Check for saved theme preference or default to dark mode
+        const currentTheme = localStorage.getItem('theme') || 'dark';
+        
+        // Set initial theme (dark mode is default)
+        if (currentTheme === 'light') {
+            body.setAttribute('data-theme', 'light');
+            darkModeIcon.classList.replace('fa-moon', 'fa-sun');
+        }
+        
+        // Toggle theme on click
+        if (darkModeToggle) {
+            darkModeToggle.addEventListener('click', function() {
+                const currentTheme = body.getAttribute('data-theme');
+                
+                if (currentTheme === 'light') {
+                    // Switch to dark mode
+                    body.removeAttribute('data-theme');
+                    darkModeIcon.classList.replace('fa-sun', 'fa-moon');
+                    localStorage.setItem('theme', 'dark');
+                } else {
+                    // Switch to light mode
+                    body.setAttribute('data-theme', 'light');
+                    darkModeIcon.classList.replace('fa-moon', 'fa-sun');
+                    localStorage.setItem('theme', 'light');
+                }
+            });
+        }
+    });
+    </script>
+
+    <!-- Custom JS -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html>

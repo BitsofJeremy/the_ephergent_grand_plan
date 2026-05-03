@@ -1,0 +1,37 @@
+{
+  "$ref": "#/definitions/crew",
+  "definitions": {
+    "crew": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string"
+        },
+        "voice": {
+          "type": "string"
+        },
+        "portrait": {
+          "type": "string"
+        },
+        "lore_links": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "role"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
