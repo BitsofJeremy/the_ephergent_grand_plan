@@ -1,0 +1,56 @@
+[project]
+name = "season-03-generator"
+version = "0.1.1"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.2",
+    "flask-sqlalchemy>=3.1.1",
+    "flask-login>=0.6.3",
+    "werkzeug>=3.0.0",
+    "requests>=2.32.5",
+    "python-dotenv>=1.0.0",
+    "google-genai>=1.33.0",
+    "pillow>=10.0.0",
+    "openai>=1.0.0",
+    "pydub>=0.25.1",
+    "pydub-stubs>=0.25.1.6",
+    "ffmpeg-python>=0.2.0",
+    "websocket-client>=1.8.0",
+    "moviepy>=2.2.1",
+    "numpy>=2.3.2",
+    "google-auth-oauthlib>=1.2.0",
+    "google-auth-httplib2>=0.2.0",
+    "google-api-python-client>=2.147.0",
+    "pyjwt>=2.8.0",
+    "markdown>=3.5.0",
+    "flask-restx>=1.3.0",
+    "marshmallow>=4.0.1",
+    "psycopg2-binary>=2.9.9",
+    "schedule>=1.2.2",
+    "psutil>=7.1.0",
+    "boto3>=1.40.39",
+    "flask-migrate>=4.1.0",
+    "flask-wtf>=1.2.0",
+    "wtforms>=3.1.0",
+    "mcp>=1.0.0",
+    "uvicorn>=0.30.0",
+    "starlette>=0.37.0",
+    "httpx>=0.27.0",
+    "prometheus-client>=0.20.0",
+    "python-json-logger>=2.0.7",
+]
+
+[project.scripts]
+ephergent-backup = "scripts.backup_manager:main"
+ephergent-restore = "scripts.restore_system:main"
+
+[tool.setuptools]
+packages = ["ephergent_generator"]
+
+# Explanation: Add a minimal PEP 517 build-system section so `pip install .` inside the venv
+# (used by the deploy script) can build/install the package reliably.
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"

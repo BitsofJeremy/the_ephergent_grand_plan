@@ -1,0 +1,274 @@
+{% extends "base.html" %}
+
+{% block title %}{{ story.title }} - {{ super() }}{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <!-- Story Header -->
+            <div class="card mb-4">
+                <div class="card-header bg-success text-white">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h3 class="mb-0"><i class="bi bi-check-circle"></i> Story Generated Successfully!</h3>
+                        <div class="btn-group">
+                            <button class="btn btn-light btn-sm" onclick="copyToClipboard()">
+                                <i class="bi bi-clipboard"></i> Copy
+                            </button>
+                            <button class="btn btn-warning btn-sm" onclick="regenerateStory({{ story.id }})">
+                                <i class="bi bi-arrow-clockwise"></i> Regenerate
+                            </button>
+                            <a href="{{ url_for('main.generate') }}" class="btn btn-light btn-sm">
+                                <i class="bi bi-plus"></i> Generate Another
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h1 class="display-6 mb-3">{{ story.title }}</h1>
+                        </div>
+                        <div class="col-md-4 text-md-end">
+                            <div class="story-meta">
+                                {% if story.genre %}
+                                    <span class="badge bg-primary me-1">{{ story.genre|title }}</span>
+                                {% endif %}
+                                {% if story.tone %}
+                                    <span class="badge bg-secondary me-1">{{ story.tone|title }}</span>
+                                {% endif %}
+                                <br>
+                                <small class="text-muted">
+                                    <i class="bi bi-clock"></i> {{ story.created_at.strftime('%B %d, %Y at %I:%M %p') }}
+                                    {% if story.word_count %}
+                                        <br><i class="bi bi-file-text"></i> {{ story.word_count }} words
+                                    {% endif %}
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Media Gallery -->
+            {% set image_paths = story.get_image_paths() %}
+            {% if image_paths or story.audio_path or story.video_path or story.youtube_url %}
+            <div class="card mb-4">
+                <div class="card-header bg-dark text-white">
+                    <h5 class="mb-0"><i class="bi bi-collection-play"></i> Story Media</h5>
+                </div>
+                <div class="card-body">
+                    <!-- Images -->
+                    {% if image_paths %}
+                    <div class="mb-4">
+                        <h6 class="text-muted mb-3"><i class="bi bi-images"></i> Generated Images</h6>
+                        <div class="row g-3">
+                            {% for image_type, image_url in image_paths.items() %}
+                            <div class="col-md-6 col-lg-4">
+                                <div class="card border-0 shadow-sm">
+                                    <img src="{{ image_url }}" class="card-img-top" alt="{{ image_type|title }} image" 
+                                         style="height: 200px; object-fit: cover; cursor: pointer;" 
+                                         onclick="openImageModal('{{ image_url }}', '{{ image_type|title }} Image')">
+                                    <div class="card-body p-2 text-center">
+                                        <small class="text-muted">{{ image_type|title }}</small>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endif %}
+                    
+                    <!-- Audio -->
+                    {% if story.audio_path %}
+                    <div class="mb-4">
+                        <h6 class="text-muted mb-3"><i class="bi bi-music-note"></i> Story Audio</h6>
+                        <div class="audio-player">
+                            <audio controls class="w-100" preload="metadata">
+                                <source src="{{ story.audio_path }}" type="audio/mpeg">
+                                <source src="{{ story.audio_path }}" type="audio/wav">
+                                <source src="{{ story.audio_path }}" type="audio/ogg">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </div>
+                    </div>
+                    {% endif %}
+                    
+                    <!-- Video -->
+                    {% if story.video_path %}
+                    <div class="mb-4">
+                        <h6 class="text-muted mb-3"><i class="bi bi-play-circle"></i> Story Video</h6>
+                        <div class="video-player">
+                            <video controls class="w-100" style="max-height: 400px;" preload="metadata">
+                                <source src="{{ story.video_path }}" type="video/mp4">
+                                <source src="{{ story.video_path }}" type="video/webm">
+                                <source src="{{ story.video_path }}" type="video/ogg">
+                                Your browser does not support the video element.
+                            </video>
+                        </div>
+                    </div>
+                    {% endif %}
+                    
+                    <!-- YouTube Video -->
+                    {% if story.youtube_url %}
+                    <div class="mb-0">
+                        <h6 class="text-muted mb-3"><i class="bi bi-youtube"></i> YouTube Video</h6>
+                        <div class="ratio ratio-16x9">
+                            {% set video_id = story.youtube_video_id %}
+                            <iframe src="https://www.youtube.com/embed/{{ video_id }}" 
+                                    title="YouTube video player" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                            </iframe>
+                        </div>
+                        <div class="mt-2 text-center">
+                            <a href="{{ story.youtube_url }}" target="_blank" class="btn btn-outline-danger btn-sm">
+                                <i class="bi bi-youtube"></i> Watch on YouTube
+                            </a>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+
+            <!-- Story Content -->
+            <div class="card">
+                <div class="card-body">
+                    <div class="story-content" id="storyContent">
+                        {{ story.content|nl2br|safe }}
+                    </div>
+                </div>
+                <div class="card-footer text-muted">
+                    <strong>Original Prompt:</strong> {{ story.prompt }}
+                </div>
+            </div>
+            
+            <!-- Action Buttons -->
+            <div class="text-center mt-4">
+                <a href="{{ url_for('main.stories') }}" class="btn btn-outline-primary">
+                    <i class="bi bi-collection"></i> View All Stories
+                </a>
+                <a href="{{ url_for('main.generate') }}" class="btn btn-primary">
+                    <i class="bi bi-magic"></i> Generate Another Story
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Image Modal -->
+<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="imageModalLabel">Image Viewer</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="modalImage" src="" class="img-fluid" alt="Full size image">
+            </div>
+            <div class="modal-footer justify-content-center">
+                <a id="downloadImage" href="" download class="btn btn-primary btn-sm">
+                    <i class="bi bi-download"></i> Download
+                </a>
+                <button type="button" class="btn btn-secondary btn-sm" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Success Toast -->
+<div class="toast-container position-fixed bottom-0 end-0 p-3">
+    <div id="copyToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header">
+            <i class="bi bi-check-circle text-success me-2"></i>
+            <strong class="me-auto">Copied!</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="toast"></button>
+        </div>
+        <div class="toast-body">
+            Story has been copied to clipboard.
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+function openImageModal(imageUrl, imageTitle) {
+    const modal = new bootstrap.Modal(document.getElementById('imageModal'));
+    const modalImage = document.getElementById('modalImage');
+    const modalTitle = document.getElementById('imageModalLabel');
+    const downloadLink = document.getElementById('downloadImage');
+    
+    modalImage.src = imageUrl;
+    modalTitle.textContent = imageTitle;
+    downloadLink.href = imageUrl;
+    downloadLink.download = imageTitle.replace(/\s+/g, '_').toLowerCase() + '.jpg';
+    
+    modal.show();
+}
+
+function regenerateStory(storyId) {
+    if (confirm('Are you sure you want to regenerate this story? This will delete the current content and create a new version from scratch.')) {
+        // Show loading state
+        const button = event.target.closest('button');
+        const originalText = button.innerHTML;
+        button.innerHTML = '<i class="spinner-border spinner-border-sm me-1"></i>Regenerating...';
+        button.disabled = true;
+        
+        // Make the request
+        fetch(`/story/${storyId}/regenerate`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            }
+        })
+        .then(response => {
+            if (response.ok) {
+                // Redirect to status page
+                window.location.href = `/story/${storyId}/status`;
+            } else {
+                throw new Error('Failed to regenerate story');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Failed to regenerate story. Please try again.');
+            // Restore button
+            button.innerHTML = originalText;
+            button.disabled = false;
+        });
+    }
+}
+
+function copyToClipboard() {
+    const storyTitle = "{{ story.title }}";
+    const storyContent = document.getElementById('storyContent').innerText;
+    const fullText = storyTitle + "\n\n" + storyContent;
+    
+    navigator.clipboard.writeText(fullText).then(function() {
+        const toast = new bootstrap.Toast(document.getElementById('copyToast'));
+        toast.show();
+    }).catch(function(err) {
+        console.error('Could not copy text: ', err);
+        // Fallback for older browsers
+        const textArea = document.createElement('textarea');
+        textArea.value = fullText;
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+        try {
+            document.execCommand('copy');
+            const toast = new bootstrap.Toast(document.getElementById('copyToast'));
+            toast.show();
+        } catch (err) {
+            alert('Please manually copy the story text');
+        }
+        document.body.removeChild(textArea);
+    });
+}
+</script>
+{% endblock %}
