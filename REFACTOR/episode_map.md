@@ -63,14 +63,14 @@
 | **S03E05** | The Loudest Thing in the Room Is Nothing | The crew enters the Great Silence — the largest known Silence Zone. A civilization that heard the Ephergent Frequency, understood it, and chose to stop listening. Barry's notebook entry: "Respect it. Do not attempt to re-tune." | `phase_04_episodes/season03/S03E05_The_Loudest_Thing_in_the_Room_Is_Nothing.md` | **COVERED** |
 | **S03E06** | My Brother the Broadcast | At the unstable boundary between the Silence Zone and open Space, Zephyr makes full contact with Aether — not as a voice, as a signal. Zephyr must decide whether to grieve what his brother was or celebrate what he's become. Every remaining crew member understands the word "Ephergent." | `phase_04_episodes/season03/S03E06_All_of_Us_Know.md` | **COVERED** (renamed) |
 | **S03E07** | Every Ship That Ever Sailed This Far | At a stable eddy near the Wellspring's outer field, the crew encounters other seekers — ships and travelers who followed their own signals this far. Someone who met Barry: "He said someone would come. He said to tell them the coffee was ready." | MISSING | **MISSING** |
-| **S03E08** | The Atlas Opens | At the Wellspring's threshold, Mochi's data crystal fully activates. The Builder frequency map opens — hundreds of worlds. Worlds that could exist. Worlds that did exist and faded. Clive recognizes his own calibration notation. "I made this. I didn't remember making it." | MISSING | **MISSING** |
+| **S03E08** | The Atlas Opens | At the Wellspring's threshold, Mochi's data crystal fully activates. The Builder frequency map opens — 847 frequencies. Clive recognizes his own calibration notation. "I made this. I didn't remember making it." | `phase_04_episodes/season03/S03E08_the_atlas_opens.md` | **COVERED** |
 | **S03E09** | Took You Long Enough | The Wellspring. Barry Kowalski is sitting on a lattice strut with his thermos. Mildly annoyed it took this long. "Took you long enough. I left very clear directions." Clive: "Your directions were unclear." Barry: "My directions were perfect." Barry: "Also, I made coffee the whole time. Kept it warm." | `phase_04_episodes/season03/S03E09_Reunion_Protocol.md` | **COVERED** (renamed) |
 | **S03E10** | The Signal Was Us All Along | The crew receives the Builders' broadcast — an apology, an invitation, an introduction. Clive's memory completes. Each crew member translates the message through their own experience. Pixel's final transmission. During the broadcast, Meatball howls — a single, sustained vocalization rising and falling with the Frequency's harmonic structure. The crew sends the message. The signal travels. | `phase_04_episodes/season03/S03E10_The_Builders_Were_People.md` + `season03/S03E11_The_Last_Broadcast.md` + `season03/S03E12_The_Signal_Continues.md` | **AMALGAMATED** — existing S03E10-12 cover the ending |
 
 **Season 03 Summary:**
-- **COVERED:** 7 episodes (E01-E06, E09)
+- **COVERED:** 8 episodes (E01-E06, E08-E09)
 - **AMALGAMATED:** 1 episode (E10 = S03E10 + S03E11 + S03E12 combined)
-- **MISSING:** 2 episodes (E07 Every Ship..., E08 Atlas Opens)
+- **MISSING:** 1 episode (E07 Every Ship...)
 
 ---
 
