@@ -53,7 +53,7 @@ Mochi is not a calibration device.
 What is it?
 
 **A1**
-Mochi is an atlas. Mochi is a complete frequency map of everything the Builders ever recorded. Every world. Every signal. Every frequency that has ever existed, been catalogued, and — in many cases — been lost. Mochi is carrying the complete history of the interplanar — of the interplanar frequency network. Mochi has been carrying it since before the Dimming. Mochi has been waiting for someone to bring it home.
+Mochi is an atlas. Mochi is a complete frequency map of everything the Builders ever recorded. Every world. Every signal. Every frequency that has ever existed, been catalogued, and — in many cases — been lost. Mochi is carrying the complete history of the Builder frequency network. Mochi has been carrying it since before the Dimming. Mochi has been waiting for someone to bring it home.
 
 *[Mochi pulses. A deep, golden warmth. The room fills with something that feels like a held breath.]*
 
