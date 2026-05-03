@@ -870,6 +870,38 @@ source_archive/
 
 ---
 
+### PHASE 8 — IMAGE PRODUCTION
+**Deliverables** → `phase_08_image_production/`
+
+Character portraits, scene illustrations, episode thumbnails, and game concept art — all generated via ComfyUI Flux on Jeremy's LAN server.
+
+**Server:** ComfyUI LAN (10.0.0.20:8188) — RTX 3060 12GB VRAM  
+**Model:** FLUX/flux1-dev-fp8.safetensors  
+**LoRA Stack:** fluxlisimo_v4 (0.7) → Kenva_Style (0.6) → creepy-cute-magical (0.3) → Evangelion_Post-impact (0.8)  
+**Speed:** ~200ms per image (after first-load); first gen ~4 min  
+**Output:** 1024×1024 PNG → `ephergent.com/assets/images/generated/`
+
+**Task 8.1**: Character Portraits — Crew  
+Full-bleed portrait for each of the 8 core crew members: Pixel Paradox, A1, Clive, Meatball, Mochi, Om Kai, Zephyr Glitch, Barry Kowalski. Generate 4 seed variants each, select best. Reference the crew pages in `phase_07_site/src/content/crew/` for canonical physical descriptions. Place final images in `ephergent.com/assets/images/generated/`.
+
+**Task 8.2**: Scene Illustrations — Key Locations  
+One hero image each for: The Ephergent Bridge, The Interdimensional Space, Nocturne Aeturnus, The Wellspring, Frequency Storm, Prime Material, Verdantia, Cogsworth Cogitarium. Reference Canon V2 (`REFACTOR/ephergent_canon_v2.md`) for canonical visual descriptions.
+
+**Task 8.3**: Episode Thumbnails  
+One thumbnail per canonical episode (30 total, S01–S03). Each thumbnail illustrates the episode's emotional hook or key scene. Reference `phase_04_episodes/season[1-3]/` for episode synopses.
+
+**Task 8.4**: Game Concept Art (Phase 05 prep)  
+Pre-production visual concepts for the six Phase 05 games: Meatball's Big Walk, Tune-the-Dial, Static Run, The Laughing Funeral, Builder Station Game, The Wellspring. Game design teams will use these as visual references when building the bibles.
+
+**Task 8.5**: ephergent.com Integration  
+Wire generated images into the site. Update crew pages to reference portrait images. Add scene art to lore entries. Build an image gallery section. All images committed to `ephergent.com/assets/images/generated/` with standard `img:` commit messages. Moguera auto-deploys on main push.
+
+**Generation workflow:** See `phase_08_image_production/PHASE_08_PLAN.md`
+
+**Reference code:** `source_archive/ephergent_season_03_generator/` — Flask app with full ComfyUI service + character prompts (reference only, new implementation calls ComfyUI REST directly)
+
+---
+
 *This document is the creative and production spine of The Ephergent merged universe. All creative decisions here were made in collaboration with Jeremy Schroeder (Before Greatness LLC). When in doubt, return to the central question: "What is an Ephergent?" and let the answer guide you.*
 
 *The universe is talking. The crew is the antenna. Let's make sure the signal is worth receiving.*
