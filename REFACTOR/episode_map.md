@@ -40,13 +40,13 @@
 | **S02E05** | Wreckage and Will | A debris field — the wreckage of a world that didn't make it. Survivors. Refugees. A library turning to static. Baron Klaus von Gnomendorf: twelve-inch ceramic garden gnome, self-appointed head of security. Pixel makes command decisions under crisis without consulting committee. | Multiple variants: `phase_04_episodes/S01E12_wreckage_and_will.md`, `season01/S01E15_wreckage_and_will.md`, `season02/S02E12_Wreckage_and_Will.md` | **COVERED** |
 | **S02E06** | The Notebook's Echo | Barry's field notebooks — actual pages, decades of observations. Coordinates. Frequency measurements. Clive reads them aloud. "He knew what he was looking for." Clive's glow flickers. | MISSING (closest: `season02/S02E06_Quiet_Maps.md` which covers Zephyr mapping Aether clues, NOT Barry's notebooks) | **MISSING** |
 | **S02E07** | The Boneyard of Beautiful Things | A frequency graveyard — dead worlds layered like sediment. Clive recognizes some signatures. "They had names. I don't remember the names yet. I remember the sound they made." Luminara realizes: these frequencies didn't die. They changed state. "Like you." | `phase_04_episodes/season02/S02E07_Name_with_the_Station.md` (partial — covers Ephergent concept discovery) + `phase_04_episodes/season03/S03E02_The_Boneyard_of_Beautiful_Things.md` (S03 version) | **PARTIAL** — needs script |
-| **S02E08** | Signal Crossings | A lost civilization rediscovered — not fading, but transformed. The crew's broadcast reached them years ago; they've been broadcasting back. Aether's signal detected: clearer, closer. Zephyr can almost touch it. The re-tuning effort drains A1. The espresso comes out thin, bitter, exhausted. | MISSING | **MISSING** |
+| **S02E08** | Signal Crossings | A lost civilization rediscovered — not fading, but transformed. The crew's broadcast reached them years ago; they've been broadcasting back. Aether's signal detected: clearer, closer. Zephyr can almost touch it. The re-tuning effort drains A1. The espresso comes out thin, bitter, exhausted. | `phase_04_episodes/season02/S02E08_signal_crossings.md` | **COVERED** |
 | **S02E09** | Clive's Coordinates | Pixel confronts Clive: he's been recording coordinates, steering the ship, making decisions without telling anyone. Clive's memories are surfacing — fragments of Builder technology. "You said Builders. You said it like you knew what it meant." Clive's response: silence, then adjustment of his fedora. | `phase_04_episodes/season02/S02E14_Pixel_and_The_Quiet_Argument.md` | **COVERED** (renamed) |
 | **S02E10** | The Frequency and the Future | Aether appears — more signal than person. "Follow the frequency. But understand — what's at the end isn't what you expect. It's what you need." Zephyr must choose: chase the signal or stay with the crew. The Ephergent frequency surges stronger than ever. Clive votes to follow. Pixel votes to follow. The ship turns toward the deep Space. | `phase_04_episodes/season02/S02E16_Course_Set.md` | **COVERED** (renamed) |
 
 **Season 02 Summary:**
-- **COVERED:** 6 episodes (E01, E03-E05, E09-E10)
-- **MISSING:** 3 episodes (E02 Color of Forgetting, E06 Notebook's Echo, E08 Signal Crossings)
+- **COVERED:** 7 episodes (E01, E03-E05, E08-E10)
+- **MISSING:** 2 episodes (E02 Color of Forgetting, E06 Notebook's Echo)
 - **PARTIAL:** 1 episode (E07 Boneyard — partial coverage from S02E07 and S03E02)
 
 ---
@@ -68,7 +68,7 @@
 | **S03E10** | The Signal Was Us All Along | The crew receives the Builders' broadcast — an apology, an invitation, an introduction. Clive's memory completes. Each crew member translates the message through their own experience. Pixel's final transmission. During the broadcast, Meatball howls — a single, sustained vocalization rising and falling with the Frequency's harmonic structure. The crew sends the message. The signal travels. | `phase_04_episodes/season03/S03E10_The_Builders_Were_People.md` + `season03/S03E11_The_Last_Broadcast.md` + `season03/S03E12_The_Signal_Continues.md` | **AMALGAMATED** — existing S03E10-12 cover the ending |
 
 **Season 03 Summary:**
-- **COVERED:** 8 episodes (E01-E06, E08-E09)
+- **COVERED:** 9 episodes (E01-E06, E08-E10)
 - **AMALGAMATED:** 1 episode (E10 = S03E10 + S03E11 + S03E12 combined)
 - **MISSING:** 1 episode (E07 Every Ship...)
 
@@ -105,14 +105,12 @@
 
 ## MISSING Episodes Summary
 
-| Episode | Title | Priority | Notes |
-|---------|-------|----------|-------|
-| **S01E05** | The Clockwork Unraveling | HIGH | Cogsworth/Cogitarium, Om Kai introduction, temporal drift |
-| **S02E02** | The Color of Forgetting | HIGH | Veranth world disappearing, Mochi dims, emotional beat |
-| **S02E06** | The Notebook's Echo | HIGH | Barry's field notebooks found/read aloud, Clive emotional beat |
-| **S02E08** | Signal Crossings | HIGH | Aether closer, civilization transformed, A1 drained |
-| **S03E07** | Every Ship That Ever Sailed This Far | HIGH | Other seekers at Wellspring, met Barry, coffee was ready |
-| **S03E08** | The Atlas Opens | HIGH | Mochi's crystal activates, Clive recognizes his notation |
+|| Episode | Title | Priority | Notes |
+||---------|-------|----------|-------|
+|| **S01E05** | The Clockwork Unraveling | HIGH | Cogsworth/Cogitarium, Om Kai introduction, temporal drift |
+|| **S02E02** | The Color of Forgetting | HIGH | Veranth world disappearing, Mochi dims, emotional beat |
+|| **S02E06** | The Notebook's Echo | HIGH | Barry's field notebooks found/read aloud, Clive emotional beat |
+|| **S03E07** | Every Ship That Ever Sailed This Far | HIGH | Other seekers at Wellspring, met Barry, coffee was ready |
 
 ---
 
@@ -144,4 +142,4 @@
 ---
 
 *Map generated for The Ephergent refactor*
-*Total: 30 episodes — 21 covered, 6 missing, 3 amalgamated*
+*Total: 30 episodes — 24 covered, 4 missing, 3 amalgamated*
