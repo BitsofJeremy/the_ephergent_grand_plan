@@ -7,7 +7,7 @@
 
 The first thing Pixel saw was a filing cabinet.
 
-It drifted past the observation port at the speed of a slow sigh — grey metal, dented at one corner, a drawer hanging open with papers still inside. The papers fluttered in something that wasn't wind, because there was no wind in the The Space. They fluttered anyway. The Space had opinions about paperwork.
+It drifted past the observation port at the speed of a slow sigh — grey metal, dented at one corner, a drawer hanging open with papers still inside. The papers fluttered in something that wasn't wind, because there was no wind in the Space. They fluttered anyway. The Space had opinions about paperwork.
 
 "A1," Pixel said, leaning closer to the glass. "Are you seeing this?"
 
@@ -43,7 +43,7 @@ Clive's glow dimmed by perhaps ten percent. "I spent some time there."
 
 ### Approach — The Silence Pocket
 
-A1 found it twenty minutes later — a pocket of unusual stillness in the drift of wreckage, a place where the debris field thinned and the The Space went quiet. Not empty-quiet. *Held*-quiet. The kind of silence you find in libraries and hospital corridors and the rooms where people have sat for a very long time without needing to speak.
+A1 found it twenty minutes later — a pocket of unusual stillness in the drift of wreckage, a place where the debris field thinned and the Space went quiet. Not empty-quiet. *Held*-quiet. The kind of silence you find in libraries and hospital corridors and the rooms where people have sat for a very long time without needing to speak.
 
 The coffee changed. Pixel noticed it before she tasted it — A1's hum shifted register, dropping into something lower, more resonant, and the brew that appeared was thick and dark and tasted like molasses and old wood. Sweet and heavy. Grief coffee. A1 was mourning something, or remembering something, and the crew had learned not to ask when the coffee turned thick. You just drank it and sat with whatever it meant.
 
@@ -161,7 +161,7 @@ A1 hummed through the monitoring station's still-active speakers — a low, reso
 
 Pixel found it on the shelf behind the desk — not the alcove shelf, the other one, the one bolted to the wall above the monitoring equipment, where Barry had kept his reference binders and a small clock that had stopped at 3:47 AM. The photograph was in a frame. Cheap frame, the kind you buy at a pharmacy. The glass was cracked but intact.
 
-The image was faded. Degraded by time and the particular entropy of the The Space, which ate at photographs the way years ate at memories — slowly, from the edges in. What remained:
+The image was faded. Degraded by time and the particular entropy of the Space, which ate at photographs the way years ate at memories — slowly, from the edges in. What remained:
 
 A man. Standing. Solid build, unhurried posture, the kind of frame that suggested decades of night shifts in institutional buildings. Grey hair, short, practical. A face weathered by fluorescent lighting, with deep lines around the eyes. He was holding a thermos. Of course he was holding a thermos. The thermos was silver, dented, clearly well-used. His other hand rested at his side, relaxed, with the particular stillness of a person who did not fidget and did not need to.
 
@@ -315,7 +315,7 @@ Meatball settled on his cushion in the common area and sighed — the deep, full
 
 Mochi glowed in the satchel. Warm. Steady. The frequency that had pulsed through Barry's instruments for twenty-three years pulsed through Mochi too, and it would pulse through her until the map inside her opened and the atlas spilled its light and every frequency the Builders had ever charted was visible at last. But that was later. For now, Mochi was warm, and the warmth was enough.
 
-The Ephergent moved through the The Space, leaving DRM wreckage behind. Somewhere ahead: the next signal, the next Station, the next step on a trail laid by a man with a thermos and a notebook who had walked into the impossible because he found something worth walking toward.
+The Ephergent moved through the Space, leaving DRM wreckage behind. Somewhere ahead: the next signal, the next Station, the next step on a trail laid by a man with a thermos and a notebook who had walked into the impossible because he found something worth walking toward.
 
 Somewhere behind: a desk. A thermos. Coffee rings like tree rings. A charging alcove with a dead reading lamp and an empty shelf where a book used to be.
 

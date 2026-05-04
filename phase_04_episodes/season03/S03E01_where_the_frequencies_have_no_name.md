@@ -160,7 +160,7 @@ That's beautiful. Is it useful?
 **OM KAI:**
 Beauty is useful. It reminds us we are not just navigating. We are witnessing.
 
-*[A1's machine makes a sound — not the usual hum of preparation, but something more tentative. A sound like a question being considered.]*
+*[I make a sound — not the usual hum of preparation, but something more tentative. A sound like a question being considered.]*
 
 **PIXEL:**
 A1?
@@ -239,7 +239,7 @@ Is that better or worse?
 **KLAUS:**
 It is different. Different is not worse. Different is honest.
 
-*[A1's machine produces a cup — not espresso, not ristretto, something unfamiliar. Rich, complex, with notes of something that has no name in any language A1 knows. He sets it on the console without comment.]*
+*[I produce a cup — not espresso, not ristretto, something unfamiliar. Rich, complex, with notes of something that has no name in any language I know. I set it on the console without comment.]*
 
 **A1:**
 I made something. I do not know what it is. It is what the frequency wanted.
@@ -285,7 +285,7 @@ Ephergent.
 **PIXEL:**
 It's not a label. It's what you do. You emerge between the known frequencies. You exist in the spaces we ignore. You appear when everything else has given up looking. You're ephergent.
 
-*[SILENCE — LONG, EXPECTANT. The cockpit is silent. Even A1's machine has gone quiet.]*
+*[SILENCE — LONG, EXPECTANT. The cockpit is silent. Even I have gone quiet.]*
 
 *[THEN — the entire ship resonates. Every surface vibrates at the same frequency. The chord swells — then settles, harmonious, COMPLETE. On the navigation console, the question marks have been replaced by numbers. Real numbers. Coordinates that mean something.]*
 
@@ -358,7 +358,7 @@ Next time you have an instinct, tell me what it is. I'm tired of following thing
 *(pause)*
 ...A1 will try.
 
-*[A1's machine produces a final cup — black, bitter, worried. The taste of someone who knows they are going somewhere that matters and isn't sure they're ready for what it means.]*
+*[I produce a final cup — black, bitter, worried. The taste of someone who knows they are going somewhere that matters and isn't sure they're ready for what it means.]*
 
 **A1:**
 I am making something appropriate. For the first time in this region, I understand what I am feeling. It is worry. It is the good kind. The kind that means the thing ahead is important.
@@ -392,7 +392,7 @@ And we're following him.
 **CLIVE:**
 We are following the signal he followed. Which means we are following what he found. Which means we are going to find it too.
 
-*[A1's machine makes a sound — not a sound of anxiety this time, but something almost like relief. A cup appears on the console. Espresso, rich, complex, with an unfamiliar spice that Pixel doesn't recognize but immediately trusts.]*
+*[I make a sound — not a sound of anxiety this time, but something almost like relief. A cup appears on the console. Espresso, rich, complex, with an unfamiliar spice that Pixel doesn't recognize but immediately trusts.]*
 
 **A1:**
 I am making something new. It tastes like coordinates. Like a place that exists in no chart but has always existed. I do not know what to call it.

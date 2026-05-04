@@ -84,7 +84,7 @@ Maintained how?
 **A1**
 By what is inside it. There is a structure. At the center. I can barely read it. It is — it is a buoy. A signal buoy. Ancient. Broadcasting. It has been broadcasting for—
 
-*[A1's machine makes a grinding, uncertain sound.]*
+*[I make a grinding, uncertain sound.]*
 
 **A1 (cont'd)**
 —I cannot determine how long. The mathematics do not resolve. It is either very old or outside of time entirely.

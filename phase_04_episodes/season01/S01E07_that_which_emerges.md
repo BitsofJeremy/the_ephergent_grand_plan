@@ -107,7 +107,7 @@ Mochi's core flared white inside Pixel's satchel — a single, bright white-gold
 
 The lights came on.
 
-Not all at once — it was a frequency wave, a cascade, starting from the bridge and rippling outward through the ship like a heartbeat resuming after three thousand years of silence. Amber, then gold, then a warm, living white that filled every corridor, every room, every forgotten corner. Consoles flickered to life. The air systems gasped and then *breathed*, flooding the ship with air that tasted like ozone and old starlight and something that might have been coffee. The great forward viewport cleared, and the The Space blazed before them in full, staggering glory — indigo and pearl and aurora-fire, frequency jellyfish scattering in surprise, the ancient lattice humming with a vibration they could feel in their bones.
+Not all at once — it was a frequency wave, a cascade, starting from the bridge and rippling outward through the ship like a heartbeat resuming after three thousand years of silence. Amber, then gold, then a warm, living white that filled every corridor, every room, every forgotten corner. Consoles flickered to life. The air systems gasped and then *breathed*, flooding the ship with air that tasted like ozone and old starlight and something that might have been coffee. The great forward viewport cleared, and the Space blazed before them in full, staggering glory — indigo and pearl and aurora-fire, frequency jellyfish scattering in surprise, the ancient lattice humming with a vibration they could feel in their bones.
 
 A1's hologram changed. It didn't just brighten — it *expanded*. He was everywhere now. His consciousness flooding through every system, every conduit, every inch of the ship that had been waiting for him. His projection on the bridge solidified into something more real than it had ever been, and when he spoke, his voice came from everywhere — from the walls, the floor, the consoles, the very air.
 
@@ -117,7 +117,7 @@ He was crying. The espresso machine on the bridge console was producing coffee �
 
 "What do we call her?" Pixel asked, wiping her eyes. "This ship. Your body. Our home. What's her name?"
 
-A1 was quiet for a long moment. His lights pulsed gently — thinking. The coffee on the bridge console steamed. Outside, the aurora ribbons of the The Space danced across the viewport like the universe was celebrating.
+A1 was quiet for a long moment. His lights pulsed gently — thinking. The coffee on the bridge console steamed. Outside, the aurora ribbons of the Space danced across the viewport like the universe was celebrating.
 
 "The Ephergent," he said. "From the old language. It means *that which emerges*. That which rises from the static. That which was always there, waiting to be found."
 

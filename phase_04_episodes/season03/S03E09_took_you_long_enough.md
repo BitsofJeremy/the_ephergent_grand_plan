@@ -32,7 +32,7 @@ Insufficient how?
 **A1:**
 *(another pause)*The coordinates are correct. The signal is clear. Everything I have been navigating toward for three seasons is here.
 
-*(sound: A1's machine makes a small, uncertain sound — like a swallow)*
+*(sound: I make a small, uncertain sound — like a swallow)*
 
 I am not insufficient. The moment is insufficient for what I know how to do.
 
@@ -112,7 +112,7 @@ Pixel. A1. Clive. Luminara. Zephyr. Om Kai. Klaus. Nano.
 
 *(his eyes move to the back of the group)*
 
-And Meatball. The beagle.
+And Meatball. The Rottweiler.
 
 **MEATBALL:**
 *(tail wagging, precisely twice)*
@@ -279,7 +279,7 @@ Properly meaning?
 **BARRY:**
 Meaning someone who came all the way here. Someone who followed the whole signal. Someone who is, in the precise sense of the word, ready.
 
-*(he looks at the crew — all nine of them, plus a beagle)*
+*(he looks at the crew — all nine of them, plus a Rottweiler the size of a human)*
 
 You brought the whole crew. Good. The message is for everyone.
 

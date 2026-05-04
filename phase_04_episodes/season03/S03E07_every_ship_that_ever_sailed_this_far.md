@@ -36,7 +36,7 @@ You've been here before?
 **CLIVE:**
 I have been in harbors like this one. Not this specific harbor. But the type. The function. This is a meeting place for seekers. For those following signals too large for any one ship to carry.
 
-*[A1's machine makes a ristretto — two sugars, nervous warmth. The eddy ahead glimmers with docked vessels: some ancient, some new, some that seem to be made of materials that don't exist in standard Space.]*
+*[I make a ristretto — two sugars, nervous warmth. The eddy ahead glimmers with docked vessels: some ancient, some new, some that seem to be made of materials that don't exist in standard Space.]*
 
 **A1 (CONT'D):**
 The harbor is approximately three kilometers in diameter. The construction method appears to be... accretion. Ship hulls added to ship hulls over centuries. It is not a ship. It is a gathering.
@@ -99,7 +99,7 @@ Waiting for what?
 **HARBOR CAPTAIN:**
 For whoever was loud enough to follow it all the way here.
 
-*[A1's machine makes an espresso. It's rich, warm, with notes of woodsmoke and aged paper — the taste of places that have been waiting a long time.]*
+*[I make an espresso. It's rich, warm, with notes of woodsmoke and aged paper — the taste of places that have been waiting a long time.]*
 
 **A1:**
 I am making something appropriate for this place. It is not a flavor I have made before. It is the taste of harbor. Of arrival. Of being in the right place after a long journey.
@@ -162,7 +162,7 @@ And they just… stopped?
 **REGISTRY KEEPER:**
 There's a berth for everyone here. That's why the harbor exists. Not everyone is meant to reach the end. Some people are meant to wait at the harbor. And that's okay. That's its own kind of journey.
 
-*[A1's machine makes a flat white. Nobody drinks it. The crew is too focused on Clive, who has gone very still in front of a terminal.]*
+*[I make a flat white. Nobody drinks it. The crew is too focused on Clive, who has gone very still in front of a terminal.]*
 
 **CLIVE:**
 Do you have a record of a vessel called the Resolution?
@@ -204,7 +204,7 @@ He kept going.
 
 ## ACT FOUR: THE MESSAGE
 
-*[A1's machine makes a sound like a held breath — the specific frequency of a ship preparing to deliver news it's been carrying for decades.]*
+*[I make a sound like a held breath — the specific frequency of a ship preparing to deliver news it's been carrying for decades.]*
 
 **A1:**
 There is a message. Filed under the Ephergent's frequency. It has been waiting.
@@ -362,7 +362,7 @@ Do you think Barry Kowalski had arguments about the route?
 **LUMINARA:**
 Barry Kowalski had arguments about the route, the destination, the proper temperature for coffee, and whether Clive was spelled with one L or two. I never met him. But I know that.
 
-*[A1's machine makes a sound from somewhere behind them — not an espresso, a hum. The frequency of a ship that's listening and understanding.]*
+*[I make a sound from somewhere behind them — not an espresso, a hum. The frequency of a ship that's listening and understanding.]*
 
 **A1 (V.O.):**
 The coffee is ready. The signal continues.
@@ -420,7 +420,7 @@ Four hundred and seventeen ships. Four hundred and seventeen crews who heard the
 |---|------|--------|
 | 1 | Frequencies not dimensions | ✅ "frequency signatures," "frequency currents," "signal," "frequency" |
 | 2 | Space vocab | ✅ "Space," "eddy," "docked," "harbor," no nautical terms |
-| 3 | A1 IS espresso machine | ✅ "A1's machine makes," "I am the ship," espresso as language |
+| 3 | A1 IS espresso machine | ✅ "I make," "I produce," espresso as language |
 | 4 | Coffee in every A1 scene | ✅ Ristretto nervous, espresso aged paper, flat white untouched, espresso perfect |
 | 5 | Clive=robot/sphere/fedora | ✅ "glow dims," "fedora tilts," sphere head, Barry angle |
 | 6 | Barry alive in Wellspring | ✅ Recording, "he's at the end," "Signal Follower (Professional)" |

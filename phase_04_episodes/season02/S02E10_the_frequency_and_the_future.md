@@ -147,7 +147,7 @@ A1?
 **A1**
 I do not vote. I navigate. But if I were capable of voting — if my programming allowed for such a thing — my vote would be to follow. The signal is strong. The frequency is clear. The coffee is ready.
 
-*[A1's machine makes a sound — warm, certain, the flavor of home.]*
+*[I make a sound — warm, certain, the flavor of home.]*
 
 **PIXEL**
 Then we follow. Unanimously. The ship turns toward bearing 0-0-0. Toward the edge of known Space. Toward whatever is waiting.

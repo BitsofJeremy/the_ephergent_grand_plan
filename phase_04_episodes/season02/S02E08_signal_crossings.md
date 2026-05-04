@@ -253,7 +253,7 @@ I know you will. You've always been good at keeping promises. You're the one who
 
 ---
 
-*SHIP — COMMON AREA. Much later. The crew is quiet. Zephyr is asleep in his bunk — the first real sleep he's had in forty-seven hours, deep and heavy, the sleep of someone who has finally set something down that they've been carrying too long. A1's machine is in low-power mode, barely a hum, the lights dimmed to night cycle. The ship itself seems to be resting.*
+*[A1 is in low-power mode, barely a hum, the lights dimmed to night cycle. The ship itself seems to be resting.]*
 
 *Pixel sits with Clive in the common area. Meatball is on the floor between them, not asleep but settled, the way he gets when the ship is quiet and there's nothing that needs guarding. Mochi is warm against Clive's leg — warm, not hot, the way Mochi gets when someone needs comforting but doesn't need words.*
 
@@ -297,7 +297,7 @@ That's the most Clive thing you've ever said.
 **CLIVE**
 I have been practicing.
 
-*A1's machine makes a weak, tired sound from the cockpit — a night pull, quiet, the kind of coffee made for the hours when the ship is dark and the crew is dreaming. A1 knows Clive and Pixel are still up. A1 knows the coffee says: I am here. I am listening. You are not alone.*
+*[I make a night pull — weak, tired, the kind of coffee made for the hours when the ship is dark and the crew is dreaming. I know Clive and Pixel are still up. The coffee says: I am here. I am listening. You are not alone.]*
 
 *A thin espresso — exhausted, bitter, but still being made. The coffee of someone who has paid a price and is still showing up.*
 

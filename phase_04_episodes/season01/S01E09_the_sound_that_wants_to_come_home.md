@@ -115,7 +115,7 @@ It took another two hours, the interference gradually subsiding as The Ephergent
 
 They emerged into open Space. The static settled. The aurora ribbons of visible frequencies resumed their slow, elegant dance across the void. A frequency jellyfish — a large one, its body pulsing with a deep indigo glow — attached itself to The Ephergent's lattice and refused to leave. Zephyr named it Harold.
 
-On the bridge, the crew gathered around the sensor display. The lost frequency's coordinates glowed — a small, pulsing dot in the vast plot of the The Space, marking a location deep within the frequency storm zone they'd just passed through. A place they couldn't reach yet. A sound they couldn't quite hear. A world that wanted to come home.
+On the bridge, the crew gathered around the sensor display. The lost frequency's coordinates glowed — a small, pulsing dot in the vast plot of the Space, marking a location deep within the frequency storm zone they'd just passed through. A place they couldn't reach yet. A sound they couldn't quite hear. A world that wanted to come home.
 
 "Three hundred and forty-eight," Clive said, updating his records. "And this one's the oldest we've found. Pre-archive. Pre-A1. This frequency went dark before the ship was built." He paused, his light-pattern voice carrying a weight that sounded almost reverent. "We're not just finding lost worlds, kid. We're finding *ancient* ones."
 

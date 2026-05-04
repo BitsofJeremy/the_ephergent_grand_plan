@@ -45,7 +45,7 @@ Clive—
 **CLIVE**
 I am no longer avoiding the question. Mochi appears to be a calibration device that has been dormant. Mochi appears to be waking up. Mochi appears to be responding to proximity to the Wellspring.
 
-*[A1's machine makes no sound. This is, in its own way, the most alarming thing that has happened all week.]*
+*[I make no sound. This is, in my own way, the most alarming thing that has happened all week.]*
 
 **A1**
 I am reading an energy signature from Mochi. It is not electromagnetic. It is not thermal. It is not quantum in any configuration I recognize. It is —
@@ -78,7 +78,7 @@ What is it?
 **A1**
 Mochi is an atlas. Mochi is a complete frequency map of everything the Builders ever recorded. Every world. Every signal. Every frequency that has ever existed, been catalogued, and — in many cases — been lost. Mochi is carrying the complete history of the Builder frequency network.
 
-*[A1's machine shudders. A small, involuntary sound.]*
+*[I shudder. A small, involuntary sound escapes me.]*
 
 **A1 (CONT'D)**
 Mochi has been carrying it since before the Dimming. Mochi has been waiting for someone to bring it home.
@@ -170,7 +170,7 @@ How do we give it that?
 **A1**
 By being here. By being at the Wellspring threshold. By being the signal it's been waiting for.
 
-*[A1's machine makes a sound like a long, slow exhale. The sound of something that has been waiting and is finally allowed to stop waiting.]*
+*[I make a sound like a long, slow exhale. The sound of something that has been waiting and is finally allowed to stop waiting.]*
 
 **A1 (CONT'D)**
 I believe Mochi chose us. I believe Mochi has been carrying this since before we were born. I believe Mochi has been waiting for the right signal to arrive, and when we broadcast for the first time — when Pixel first spoke into the void — Mochi recognized us. Mochi has been calibrating to us ever since.
@@ -270,7 +270,7 @@ Mochi has been waiting for us.
 **A1**
 Mochi has been waiting for someone like us. Someone who follows signals. Someone who keeps showing up. Someone who keeps broadcasting.
 
-*[A1's machine makes an espresso. It's extraordinary — rich, layered, with notes of eight hundred years of waiting, and notes of home, and notes of something that tastes like recognition.]*
+*[I make an espresso. It's extraordinary — rich, layered, with notes of eight hundred years of waiting, and notes of home, and notes of something that tastes like recognition.]*
 
 **A1 (CONT'D)**
 Mochi has been waiting for an Ephergent.
@@ -353,7 +353,7 @@ Eight days. Eight days until we reach the signal. Eight days until we see Barry 
 |---|------|--------|
 | 1 | Frequencies not dimensions | ✅ "frequency signatures," "frequency network," "Builder frequency" |
 | 2 | Space vocab | ✅ "Space," "static," "ship," "atlas," no nautical terms |
-| 3 | A1 IS espresso machine | ✅ "A1's machine," "espresso," "A1's machine makes a sound" |
+| 3 | A1 IS espresso machine | ✅ "I make," "I produce," espresso as language |
 | 4 | Coffee in every A1 scene | ✅ Ristretto burnt edge, espresso extraordinary, black warm certain |
 | 5 | Clive=robot/sphere/fedora | ✅ "sphere dims," "sphere flares," "fedora" referenced |
 | 6 | Barry alive in Wellspring | ✅ "Barry's location," "find Barry at the end of it" |

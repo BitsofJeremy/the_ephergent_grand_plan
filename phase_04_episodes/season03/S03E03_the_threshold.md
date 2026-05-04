@@ -309,7 +309,7 @@ Clive watched until the Keeper's silhouette disappeared into the dark of the sta
 
 "A1," he said. "I would like an espresso."
 
-A1's machine produced a shot. It came out perfect — rich, balanced, the color of resolution. The first perfect cup since they'd entered the Wellspring approach.
+I produced a shot. It came out perfect — rich, balanced, the color of resolution. The first perfect cup since they'd entered the Wellspring approach.
 
 Pixel watched Clive take the cup. Watched him hold it with both hands — a gesture she had never seen him make before, a gesture that looked like someone receiving something they had been waiting for.
 

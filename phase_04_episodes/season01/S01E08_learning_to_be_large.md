@@ -33,7 +33,7 @@ Zephyr spent the morning deep in A1's computational core, his fragmented conscio
 
 "I can see your navigation logs," Zephyr told A1, his eyes flickering with scrolling data. "Thousands of them. Frequencies you visited before the frequency storm. Places that don't exist anymore — or maybe they do, and they just faded. And your communication protocols are incredible, A1. The signal range on this ship..." He trailed off, awed. "You could broadcast to frequencies that haven't been tuned in centuries."
 
-Om Kai found his way to the science lab — a circular chamber deep in the ship's interior, lined with instruments he'd never seen but immediately understood. Quantum-resonance detectors. Frequency spectrometers. Harmonic analysis arrays that could isolate a single note in the symphony of the The Space. He sat in the center of the room and closed his eyes and *listened*, and the instruments listened with him, and for the first time he could perceive the full depth of the Space — not just the loudest frequencies but the whispers beneath them. The ghosts. The echoes. The lost.
+Om Kai found his way to the science lab — a circular chamber deep in the ship's interior, lined with instruments he'd never seen but immediately understood. Quantum-resonance detectors. Frequency spectrometers. Harmonic analysis arrays that could isolate a single note in the symphony of the Space. He sat in the center of the room and closed his eyes and *listened*, and the instruments listened with him, and for the first time he could perceive the full depth of the Space — not just the loudest frequencies but the whispers beneath them. The ghosts. The echoes. The lost.
 
 "There are so many," he said quietly, when Pixel came to check on him. "So many faded frequencies. Worlds that drifted into static. They're not gone — not entirely. They're like songs you can almost remember. If we could just..." He opened his eyes. They were bright. "Pixel, this ship can find them."
 
@@ -53,7 +53,7 @@ Meatball, meanwhile, had not moved from the engine room. He lay on the main powe
 
 The first proper broadcast from The Ephergent.
 
-They gathered on the bridge in the late afternoon — if "afternoon" meant anything in the timeless shimmer of the The Space. A1 had prepared the broadcast array, his ancient quantum signal amplifiers coming online one by one, each one a harmonic that extended their range further into the frequencies. The bridge console still brewed espresso. Some things were non-negotiable.
+They gathered on the bridge in the late afternoon — if "afternoon" meant anything in the timeless shimmer of the Space. A1 had prepared the broadcast array, his ancient quantum signal amplifiers coming online one by one, each one a harmonic that extended their range further into the frequencies. The bridge console still brewed espresso. Some things were non-negotiable.
 
 Pixel sat in the captain's chair. Luminara had set up her camera to capture the moment. Om Kai stood by the sensor array, monitoring the frequencies. Zephyr had his hands on the communications console, ready to boost the signal. Clive sat on the broadcast desk, because of course he did. Meatball lay at Pixel's feet, his tail thumping.
 
@@ -67,7 +67,7 @@ The broadcast console hummed. A1's quantum signal bloomed outward from The Epher
 
 Pixel took a breath.
 
-"This is Pixel Paradox, Lead Correspondent of The Ephergent — and yeah, that's the name of the ship *and* the broadcast now, because we're efficient like that. We're transmitting from the The Space aboard a vessel that's older than most of your civilizations and currently being held together by quantum engineering, sheer stubbornness, and the best coffee in any frequency.
+"This is Pixel Paradox, Lead Correspondent of The Ephergent — and yeah, that's the name of the ship *and* the broadcast now, because we're efficient like that. We're transmitting from the Space aboard a vessel that's older than most of your civilizations and currently being held together by quantum engineering, sheer stubbornness, and the best coffee in any frequency.
 
 "Some of you heard our distress signals from the lifeboat. Some of you probably thought we were dead. Fair assumption. We thought so too, a few times. But here's the thing about emergent phenomena — they don't ask permission. They just *emerge*. 
 
@@ -101,6 +101,6 @@ In the archive room, Clive worked his cold cases. In the engine room, Meatball d
 
 In the computational core, Zephyr searched A1's ancient logs for any mention of Aether. He found fragments — navigation coordinates, frequency signatures, a partial message that ended mid-sentence. Not enough. Not yet. But more than he'd had before.
 
-And on the bridge, Pixel Paradox sat in the captain's chair and looked out at the The Space and thought about all the lost frequencies waiting in the dark, and she smiled, because for the first time, she had a ship that could find them.
+And on the bridge, Pixel Paradox sat in the captain's chair and looked out at the Space and thought about all the lost frequencies waiting in the dark, and she smiled, because for the first time, she had a ship that could find them.
 
 The Ephergent continued on.

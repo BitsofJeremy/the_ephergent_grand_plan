@@ -52,7 +52,7 @@ A1. That is not a necessary contribution.
 **A1**
 It is the necessary contribution. You will not say it. The coffee says it for you.
 
-*[Silence. A1's machine makes another pull — dark, heavy, the taste of someone remembering something they'd rather forget.]*
+*[I pull — dark, heavy, the taste of someone remembering something they'd rather forget.]*
 
 **PIXEL**
 Clive. I am asking you directly. Not as your captain. As your family. What do you remember?

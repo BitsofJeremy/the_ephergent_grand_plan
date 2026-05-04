@@ -249,7 +249,7 @@ Zephyr—
 **ZEPHYR**
 He's *here*. In this debris. He's been here this whole time and I couldn't hear it because I wasn't listening right. I wasn't calibrating for — for *him*. For what he became.
 
-*[A1's machine makes no sound. The room goes still.]*
+*[I make no sound. The room goes still.]*
 
 **PIXEL**
 Zephyr. What do you mean, "what he became"?
@@ -327,7 +327,7 @@ I think that's exactly what he did.
 **A1**
 He created a language of coffee and signals and staple patterns. He used it to leave a trail. For you. For anyone who came looking.
 
-*[A1's machine produces an espresso — rich, warm, with notes of woodsmoke and something almost like hope. A1 sets it on the table. Nobody reaches for it.]*
+*[I produce an espresso — rich, warm, with notes of woodsmoke and something almost like hope. I set it on the table. Nobody reaches for it.]*
 
 **A1 (CONT'D)**
 I am making something appropriate. It is the flavor of waiting. Of things preserved. Of someone who knew you'd come.
@@ -384,7 +384,7 @@ One more day.
 
 *[CLIVE sits alone at the viewport, watching the graveyard shrink. His fedora is off, set beside him — an unusual gesture, as though even the ritual of wearing it feels like too much right now.]*
 
-*[A1's machine produces a small cup — not espresso, something softer. It sets the cup beside Clive without a word. The gesture is careful, deliberate — the way someone might set down a plate of food for a person who hasn't eaten in days.]*
+*[I produce a small cup — not espresso, something softer. I set the cup beside Clive without a word. The gesture is careful, deliberate — the way someone might set down a plate of food for a person who hasn't eaten in days.]*
 
 **CLIVE**
 *(not looking up)*
