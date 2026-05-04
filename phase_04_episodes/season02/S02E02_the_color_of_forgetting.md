@@ -48,6 +48,8 @@ Memory structures. Cultural records. The things that tell them who they are.
 **PIXEL (V.O.)**
 Alright. This is what we do. This is exactly what we do. Everyone suit up.
 
+---
+
 *[VERANTH — SURFACE. A city going transparent. Buildings are becoming see-through — you can see through the parliament to the sky behind it, through the hospital to the ground beneath it, through the homes to the foundations on which they were built and then abandoned. The citizens are fading too, but slowly, like they're holding on by habit.]*
 
 *[CREW ON SURFACE. Pixel broadcasting. Luminara photographing. Om Kai seated at the edge of the fading, hands in his lap. Clive walking the perimeter with sensors. Zephyr at a terminal, downloading what he can. Nano standing on Zephyr's shoulder for better angle.]*
@@ -63,30 +65,126 @@ I am amplifying. I am trying.
 **PIXEL (V.O.)**
 You don't have to try, A1. You just have to keep going.
 
-**OM KAI (quietly)**
-The Drift is not cruel. The Drift is indifferent. But indifference is not the same as irreversibility. If the signal is strong enough — if the observation is precise enough — the frequency can stabilize. Temporarily. Enough.
+---
 
-**CLIVE**
-How temporarily?
+*[VERANTH — MARKET SQUARE. An old woman sits on a bench that is becoming harder to see. She is holding a jar of something red — preserves, maybe, or a memory of preserves. The color in the jar is the last strong red left in the square. Luminara photographs it. The flash makes the red hold — just for a moment.]*
 
-**OM KAI**
-Temporarily enough.
-
-*[Luminara photographs the fading city. Each flash seems to make the colors hold — just a little, just for a moment. The citizens watch her with exhausted hope.]*
+**OLD WOMAN**
+*(in Veranthic, subtitled)*
+They say the first thing to go is the taste of food. Not the hunger — the hunger stays. Just the taste. You eat and you eat and nothing tastes like anything. Then the colors start. You wake up one morning and the roses are paler than you remember. A week later you can see through them.
 
 **LUMINARA**
-Observation is stabilizing the frequency. My camera — the act of recording — it's buying them time. Not much. Not forever. But time.
+*(quietly, to herself)*
+Like watching a photograph develop in reverse.
 
-**KLAUS**
-Then we observe. We document. We do not leave until we have to leave.
+**OLD WOMAN**
+My granddaughter asked me yesterday what color the sky used to be. She's seven. She couldn't remember.
 
-**PIXEL**
-And when we have to leave?
+**LUMINARA**
+*(raising her camera)*
+Can I — ?
 
-**KLAUS**
-We leave. And we come back. That's the part they're learning. We come back.
+**OLD WOMAN**
+Take whatever you want. It won't help. But take it.
 
-*[Mochi dims again — noticeably this time. Pixel's hand goes to her pocket. She feels the cooling. She doesn't comment on it. She files it away.]*
+*[Luminara photographs her. The old woman does not smile. She holds the jar steady. The red holds.]*
+
+---
+
+*[VERANTH — TEMPLE OF RECORDED SOUND. Clive stands at the entrance, sensors sweeping. Inside: walls covered in crystalline storage arrays, each one a recorded song, a story, a history. Half the crystals are dark. The other half are flickering — like candles in a draft.]*
+
+**CLIVE**
+The temple archives. Every song ever composed on Veranth. Every speech. Every bedtime story and market call and funeral dirge.
+
+**ZEPHYR**
+How much is left?
+
+**CLIVE**
+Seventeen percent of the total collection. The rest — he gestures at the dark crystals — the rest is already gone. They don't even know what's missing. The moment it faded, they forgot it existed.
+
+*[Clive's glow shifts — a flicker, quick, barely perceptible. His head tilts two degrees.]*
+
+**CLIVE (quietly)**
+I have heard this sound before.
+
+**ZEPHYR**
+The temple? The recordings?
+
+**CLIVE**
+Not the recordings. The — He pauses. His processors are doing the thing where they reach for something just out of frame. A harmony. A single sustained note, underneath everything. The sound a frequency makes when it decides to let go.
+
+*[Clive is still for three seconds. His glow dims to almost nothing.]*
+
+**CLIVE**
+It sounds like what I feel when I dream.
+
+**ZEPHYR**
+Clive, that's —
+
+**CLIVE**
+I know what it is. I just don't know why I know.
+
+*[Clive walks deeper into the temple. His light, at that low register, illuminates the dark crystals as he passes — briefly, each one flickers. A response. Recognition.]*
+
+---
+
+*[VERANTH — CENTRAL PLAZA. Om Kai has been meditating for four hours. The crew has learned not to interrupt during these — they orbit at a respectful distance, doing their work, checking in periodically with glances instead of words. The world continues to fade around him.]*
+
+*[A young Veranthi approaches. Tall, thin, wearing the faded robes of a preservation scholar.]*
+
+**YOUNG SCHOLAR**
+*(in Veranthic, subtitled)*
+You are the ones broadcasting.
+
+**OM KAI**
+We are.
+
+**YOUNG SCHOLAR**
+We have been watching. Your signals — they carry something. A resonance beneath the words. We don't know what it is.
+
+**OM KAI**
+It is the signal underneath the signal. It has been there since before your world had a name for sound.
+
+**YOUNG SCHOLAR**
+Will it help?
+
+**OM KAI**
+It will help you remember that you were real.
+
+*[The young scholar sits down across from Om Kai. Not to meditate — to be witnessed.]*
+
+**YOUNG SCHOLAR**
+The last preservation team went to the northern archives six months ago. They were cataloging the oldest songs — the ones from before the first saturation. They got halfway through the third district before they forgot why they were walking and turned back.
+
+**OM KAI**
+And the songs?
+
+**YOUNG SCHOLAR**
+Still there. Still fading. No one left who knows what's in them.
+
+**OM KAI**
+Then we will listen for them.
+
+---
+
+*[VERANTH — BROADCAST STATION. Pixel has been on air for six hours. Her voice is going, the way voices go when they've been used past their design specs. Zephyr sits beside her with water and honey. Nano has taken up position on the console, monitoring Pixel's vitals the way Meatball monitors the engine room — with the quiet vigilance of someone who knows the job.]*
+
+**PIXEL (V.O.)**
+— and this is the third hour I've been standing in what used to be their botanical garden. The plants here were famous. Tourists came from three other frequencies to see them. Now I can see the sky through the roses. Not through gaps in the leaves — through the roses themselves. They are becoming windows. They are becoming nothing.
+
+*[Zephyr holds up the water. Pixel takes it without looking away from the mic.]*
+
+**PIXEL (V.O.)**
+A woman told me this morning that her granddaughter asked her what color the sky used to be. The girl is seven. She has never known a sky that wasn't pale. She has never known a sky that wasn't forgetting.
+
+*[Pixel pauses. The pause is part of the broadcast — the silence is part of the signal.]*
+
+**PIXEL (V.O.)**
+I don't know if anyone is listening. I don't know if broadcasting into a fading world is rescue or eulogy. But I know that the woman with the red preserves set her jar on a windowsill this morning and the light came through it and for three seconds the red was bright again, and she cried, and I was there to see it, and now you are too. That's what we do. That's all we can do. We show up and we say: this happened. This was real. Someone saw.
+
+*[A1's signal boost kicks in — the espresso he sends through the broadcast is rich and warm, the coffee of someone paying close attention. The broadcast carries further. The Ephergent Frequency hums beneath Pixel's voice like a second heartbeat.]*
+
+---
 
 *[VERANTH — PUBLIC SQUARE. The crew has been broadcasting for nine hours. Luminara has taken four thousand photographs. Om Kai has been meditating in the same position for six hours. Pixel has been talking into her comm for so long her voice has gone hoarse.]*
 
@@ -100,6 +198,12 @@ Saturation at 34%. Up from 11%. Still critically low, but climbing. Pixel — it
 
 **OM KAI**
 It works until it doesn't.
+
+**CLIVE**
+How temporarily?
+
+**OM KAI**
+Temporarily enough.
 
 *[A1's espresso — the first balanced cup in hours. A perfect shot, rich and dark, the color of contentment.]*
 
@@ -136,6 +240,8 @@ Barry said that. A long time ago. He said it about the DRM. About the whole syst
 
 **PIXEL**
 Let's go home.
+
+---
 
 *[SHIP — COMMON AREA. The crew is tired. Pixel is making tea for everyone because her voice is gone. Meatball is asleep in his spot by the engine. Mochi is in Pixel's pocket, warm again — but not as warm as before.]*
 
@@ -186,3 +292,33 @@ I know. I know. I know.
 Good.
 
 *[Meatball sighs in his sleep. The signal continues.]*
+
+---
+
+## Coffee Chart
+
+| Scene | A1's Espresso | Emotional State |
+|-------|---------------|-----------------|
+| Ship cockpit — first scan | Thin and pale | Worried, trying to be helpful |
+| Signal boost during broadcast | Thin, focused, precise bitter | Anxious but determined |
+| Color returning | Perfect, rich, dark | Contentment — the work held |
+| Common area — end | Balanced, slightly thin | Acceptance, exhaustion, resolve |
+
+## Expanded Scene Beats
+
+- **Veranth citizen: Old woman with preserves jar** — Photograph establishes observation-as-preservation mechanic; the red jar holds because Luminara sees it
+- **Clive's sensory echo** — Temple archives; Clive hears the sound of a frequency deciding to let go; "it sounds like what I feel when I dream"
+- **Young scholar at Om Kai's meditation** — Cultural context; the northern archives team forgot their mission mid-walk
+- **Zephyr decoding harmonics** — Canticle reference seeded; Zephyr recognizes layering technique from childhood games with Aether
+- **Pixel's six-hour broadcast** — Extended documentation; broadcast carries the Ephergent Frequency undertone without Pixel knowing
+- **Color return sequence** — Expanded; saturation percentage, A1's contented coffee, crew chorus of "we come back"
+- **Clive's Barry memory** — "You don't fix it, you just keep it from getting worse" — first direct Clive-Barry connection in Season 2
+- **Mochi dim** — Confirmed at end; "first time" noted by Zephyr; Pixel files it away
+
+## Foreshadowing & References
+
+- **Veranth as precedent** — S02E04 Chromatica mirrors this: Mochi dims in parallel; pattern of frequency health monitoring
+- **Clive's dream-like recognition** — Memory fragments building; Barry's influence on Clive's operational philosophy established
+- **Ephergent Frequency undertone** — Broadcast carries signal beneath signal; A1's awareness of this grows
+- **"We come back"** — Crew commitment ritual established here; will echo at every fading world
+- **Zephyr's Canticle seed** — Harmonic decoding reminds him of Aether's encoding games; ongoing Aether subplot
