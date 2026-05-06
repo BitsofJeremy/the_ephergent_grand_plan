@@ -1,120 +1,170 @@
-# The Ephergent — Refactor TODO
+# The Ephergent Grand Plan — TODO
 
-> Status: **IN PROGRESS**
-> Last updated: 2026-05-01
+> Status: **ACTIVE — Post-Cleanup 2026-05-06**
+> Last updated: 2026-05-06
 
-## Decision: Remove Paperclip
-Paperclip is uninstalled. The `/api/agents` endpoint requires board-level auth that the CEO API key doesn't provide — agents cannot be created programmatically. Going forward: `delegate_task` for all subagent work.
-
-**Uninstall command:** `npm uninstall -g @paperclip-ui/cli`
-
----
-
-## Creative Brief
-
-**What it is:** A multimedia sci-fi universe — browser games, radio transmissions, comics, a YouTube channel, an ebook — built around a crew traversing the Interdimensional Space on an ancient quantum navigator disguised as an espresso machine.
-
-**What it isn't:** Preachy. Cynical. Corporate. Naval.
-
-**Tone:** Firefly × One Piece × Welcome to Night Vale × Douglas Adams × Dirk Gently. Deadpan absurdity + genuine wonder + stubborn hope.
-
-**Canon:** `REFACTOR/ephergent_canon_v2.md` — the single source of truth. All content must pass the 12 Locked Rules check before publishing.
-
----
-
-## Refactor Phase 1 ✅ COMPLETE
-
-| File | Status | Agent |
-|-------|--------|-------|
-| `REFACTOR/ephergent_canon_v2.md` | ✅ Done | lore-keeper |
-| `REFACTOR/S01E01_the_frequency.md` | ✅ Done | episode-writer |
-| `REFACTOR/absurdity_guide.md` | ✅ Done | absurdity-architect |
-| `REFACTOR/season_architecture_v2.md` | ⚠️ Interrupted | plot-architect |
-
----
-
-## Refactor Phase 2 — IN PROGRESS
-
-### Season Architecture
-- [ ] Fix `season_architecture_v2.md` (read Canon V2 + Absurdity Guide + existing phase_03_seasons)
-- [ ] Design 3 seasons × 10 episodes with absurd sci-fi Douglas Adams energy
-- [ ] Identify which existing episodes survive, which need amendments
-
-### Character Bibles
-- [ ] Rewrite all character files (phase_02_characters/) to match Canon V2
-  - Clive: robot NOT stapler
-  - Pixel Paradox: full backstory update
-  - A1: coffee flavor system
-  - Zephyr & Aether: split story
-  - Luminara, Om Kai, Klaus, Nano, Meatball
-
-### World Lore
-- [ ] Update phase_01_world/ files to match Canon V2
-- [ ] Remove all nautical metaphors (Space not Sea)
-- [ ] Remove Corporate Corp / The Board references
-- [ ] Add Time War texture section
-
-### Episode Scripts
-- [ ] Rewrite S01E01 using Canon V2 rules
-- [ ] Amendment log for existing 37 episodes (classify: keep / amend / rewrite)
-- [ ] Write new episodes per season_architecture_v2.md
-
-### Games
-- [ ] Tune the Dial: procedural audio game
-- [ ] Static Run: Phaser.js, 15MB cap
-- [ ] Meatball's Big Walk: platformer
-- [ ] Builder Station: puzzle adventure
-
-### Site (ephergent.com)
-- [ ] Astro 5 + Tailwind 3 build
-- [ ] Lore Atlas with spoiler tiers (🟢🟡🔴)
-- [ ] Transmission archive
-
----
-
-## Delegation Log
-
-| Date | Task | Agent | Status |
-|------|------|-------|--------|
-| 2026-05-01 | Canon V2 | lore-keeper | ✅ Done |
-| 2026-05-01 | S01E01 pilot script | episode-writer | ✅ Done |
-| 2026-05-01 | Absurdity guide | absurdity-architect | ✅ Done |
-| 2026-05-01 | Season architecture | plot-architect | ⚠️ Interrupted |
-| 2026-05-01 | Paperclip uninstall | Rodan | 🔄 In progress |
-
----
-
-## How to Run
-
-Every creative task goes through `delegate_task`:
+## Directory Structure (Post-Cleanup)
 
 ```
-delegate_task(
-  goal="<specific task>",
-  context="<Canon V2 path, relevant files, constraints>",
-  role="leaf",
-  toolsets=["terminal", "file"]
-)
-```
+the_ephergent_grand_plan/
+├── REFACTOR/               ✅ CANONICAL — 9 planning docs
+├── phase_02_characters/    ✅ ACTIVE — 11 character bibles
+├── phase_04_episodes/      ✅ ACTIVE — 30 episode scripts (S01-S03)
+│   ├── season01/           (S01E01–S01E10)
+│   ├── season02/           (S02E01–S02E10)
+│   ├── season03/           (S03E01–S03E10 + S03E08x)
+│   └── archive_*/          ⚠️ DEAD — old workflow, to be removed
+├── phase_05_games/        ✅ ACTIVE — 6 game design bibles
+├── phase_06_transmissions/ ✅ ACTIVE — format specs
+├── phase_07_site/          ✅ ACTIVE — Astro scaffold (reference)
+├── source_archive/         📦 TO CLEAN — 36M, superseded content
+│   ├── signal_lore_prototype/     (different IP)
+│   ├── original_ephergent_seasons/ (superseded episodes)
+│   └── ephergent_season_03_generator/ (32M Python app, .env, logs)
+└── CLAUDE.md               ✅ LLM guidance
 
-All output goes into `REFACTOR/` until approved, then promoted to the appropriate phase folder.
+TOTAL CLEANUP CANDIDATES: ~36M+ dead weight
+```
 
 ---
 
-## Locked Rules (verify before any content ships)
+## What's Done (2026-05-06)
+
+| Item | Status |
+|------|--------|
+| Time War integration | ✅ 3 major + 4 minor amendments across S01-S03 |
+| Clive glow fix | ✅ blue-white (was pink/magenta) |
+| REFACTOR documents | ✅ 9 files, all canonical |
+| Phase 0 fixes | ✅ The The Space, A1 refs, Meatball |
+| CLAUDE.md | ✅ Written for both repos |
+| Website content | ✅ 11 crew, 6 games, 29 lore, 24 images |
+
+---
+
+## Active Content Inventory
+
+| Category | Count | Location |
+|----------|-------|----------|
+| Episodes | 30 (S01-S03) | `phase_04_episodes/season{1,2,3}/` |
+| Characters | 11 | `phase_02_characters/` |
+| Games | 6 design bibles | `phase_05_games/` |
+| Planning docs | 9 | `REFACTOR/` |
+
+---
+
+## Pending Work — Priority Order
+
+### 🔴 HIGH PRIORITY
+
+**1. Episode Audio Pipeline** (biggest gap)
+- Only S01E01 has audio — 29 of 30 episodes missing
+- This blocks the listen-along experience
+- Need: TTS + sound design + music pipeline
+- Start with S01E02 as test case
+
+**2. Complete the Lore Atlas**
+- Current: 29 entries
+- Target: ~50+ entries across 7 sections
+- Highest-traffic pages: frequencies, ship, builders
+- Each entry needs: title, type, summary paragraph, links
+
+**3. Game Implementation**
+- Design docs exist for all 6 (`phase_05_games/`)
+- Live on website: only `tune-the-dial`
+- In-dev: `meatballs-big-walk`
+- Needed: Builder Station, The Wellspring, Static Run, The Laughing Funeral
+
+### 🟡 MEDIUM PRIORITY
+
+**4. Character Image Audit**
+- `clive_stapler_informant.png` may still show pink/magenta glow
+- Generator used old prompts before fix (2026-05-06)
+- Check and regenerate if needed
+
+**5. REFACTOR S01E01 pilot adoption**
+- `REFACTOR/S01E01_the_frequency.md` supersedes `phase_04_episodes/season01/S01E01_the_day_the_dial_broke.md`
+- Decide: adopt as active S01E01 or keep both
+
+**6. Lore content depth**
+- Most 29 lore entries are stubs
+- Expand summaries using episode scripts
+- Add links to relevant episodes
+
+### 🟢 LOW PRIORITY
+
+**7. S03E08x integration** — `the_dimming_hour.md` exists, not in episode flow
+**8. EPUB rebuild** — `the_ephergent.epub` regenerable via `generate_epub.py`
+**9. Image production** — `phase_08_image_production/` planning only, no assets yet
+**10. Comic pipeline** — `the_ephergent_signal_lore/` not yet connected
+
+---
+
+## Cleanup Candidates (~36M to recover)
+
+These can be safely removed — all superseded or redundant:
+
+| Path | Size | Reason |
+|------|------|--------|
+| `source_archive/ephergent_season_03_generator/` | ~32M | Old Python app, .env with credentials, logs |
+| `source_archive/original_ephergent_seasons/` | ~732K | Original AI episodes, superseded |
+| `source_archive/signal_lore_prototype/` | ~2.6M | Different IP, not Ephergent |
+| `phase_04_episodes/archive_ai_docs/` | ? | Old workflow, superseded |
+| `phase_04_episodes/archive_ep01_ep13_overflow/` | ? | Old episode numbers (E11-E13, etc.) |
+| `phase_04_episodes/archive_original/` | ? | Original versions of episodes |
+| `generator.log` | ~268K | Runtime noise |
+
+**Recommend:** Move `source_archive/` to external storage, then delete. Keep `phase_04_episodes/archive_*` subdirectories but empty them.
+
+---
+
+## Character Specs (Canonical — Don't Contradict)
+
+| Character | Key Spec |
+|-----------|----------|
+| **Clive** | Sphere head, blue-white glow, fedora, NOT stapler |
+| **Pixel** | Red hair (not aqua), captain, narrator voice |
+| **A1** | Espresso machine IS the ship, British formal |
+| **Mochi** | Dome artifact, color comms only, NO speech |
+| **Barry** | Field notes, thermos, alive in Wellspring |
+
+---
+
+## Time War (Integrated — Don't Contradict)
+
+| Beat | Concept | Episodes |
+|------|---------|----------|
+| TW-1 | Loop = human automation | S01E02, S01E05, S03E04 |
+| TW-2 | Consciousness breaks loops | S03E04, S03E05 |
+| TW-3 | Future reaches backward | S02E08, S02E10, S03E03 |
+| TW-4 | Technocapital backward | S02E04, S02E06 |
+| TW-5 | Broadcasting as defense | S02E01, S02E02, S03E09 |
+
+---
+
+## Locked Rules (Verify Before Shipping)
 
 1. Frequencies, not dimensions
 2. Space, not Sea — no nautical metaphors
 3. A1 IS the espresso machine
-4. A1's coffee flavor in every scene
-5. Clive is a knee-high robot — glowing sphere head, fedora — NOT a stapler
-6. Barry Kowalski is ALIVE in the Wellspring — not a rescue mission
-7. Mochi doesn't speak — no dialogue, no complex emotions
-8. The Builders are NOT villains — The Dimming was a loving choice
-9. The Drift is entropy, not evil — cannot be stopped
-10. The Wellspring is a state, not a place
+4. Coffee flavor in every A1 scene
+5. Clive = sphere head + fedora, NOT stapler
+6. Barry alive in Wellspring (state, not place)
+7. Mochi never speaks
+8. Builders NOT villains — Dimming was a choice
+9. Drift = entropy, not villain
+10. Wellspring = state, not place
 11. 15MB per-game hard cap
-12. Barry's notes are methodical — never dramatic
+12. Barry's notes = methodical, never dramatic
+
+---
+
+## How to Work
+
+1. **Read CLAUDE.md** — canonical paths, don't touch REFACTOR/ without approval
+2. **Check episode_map.md** — before modifying any episode
+3. **Verify Locked Rules** — before committing any content
+4. **Sync website** — if content changes in grand plan, update `my_websites/ephergent.com/` too
+5. **Commit clearly** — describe what changed and why
 
 ---
 
@@ -123,8 +173,6 @@ All output goes into `REFACTOR/` until approved, then promoted to the appropriat
 | File | Purpose |
 |------|---------|
 | `REFACTOR/ephergent_canon_v2.md` | Single source of truth |
-| `REFACTOR/absurdity_guide.md` | Douglas Adams/Dirk Gently style guide |
-| `REFACTOR/S01E01_the_frequency.md` | Pilot script (example of voice) |
-| `phase_03_seasons/` | Old season architecture (amend, don't replace) |
-| `source_archive/` | 37 existing episode scripts (need amendments) |
-| `skills/ephergent-canon/SKILL.md` | Locked rules (source of truth) |
+| `REFACTOR/absurdity_guide.md` | Tone/style guide |
+| `REFACTOR/episode_map.md` | Episode coverage map |
+| `CLAUDE.md` | LLM path guidance |
