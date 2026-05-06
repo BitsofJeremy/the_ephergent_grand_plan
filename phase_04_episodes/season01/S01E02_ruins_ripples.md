@@ -55,13 +55,21 @@ It's nothing special — a standard DRM door frame, institutional grey, a sign t
 
 "Efficient architecture," Clive says. His voice is quiet. Almost to himself. "Someone designed this to last."
 
-Pixel looks at the door. Looks at Clive. "You know this place?"
+Beyond the doorway: a DRM processing center. Rows of intake stations, automated filing systems, mechanical sorters moving forms from bin to bin to bin. Stamps clicking. Stamps placing. Stamps moving on. An automated assembly line of bureaucracy that has been running for decades, processing anomalies, filing reports, sorting things that were never meant to be sorted. Forms feeding into forms feeding into forms. Nobody reading the results. Nobody listening to the signal.
 
-A pause. The longest pause she's heard from him since the building collapse. His glow shifts — dim, bright, dim again — like something is being retrieved from a deep archive.
+Clive watches. His glow dims. Blue-white shifting to something darker, quieter, like a machine that has been running too long and knows it.
 
-"In a manner of speaking." He doesn't elaborate. He never elaborates. He adjusts his fedora and walks through the doorway like he's done it a thousand times before.
+"90 years," he says. Not to Pixel. Not to anyone. Just to himself.
 
-Pixel follows. She doesn't ask again.
+Pixel looks at him. "Clive?"
+
+He doesn't answer. His hand rises to his fedora — adjusts it, slowly — the gesture that means something is being processed that doesn't want to be processed.
+
+*(pause)*
+
+"Someone designed this to last," he says again. And this time, the "someone" sounds different. Smaller. Older.
+
+Pixel stands beside him. She doesn't ask again.
 
 In the deepest sub-basement, the oldest equipment hums. Monitors that predate digital displays — CRT screens in racks, oscilloscopes with analog dials, frequency monitors with readouts in units Pixel doesn't recognize. Builder-derived, A1 would say if he were here. Builder-adjacent. Old. Ancient, maybe, though Pixel doesn't have a reference for what ancient technology looks like in a government building.
 

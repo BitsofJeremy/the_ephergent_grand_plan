@@ -480,7 +480,7 @@ blue Signal energy accent.
 
 **Head and Expression**
 - Single round glowing orb - spherical luminous light source
-- Glows pink/magenta when active, brighter when speaking or alert
+- Glows blue-white when active, brighter when speaking or alert
 - No face, no features, no eyes - just pure radiant light
 - Tilts and turns to indicate attention and emotion
 - Expression conveyed entirely through angle, tilt, and light intensity
@@ -515,7 +515,7 @@ blue Signal energy accent.
 
 1. **The Size**: Knee-high (2 feet), smaller than expected for presence he commands
 2. **The Build**: Rounded barrel-chested body, very stocky dwarven proportions
-3. **The Glowing Head**: Single round orb of pink-magenta light with no features
+3. **The Glowing Head**: Single round orb of blue-white light with no features
 4. **The Chest Core**: Glowing blue light at center of chest like a heart
 5. **The Fedora**: Weathered bronze-like hat tilted at noir angle
 6. **The Material**: Ancient unknown substance with heavy weathered patina
@@ -530,7 +530,7 @@ blue Signal energy accent.
 - Knee-high humanoid automaton form
 - Rounded barrel-chested clockwork-style body
 - Very stocky dwarven proportions (compact and dense)
-- Head as single round glowing orb (pink/magenta light)
+- Head as single round glowing orb (blue-white light)
 - Glowing blue core at center of chest
 - Small weathered fedora hat
 - Weathered patina shifting bronze-green-grey
@@ -552,7 +552,7 @@ blue Signal energy accent.
 **Secondary Colors**
 | Color | Hex | Usage |
 |-------|-----|-------|
-| Head Glow (Pink-Magenta) | `#FF6EC7` | Glowing head orb |
+| Head Glow (Blue-White) | `#7FDBFF` | Glowing head orb |
 | Chest Core Blue | `#4DA6FF` | Chest heart-light |
 | Signal Blue | `#4DA6FF` | Symbol glow, energy traces |
 | Deep Patina | `#6B4423` | Recessed symbol areas |

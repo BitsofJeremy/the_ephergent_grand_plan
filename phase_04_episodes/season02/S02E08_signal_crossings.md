@@ -139,6 +139,11 @@ I am amplifying. I am transmitting. I am—
 **A1**
 I am transmitting.
 
+*A1's navigation console flickers. He pauses — a rare hesitation in a machine built for certainty.*
+
+**A1**
+The signal we are receiving... was transmitted after we arrived. The civilization's response reached us before our message reached them. They heard us and answered before we knew we were calling. Their signal arrived first.
+
 *The signal goes out. A new broadcast — Pixel's voice, the Ephergent's frequency, the story of the crew and the ship and the signal that wouldn't stop. Carried by A1's full power, translated instantly by the civilization into their own frequency. The light-towers brighten. The patterns intensify. The conversation grows.*
 
 *And then — a second signal. Fainter. Different harmonic. Coming from somewhere deeper in the field, from the direction of the bearing Aether has occupied for six years. Reaching backward through time to this exact moment.*

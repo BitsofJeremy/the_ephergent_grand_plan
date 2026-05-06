@@ -269,6 +269,23 @@ Some people would.
 
 I'd call it a really beautiful prison.
 
+**OM KAI:**
+*(watching the frozen marketplace)*They have created a perfect loop. Not cosmic fate — human automation. They built a schedule, a trigger, an automated response that says: if this moment is reached, freeze. The system runs without anyone choosing to run it. That is the loop. That is what Time War teaches us — the loop is not inevitable. The loop is chosen. And a chosen loop can be unchosen.
+
+*(pause)*
+
+The loop does not want to be broken. It will offer you a reason. It will say: this is good, this is enough, why would you choose less?
+
+**CLIVE:**
+*(sphere pulsing a slow blue)*And the only thing that breaks it is choosing to walk forward.
+
+**OM KAI:**
+The crew's act — documenting, broadcasting, *leaving* — that is what begins to crack the loop. Not because they succeed in saving the world. Because they introduce an element the loop cannot predict: consciousness that chooses to go forward instead of staying.
+
+*(pause)*
+
+The Builders had the option to do this. To freeze everything in their moment of triumph. They had the technology. They understood the math. They chose the loop. They chose to let it end — because they knew what comes next is only possible if what came before has the grace to stop.
+
 ## ACT FIVE: THE VISITOR
 
 *(Sound: A child appears. Not frozen. Moving. Walking toward the crew with the casual curiosity of someone who has never known uncertainty.)*

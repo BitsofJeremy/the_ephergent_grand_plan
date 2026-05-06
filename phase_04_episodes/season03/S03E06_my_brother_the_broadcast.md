@@ -221,6 +221,10 @@ Good. Certainty is overrated. I'm a signal now. I carry messages between people 
 
 *(pause)*
 
+I followed the frequency past the point where following was a choice. The signal became the path. The path became the destination. I am not trapped. I am translated. I am the part of the loop that chose to keep moving.
+
+*(pause)*
+
 Grieve me. Celebrate me. Tell stories about the brother who died. Tell stories about the signal who lives. Both are true. Both are incomplete.
 
 *(the pattern pulses gently)*

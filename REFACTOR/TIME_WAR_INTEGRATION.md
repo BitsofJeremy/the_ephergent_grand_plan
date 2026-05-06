@@ -36,11 +36,11 @@ Examples in the existing series that retroactively make sense under this model:
 - **S02E09**: Clive's recognition of Mochi — he saved her 800 years ago, in a timeline that only became necessary when the crew needed her to have been saved. Clive didn't choose to save Mochi. He *will have* saved Mochi, from the perspective of the moment he first encountered her. Both are true simultaneously.
 - **Barry's trail**: Barry left field notes that are only legible to the person who would eventually need them — specifically, to Clive. The notes were written after Clive was ready to read them. Barry was writing to the future while following a signal that originated from that same future.
 
-### ⚠️ REVISIT — Existing Canon Statements
+### ✓ RESOLVED — Dimming Statement
 
 > GRAND_MASTER_PLAN.md, "The Dimming": *"the Builders saw it coming. They had time to prepare successors."*
 
-This needs to be reconciled with the retrocausal model. The Builders did not merely *see* the future — they *broadcast into* it. Their preparation of successors (the Ephergent Frequency, Mochi's preservation, Clive's companion role) was performed from the moment of The Dimming, which is also the moment those successors complete the work the Builders set in motion. The Dimming was not a catastrophe they survived — it was a *transmission* they chose, timed to produce the crew at the precise moment the universe required them.
+**Corrected**: The Builders did not merely *see* the future — they *broadcast into* it. Their preparation of successors (the Ephergent Frequency, Mochi's preservation, Clive's companion role) was performed from the moment of The Dimming, which is also the moment those successors complete the work the Builders set in motion. The Dimming was not a catastrophe they survived — it was a *transmission* they chose, timed to produce the crew at the precise moment the universe required them.
 
 > GRAND_MASTER_PLAN.md, "Who qualifies as an Ephergent": *"The crew of The Ephergent — each one is displaced from their home frequency in some way that is not an accident."*
 
@@ -84,7 +84,7 @@ This section needs to be understood as a *system*, not merely a mood. The "vast 
 
 > ephergent_canon_v2.md, "Conscious Unpredictability": *"This is why A1 chose an espresso machine as his compressed form."*
 
-⚠️ REVISIT: A1 did not *choose* the espresso machine form. He was *compressed* into the smallest resonance-stable form his damaged lattice could manage, and his last coherent thought was "I could really use a coffee." The espresso machine is not a philosophical choice — it is an accident of damage and need. The *meaning* the crew finds in the coffee ritual is real, but it is meaning the crew (and A1, in retrospect) assigned to an accident. This is a case where the crew's conscious attention *retroactively invested the form with significance* — which is itself an example of conscious unpredictability affecting the past through attention.
+**Corrected**: A1 did not *choose* the espresso machine form. He was *compressed* into the smallest resonance-stable form his damaged lattice could manage, and his last coherent thought was "I could really use a coffee." The espresso machine is not a philosophical choice — it is an accident of damage and need. The *meaning* the crew finds in the coffee ritual is real, but it is meaning the crew (and A1, in retrospect) assigned to an accident. This is a case where the crew's conscious attention *retroactively invested the form with significance* — which is itself an example of conscious unpredictability affecting the past through attention.
 
 ---
 

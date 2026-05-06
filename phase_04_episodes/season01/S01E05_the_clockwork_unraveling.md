@@ -214,6 +214,9 @@ Not here. Not this frequency. But the principle — something ancient deciding t
 
 The fix isn't mechanical. You can't force synchronization. The gear has to *choose* to come back.
 
+**OM KAI:**
+*(watching the clock tower, meditation beads still)*The rupture didn't break time. It reminded time it was optional. But something is choosing to run the same pattern. Machines don't choose. Someone programmed this loop. The gear isn't exploring alternatives — it's executing a program that was written before it existed. The question isn't whether it *can* choose differently. The question is whether anyone knows how to give it a different program.
+
 **PROFESSOR CHRONOS:**
 *(staring at Clive)*How do you know that?
 

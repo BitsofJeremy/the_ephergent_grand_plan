@@ -280,6 +280,10 @@ To the future.
 
 *[The Ephergent moves through the brightened static. Toward the edge of known Space. Toward Barry's coordinates. Toward the Wellspring. Toward whatever they are becoming.]*
 
+**OM KAI**
+*(quietly, to no one in particular)*
+The signal was never behind us. It was ahead. We've been moving toward it since the beginning. The question was always whether we were paying attention.
+
 *[The signal continues.]*
 
 ## End of Season Two

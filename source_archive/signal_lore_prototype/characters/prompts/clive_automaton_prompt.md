@@ -44,7 +44,7 @@ Including Clive's reactivation sequence.
 
 The sealed chamber groaned open. Pixel stumbled inside while fleeing the destabilizing temple. And there, sitting on a pedestal as if waiting for someone to arrive, was a knee-high figure covered in 800 years of dust and patina.
 
-Mochi recognized him immediately—pulsing violet-white with joyful recognition, pressing against Clive's dormant form. The Signal energy transfer ignited like lightning. Ancient symbols on Clive's body blazed to life. His spherical head lit up in pink-magenta radiance. His blue chest core pulsed awake for the first time in eight centuries.
+Mochi recognized him immediately—pulsing violet-white with joyful recognition, pressing against Clive's dormant form. The Signal energy transfer ignited like lightning. Ancient symbols on Clive's body blazed to life. His spherical head lit up in blue-white radiance. His blue chest core pulsed awake for the first time in eight centuries.
 
 His first words, spoken through the Signal directly into Pixel's startled mind: *"How long?"*
 
@@ -95,7 +95,7 @@ Clive adjusted the fedora carefully. Treasured it. And followed Pixel into a wor
 **Critical Design Element**:
 - **Form**: Single round spherical orb—a glowing ball of light
 - **NO facial features**: No eyes, no nose, no mouth, no display screen
-- **Glow Color**: Pink-magenta when active
+- **Glow Color**: Blue-white when active
 - **Expression**: Conveyed entirely through angle, tilt, and light intensity
 - **Size**: Proportionate to his barrel-chested body—about 6 inches diameter
 - **Mounting**: Sits atop his torso on a subtle rotating mechanism
@@ -441,7 +441,7 @@ Clive occasionally calls Pixel "kid," but it's precious and specific:
 
 1. **Dormant in the Temple**: Clive resting on a pedestal in an ancient Verdanya temple, beside Mochi
 2. **Mochi's Recognition**: Mochi presses against Clive, violet-white energy exchange
-4. **The Awakening**: Symbols blazing, head igniting pink-magenta, chest core pulsing alive
+4. **The Awakening**: Symbols blazing, head igniting blue-white, chest core pulsing alive
 5. **First Words**: The noir quote spoken directly into Pixel's mind through Signal
 6. **The Fedora**: Pixel's gift, the disguise, the first sign of belonging
 7. **The Name**: "You can call me Clive"—accepting identity from his new companion
@@ -503,7 +503,7 @@ Clive occasionally calls Pixel "kid," but it's precious and specific:
 1. Knee-high humanoid automaton (2 feet tall)
 2. Rounded barrel-chested body (Tik-Tok style)
 3. Stocky dwarven proportions—compact and dense
-4. **Spherical glowing orb head (pink-magenta), NO facial features**
+4. **Spherical glowing orb head (blue-white), NO facial features**
 5. **Weathered brown/grey fedora hat, tilted rakishly**
 6. Glowing blue core at center of chest
 7. Heavy weathered patina (bronze/verdigris)
@@ -514,39 +514,39 @@ Clive occasionally calls Pixel "kid," but it's precious and specific:
 ### Master Prompt (Consistency Baseline)
 
 ```
-Detailed shot of a knee-high ancient automaton figure (2 feet tall), rounded barrel-chested clockwork body like Tik-Tok from Return to Oz, very stocky dwarven proportions with broad shoulders and thick powerful limbs, compact dense build, made of unknown ancient material with heavily weathered patina shifting between deep bronze and aged verdigris. Surface covered in geometric symbols matching alien monolith patterns, some symbols glowing faintly with blue-white Signal energy. Head is a single round glowing orb of pink-magenta light with no face or features just pure radiance. Glowing blue core light visible at center of barrel chest like a heart. Wearing a small weathered brown-grey fedora hat tilted at rakish noir angle. Rounded chest plates with visible seams filled with patina. Articulated thick hands. Standing with deliberate grounded posture. Archaeological artifact meets clockwork dwarf meets noir detective aesthetic. Film noir dramatic lighting with hard shadows. Mysterious ancient guardian aesthetic. Dark atmospheric background.
+Detailed shot of a knee-high ancient automaton figure (2 feet tall), rounded barrel-chested clockwork body like Tik-Tok from Return to Oz, very stocky dwarven proportions with broad shoulders and thick powerful limbs, compact dense build, made of unknown ancient material with heavily weathered patina shifting between deep bronze and aged verdigris. Surface covered in geometric symbols matching alien monolith patterns, some symbols glowing faintly with blue-white Signal energy. Head is a single round glowing orb of blue-white light with no face or features just pure radiance. Glowing blue core light visible at center of barrel chest like a heart. Wearing a small weathered brown-grey fedora hat tilted at rakish noir angle. Rounded chest plates with visible seams filled with patina. Articulated thick hands. Standing with deliberate grounded posture. Archaeological artifact meets clockwork dwarf meets noir detective aesthetic. Film noir dramatic lighting with hard shadows. Mysterious ancient guardian aesthetic. Dark atmospheric background.
 ```
 
 ### Variant Prompts
 
 **VARIANT 1 - Standard Portrait**
 ```
-Detailed portrait of knee-high ancient automaton (2 feet tall), rounded barrel-chested clockwork body with stocky dwarven build, broad shoulders, thick limbs, compact frame. Weathered bronze-green patina showing centuries of age. Surface covered in geometric Pillar-matching symbols, some glowing with blue-white Signal energy. Head is single spherical glowing orb (pink-magenta light), no face, no features. Small weathered brown fedora hat tilted rakishly on glowing head. Glowing blue core visible at center of barrel chest like a heart. Articulated hands at sides. Grounded stance. Film noir lighting. Clockwork dwarf noir detective aesthetic. Archaeological artifact with presence. Dark background.
+Detailed portrait of knee-high ancient automaton (2 feet tall), rounded barrel-chested clockwork body with stocky dwarven build, broad shoulders, thick limbs, compact frame. Weathered bronze-green patina showing centuries of age. Surface covered in geometric Pillar-matching symbols, some glowing with blue-white Signal energy. Head is single spherical glowing orb (blue-white light), no face, no features. Small weathered brown fedora hat tilted rakishly on glowing head. Glowing blue core visible at center of barrel chest like a heart. Articulated hands at sides. Grounded stance. Film noir lighting. Clockwork dwarf noir detective aesthetic. Archaeological artifact with presence. Dark background.
 ```
 
 **VARIANT 2 - Noir Atmosphere**
 ```
-Low angle dramatic shot of small ancient automaton (knee-high, 2 feet tall), rounded barrel-chested body with very stocky dwarven proportions, compact powerful frame. Weathered surface showing millennia with deep verdigris patina. Geometric Pillar symbols carved into unknown metallic material, faint Signal energy glowing in some symbols. Head is single round sphere of pink-magenta light, no facial features. Glowing blue heart-light in center of chest. Small weathered brown fedora casting shadows across glowing head. Standing in film noir lighting with Venetian blind shadows, head tilted in skeptical pose, thick arms crossed, world-weary posture. Ancient artifact with commanding presence despite small size. Clockwork dwarf noir detective aesthetic. Bronze and shadow tones with blue and magenta accents.
+Low angle dramatic shot of small ancient automaton (knee-high, 2 feet tall), rounded barrel-chested body with very stocky dwarven proportions, compact powerful frame. Weathered surface showing millennia with deep verdigris patina. Geometric Pillar symbols carved into unknown metallic material, faint Signal energy glowing in some symbols. Head is single round sphere of blue-white light, no facial features. Glowing blue heart-light in center of chest. Small weathered brown fedora casting shadows across glowing head. Standing in film noir lighting with Venetian blind shadows, head tilted in skeptical pose, thick arms crossed, world-weary posture. Ancient artifact with commanding presence despite small size. Clockwork dwarf noir detective aesthetic. Bronze and shadow tones with blue and magenta accents.
 ```
 
 **VARIANT 3 - In Motion / Alert**
 ```
-Dynamic shot of knee-high ancient automaton walking with deliberate measured steps, rounded barrel-chested clockwork body, stocky dwarven proportions, compact powerful build. Weathered material between bronze and aged copper-green with heavy patina. Geometric symbols covering body matching Pillar patterns. Head is single glowing pink-magenta sphere turned sharply as if sensing danger, no features. Glowing blue core visible in barrel chest. Small weathered brown fedora tilted forward. One thick articulated hand raised in warning gesture. Signal energy visible in symbol traces. Film noir atmosphere, dramatic lighting, long shadows. Clockwork dwarf detective in motion, ancient guardian aesthetic sensing danger.
+Dynamic shot of knee-high ancient automaton walking with deliberate measured steps, rounded barrel-chested clockwork body, stocky dwarven proportions, compact powerful build. Weathered material between bronze and aged copper-green with heavy patina. Geometric symbols covering body matching Pillar patterns. Head is single glowing blue-white sphere turned sharply as if sensing danger, no features. Glowing blue core visible in barrel chest. Small weathered brown fedora tilted forward. One thick articulated hand raised in warning gesture. Signal energy visible in symbol traces. Film noir atmosphere, dramatic lighting, long shadows. Clockwork dwarf detective in motion, ancient guardian aesthetic sensing danger.
 ```
 
 **VARIANT 4 - With Pixel (Scale Reference)**
 ```
-Medium shot showing scale comparison, young female explorer with red punk asymmetrical hair standing next to knee-high ancient automaton (reaching her knee, 2 feet tall). Automaton has rounded barrel-chested clockwork body with stocky dwarven build, compact powerful frame. Head is single glowing pink-magenta sphere tilted up toward her in consultation, no features. Glowing blue core light in center of chest. Small weathered brown fedora on glowing head. Weathered bronze-green surface covered in glowing geometric symbols. Her hand resting near its broad shoulder. Partnership dynamic between human and ancient clockwork artifact. Art Nouveau explorer aesthetic mixed with noir detective mystery. Signal energy traces connecting them. Warm lighting suggesting found family bond.
+Medium shot showing scale comparison, young female explorer with red punk asymmetrical hair standing next to knee-high ancient automaton (reaching her knee, 2 feet tall). Automaton has rounded barrel-chested clockwork body with stocky dwarven build, compact powerful frame. Head is single glowing blue-white sphere tilted up toward her in consultation, no features. Glowing blue core light in center of chest. Small weathered brown fedora on glowing head. Weathered bronze-green surface covered in glowing geometric symbols. Her hand resting near its broad shoulder. Partnership dynamic between human and ancient clockwork artifact. Art Nouveau explorer aesthetic mixed with noir detective mystery. Signal energy traces connecting them. Warm lighting suggesting found family bond.
 ```
 
 **VARIANT 5 - Close-Up Detail**
 ```
-Extreme close-up of ancient automaton upper body and head, small weathered brown fedora visible, intricate geometric Pillar-like symbols across rounded surface, some glowing faintly with blue-white energy. Heavily weathered patina shifting between bronze and verdigris. Head is spherical glowing orb of pink-magenta light beneath fedora brim, no face, casting noir shadows. Glowing blue core light visible in center of rounded chest plates. Millennia of wear visible in surface pitting and smoothed edges. Macro product photography. Archaeological artifact meets clockwork dwarf meets noir detective aesthetic. Dramatic lighting emphasizing texture and age.
+Extreme close-up of ancient automaton upper body and head, small weathered brown fedora visible, intricate geometric Pillar-like symbols across rounded surface, some glowing faintly with blue-white energy. Heavily weathered patina shifting between bronze and verdigris. Head is spherical glowing orb of blue-white light beneath fedora brim, no face, casting noir shadows. Glowing blue core light visible in center of rounded chest plates. Millennia of wear visible in surface pitting and smoothed edges. Macro product photography. Archaeological artifact meets clockwork dwarf meets noir detective aesthetic. Dramatic lighting emphasizing texture and age.
 ```
 
 **VARIANT 6 - Philosophical Moment**
 ```
-Atmospheric shot of small ancient automaton (knee-high, 2 feet) standing still, gazing toward distant light, rounded barrel-chested body with stocky dwarven build. Head is glowing pink-magenta sphere, slightly dimmed, tilted contemplatively, no features. Small weathered brown fedora tilted back. Glowing blue chest core pulsing gently. Geometric symbols on weathered bronze-green surface faintly glowing. One hand touching chest core in gesture of memory. World-weary posture. Film noir lighting with dramatic single light source. Ancient being contemplating existence. Melancholic atmosphere. Clockwork dwarf philosopher aesthetic.
+Atmospheric shot of small ancient automaton (knee-high, 2 feet) standing still, gazing toward distant light, rounded barrel-chested body with stocky dwarven build. Head is glowing blue-white sphere, slightly dimmed, tilted contemplatively, no features. Small weathered brown fedora tilted back. Glowing blue chest core pulsing gently. Geometric symbols on weathered bronze-green surface faintly glowing. One hand touching chest core in gesture of memory. World-weary posture. Film noir lighting with dramatic single light source. Ancient being contemplating existence. Melancholic atmosphere. Clockwork dwarf philosopher aesthetic.
 ```
 
 ### Required Negative Prompt (Use with ALL Clive prompts)
