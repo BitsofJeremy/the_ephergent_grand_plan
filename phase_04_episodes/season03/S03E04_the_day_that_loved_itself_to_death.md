@@ -13,7 +13,7 @@
 
 ## ACT ONE: THE WORLD THAT WOULDN'T END
 
-*(Sound: The soft hum of the Epihippus's engines. A directionalspin. Then — music. Faint, joyful, looped.)*
+*(Sound: The soft hum of the Ephergent's engines. A directional spin. Then — music. Faint, joyful, looped. The same four bars, played by an orchestra that has never stopped playing.)*
 
 **PIXEL:**
 *(voiceover, recording)*I'm going to say something and I need you all to know I mean it sincerely and also that I will deny saying it if asked.
@@ -32,7 +32,7 @@ But this — this is different. This is a world that had one perfect day. And it
 
 *(Sound: The airlock cycles. The crew enters.)*
 
-*(Sound: A marketplace. Laughter. The clink of glasses. Children running. Music that sounds like it was composed specifically for this afternoon three thousand years ago and has been playing on loop ever since.)*
+*(Sound: A marketplace. Not frozen silence — precise motion. The same motion, repeated. Laughter that restarts mid-syllable. The clink of glasses that rings and hangs and rings again in the same instant. Children running in a circle that never closes. A dog chasing its tail — caught, always caught, in the same three steps of pursuit. And the music: a brass band in the square, frozen mid-note, waiting to be the same note again.)*
 
 **OM KAI:**
 *(quietly, to himself)*Look at them.
@@ -43,7 +43,7 @@ They're frozen.
 **OM KAI:**
 No. They're *precise*. Watch the woman by the fountain.
 
-*(Sound: A woman reaches for a glass of wine. Her hand trembles — microseconds of motion, perfectly repeated.)*
+*(Sound: A woman reaches for a glass of wine. Her hand trembles — microseconds of motion, perfectly repeated. 0.003 seconds of tremor, then reset. The glass never moves closer to her lips. The wine never spills. Three thousand years of the same almost-touch.)*
 
 Every three hundred milliseconds, her hand trembles. Same spot. Same tremor. For three thousand years.
 
@@ -59,6 +59,62 @@ Then what is it?
 
 **CLIVE:**
 *(two degrees left — the thoughtful angle)*A choice.
+
+## ACT ONE-B: THE MARKET SQ
+
+*(Sound: The crew moves through the frozen marketplace. Their footsteps are wrong here — too loud, too irregular. The marketplace was designed for the precise rhythm of its inhabitants. The crew breaks that rhythm just by existing.)*
+
+**LUMINARA:**
+*(camera raised, not taking photos — just holding it)*I've never seen anything like this.
+
+**A1:**
+I am reading the frequency signature of this world. It is — I need a moment.
+
+*(pause)*
+
+This is not natural decay. This is not temporal drift. This world chose to synchronize its local spacetime to a single four-point-seven-second interval approximately three thousand years ago. The precision is extraordinary. The intent is unmistakable.
+
+**KLAUS:**
+Someone hit pause and decided to live there.
+
+**A1:**
+That is — an accurate summary, yes.
+
+**PIXEL:**
+Why four-point-seven seconds?
+
+**A1:**
+That is the duration of peak harmonic coherence achieved by this civilization approximately three thousand years ago. For 4.7 standard seconds, every social, economic, and emotional system on this frequency operated in perfect synchronization. Every person experienced what they described as —
+
+*(pause)*
+
+— *eudaimonia*. A Greek word. It means something like "the good life" but fuller. Flourishing. Completion.
+
+**ZEPHYR:**
+They found the perfect moment and they — what? Decided that was enough?
+
+**A1:**
+They did not decide it was enough. They decided it was *everything*. The peak was so complete, so overwhelming, that anything that came after would be a step down. A disappointment. A dilution of what they had achieved.
+
+*(pause)*
+
+They could not bear for it to end.
+
+**MEATBALL:**
+*(low whine, ears flat)*It smells like memory. Like the smell of something you remember but can't place.
+
+**NANO:**
+*(checking scanner)*The atmospheric composition includes trace elements of — I don't have a reference for this. Something organic and crystalline simultaneously. It's like the air itself is trying to remember something it used to be.
+
+**OM KAI:**
+*(standing very still)*Three thousand years. And every moment since has been the same moment. The same four-point-seven seconds, replaying. They didn't stop time. They stopped *becoming*.
+
+*(pause)*
+
+That is the saddest thing I have ever heard.
+
+**PIXEL:**
+*(to herself)*And I've heard Om Kai explain grief to a sentient gas cloud.
 
 ## ACT TWO: THE BEST DAY
 
@@ -163,6 +219,55 @@ But nothing lasts forever. Not even happiness.
 
 **OM KAI:**
 *(quietly)*Especially happiness.
+
+## ACT FOUR-B: THE ARCHITECTURE OF STILLNESS
+
+*(Sound: The crew splits up. Pixel and Clive walk the perimeter. Om Kai stands at the fountain. Luminara, with her camera, moves through the frozen crowd like a ghost among statues.)*
+
+**PIXEL:**
+Look at the buildings. Really look at them.
+
+*(Sound: Their footsteps echo differently here — the acoustics are perfect for a crowd that never moves. Every surface was designed for a civilization frozen in motion.)*
+
+**CLIVE:**
+They rebuilt their entire world around this moment. The architecture. The city planning. Every street is arranged so that you can see the fountain from any point in the market square. Every window is positioned to catch the same light at the same angle. They didn't just freeze time. They froze the *idea* of the moment.
+
+**PIXEL:**
+They were afraid.
+
+**CLIVE:**
+Yes.
+
+**PIXEL:**
+Of change.
+
+**CLIVE:**
+*(sphere dimming slightly)*Of becoming something different than what they were in that moment. Of discovering that the best day wasn't actually the best day — just the best day they had experienced so far. Of finding out that there were better days ahead that they would never reach if they stopped here.
+
+*(pause)*
+
+The Builders understood something this civilization didn't. The perfect moment isn't a destination. It's a rest stop. A place to gather strength before the next crossing.
+
+**PIXEL:**
+But they couldn't know that. Not really.
+
+**CLIVE:**
+No. They couldn't know. Which is why what they did wasn't wrong. It was just... incomplete. They solved for one variable and ignored all the others.
+
+**PIXEL:**
+*(looking at the woman by the fountain, still reaching, forever reaching)*
+
+She doesn't know she's been here for three thousand years. She doesn't know there's a universe out there that's kept moving while she stayed still. She just... reaches.
+
+**CLIVE:**
+*(sphere glowing faintly)*Some people would call that peace.
+
+**PIXEL:**
+Some people would.
+
+*(pause)*
+
+I'd call it a really beautiful prison.
 
 ## ACT FIVE: THE VISITOR
 

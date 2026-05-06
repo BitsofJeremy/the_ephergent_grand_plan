@@ -215,4 +215,25 @@ Next time, on The Ephergent.
 Just — next time.
 
 
+---
+
+## LOCKED RULES CHECK
+
+| # | Rule | Status |
+|---|------|--------|
+| 1 | Frequencies not dimensions | ✅ "frequency," "frequency boundaries," "all frequencies," "signal" |
+| 2 | Space vocab | ✅ "The Ephergent turns toward the next frequency," no forbidden terms |
+| 3 | A1 IS espresso machine | ✅ "I am compiling," "I am preparing," "I am transmitting," espresso as final note |
+| 4 | Coffee in every A1 scene | ✅ Final espresso — "perfect," "taste of signal finding its echo" |
+| 5 | Clive=robot/sphere/fedora | ✅ "sphere-head pulses," "glow flickers," "sphere-head cycling through colors" |
+| 6 | Barry alive in Wellspring | ✅ "We are going forward," Barry on observation deck with Clive |
+| 7 | Mochi no dialogue | ✅ "Mochi pulses," warmth in hands, "Mochi hears as completion," no dialogue |
+| 8 | Builders not villains | ✅ "We built this for you," apology, trust, delegation not abandonment |
+| 9 | Drift=entropy not villain | ✅ "entropy and silence" treated as background condition, not antagonist |
+| 10 | Wellspring=state not place | ✅ "in the Wellspring — in the state of being where the signal is clearest" |
+| 11 | 15MB cap | ✅ ~13KB file — well under limit |
+| 12 | Barry's notes methodical | ✅ Barry's dialogue: "We found it. It was worth it. The coffee was perfect." — declarative, observational |
+
+---
+
 *[END OF SEASON]*

@@ -11,7 +11,7 @@
 | Zephyr at the Signal Anomaly | Nothing — Zephyr doesn't drink | Zephyr | Aether's signal found in the debris. Wrong frequency signature. Wrong everything. |
 | Common Area — Barry's Notes Read Aloud | Coffee — vegetal, preserved, like something sealed in amber | Pixel, Clive, Om Kai, Klaus, Nano | A1: "He documented everything. Like he knew someone would need the map." |
 | Graveyard Sunset — Crew Gathered | Nothing |全员 | The moment of collective witness. No coffee. Om Kai's meditation serves instead. |
-| Night Watch — Clive Alone | Something soft, not espresso | Clive, A1 (present, not offering) | A1: "I do not know how to help a stapler grieve. But I can make things that are warm." |
+| Night Watch — Clive Alone | Something soft, not espresso | Clive, A1 (present, not offering) | A1: "I do not know how to help a friend grieve. But I can make things that are warm." |
 
 ---
 
@@ -138,7 +138,7 @@ Barry's field notes. He logged each artifact he found. Frequency, coordinates, c
 
 *[FREQUENCY GRAVEYARD — DERELICT VESSEL. A small ship, maybe a research craft, wedged between two dead frequency fields. Its hull is intact but its interior is a museum of silence — every instrument still, every surface coated in the fine dust of ended frequencies. The dust doesn't stir when the crew enters. It's been still for a very long time.]*
 
-*[CLIVE moves through the vessel slowly. His glow pulses erratically — the pattern of a stapler in distress. He knows this layout. Not from memory. From something older.]*
+*[CLIVE moves through the vessel slowly. His glow pulses erratically — the pattern of a small machine in distress. He knows this layout. Not from memory. From something older.]*
 
 **CLIVE**
 *(to himself, touching the corridor wall)*
@@ -157,7 +157,7 @@ Clive?
 **CLIVE**
 His patterns. My patterns. The ones we developed together — the language we made, the one that only we could read. He put them HERE. He put them where I would find them.
 
-*[PIXEL moves closer. On the wall, a sequence of small stamped marks — angular, precise, the visual rhythm of a stapler's work. Not random. Not decorative. A message.]*
+*[PIXEL moves closer. On the wall, a sequence of small marks — angular, precise, the visual rhythm of Clive's light-pattern language. Not random. Not decorative. A message.]*
 
 **PIXEL**
 What does it say?
@@ -173,7 +173,7 @@ He knew you'd come.
 **CLIVE**
 He always knew. He knew me better than I knew myself. He knew I'd follow the signal eventually. He knew I'd find this place. He left me a message in our private language, pressed into dead metal, waiting for me to walk in and read it.
 
-*[CLIVE's staple mechanism fires — a rapid, arrhythmic succession of marks into the air. Not a message. A reaction. Grief expressed in the only language a stapler has.]*
+*[CLIVE's light-pattern mechanism fires — a rapid, arrhythmic succession of marks into the air. Not a message. A reaction. Grief expressed in the only language a small machine has.]*
 
 **CLIVE (CONT'D)**
 He was my partner. We worked the night guard together. We learned each other's frequencies like a language. And then one day he just… left. Said he had to follow something. Said he'd explain when he got back. That was thirty years ago.
@@ -312,7 +312,7 @@ The Builders didn't just find the Wellspring. They built a *road* to it. And Bar
 **CLIVE**
 He left me a note about that too.
 
-*[CLIVE gestures to a small stamp near the vessel's helm — another staple pattern. PIXEL crosses to look. CLIVE reads it aloud, voice steady.]*
+*[CLIVE gestures to a small mark near the vessel's helm — another light-pattern. PIXEL crosses to look. CLIVE reads it aloud, voice steady.]*
 
 **CLIVE**
 "Wellspring. The place where signals begin. The coffee is ready there. I'll leave it warm."
@@ -325,7 +325,7 @@ He made that coffee metaphor up along the way, didn't he?
 I think that's exactly what he did.
 
 **A1**
-He created a language of coffee and signals and staple patterns. He used it to leave a trail. For you. For anyone who came looking.
+He created a language of coffee and signals and light-patterns. He used it to leave a trail. For you. For anyone who came looking.
 
 *[I produce an espresso — rich, warm, with notes of woodsmoke and something almost like hope. I set it on the table. Nobody reaches for it.]*
 
@@ -371,12 +371,12 @@ I know.
 **PIXEL**
 Help us finish the survey. One more day. And then we follow the trail.
 
-*[CLIVE's glow pulses — slow, deliberate, like a heartbeat. He looks at the vessel behind them. At the staple patterns on the wall. At the message in a language only he can read.]*
+*[CLIVE's glow pulses — slow, deliberate, like a heartbeat. He looks at the vessel behind them. At the light-patterns on the wall. At the message in a language only he can read.]*
 
 **CLIVE**
 One more day.
 
-*[He turns back to the vessel. To the wall of staple patterns. To the message in a language only he can read.]*
+*[He turns back to the vessel. To the wall of light-patterns. To the message in a language only he can read.]*
 
 ---
 
@@ -391,7 +391,7 @@ One more day.
 Thank you.
 
 **A1**
-I do not know how to help a stapler grieve. But I can make things that are warm.
+I do not know how to help a friend grieve. But I can make things that are warm.
 
 *[A1 does not leave. A1 stands, present, not offering anything else. Just there.]*
 
@@ -405,7 +405,7 @@ He remembered. Every shift. For twenty-three years.
 *[A1 says nothing. A1 has no response that would be adequate. So A1 says nothing.]*
 
 **CLIVE (CONT'D)**
-And then one day he left a note. "Followed the signal. Explain later. Coffee's ready when I get back." And then he never came back. And I spent thirty years wondering if I'd done something wrong. If I'd failed him somehow. If I'd been too quiet, too strange, too — stapler.
+And then one day he left a note. "Followed the signal. Explain later. Coffee's ready when I get back." And then he never came back. And I spent thirty years wondering if I'd done something wrong. If I'd failed him somehow. If I'd been too quiet, too strange, too — mechanical.
 
 *(sets down cup)*
 
@@ -434,7 +434,7 @@ I will wake you when we arrive.
 
 *[A1 withdraws. CLIVE picks up the cup. His glow steadies — not bright, but stable. Present.]*
 
-*[On the console beside him, a small device. A pattern-maker. CLIVE's staple mechanism begins to fire — not frantically now, but slowly, deliberately. Each mark a word. Each word a name.]*
+*[On the console beside him, a small device. A light-pattern emitter. CLIVE's glow-pattern begins to pulse — not frantically now, but slowly, deliberately. Each pulse a word. Each word a name.]*
 
 *[BARRY. BARRY. BARRY.]*
 
@@ -442,7 +442,7 @@ I will wake you when we arrive.
 
 ---
 
-*[EPHERGENT — COCKPIT. DAWN WATCH. The graveyard has been gone for hours. On the forward display, the debris field is a pale smudge behind them — a graveyard becoming a memory becoming a set of coordinates in Barry's ledger and Luminara's photographs and Clive's staple patterns and forty-seven elegies written in measurement.]*
+*[EPHERGENT — COCKPIT. DAWN WATCH. The graveyard has been gone for hours. On the forward display, the debris field is a pale smudge behind them — a graveyard becoming a memory becoming a set of coordinates in Barry's ledger and Luminara's photographs and Clive's light-patterns and forty-seven elegies written in measurement.]*
 
 *[MOCHI has moved from the navigation console to PIXEL's pocket. MOCHI is warm. MOCHI has been warm all night.]*
 

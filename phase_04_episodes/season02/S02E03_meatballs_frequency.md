@@ -127,6 +127,65 @@ Meatball, what does that mean?
 **MEATBALL**
 *…means I was always supposed to be here. This frequency — LISTEN — it wasn't found. It was waiting. For me. For exactly me.*
 
+*## ACT TWO: THE SHAPE OF ATTENTION*
+
+*[DEEP SPACE — APPROACH VECTOR. The Ephergent drifts closer to the boundary of the dead zone. On sensors, the boundary is visible as an absolute sharp line — stars visible on one side, nothing on the other.]*
+
+*[SHIP — COCKPIT. Klaus at the helm, hands steady, face unreadable.]*
+
+**KLAUS**
+I have crossed seven dead zones in my career. Two of them were natural. Five were built.
+
+**PIXEL**
+Built by who?
+
+**KLAUS**
+Corporate. The old companies. They made dead zones to hide things. Prisoners. Experiments. Evidence. You put something in a dead zone and it simply… stops. Stopping is cheaper than destroying.
+
+**A1**
+This dead zone predates Corporate by millennia. Whoever built it was not hiding anything. They were preserving something.
+
+**KLAUS**
+*(quietly)*Sometimes those are the same thing.
+
+*[A1's espresso machine makes a sound like a question — a rising tone, uncertain.]*
+
+**A1**
+I am making uncertainty. This is not a flavor I produce often.
+
+**PIXEL**
+What's uncertain?
+
+**A1**
+The buoy. It should not exist. The mathematics of its construction — the engineering required to maintain a signal inside a dead zone — exceeds what I can calculate. And yet. There it is. Broadcasting. Waiting. Patient as grief.
+
+**CLIVE**
+*(sphere pulsing a slow, steady amber)*I've processed signals for longer than most civilizations last. I've decoded messages from species that dissolved before they could finish transmitting. I've translated languages that had no living speakers.
+
+*(pause)*
+
+This signal is different.
+
+**PIXEL**
+Different how?
+
+**CLIVE**
+*(sphere dims slightly — grief-adjacent)*It's not broadcasting into the void. It's broadcasting *for* the void. For the spaces between stars where nothing listens. It's talking to an audience that might not exist yet. An act of faith encoded in mathematics.
+
+**ZEPHYR**
+An act of faith?
+
+**CLIVE**
+Belief that someone, somewhere, would eventually hear. That the universe would produce a listener. That attention itself is worth preserving.
+
+*(Sound: The ship's comms crackle — a faint, rhythmic pulse. LISTEN. LISTEN.)*
+
+**KLAUS**
+We're crossing the boundary in thirty seconds.
+
+**PIXEL**
+Everyone hold on to something. And maybe — maybe listen. Really listen. Whatever this is, it's been waiting for us specifically.
+
 *[Mochi in Pixel's pocket flares warm — the warmest it's ever been. Pixel pulls it out, holds it, watches it glow.]*
 
 **PIXEL**

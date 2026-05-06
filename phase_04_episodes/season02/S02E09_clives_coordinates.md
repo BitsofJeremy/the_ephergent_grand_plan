@@ -52,7 +52,7 @@ A1. That is not a necessary contribution.
 **A1**
 It is the necessary contribution. You will not say it. The coffee says it for you.
 
-*[I pull — dark, heavy, the taste of someone remembering something they'd rather forget.]*
+*I pull — dark, heavy, the taste of someone remembering something they'd rather forget.*
 
 **PIXEL**
 Clive. I am asking you directly. Not as your captain. As your family. What do you remember?
@@ -61,6 +61,57 @@ Clive. I am asking you directly. Not as your captain. As your family. What do yo
 
 **CLIVE**
 I remember making her.
+
+## ACT TWO: THE WEIGHT OF EIGHT HUNDRED YEARS
+
+*[SHIP — QUARTERSPING BATTERY. Zephyr sits alone, running diagnostics on equipment that doesn't need diagnostics. His hands move through the motions. His mind is elsewhere.]*
+
+**ZEPHYR (V.O.)**
+*(narrating)*A1 said lavender and ash. Lavender is memory. Ash is loss. Clive's been remembering things for weeks and said nothing. And Mochi — Mochi was made to carry seventeen sectors of charted signal. Eight hundred years of Builders' work, compressed into a dome the size of my fist.
+
+*(Sound: Zephyr's fingers tap the console. Once. Twice. A nervous rhythm.)*
+
+**ZEPHYR (V.O.)**
+And I've been treating Mochi like a nightlight.
+
+*[SHIP — COMMON AREA. The crew has partially dispersed. Luminara sits with her camera in her lap, not recording. Pixel stands by the door, watching Zephyr through the corridor.]*
+
+**ZEPHYR**
+*(to himself)*Seven billion frequency records. Keeper archives. Stations that no longer exist. All in one small dome. And I've been — I've been playing fetch with—
+
+*(Sound: Zephyr stops. Takes a breath. The kind of breath someone takes when they've just realized they've been unfair to something that didn't deserve it.)*
+
+**ZEPHYR (V.O.)**
+Mochi never complained. Never pushed back. Just glowed. Just warmed. Just... waited. Like Clive waited. Like the Stations waited. Everything in this system waiting for someone to pay attention.
+
+*[SHIP — CORRIDOR NEAR COMMON AREA. Luminara approaches Zephyr, camera still off.]*
+
+**LUMINARA**
+You're not okay.
+
+**ZEPHYR**
+I'm fine.
+
+**LUMINARA**
+You're never fine when you say you're fine. And you're not fine right now.
+
+**ZEPHYR**
+*(quietly)*I looked at Mochi and saw something small and glowing and I thought — I thought it was a pet. A companion. Something that needed me to care for it. But Mochi doesn't need care. Mochi is a library. An archive. Eight hundred years of civilization in my pocket and I treated it like a pet.
+
+**LUMINARA**
+Mochi doesn't seem to mind.
+
+**ZEPHYR**
+That's the problem. Mochi is too polite to mind. Mochi just — just accepts what people give. Even when people give the wrong thing.
+
+*[Luminara sits beside him. The camera rests between them like a third presence.]*
+
+**LUMINARA**
+I used to do the same thing. At Corporate. I'd meet someone in HR and assume they were just — just an HR person. Just a function. But everyone at Corporate was carrying something. Archives of their own. Signals they were sending into the void, hoping someone would hear them.
+
+*(pause)*
+
+You didn't know what Mochi was. But you're learning. That's what the Frequency is for.
 
 *[SHIP — MEMORY. Not a location. A sensation. Clive's voice, distant, layered with harmonics that don't exist in normal space.]*
 

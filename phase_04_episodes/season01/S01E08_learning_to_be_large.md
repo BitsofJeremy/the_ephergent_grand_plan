@@ -63,7 +63,7 @@ Pixel sat in the captain's chair. Luminara had set up her camera to capture the 
 
 "Then let's be loud." Pixel leaned forward. "Open channel."
 
-The broadcast console hummed. A1's quantum signal bloomed outward from The Ephergent like a flower opening — not a tight beam but a frequency wave, expanding through the The Space, riding the aurora ribbons, threading through the static. Frequency jellyfish turned toward the ship, their luminous bodies pulsing in resonance with the signal. Somewhere far below the surface of the Space, something vast and ancient stirred, listening.
+The broadcast console hummed. A1's quantum signal bloomed outward from The Ephergent like a flower opening — not a tight beam but a frequency wave, expanding through the Space, riding the aurora ribbons, threading through the static. Frequency jellyfish turned toward the ship, their luminous bodies pulsing in resonance with the signal. Somewhere far below the surface of the Space, something vast and ancient stirred, listening.
 
 Pixel took a breath.
 

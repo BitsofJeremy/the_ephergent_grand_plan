@@ -33,7 +33,7 @@ Pixel made the call. They had maybe six hours of air, maybe four of power. The s
 
 Nobody objected.
 
-The lifeboat limped forward on its last reserves. The The Space spread before them through the cracked observation port — that impossible expanse of quantum static, shimmering from deep indigo to iridescent pearl, aurora ribbons of visible frequencies rippling across the void like the northern lights reflected in a dark, living expanse. It was beautiful. It was always beautiful. Even when you were dying in it.
+The lifeboat limped forward on its last reserves. The Space spread before them through the cracked observation port — that impossible expanse of quantum static, shimmering from deep indigo to iridescent pearl, aurora ribbons of visible frequencies rippling across the void like the northern lights reflected in a dark, living expanse. It was beautiful. It was always beautiful. Even when you were dying in it.
 
 Frequency jellyfish drifted past, their luminous bodies pulsing in slow, hypnotic rhythms, drawn to the lifeboat's fading broadcast signal like moths to a guttering flame. Meatball pressed his nose to the beacon station and watched them. "They're singing goodbye," he said quietly. "But also hello. Both at the same time."
 
@@ -157,6 +157,6 @@ His lights pulsed — the warm, steady rhythm of a heart that had finally rememb
 
 "Welcome home, all of you."
 
-Outside, the The Space shimmered. Somewhere in its depths, an echo whale sang — low and vast and impossibly old — and for once, the song wasn't mourning a lost frequency. It was welcoming a new one.
+Outside, the Space shimmered. Somewhere in its depths, an echo whale sang — low and vast and impossibly old — and for once, the song wasn't mourning a lost frequency. It was welcoming a new one.
 
 The Ephergent continued on.
