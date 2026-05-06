@@ -12,18 +12,11 @@ the_ephergent_grand_plan/
 ├── phase_04_episodes/      ✅ ACTIVE — 30 episode scripts (S01-S03)
 │   ├── season01/           (S01E01–S01E10)
 │   ├── season02/           (S02E01–S02E10)
-│   ├── season03/           (S03E01–S03E10 + S03E08x)
-│   └── archive_*/          ⚠️ DEAD — old workflow, to be removed
+│   └── season03/           (S03E01–S03E10 + S03E08x)
 ├── phase_05_games/        ✅ ACTIVE — 6 game design bibles
 ├── phase_06_transmissions/ ✅ ACTIVE — format specs
 ├── phase_07_site/          ✅ ACTIVE — Astro scaffold (reference)
-├── source_archive/         📦 TO CLEAN — 36M, superseded content
-│   ├── signal_lore_prototype/     (different IP)
-│   ├── original_ephergent_seasons/ (superseded episodes)
-│   └── ephergent_season_03_generator/ (32M Python app, .env, logs)
 └── CLAUDE.md               ✅ LLM guidance
-
-TOTAL CLEANUP CANDIDATES: ~36M+ dead weight
 ```
 
 ---
@@ -99,23 +92,7 @@ TOTAL CLEANUP CANDIDATES: ~36M+ dead weight
 
 ---
 
-## Cleanup Candidates (~36M to recover)
-
-These can be safely removed — all superseded or redundant:
-
-| Path | Size | Reason |
-|------|------|--------|
-| `source_archive/ephergent_season_03_generator/` | ~32M | Old Python app, .env with credentials, logs |
-| `source_archive/original_ephergent_seasons/` | ~732K | Original AI episodes, superseded |
-| `source_archive/signal_lore_prototype/` | ~2.6M | Different IP, not Ephergent |
-| `phase_04_episodes/archive_ai_docs/` | ? | Old workflow, superseded |
-| `phase_04_episodes/archive_ep01_ep13_overflow/` | ? | Old episode numbers (E11-E13, etc.) |
-| `phase_04_episodes/archive_original/` | ? | Original versions of episodes |
-| `generator.log` | ~268K | Runtime noise |
-
-**Recommend:** Move `source_archive/` to external storage, then delete. Keep `phase_04_episodes/archive_*` subdirectories but empty them.
-
----
+## Reference Files
 
 ## Character Specs (Canonical — Don't Contradict)
 
