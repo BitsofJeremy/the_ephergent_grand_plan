@@ -184,3 +184,19 @@ Meatball looked up at her. His tail wagged once — not the excited wag of a wal
 Luminara raised her camera. "Whatever we find, someone should see it. I'll make sure they do."
 
 "A1," Pixel said. "Take us to the song."
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |

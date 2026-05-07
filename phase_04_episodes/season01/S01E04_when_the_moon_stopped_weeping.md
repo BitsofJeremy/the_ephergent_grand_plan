@@ -174,3 +174,19 @@ She pauses, looking at the lifeboat's straining power readout.
 The lifeboat groans into the Space between. Through the porthole, the twilight of Nocturne fades — deep indigo dissolving into the quantum static of the in-between. Somewhere ahead, another frequency waits: Cogsworth Cogitarium, where — if A1's inexplicable knowledge is correct — everything runs on gears and precision and the rupture will have hit like a wrench thrown into the world's most delicate clock.
 
 But that's next episode's problem.
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |

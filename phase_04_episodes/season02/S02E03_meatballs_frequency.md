@@ -309,3 +309,19 @@ Waiting for what?
 *“Meatball’s Frequency” — S02E03*
 *Broadcast date: Eternal*
 *Frequency: LISTEN*
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |

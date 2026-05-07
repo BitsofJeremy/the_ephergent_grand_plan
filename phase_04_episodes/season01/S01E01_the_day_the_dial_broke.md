@@ -132,3 +132,19 @@ Meatball curls up at Pixel's feet and sighs — a deep, contented sigh that seem
 Pixel leans back against the cold metal wall of the lifeboat, exhausted, terrified, furious, and weirdly exhilarated. Everything she knew was a lie. Or not a lie — a *cover*. A carefully maintained fiction. And now the fiction is shattered and the truth is an ocean of impossible light and she's broadcasting into it from a boat that smells like toner.
 
 But the signal is alive. And so are they.
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |

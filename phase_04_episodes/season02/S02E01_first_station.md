@@ -268,3 +268,19 @@ Mochi, in the satchel, glowed a soft, steady violet. The satchel was warm.
 *"The past isn't dead out here. It's just waiting for someone to walk into the room and turn the lights on.*
 
 *"This is the Ephergent. We're listening. And for the first time, we know where the sound is coming from."*
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |

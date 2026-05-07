@@ -261,3 +261,19 @@ She leaned back. The mug of espresso was warm in her hands. Hazelnut. Home.
 She cut the signal. The Space held them in its vast, humming silence. Somewhere in the data A1 was processing, Barry Kowalski's twenty-three years of questions waited to be understood. Somewhere in the frequency Clive had heard and not mentioned, something older than institutions pulsed — patient, enduring, unclassified.
 
 Clive sat on the console and said nothing. The fedora cast its shadow. His glow was blue-white and steady, the color of Builder signal energy, the color of something that had been filed under "inert" and was — quietly, deliberately, in its own time — proving the form wrong.
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |

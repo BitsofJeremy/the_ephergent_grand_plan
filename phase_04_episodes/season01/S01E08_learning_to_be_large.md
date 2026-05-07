@@ -104,3 +104,19 @@ In the computational core, Zephyr searched A1's ancient logs for any mention of 
 And on the bridge, Pixel Paradox sat in the captain's chair and looked out at the Space and thought about all the lost frequencies waiting in the dark, and she smiled, because for the first time, she had a ship that could find them.
 
 The Ephergent continued on.
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |
