@@ -20,10 +20,10 @@ You ever have one of those days where the coffee tastes like a warning? Like the
 
 **INT. DRM — FLOOR 47 — PIXEL'S CUBICLE — CONTINUOUS**
 
-*A fluorescent-lit nightmare of beige cubicle walls, chunky monitors, and the faint smell of toner and existential dread. POST-IT NOTES cover every surface. A dying succulent sits in the corner. PIXEL PARADOX (24, sharp eyes, ink-stained fingers, headphones around her neck) stares at her monitor. The screen displays: INTERDIMENSIONAL PAPERCLIP VARIANCE REPORT — Q3 ANALYSIS.*
+*A fluorescent-lit nightmare of beige cubicle walls, chunky monitors, and the faint smell of toner and existential dread. POST-IT NOTES cover every surface. A dying succulent sits in the corner. PIXEL PARADOX (24, sharp eyes, ink-stained fingers, headphones around her neck) stares at her monitor. The screen displays: FREQUENCY PAPERCLIP VARIANCE REPORT — Q3 ANALYSIS.*
 
 **PIXEL**
-Not that I mind. I love my job. I really do. Processing interdimensional paperclip variance for the Department of Reality Maintenance is exactly the career I dreamed about since I was five and my grandmother told me the government needed good filing people.
+Not that I mind. I love my job. I really do. Processing frequency paperclip variance for the Department of Reality Maintenance is exactly the career I dreamed about since I was five and my grandmother told me the government needed good filing people.
 
 *She takes a sip of coffee from a chipped mug. The coffee is perfect. Dark, rich, with hints of something she can't name. She doesn't question it.*
 
@@ -715,7 +715,7 @@ You want us to broadcast. To tell stories about the lost frequencies. To be... w
 *The voice softens. Stoic British warmth.*
 
 **A1 (V.O.) (CONT'D)**
-*You are a storyteller, Pixel Paradox. You have always been. You turned interdimensional paperclip variance into poetry. You turned a dying agency into an adventure. You turned a coffee maker into a home.*
+*You are a storyteller, Pixel Paradox. You have always been. You turned frequency paperclip variance into poetry. You turned a dying agency into an adventure. You turned a coffee maker into a home.*
 
 **PIXEL**
 That's... that's not...
