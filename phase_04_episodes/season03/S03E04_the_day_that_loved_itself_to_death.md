@@ -1,3 +1,10 @@
+---
+title: "S03E04: The Day That Loved Itself to Death"
+author: "The Ephergent Collective"
+date: "2026-04-01"
+tags: ["season-3", "episode-4"]
+---
+
 # S03E04: The Day That Loved Itself to Death
 
 **A Radio Play**

@@ -1,3 +1,10 @@
+---
+title: "Wreckage and Will"
+author: "The Ephergent Collective"
+date: "2025-05-01"
+tags: ["season-2", "episode-5"]
+---
+
 
 # Wreckage and Will
 

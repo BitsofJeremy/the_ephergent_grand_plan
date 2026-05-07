@@ -1,3 +1,10 @@
+---
+title: "Learning to Be Large"
+author: "The Ephergent Collective"
+date: "2024-08-01"
+tags: ["season-1", "episode-8"]
+---
+
 
 # Learning to Be Large
 

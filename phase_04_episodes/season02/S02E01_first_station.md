@@ -1,3 +1,10 @@
+---
+title: "First Station"
+author: "The Ephergent Collective"
+date: "2025-01-01"
+tags: ["season-2", "episode-1"]
+---
+
 
 # First Station
 

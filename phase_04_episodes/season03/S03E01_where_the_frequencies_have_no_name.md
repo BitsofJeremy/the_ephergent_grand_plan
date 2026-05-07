@@ -1,3 +1,10 @@
+---
+title: "S03E01 — Where the Frequencies Have No Name"
+author: "The Ephergent Collective"
+date: "2026-01-01"
+tags: ["season-3", "episode-1"]
+---
+
 # S03E01 — Where the Frequencies Have No Name
 
 ## COFFEE CHART

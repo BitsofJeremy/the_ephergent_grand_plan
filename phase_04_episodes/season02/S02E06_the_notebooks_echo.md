@@ -1,3 +1,10 @@
+---
+title: "S02E06 — The Notebook's Echo"
+author: "The Ephergent Collective"
+date: "2025-06-01"
+tags: ["season-2", "episode-6"]
+---
+
 # S02E06 — The Notebook's Echo
 
 ## ACT ONE

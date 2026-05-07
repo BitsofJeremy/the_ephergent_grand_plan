@@ -1,3 +1,10 @@
+---
+title: "S03E08 — The Atlas Opens"
+author: "The Ephergent Collective"
+date: "2026-08-01"
+tags: ["season-3", "episode-8"]
+---
+
 # S03E08 — The Atlas Opens
 
 **A Radio Play**

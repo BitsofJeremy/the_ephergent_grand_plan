@@ -1,3 +1,10 @@
+---
+title: "Barry's Desk"
+author: "The Ephergent Collective"
+date: "2024-10-01"
+tags: ["season-1", "episode-10"]
+---
+
 
 # Barry's Desk
 

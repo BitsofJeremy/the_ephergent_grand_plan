@@ -1,3 +1,10 @@
+---
+title: "The Signal Was Us All Along"
+author: "The Ephergent Collective"
+date: "2026-10-01"
+tags: ["season-3", "episode-10"]
+---
+
 # The Signal Was Us All Along
 
 *The Signal speaks.*

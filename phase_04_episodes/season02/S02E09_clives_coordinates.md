@@ -1,3 +1,10 @@
+---
+title: "S02E09 — Clive's Coordinates"
+author: "The Ephergent Collective"
+date: "2025-09-01"
+tags: ["season-2", "episode-9"]
+---
+
 # S02E09 — Clive's Coordinates
 
 *[SHIP — COMMON AREA. Later. The crew has gathered — not because anyone called a meeting, but because when Clive processes, the ship feels it. A1's presence is in the hum. Zephyr sits in the corner, still. Luminara's camera is off. Om Kai stands by the viewport, watching the Frequency drift past like light through water.]*

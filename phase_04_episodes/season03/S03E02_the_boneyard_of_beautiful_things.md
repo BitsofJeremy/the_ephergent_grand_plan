@@ -1,3 +1,10 @@
+---
+title: "S03E02 — The Boneyard of Beautiful Things"
+author: "The Ephergent Collective"
+date: "2026-02-01"
+tags: ["season-3", "episode-2"]
+---
+
 # S03E02 — The Boneyard of Beautiful Things
 
 ## COFFEE CHART

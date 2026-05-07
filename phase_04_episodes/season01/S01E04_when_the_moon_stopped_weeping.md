@@ -1,3 +1,10 @@
+---
+title: "When the Moon Stopped Weeping"
+author: "The Ephergent Collective"
+date: "2024-04-01"
+tags: ["season-1", "episode-4"]
+---
+
 
 # When the Moon Stopped Weeping
 

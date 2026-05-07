@@ -1,3 +1,10 @@
+---
+title: "S02E07 — The Boneyard of Beautiful Things"
+author: "The Ephergent Collective"
+date: "2025-07-01"
+tags: ["season-2", "episode-7"]
+---
+
 # S02E07 — The Boneyard of Beautiful Things
 
 ## ACT ONE

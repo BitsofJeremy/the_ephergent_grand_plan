@@ -1,3 +1,10 @@
+---
+title: "S03E05: The Loudest Thing in the Room Is Nothing"
+author: "The Ephergent Collective"
+date: "2026-05-01"
+tags: ["season-3", "episode-5"]
+---
+
 # S03E05: The Loudest Thing in the Room Is Nothing
 
 **A Radio Play**

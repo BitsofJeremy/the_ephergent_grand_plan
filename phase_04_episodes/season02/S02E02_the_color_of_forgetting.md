@@ -1,3 +1,10 @@
+---
+title: "S02E02 — The Color of Forgetting"
+author: "The Ephergent Collective"
+date: "2025-02-01"
+tags: ["season-2", "episode-2"]
+---
+
 # S02E02 — The Color of Forgetting
 
 *[SPACE. The Ephergent emerges from a static cloud into — color. Specifically, the absence of it. Veranth is a world going translucent. Through the viewport: a planet whose edges are blurry, like a photograph left in sunlight. At the borders, you can see through it to the stars behind.]*

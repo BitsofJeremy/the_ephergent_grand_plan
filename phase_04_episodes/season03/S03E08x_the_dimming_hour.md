@@ -1,3 +1,10 @@
+---
+title: "S03E08X — The Dimming Hour"
+author: "The Ephergent Collective"
+date: "2026-08-01"
+tags: ["season-3", "episode-8"]
+---
+
 # S03E08X — The Dimming Hour
 ## A Lost Broadcast — Found Recording
 

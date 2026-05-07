@@ -1,3 +1,10 @@
+---
+title: "The Sound That Wants to Come Home"
+author: "The Ephergent Collective"
+date: "2024-09-01"
+tags: ["season-1", "episode-9"]
+---
+
 
 # The Sound That Wants to Come Home
 

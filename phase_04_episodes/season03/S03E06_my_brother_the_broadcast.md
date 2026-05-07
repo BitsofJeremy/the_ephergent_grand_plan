@@ -1,3 +1,10 @@
+---
+title: "S03E06: My Brother the Broadcast"
+author: "The Ephergent Collective"
+date: "2026-06-01"
+tags: ["season-3", "episode-6"]
+---
+
 # S03E06: My Brother the Broadcast
 
 **A Radio Play**

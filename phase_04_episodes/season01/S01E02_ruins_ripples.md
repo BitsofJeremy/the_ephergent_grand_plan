@@ -1,3 +1,10 @@
+---
+title: "Ruins, Ripples, and Really Nervous Dinosaurs"
+author: "The Ephergent Collective"
+date: "2024-02-01"
+tags: ["season-1", "episode-2"]
+---
+
 
 # Ruins, Ripples, and Really Nervous Dinosaurs
 

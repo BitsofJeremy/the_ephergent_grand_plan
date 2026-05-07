@@ -1,3 +1,10 @@
+---
+title: "S03E03: The Threshold"
+author: "The Ephergent Collective"
+date: "2026-03-01"
+tags: ["season-3", "episode-3"]
+---
+
 # S03E03: The Threshold
 
 ## COFFEE CHART

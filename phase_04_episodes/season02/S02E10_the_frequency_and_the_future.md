@@ -1,3 +1,10 @@
+---
+title: "S02E10 — The Frequency and the Future"
+author: "The Ephergent Collective"
+date: "2025-10-01"
+tags: ["season-2", "episode-10"]
+---
+
 # S02E10 — The Frequency and the Future
 
 *[SHIP — NAVIGATION ALCOVE. Morning cycle, such as it is. Clive stands at the console, fedora at its precise angle. The coordinates from E09 are still displayed — bearing 47 mark 3, the path to the Wellspring. But something new is overlaid: a secondary bearing, fainter, pulsing at the edge of detection.]*

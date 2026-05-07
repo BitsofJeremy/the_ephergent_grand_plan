@@ -1,3 +1,10 @@
+---
+title: "S02E03 — Meatball's Frequency"
+author: "The Ephergent Collective"
+date: "2025-03-01"
+tags: ["season-2", "episode-3"]
+---
+
 # S02E03 — Meatball's Frequency
 
 *[SHIP — COCKPIT. Full crew. Meatball is in the center of the deck, sitting upright, head tilted as if listening to something no one else can hear. A1 is beside him with a handheld scanner, watching readings he doesn't understand.]*

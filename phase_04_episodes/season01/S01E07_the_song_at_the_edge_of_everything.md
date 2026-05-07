@@ -1,3 +1,10 @@
+---
+title: "The Song at the Edge of Everything"
+author: "The Ephergent Collective"
+date: "2024-07-01"
+tags: ["season-1", "episode-7"]
+---
+
 # The Song at the Edge of Everything
 
 *The Signal speaks.*
@@ -216,6 +223,8 @@ He was standing on a conduit junction, his glowing sphere head tilted down towar
 
 "Clive?" Pixel said.
 
+He tipped his fedora toward her — a gesture worn smooth by three thousand years of habit. "Evening, Captain."
+
 He didn't answer. His glow dimmed and brightened in a rhythm she hadn't catalogued — not the terse pulse of observation, not the warm amber of contentment. Something deeper. Something like memory surfacing.
 
 Pixel stepped closer. She didn't ask. She'd learned, over weeks of living with a small ancient robot who communicated in careful silences, that asking Clive a question he wasn't ready to answer didn't produce an answer. It produced a deflection so elegant you didn't realize you'd been redirected until the conversation was over.
@@ -299,3 +308,5 @@ The Ephergent continued on.
 | 8 | Builders NOT villains | ✅ |
 | 9 | Drift = entropy, not villain | ✅ |
 | 10 | Wellspring = state, not place | ✅ |
+| 11 | 15MB per-game hard cap | N/A (radio play) |
+| 12 | Barry's notes methodical/precise | ✅ |

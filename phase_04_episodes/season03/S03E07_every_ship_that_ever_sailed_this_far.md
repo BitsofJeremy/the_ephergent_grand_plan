@@ -1,3 +1,10 @@
+---
+title: "S03E07 — Every Ship That Ever Sailed This Far"
+author: "The Ephergent Collective"
+date: "2026-07-01"
+tags: ["season-3", "episode-7"]
+---
+
 # S03E07 — Every Ship That Ever Sailed This Far
 
 **A Radio Play**

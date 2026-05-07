@@ -1,3 +1,10 @@
+---
+title: "The DRM Archive"
+author: "The Ephergent Collective"
+date: "2024-03-01"
+tags: ["season-1", "episode-3"]
+---
+
 
 # The DRM Archive
 

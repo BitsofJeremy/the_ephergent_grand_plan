@@ -1,3 +1,10 @@
+---
+title: "S01E01 — \"The Frequency\""
+author: "The Ephergent Collective"
+date: "2024-01-01"
+tags: ["season-1", "episode-1"]
+---
+
 # S01E01 — "The Frequency"
 
 ## A Radio Play

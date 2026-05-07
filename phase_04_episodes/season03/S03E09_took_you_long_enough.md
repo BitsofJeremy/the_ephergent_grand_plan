@@ -1,3 +1,10 @@
+---
+title: "S03E09: Took You Long Enough"
+author: "The Ephergent Collective"
+date: "2026-09-01"
+tags: ["season-3", "episode-9"]
+---
+
 # S03E09: Took You Long Enough
 
 **A Radio Play**

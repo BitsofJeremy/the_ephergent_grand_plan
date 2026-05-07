@@ -1,3 +1,10 @@
+---
+title: "S02E08 — Signal Crossings"
+author: "The Ephergent Collective"
+date: "2025-08-01"
+tags: ["season-2", "episode-8"]
+---
+
 # S02E08 — Signal Crossings
 
 *DEEP SPACE — TRANSIT. Three days in. The crew is wound tight. Zephyr hasn't left the signal analyzer in forty-seven hours — not sleeping, barely eating, running the same sweeps over and over like he might catch something new if he just looks long enough. A1's espresso output has shifted in the last twelve hours: rich, complex, layered with something that tastes like anticipation. Like the moment before a name is spoken.*
