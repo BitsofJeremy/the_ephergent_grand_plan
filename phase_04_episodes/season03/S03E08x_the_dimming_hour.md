@@ -232,4 +232,4 @@ No. Not tonight.
 
 ---
 
-*Integration Note: This interstitial should be read after S03E07 (Every Ship That Ever Sailed This Far) and before or during S03E08 (The Atlas Opens). It establishes the Builders' comedic response to extinction — thematic foundation for the crew's own "Ephergent" broadcast. The "joke was always the point" is the emotional thesis of the finale.*
+*Integration Note: This interstitial should be read after S03E07 (Every Ship That Ever Flew This Far) and before or during S03E08 (The Atlas Opens). It establishes the Builders' comedic response to extinction — thematic foundation for the crew's own "Ephergent" broadcast. The "joke was always the point" is the emotional thesis of the finale.*

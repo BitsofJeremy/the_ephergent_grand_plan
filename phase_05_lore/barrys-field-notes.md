@@ -17,7 +17,7 @@ The DRM did not know what they had.
 
 Barry Kowalski was a night guard at the Department of Reality Maintenance. He worked the 10PM to 6AM shift for twenty-three years. He had a thermos that was always full of coffee. He had a methodical nature and a quiet disposition and a way of noticing things that other people dismissed as irrelevant.
 
-He partnered with Clive for twenty-three years of what Clive, in his laconic way, later referred to as "investigating irregularities in the frequency spectrum — signals that did not match any known dimension, patterns that suggested something vast and old moving beneath the static."
+He partnered with Clive for twenty-three years of what Clive, in his laconic way, later referred to as "investigating irregularities in the frequency spectrum — signals that did not match any known frequency, patterns that suggested something vast and old moving beneath the static."
 
 Barry did not call it anything. He just documented it. He wrote down what he saw. He noted the anomalies in numbered entries, date-stamped and precise, using the same observational language whether he was recording a flickering light in the basement or a signal that could not exist coming from somewhere that should not be there.
 

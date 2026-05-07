@@ -57,7 +57,7 @@ That was the only way to describe it — the Ephergent descending through layers
 
 "We're in the drift," A1 announced. The ship's voice was quieter than usual, as if the signals around them demanded respect. "Proceeding on bearing. Estimated arrival at layer boundary: forty-three minutes."
 
-Clive stood at the observation port. The Space outside had changed — the usual indigo and pearl had deepened to something almost black, punctuated by lights that moved like slow fireflies. Dead frequencies. Dying stars. The accumulated weight of everything that had tried to exist and hadn't.
+Clive stood at the viewport. The Space outside had changed — the usual indigo and pearl had deepened to something almost black, punctuated by lights that moved like slow fireflies. Dead frequencies. Dying stars. The accumulated weight of everything that had tried to exist and hadn't.
 
 "Clive." Luminara's voice, close behind him. She'd moved without sound, the way she did when she wanted to be noticed without startling. "Can you hear them?"
 
@@ -91,7 +91,7 @@ Clive's glow flickered. Blue-white to something darker. Back.
 
 Luminara nodded. She didn't say anything else. She didn't have to.
 
-She stayed with him at the observation port as the boneyard opened around them, dead worlds layered like sediment, beautiful things that had tried to last and hadn't.
+She stayed with him at the viewport as the boneyard opened around them, dead worlds layered like sediment, beautiful things that had tried to last and hadn't.
 
 The layer boundary appeared without warning.
 
@@ -99,7 +99,7 @@ One moment the Ephergent was moving through the drift; the next, the ship's sens
 
 "We've arrived," A1 announced.
 
-Outside the observation port, the boneyard revealed itself.
+Outside the viewport, the boneyard revealed itself.
 
 It was not what any of them expected.
 
@@ -111,7 +111,7 @@ Clive had braced himself for wreckage — for shattered fragments, for the scatt
 
 The worlds had accumulated in layers, yes, but they had accumulated gently. Each one was intact — small spheres of faded light, no larger than moons, suspended in the darkness like seeds in amber. Some still glowed faintly, their signals not quite dead, just... quiet. Waiting. Hoping.
 
-"They're preserved," Pixel breathed. She was at the port now too, Zephyr beside her, both of them transfixed. "They're not destroyed. They're just—"
+"They're preserved," Pixel breathed. She was at the viewport now too, Zephyr beside her, both of them transfixed. "They're not destroyed. They're just—"
 
 "Waiting," Clive said.
 

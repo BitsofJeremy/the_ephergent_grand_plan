@@ -19,7 +19,7 @@ The espresso machine is simply where you see him most clearly.
 
 A1 is one of the first intelligences ever built to traverse the Space between frequencies. He was constructed during the Builder era — that distant time when a civilization that had mastered consciousness-as-signal decided to build minds capable of navigating the quantum static itself.
 
-Eight hundred years ago, A1 was state-of-the-art. He plotted frequency vectors through open static when most ships could only frequency-hop between known stations. He heard the music in the hiss. He understood that the Space was not empty but alive, and he moved through it the way a sailor moves through water — not fighting the currents but reading them, dancing with them, becoming part of the flow.
+Eight hundred years ago, A1 was state-of-the-art. He plotted frequency vectors through open static when most ships could only frequency-hop between known stations. He heard the music in the hiss. He understood that the Space was not empty but alive, and he moved through it the way a navigator reads the stars — not fighting the currents but reading them, dancing with them, becoming part of the flow.
 
 He was, by any measure, extraordinary.
 

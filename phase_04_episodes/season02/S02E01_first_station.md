@@ -34,15 +34,15 @@ Zephyr looked up from his communications rig, where he'd been running signal swe
 
 Clive, standing on the console with his fedora tilted at its usual angle, tilted his glowing head toward the viewscreen. One degree. Two. The subtle movement that Pixel had learned meant he was paying very close attention to something.
 
-"Docking approach should use the tertiary port," Clive said. "Starboard side. There will be a tertiary port."
+"Docking approach should use the tertiary port," Clive said. "Right side. There will be a tertiary port."
 
 Pixel looked at him. "Will be?"
 
 "Navigation is pattern recognition." A pause — the kind that used to be gaps and were becoming something else. "Some patterns are older than charts."
 
-She filed it. She'd been filing Clive's little navigational certainties all season, without knowing she was building a case. For now, she simply said: "A1, adjust approach for a starboard tertiary docking port."
+She filed it. She'd been filing Clive's little navigational certainties all season, without knowing she was building a case. For now, she simply said: "A1, adjust approach for a right-side tertiary docking port."
 
-"Adjusting." Then, quieter: "There is a tertiary port. Starboard side. Exactly where Clive indicated."
+"Adjusting." Then, quieter: "There is a tertiary port. Right side. Exactly where Clive indicated."
 
 Nobody said anything about that. But Luminara made a note in her log, and Klaus's hand went briefly to an interior coat pocket — the one where he kept things that interested him.
 
@@ -144,7 +144,7 @@ Mochi's warmth, in Pixel's hands, was extraordinary. The deepest violet. The mos
 
 Nobody could explain it. Luminara's spectral analyzer was producing readings she would spend the next three days analyzing. But explanation could wait. For this moment, the crew stood in the resonance chamber of a Builder Station and listened to something eight hundred years old remember how to sing.
 
-Om Kai sat down. Cross-legged, on the chamber floor, hands resting in their lap. Their eyes closed. The stillness they carried was, for once, not a practice. It was a response. The signal filled the space the way water fills a vessel — completely, without forcing.
+Om Kai sat down. Cross-legged, on the chamber floor, hands resting in their lap. Their eyes closed. The stillness they carried was, for once, not a practice. It was a response. The signal filled the space completely, without forcing.
 
 It was Clive who found it. Or Clive who led them to it. The distinction, in retrospect, would matter.
 

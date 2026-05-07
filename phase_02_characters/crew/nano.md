@@ -174,7 +174,7 @@ She never has proper openings or closings. They start when Nano starts talking a
 
 ### Sample Transmissions
 
-> *"— right, so the port-side harmonic stabilizer was oscillating at 3.7 instead of 3.72 which doesn't sound like a lot but that's a full half-cycle off per thousand rotations and if you compound that over a transit window you get — actually it's fixed now, fixed it while I was talking, the point is A1's hull resonance is clean, cleaner than last week, check the logs if you want the numbers, I already filed them —"*
+> *"— right, so the right-side harmonic stabilizer was oscillating at 3.7 instead of 3.72 which doesn't sound like a lot but that's a full half-cycle off per thousand rotations and if you compound that over a transit window you get — actually it's fixed now, fixed it while I was talking, the point is A1's hull resonance is clean, cleaner than last week, check the logs if you want the numbers, I already filed them —"*
 
 > *"Entropy fragments again. Faster this time. Or we're slower. Same math either way. Recalibrated. Running. More tomorrow if there is one. There will be one. I'm fast enough."*
 

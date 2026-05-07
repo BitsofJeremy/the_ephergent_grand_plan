@@ -610,7 +610,7 @@ I... I don't know. How long were you asleep?
 Ninety years. Like I thought.
 
 **A1 (V.O.)**
-*You. The stapler. You listened.
+*You. The archival unit. You listened.
 
 **CLIVE.**
 I listened. I filed. I remembered.
@@ -649,7 +649,7 @@ Can we help?
 
 *The core DOCKS with the console. The ship SHUDDERS — not collapse, but expansion. Like a lung filling. Like a frequency locking into place.*
 
-*And then: the BRIDGE. A section of the cargo bay separates, reconfigures, becomes something else. A command center. Screens emerging from walls. Consoles humming to life. A viewport revealing the endless expanse of the Interdimensional Space.*
+*And then: the BRIDGE. A section of the cargo bay separates, reconfigures, becomes something else. A command center. Screens emerging from walls. Consoles humming to life. A viewport revealing the endless expanse of the Space.*
 
 *Pixel steps forward. Looks out at the impossible beauty.*
 
@@ -697,7 +697,7 @@ Is this...?
 
 *She picks up the cup. Takes a sip.*
 
-*It's perfect. Dark, rich, with hints of something vast and something kind. Something old and something new. It tastes like the Interdimensional Space. It tastes like possibility.*
+*It's perfect. Dark, rich, with hints of something vast and something kind. Something old and something new. It tastes like the Space. It tastes like possibility.*
 
 **PIXEL**
 What is it?
@@ -802,7 +802,7 @@ The ship. It likes that idea.
 **OUTRO:**
 
 **PIXEL (V.O.)**
-*This is Pixel Paradox, broadcasting from the Interdimensional Space. This is The Ephergent — the frequency that emerges, the signal that persists, the story that refuses to stop being told.*
+*This is Pixel Paradox, broadcasting from the Space. This is The Ephergent — the frequency that emerges, the signal that persists, the story that refuses to stop being told.*
 
 *Next episode: "The Frequency" continues. We find the lost world. We hear its song. We learn what it means to broadcast into silence.*
 

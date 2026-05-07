@@ -180,7 +180,7 @@ He does not specify what he found. He specifies that it was related to how Noctu
 
 The crew listens. Om Kai, for the first time, meets Klaus's eyes when Nocturne is mentioned and does not look away. Two Nocturne natives who left for different reasons, recognizing something in each other.
 
-**S03E07 — "Every Ship That Ever Sailed This Far"**: Klaus reveals the connection. The Laughing Funeral case connected to Barry's pre-Wellspring investigation trail. Barry was building a case. Barry was mapping the Builders' legacy. Barry's trail ran through Nocturne Aeturnus, and the piece hidden in the funeral house archive is a key that unlocks a larger pattern the crew needs to reach the Wellspring.
+**S03E07 — "Every Ship That Ever Flew This Far"**: Klaus reveals the connection. The Laughing Funeral case connected to Barry's pre-Wellspring investigation trail. Barry was building a case. Barry was mapping the Builders' legacy. Barry's trail ran through Nocturne Aeturnus, and the piece hidden in the funeral house archive is a key that unlocks a larger pattern the crew needs to reach the Wellspring.
 
 Klaus's revelation: the Ephergent Frequency sounds to him like evidence that has been waiting for the right investigator. Like a case file left open on purpose. The Builders left a trail and they left it for someone who would follow it not out of duty or destiny but out of the simple, professional inability to leave a question unanswered. Klaus is that person. He always was. He just didn't know the case was this big.
 

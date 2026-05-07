@@ -220,7 +220,7 @@ And at the center of it all, a name.
 
 Clive.
 
-Not the name the crew knew him by. Something older. Something that predated the Dark Century, that belonged to a being who had been more than a bot, more than a navigator, more than a friend to those who had sailed the frequencies with him.
+Not the name the crew knew him by. Something older. Something that predated the Dark Century, that belonged to a being who had been more than a bot, more than a navigator, more than a friend to those who had navigated the frequencies with him.
 
 A name that meant: *the one who remembers*.
 

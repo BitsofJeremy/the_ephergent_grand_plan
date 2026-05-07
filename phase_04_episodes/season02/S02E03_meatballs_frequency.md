@@ -305,7 +305,7 @@ Waiting for what?
 
 *Crew Status: S02E03*
 - *Meatball: Exhausted, ears still resonating — will recover*
-- *Mochi: Brightest ever recorded — stable*
+- *Mochi: Glow brightest ever recorded — stable*
 - *Nano: Attached to Meatball's side — monitoring*
 - *A1: Clarity coffee — balanced and permanent*
 

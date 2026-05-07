@@ -191,7 +191,7 @@ The crew enters the Great Silence — the largest known Silence Zone. A civiliza
 **E06 — "My Brother the Broadcast"**
 At the unstable boundary between the Silence Zone and open Space, Zephyr makes full contact with Aether — not as a voice, as a signal. Aether is a Keeper who chose this. Zephyr must decide whether to grieve what his brother was or celebrate what his brother has become. Every remaining crew member understands the word "Ephergent" here. Klaus: "A case that solves itself by becoming the detective." Nano: "A mechanism that runs at the speed it was always meant to." Meatball harmonizes. The word is now complete across the crew.
 
-**E07 — "Every Ship That Ever Sailed This Far"**
+**E07 — "Every Ship That Ever Flew This Far"**
 At a stable eddy near the Wellspring's outer field, the crew encounters other seekers — ships and travelers who followed their own signals this far. Among them: someone who met Barry. "He said someone would come asking about him eventually. He said to tell them the coffee was ready." Klaus tells the crew why he left Nocturne Aeturnus — a thread connecting to Barry's pre-Wellspring investigation. "I followed a case. The case was bigger than Nocturne. The case was everything."
 
 **E08 — "The Atlas Opens"**
