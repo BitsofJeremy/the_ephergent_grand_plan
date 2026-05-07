@@ -1,42 +1,92 @@
 # CLAUDE.md — The Ephergent Grand Plan
 
-Story content source for The Ephergent Universe. This repo contains the master planning documents, episode scripts, and phase organization. When working on story-related tasks, this repo is the **source** and `my_websites/ephergent.com/` is the **deployment target**.
+**This repo is the CANONICAL source for The Ephergent.** All writing, editing, and creative work happens here. `ephergent.com` is a derived deployment — never edit its `transmissions/`, `lore/`, or `crew/` directories directly.
+
+## Two-Repo Architecture (Option B)
+
+| Repo | Path | Role |
+|------|------|------|
+| `the_ephergent_grand_plan` | `phase_04_episodes/seasonNN/` | **Canonical source** — episodes written here |
+| `the_ephergent_grand_plan` | `phase_05_lore/` | **Canonical source** — lore entries written here |
+| `the_ephergent_grand_plan` | `phase_02_characters/crew/` | **Canonical source** — crew bibles written here |
+| `ephergent.com` | `src/content/transmissions/` | **Derived** — synced from this repo |
+| `ephergent.com` | `src/content/lore/` | **Derived** — synced from this repo |
+| `ephergent.com` | `src/content/crew/` | **Derived** — synced from this repo |
+
+### Sync Workflow
+
+```bash
+# 1. Write/edit in grand_plan (phase_04_episodes/, phase_05_lore/, phase_02_characters/crew/)
+
+# 2. Sync to website (preserves frontmatter — DO NOT use cp):
+./scripts/sync_to_website.sh --all        # episodes + lore + crew
+./scripts/sync_to_website.sh --episodes   # episodes only
+./scripts/sync_to_website.sh --lore       # lore only
+./scripts/sync_to_website.sh --crew       # crew only
+
+# 3. Build and deploy:
+cd ~/Documents/code_repos/ephergent.com && npm run build && npm run deploy
+
+# 4. Commit to grand_plan and push:
+git add -A && git commit -m "description" && git push origin main
+```
+
+⚠️ **NEVER `cp` files directly to ephergent.com** — the sync script preserves Astro's required YAML frontmatter. Naive copies break the build.
+
+---
 
 ## Current Canonical Plan: REFACTOR/
 
 The `REFACTOR/` directory contains the current authoritative planning documents:
-- `ephergent_canon_v2.md` — single source of truth universe bible
+- `ephergent_canon_v2.md` — single source of truth universe bible (12 Locked Rules)
 - `season_architecture_v2.md` — 30-episode breakdown (10 per season)
 - `absurdity_guide.md` — tone/style guide
-- `TIME_WAR_EPISODE_PLAN.md` — Time War beats integrated into episodes
 - `TIME_WAR_INTEGRATION.md` — retrocausality mechanics as physics
+- `episode_map.md` — amalgamation plan (which episodes merged/split)
 
-**Do not contradict REFACTOR/ documents.** If something in REFACTOR/ conflicts with older files (GRAND_MASTER_PLAN.md, old season folders), REFACTOR/ wins.
+**Do not contradict REFACTOR/ documents.** If something in REFACTOR/ conflicts with older files, REFACTOR/ wins.
+
+---
 
 ## Episode Structure
 
 Episodes live in `phase_04_episodes/season{1,2,3}/`. File naming: `S01E01_title.md`
 
-**Current episode count:** 30 (10 per season, all present)
+- **season01/**: 9 canonical episodes (S01E06 stub deleted — amalgamated into S01E07)
+- **season02/**: 10 episodes
+- **season03/**: 11 episodes (includes S03E08x interstitial)
+- **Total**: 30 canonical episodes
 
-## Key Paths
+**Canonical S01E01**: `S01E01_the_frequency.md` (pilot)
+**Canonical S01E07**: `S01E07_the_song_at_the_edge_of_everything.md` (amalgamated from former S01E06 and S01E07)
 
-| Path | Purpose |
-|------|---------|
-| `phase_02_characters/` | **Authoritative character bibles** — use these, not signal_lore_prototype |
-| `REFACTOR/` | Canonical planning documents |
-| `source_archive/signal_lore_prototype/` | Old design docs — reference only, do not use for specs |
-| `source_archive/original_ephergent_seasons/` | Pre-refactor content — reference only |
+---
 
-## Character Specs (Current Canon)
+## Character Specs (Current Canon — 12 Locked Rules)
+
+| Rule | Description |
+|------|-------------|
+| 1 | Frequencies, not dimensions |
+| 2 | Space vocabulary only (fly, dock, navigate — not voyage/sailing) |
+| 3 | A1 IS the espresso machine — the machine IS the ship IS A1 |
+| 4 | Coffee flavor in every A1 scene (bitter=worried, thin=exhausted, rich=engaged) |
+| 5 | Clive = knee-high robot, sphere head, fedora — NOT a stapler |
+| 6 | Barry Kowalski = alive in the Wellspring (state, not place) |
+| 7 | Mochi never speaks — glows, pulses, warms |
+| 8 | The Builders are NOT villains |
+| 9 | The Drift is entropy, not a villain |
+| 10 | The Wellspring is a state, not a place |
+| 11 | 15MB per-game hard cap (game adaptations) |
+| 12 | Barry's field notes are methodical, precise, observational — never dramatic |
 
 ### Clive
 - **Form:** Builder Companion Unit, knee-high (2 feet), barrel-chested, ancient bronze-verdigris patina
-- **Head:** Single glowing sphere, **blue-white** glow (NOT pink/magenta — fixed 2026-05-06)
+- **Head:** Single glowing sphere, **blue-white** glow (NOT pink/magenta)
 - **Fedora:** Worn brown-grey, tilted, Barry's gift — essential, never optional
 - **Chest:** Blue-white glowing core
 - **Voice:** Hard-boiled noir detective — short declarative sentences, world-weary, dry humor
-- **Important:** Clive is NOT a stapler. He was described as a stapler in early drafts. He is a sphere-headed robot.
+- Sphere pulses: *click-click-CLICK* (emphasis), *click-CLICK* (agreement)
+- Fedora angle indicates mood; tips toward people he's greeting
 
 ### Pixel Paradox
 - Hair: **fiery red**, not aqua blue
@@ -47,26 +97,31 @@ Episodes live in `phase_04_episodes/season{1,2,3}/`. File naming: `S01E01_title.
 - Form: Espresso machine — the machine IS the ship IS A1
 - British formal, protective, opinions on everything
 - **A1 did not choose the espresso machine form.** He was compressed into it by damage + last coherent thought was coffee. The meaning came later, from crew's attention.
+- Coffee: bitter=worried, thin/pale=exhausted, rich/complex=engaged, perfect/balanced=resolution, extraordinary=unprecedented event
 
 ### Mochi
 - Builder Companion Device, dome-shaped
-- **Never speaks** — communicates through color changes and harmonic sounds
-- No eyes, no facial features
+- **Never speaks** — communicates through color changes and warmth
+- Warm in Pixel's pocket = normal; dims = grief-adjacent; intensifies = near Wellspring
+
+---
 
 ## Time War (Integrated)
 
-Time War retrocausality is canon and integrated into the episodes. Key points:
+Time War retrocausality is canon and integrated into the episodes:
 - The loop is not cosmic fate — it is human automation
 - Only unpredictable consciousness breaks the loop
 - The future reaches backward (retrocausality)
 - The crew's attention/broadcasting is active defense against entropy
-- TW-1 through TW-5 beats distributed across S01-S03 episodes (2026-05-06)
+- TW-1 through TW-5 beats distributed across S01-S03
 
 **Do not write episodes that contradict Time War mechanics.**
 
+---
+
 ## Style Rules
 
-- Frequencies, not dimensions
+- Frequencies, not dimensions, planes, realms, multiverse
 - The Space, not the Sea
 - A1 IS the espresso machine — coffee in every A1 scene
 - Clive = sphere head + fedora, NOT stapler
@@ -75,10 +130,24 @@ Time War retrocausality is canon and integrated into the episodes. Key points:
 - The Builders are not villains
 - The Drift is entropy, not a villain
 
-## Website Deployment
+---
 
-When making content changes, update both:
-1. This repo (source)
-2. `my_websites/ephergent.com/` (deployment)
+## Key Paths
 
-The website's content collections (crew, games, lore, transmissions) are fed from this repo. Keep them in sync.
+| Path | Purpose |
+|------|---------|
+| `phase_04_episodes/seasonNN/` | Canonical episode scripts |
+| `phase_05_lore/` | Canonical lore entries |
+| `phase_02_characters/crew/` | Canonical character bibles |
+| `REFACTOR/` | Authoritative planning documents |
+| `scripts/sync_to_website.sh` | Sync script — syncs episodes/lore/crew to ephergent.com |
+| `source_archive/signal_lore_prototype/` | Old design docs — reference only |
+
+---
+
+## Audio Pipeline
+
+Audio generation reads from `ephergent.com/src/content/transmissions/` (TTS text source).
+Voice: single narrator `bf_emma+af_sarah` blend — no character voice separation.
+
+When episode content changes: re-sync to website, then regenerate TTS text, then generate audio.
