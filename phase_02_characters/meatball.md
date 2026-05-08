@@ -1,3 +1,9 @@
+---
+name: Meatball
+role: Found Creature / Goodest Boy
+voice: ephergent_meatball
+---
+
 # MEATBALL — CHARACTER BIBLE
 ### The Ephergent | Prime Material, Frequency 1
 
@@ -121,7 +127,7 @@ His loyalty extends to the crew. He has chosen them by choosing Pixel, and then 
 
 Meatball sleeps in the engine room because the hum sounds like a heartbeat. A1 claims this is coincidental. A1 is incorrect.
 
-Meatball positioned himself in the engine room during the first night aboard and has remained there since. The engine's hum is a steady, rhythmic pulse — the ship's resting heart. For a dog who perceives the world through sound and vibration and warmth, it is the most comfortable sleeping location on the vessel.
+Meatball positioned himself in the engine room during the first night aboard and has remained there since. The engine's hum is a steady, rhythmic pulse — the ship's resting heart. For a dog who perceives the world through sound and vibration and warmth, it is the most comfortable sleeping location on the ship.
 
 A1 produces his espresso near the engine room console. Meatball is adjacent. This is also not coincidental.
 

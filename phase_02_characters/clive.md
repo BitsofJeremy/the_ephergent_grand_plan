@@ -1,3 +1,9 @@
+---
+name: Clive (C-1)
+role: Companion Unit
+voice: ephergent_clive
+---
+
 # Clive (C-1, Companion Unit)
 
 ## Character Bible — The Ephergent Project

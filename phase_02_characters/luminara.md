@@ -18,7 +18,7 @@ She wears layered, close-fitting clothing in muted grays and slate blues. Nothin
 
 Her hands are her tell. They are careful, long-fingered, and they hover above surfaces before touching them. She tests the frequency resonance of everything before she makes contact. When she forgets to do this — when she reaches for something without checking — it means she trusts whatever she's reaching for. This happens perhaps four times in three seasons. Each time matters.
 
-**The Camera**: Luminara carries a modified spectral capture device — not a conventional camera, but an instrument that records light across frequencies beyond the visible spectrum. The images it produces are not merely photographs. They are frequency documents — visual records that carry dimensional resonance and can temporarily stabilize fading signals. This is her contribution to the broadcast: visual evidence of worlds that are fading, proof that they existed, proof that they mattered.
+**The Camera**: Luminara carries a modified spectral capture device — not a conventional camera, but an instrument that records light across frequencies beyond the visible spectrum. The images it produces are not merely photographs. They are frequency documents — visual records that carry frequency resonance and can temporarily stabilize fading signals. This is her contribution to the broadcast: visual evidence of worlds that are fading, proof that they existed, proof that they mattered.
 
 ---
 

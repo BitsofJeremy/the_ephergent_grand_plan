@@ -1,3 +1,9 @@
+---
+name: Mochi
+role: Keeper Archive
+voice: ephergent_nano
+---
+
 # MOCHI
 
 ## Character Profile — The Ephergent
