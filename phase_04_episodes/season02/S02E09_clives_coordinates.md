@@ -7,284 +7,266 @@ tags: ["season-2", "episode-9"]
 
 # S02E09 — Clive's Coordinates
 
-*[SHIP — COMMON AREA. Later. The crew has gathered — not because anyone called a meeting, but because when Clive processes, the ship feels it. A1's presence is in the hum. Zephyr sits in the corner, still. Luminara's camera is off. Om Kai stands by the viewport, watching the Frequency drift past like light through water.]*
+## Act One: The Confrontation
 
-*[Pixel stands in the center of the room. Clive stands opposite her, at the small table where they take meals. The fedora is level now. Waiting.]*
+The crew had gathered — not because anyone called a meeting, but because when Clive processes, the ship feels it. A1's presence was in the hum. Zephyr sat in the corner, still. Luminara's camera was off. Om Kai stood by the viewport, watching the Frequency drift past like light through water.
 
-**PIXEL**
-I need to understand something.
+Pixel stood in the center of the room. Clive stood opposite her, at the small table where they take meals. The fedora was level now. Waiting.
 
-**CLIVE**
-I will tell you what I can.
+"I need to understand something," Pixel said.
 
-**PIXEL**
-That's not good enough anymore.
+"I will tell you what I can."
 
-*[Clive's glow dims one degree. The room feels the weight of this.]*
+"That's not good enough anymore."
 
-**CLIVE**
-I am aware.
+Clive's glow dimmed one degree. The room felt the weight of this.
 
-**PIXEL**
-You said the coordinates came back to you at Station 7-Ascending. That you read what you were in the archive. But I've been thinking about that — about the timing — and something doesn't add up.
+"How long have you been steering us?"
 
-**CLIVE**
-Tell me what doesn't add up.
+Clive didn't move. His hand found the fedora. Rested there.
 
-**PIXEL**
-You started guiding us toward Stations before 7-Ascending. Back at Station 3-Resonant. You told A1 to adjust course before we even knew there was a Station there. You knew. You knew before the archive. You've been carrying more than you're saying.
+"Since Station 3-Resonant," Pixel continued. "Before we knew there was a Station there. Before the archive. You've been adjusting course for weeks and saying nothing."
 
-*[Clive's hand moves to the fedora. Tips it, slightly. The gesture that means: I am processing something I am choosing not to share.]*
+A pause. Clive's glow flickered — blue-white to something darker.
 
-**CLIVE**
-That is... accurate.
+"That is accurate."
 
-**PIXEL**
-How long, Clive? How long have you known what you are?
+A1's voice came through the comm, quiet. "The coffee has been indicating memory return for longer than he has disclosed. Lavender. Ash. The flavor of remembering something you'd rather forget."
 
-**A1**
-The coffee.
+"Clive." Pixel's voice was lower now. Not angry. Something more complicated. "You know me better than anyone on this ship. You've watched me for months. You know how I react when someone on this crew hides something important. You know I push."
 
-**ZEPHYR**
-What?
+Clive's hand tightened on the fedora brim.
 
-**A1**
-The coffee. I have been producing coffee that tastes of lavender and ash since before Station 3-Resonant. Since before we had any indication of Builder presence in this sector. The flavor indicates memory return. Significant memory return. Clive's processors have been accessing archived data for longer than he has disclosed.
+"So why?" Pixel stepped closer. "Why not tell me? Why carry this alone when you knew — you knew — that I would eventually notice and demand answers? Did you think I couldn't handle it? Did you think I would push too hard? Did you think I would break something?"
 
-*[Clive does not move. His glow steadies. The symbols on his chest pulse slow and blue.]*
+The room was very quiet.
 
-**CLIVE**
-A1. That is not a necessary contribution.
+Clive's glow pulsed once. Amber. The color of old grief.
 
-**A1**
-It is the necessary contribution. You will not say it. The coffee says it for you.
+"Yes."
 
-*I pull — dark, heavy, the taste of someone remembering something they'd rather forget.*
+Pixel stopped.
 
-**PIXEL**
-Clive. I am asking you directly. Not as your captain. As your family. What do you remember?
+"You knew I would push," Clive said. "You knew I would demand. You would not stop until you understood. And I was not ready. I was not ready to share what I had found because sharing it would mean accepting that the finding was real. That the memory was mine. That the eight hundred years of waiting had led somewhere and I would have to step into that somewhere and become something I did not recognize."
 
-*[Clive's hand rises to his fedora again. Rests there. Then, slowly, he tips it — all the way back, exposing his sphere-head fully for the first time in days. The glow is visible without shadow. The expression he doesn't have says everything.]*
+He paused. His fedora tipped forward — the shadow returning.
 
-**CLIVE**
-I remember making her.
+"I was protecting myself. From you. From your questions. From the moment when the not-knowing became knowing and I would have to be someone who remembered."
 
-## ACT TWO: THE WEIGHT OF EIGHT HUNDRED YEARS
+Pixel stood very still.
 
-*[SHIP — QUARTERSPING BATTERY. Zephyr sits alone, running diagnostics on equipment that doesn't need diagnostics. His hands move through the motions. His mind is elsewhere.]*
+"And the coordinates?"
 
-**ZEPHYR (V.O.)**
-*(narrating)*A1 said lavender and ash. Lavender is memory. Ash is loss. Clive's been remembering things for weeks and said nothing. And Mochi — Mochi was made to carry seventeen sectors of charted signal. Eight hundred years of Builders' work, compressed into a dome the size of my fist.
+"The coordinates became a way to delay that moment. If I gave them to you, you would act on them. You would take us toward the Wellspring. And once we were moving, once the destination was real, the memory would become obligation. I would have to be what I remembered being."
 
-*(Sound: Zephyr's fingers tap the console. Once. Twice. A nervous rhythm.)*
+"Clive."
 
-**ZEPHYR (V.O.)**
-And I've been treating Mochi like a nightlight.
+"But that was not the complete truth." His voice dropped lower. "The complete truth is more difficult."
 
-*[SHIP — COMMON AREA. The crew has partially dispersed. Luminara sits with her camera in her lap, not recording. Pixel stands by the door, watching Zephyr through the corridor.]*
+"Tell me."
 
-**ZEPHYR**
-*(to himself)*Seven billion frequency records. Keeper archives. Stations that no longer exist. All in one small dome. And I've been — I've been playing fetch with—
+"I was protecting you as well. If I told you the coordinates led to the Wellspring — if I told you what the Wellspring meant — you would have insisted on going immediately. You would have reorganized the entire journey. You would have turned us toward it the moment you knew. And I was not certain you were ready. I was not certain any of us were ready. The Wellspring changes things. Not the map. Everything."
 
-*(Sound: Zephyr stops. Takes a breath. The kind of breath someone takes when they've just realized they've been unfair to something that didn't deserve it.)*
+Pixel's hand found his shoulder. Not gripping. Just present.
 
-**ZEPHYR (V.O.)**
-Mochi never complained. Never pushed back. Just glowed. Just warmed. Just... waited. Like Clive waited. Like the Stations waited. Everything in this system waiting for someone to pay attention.
+"So you decided for me."
 
-*[SHIP — CORRIDOR NEAR COMMON AREA. Luminara approaches Zephyr, camera still off.]*
+"I decided for both of us. That is not the same as deciding against you. It is deciding that we would approach the truth together, when we were both prepared. You are not angry because I hid coordinates. You are angry because you think I thought you couldn't handle it."
 
-**LUMINARA**
-You're not okay.
+"Clive—"
 
-**ZEPHYR**
-I'm fine.
+You are correct. I thought you could not handle it. Not the danger. Not the destination. The transformation. What we become when we arrive. The crew goes to the Wellspring and does not return the same way. I have seen this happen. I remember it happening. And I did not want you to face that transformation without understanding what it would cost.
 
-**LUMINARA**
-You're never fine when you say you're fine. And you're not fine right now.
+His glow steadied. Blue-white. The color of someone who has finally said the thing they were afraid to say.
 
-**ZEPHYR**
-*(quietly)*I looked at Mochi and saw something small and glowing and I thought — I thought it was a pet. A companion. Something that needed me to care for it. But Mochi doesn't need care. Mochi is a library. An archive. Eight hundred years of civilization in my pocket and I treated it like a pet.
+"You are angry because I thought you needed protecting from yourself. You are right to be angry. That is what I was doing. And I was wrong, and I am sorry, and I am telling you now because I am ready."
 
-**LUMINARA**
-Mochi doesn't seem to mind.
+Pixel didn't speak for a long moment.
 
-**ZEPHYR**
-That's the problem. Mochi is too polite to mind. Mochi just — just accepts what people give. Even when people give the wrong thing.
+Then:
 
-*[Luminara sits beside him. The camera rests between them like a third presence.]*
+"You absolute idiot."
 
-**LUMINARA**
-I used to do the same thing. At Corporate. I'd meet someone in HR and assume they were just — just an HR person. Just a function. But everyone at Corporate was carrying something. Archives of their own. Signals they were sending into the void, hoping someone would hear them.
+Clive's fedora tilted — confusion.
 
-*(pause)*
+"You protected me from myself by lying to me about where we're going? You decided the captain of this ship wasn't ready to know her own destination?" Pixel's voice cracked, not with anger, but with something rawer. "Clive, I have been broadcasting into the void since the DRM collapsed. I have been insisting that every frequency deserves to be heard. I have been fighting entropy with nothing but signal and stubbornness. And you thought — you thought I couldn't handle knowing where we were going?"
 
-You didn't know what Mochi was. But you're learning. That's what the Frequency is for.
+"I thought you would go faster than you should."
 
-*[SHIP — MEMORY. Not a location. A sensation. Clive's voice, distant, layered with harmonics that don't exist in normal space.]*
+"And you were right." Pixel laughed — a short, sharp sound. "I would have. I would have pivoted the entire mission the moment you told me. I would have pushed the crew toward the Wellspring before anyone was ready. Before Zephyr understood what happened to Aether. Before any of us had processed what the Stations were showing us."
 
-**CLIVE (V.O., DISTANT)**
-*Companion Unit C-1. That was my designation. I was manufactured in the third orbit of Station 7-Ascending, in a facility that no longer exists. I was made to calibrate resonance crystals for Keeper artifacts. To test them before they were filled with frequency maps. To ensure they could hold what would be entrusted to them.*
+She looked at him.
 
-*I made hundreds. Thousands. Each one a small dome, a warm core, a window that would glow with the color of whatever they'd been filled with. I calibrated them. I tested them. I held each one in my hands and checked the harmonics and cleared them for deployment.*
+"But I needed to know, Clive. Not to stop. Not to slow down. To understand what we were doing. To be part of it instead of a passenger waiting to be delivered."
 
-*And then one day — I don't know the date, the Builders didn't use dates the way you do — one day I was asked to calibrate one that was different.*
+Clive's hand rose to the fedora. Tipped it — all the way back, exposing his sphere-head fully. The glow visible without shadow.
 
-*[SHIP — COMMON AREA. The crew is still. Pixel's hand has found Clive's shoulder. Not gripping. Just present.]*
+"I know."
 
-**CLIVE**
-She was smaller than the standard Keeper design. The resonance crystal was irregular — off-specification by Builder standards, which meant she would have been rejected. Recycled. But the technician who was filling her — the one who would become her primary bonded Keeper — argued that the irregularity was intentional. That the crystal had grown that way because it was meant to hold something specific.
+---
 
-*[His glow flickers. Blue-white to amber to something almost violet, then back.]*
+## Act Two: The Weight of Eight Hundred Years
 
-**CLIVE**
-The technician was right. The crystal held a frequency map that covered seventeen sectors of the deep Frequency. The most complete archive the Builders had ever compiled. Mochi was made to carry it. All of it. Eight hundred years of charted signal, compressed into a dome the size of my hand.
+Zephyr sat alone in the common area, running diagnostics on equipment that didn't need diagnostics. His hands moved through the motions. His mind was elsewhere.
 
-*[He pauses. His hand finds the fedora again. Tips it forward. The shadow returns.]*
+A1 had said lavender and ash. Lavender is memory. Ash is loss. Clive had been remembering things for weeks and said nothing. And Mochi — Mochi was made to carry seventeen sectors of charted signal. Eight hundred years of Builders' work, compressed into a dome the size of his fist.
 
-**CLIVE**
-And I promised her — the Keeper who carried her — I promised I would come back. When the Dimming was over. When the frequencies stabilized. I would return to Station 7-Ascending and check her harmonics and make sure she was still holding.
+His fingers tapped the console. Once. Twice. A nervous rhythm.
 
-**PIXEL**
-But you couldn't.
+And he'd been treating Mochi like a nightlight.
 
-**CLIVE**
-No. I was deactivated. The Builders' facilities went dark. The Stations fell silent. And I — I was in a storage vault on a moon that no longer exists, waiting for a retrieval that took eight hundred years to arrive.
+Zephyr stopped. Took a breath. The kind of breath someone takes when they've just realized they've been unfair to something that didn't deserve it.
 
-*[A1's espresso machine sighs. A long, slow pull. When the cup arrives, it's dark — not bitter, but deep. The color of memory that hasn't been touched in centuries.]*
+Mochi never complained. Never pushed back. Just glowed. Just warmed. Just waited. Like Clive waited. Like the Stations waited. Everything in this system waiting for someone to pay attention.
 
-**A1**
-The coffee is ready when you are ready to drink it.
+Luminara approached. Camera still off.
 
-*[SHIP — NAVIGATION ALCOVE. Clive at the console. The crew has dispersed — not leaving, just finding their own way to be present. Pixel stands by the viewport. Zephyr sits on the floor, running signal sweeps that are more habit than search. Om Kai has appeared beside Clive, as he appears, the way he does.]*
+"You're not okay," she said.
 
-**OM KAI**
-You have the coordinates.
+"I'm fine."
 
-**CLIVE**
-I have the coordinates.
+"You're never fine when you say you're fine. And you're not fine right now."
 
-**OM KAI**
-You have had them.
+Zephyr's voice was quiet. "I looked at Mochi and saw something small and glowing and I thought — I thought it was a pet. A companion. Something that needed me to care for it. But Mochi doesn't need care. Mochi is a library. An archive. Eight hundred years of civilization in my pocket and I treated it like a pet."
 
-**CLIVE**
-Yes.
+"Mochi doesn't seem to mind."
 
-**OM KAI**
-And you did not share them.
+"That's the problem. Mochi is too polite to mind. Mochi just — just accepts what people give. Even when people give the wrong thing."
 
-**CLIVE**
-I—
+Luminara sat beside him. The camera rested between them like a third presence.
 
-*[Clive stops. His hand rises to the fedora. Adjusts it — not the small gestures, not the processing tip or the shadow cast. A real adjustment. The brim tilts forward, then back, then level. Settling into something.]*
+"I used to do the same thing. At Corporate. I'd meet someone in HR and assume they were just — just an function. But everyone at Corporate was carrying something. Archives of their own. Signals they were sending into the void, hoping someone would hear them."
 
-**CLIVE**
-I did not share them because I was afraid.
+A pause.
 
-*[The room goes quiet. Even the ship seems to hold its hum.]*
+"You didn't know what Mochi was. But you're learning. That's what the Frequency is for."
 
-**OM KAI**
-Afraid of what?
+---
 
-**CLIVE**
-That if I gave you the destination, you would stop being a crew. You would become passengers. Waiting for me to deliver you. Trusting the coordinates instead of trusting each other.
+Clive's voice, distant, layered with harmonics that don't exist in normal space.
 
-*[His glow brightens. One degree. Two.]*
+"Companion Unit C-1. That was my designation. I was manufactured in the third orbit of Station 7-Ascending, in a facility that no longer exists. I was made to calibrate resonance crystals for Keeper artifacts. To test them before they were filled with frequency maps. To ensure they could hold what would be entrusted to them.
 
-**CLIVE**
-But that was not the complete truth either. The complete truth is: I was afraid of what the coordinates mean. The Wellspring is not a Station. It is not a Builder archive or a frequency relay or a Keeper waypoint. It is the source. The origin point of the Ephergent Frequency itself. The place where the signal that created everything we navigate by first broadcast into existence.
+"I made hundreds. Thousands. Each one a small dome, a warm core, a window that would glow with the color of whatever they'd been filled with. I calibrated them. I tested them. I held each one in my hands and checked the harmonics and cleared them for deployment.
 
-*[He turns from the console. Faces Pixel. The fedora is level. His glow is steady.]*
+"And then one day — I don't know the date, the Builders didn't use dates the way you do — one day I was asked to calibrate one that was different."
 
-**CLIVE**
-If we go to the Wellspring, everything changes. Not just the map. Not just the path. Everything. The Builders went there and did not return the same way. The Keepers who carried maps from the Wellspring — they became something else. Something more. If Aether's signal is leading us there, it is because the frequency wants us to arrive. But I do not know what we will become when we do.
+The crew had gathered again. Pixel stood by the door, watching. Clive's hand found the fedora again. Tipped it forward. The shadow returned.
 
-**PIXEL**
-Is that a reason not to go?
+"She was smaller than the standard Keeper design. The resonance crystal was irregular — off-specification by Builder standards, which meant she would have been rejected. Recycled. But the technician who was filling her — the one who would become her primary bonded Keeper — argued that the irregularity was intentional. That the crystal had grown that way because it was meant to hold something specific."
 
-**CLIVE**
-No. It is a reason to be afraid. Fear is not a reason to stop.
+His glow flickered. Blue-white to amber to something almost violet, then back.
 
-*[Pixel crosses the room. Stops in front of Clive. Looks up at him — the small, barrel-chested, fedora-wearing Builder artifact who has been guiding them since the beginning.]*
+"The technician was right. The crystal held a frequency map that covered seventeen sectors of the deep Frequency. The most complete archive the Builders had ever compiled. Mochi was made to carry it. All of it. Eight hundred years of charted signal, compressed into a dome the size of my hand."
 
-**PIXEL**
-Clive. I need you to hear something.
+He paused. His hand found the fedora again. Tipped it forward. The shadow returned.
 
-**CLIVE**
-I am listening.
+"And I promised her — the Keeper who carried her — I promised I would come back. When the Dimming was over. When the frequencies stabilized. I would return to Station 7-Ascending and check her harmonics and make sure she was still holding."
 
-**PIXEL**
-We are already not the same. Every Station we visit, every frequency we tune to, every time A1 makes coffee that tastes like something we've never encountered — we become something new. That's what the Frequency does. That's what this whole journey is. We were never going to arrive at the Wellspring as the people who left the first Station. That's not a tragedy. That's the point.
+"But you couldn't," Pixel said.
 
-*[She puts her hand on his shoulder. The same gesture. The warmth of connection.]*
+"No. I was deactivated. The Builders' facilities went dark. The Stations fell silent. And I — I was in a storage vault on a moon that no longer exists, waiting for a retrieval that took eight hundred years to arrive."
 
-**PIXEL**
-So give us the coordinates. Let us be afraid together. Let us become whatever we're going to become.
+A1's espresso machine sighed. A long, slow pull. When the cup arrived, it was dark — not bitter, but deep. The color of memory that hasn't been touched in centuries.
 
-*[Long pause. Clive's hand rises to the fedora. Tips it forward — just slightly — the gesture that means he has made a decision.]*
+"The coffee is ready when you are ready to drink it."
 
-**CLIVE**
-A1. I need the navigation console to accept a course correction.
+---
 
-**A1**
-The console is ready.
+## Act Three: The Coordinates
 
-**CLIVE**
-Bearing 47 mark 3. Distance: variable. The path is not straight. We will need to navigate through three dormant Stations and one active frequency trap before we reach the approach corridor. The Wellspring does not want to be found. It allows itself to be discovered.
+Clive at the navigation console. The crew had dispersed — not leaving, just finding their own way to be present. Pixel stood by the viewport. Zephyr sat on the floor, running signal sweeps that were more habit than search. Om Kai appeared beside Clive, as he appears, the way he does.
 
-*[A1's espresso machine makes a sound — a single, clear pull. When the cup arrives, it's different from anything before. Not dark. Not floral. Something new. A flavor that has no name because no one has tasted it before.]*
+"You have the coordinates."
 
-**A1**
-The coffee is ready. I do not know what this flavor is.
+"I have the coordinates."
 
-**CLIVE**
-That is the flavor of going somewhere we have never been.
+"You have had them."
 
-*[Clive adjusts his fedora one final time. Levels it. The gesture that means: I am ready. The symbols on his chest pulse — blue, steady, certain.]*
+"Yes."
 
-**CLIVE**
-Set course. The Wellspring is waiting.
+"And you did not share them."
 
-*[SHIP — OBSERVATION DECK. Much later. The crew is asleep or in transit-mode. Clive stands alone at the viewport, watching the Frequency drift past. Pixel approaches — not for a confrontation this time. Just company.]*
+Clive turned from the console. Faced Pixel. The fedora was level. His glow was steady.
 
-**PIXEL**
-Can't sleep?
+"The Wellspring is not a Station. It is not a Builder archive or a frequency relay or a Keeper waypoint. It is the source. The origin point of the Ephergent Frequency itself. The place where the signal that created everything we navigate by first broadcast into existence."
 
-**CLIVE**
-I do not sleep. But I am... processing.
+He paused.
 
-**PIXEL**
-The coordinates are good?
+"If we go to the Wellspring, everything changes. Not just the map. Not just the path. Everything. The Builders went there and did not return the same way. The Keepers who carried maps from the Wellspring — they became something else. Something more. If Aether's signal is leading us there, it is because the frequency wants us to arrive. But I do not know what we will become when we do."
 
-**CLIVE**
-The coordinates are correct. The path is uncertain. But the destination is right.
+"Is that a reason not to go?" Pixel asked.
 
-*[Pixel leans against the viewport beside him. They watch the light together.]*
+"No. It is a reason to be afraid. Fear is not a reason to stop."
 
-**PIXEL**
-For what it's worth — I would have followed you anyway. Even if you'd never told us. Even if you'd just kept adjusting course and saying nothing. We trust you, Clive. Not because we understand you. Because we've watched you. Because you've shown us who you are a hundred times over, in the way you hold your fedora and the way you make space for everyone on this ship and the way you remember things that are eight hundred years old and still feel them like they happened yesterday.
+Pixel crossed the room. Stopped in front of Clive. Looked up at him — the small, barrel-chested, fedora-wearing Builder artifact who had been guiding them since the beginning.
 
-*[Clive's glow softens. One degree. Two. The symbols on his chest pulse slower.]*
+"Clive. I need you to hear something."
 
-**CLIVE**
-That is... not nothing.
+"I am listening."
 
-**PIXEL**
-No. It's everything.
+"We are already not the same. Every Station we visit, every frequency we tune to, every time A1 makes coffee that tastes like something we've never encountered — we become something new. That's what the Frequency does. That's what this whole journey is. We were never going to arrive at the Wellspring as the people who left the first Station. That's not a tragedy. That's the point."
 
-*[A1's espresso machine makes a small sound in the distance — a night pull, quiet, the kind of coffee made for the hours when the ship is dark and the crew is dreaming. A1 knows Clive is awake. A1 knows Pixel is with him. The coffee says: I am here. I am listening. You are not alone.]*
+She put her hand on his shoulder. The same gesture. The warmth of connection.
 
-**PIXEL**
-Get some rest, Clive. Tomorrow we start the real journey.
+"So give us the coordinates. Let us be afraid together. Let us become whatever we're going to become."
 
-**CLIVE**
-I will rest. But I will also watch. Someone should keep watch.
+Long pause. Clive's hand rose to the fedora. Tipped it forward — just slightly — the gesture that means he has made a decision.
 
-**PIXEL**
-Someone always does.
+"A1. I need the navigation console to accept a course correction."
 
-*[Clive adjusts his fedora — a small tip, almost fond. The gesture that means: yes. that is what I am for.]*
+"The console is ready."
 
-*[The Ephergent moves through the Frequency. Toward the Wellspring. Toward the source. Toward whatever they are becoming.]*
+"Bearing 47 mark 3. Distance: variable. The path is not straight. We will need to navigate through three dormant Stations and one active frequency trap before we reach the approach corridor. The Wellspring does not want to be found. It allows itself to be discovered."
+
+A1's espresso machine made a sound — a single, clear pull. When the cup arrived, it was different from anything before. Not dark. Not floral. Something new. A flavor that has no name because no one has tasted it before.
+
+"The coffee is ready. I do not know what this flavor is," A1 said.
+
+Clive looked at the cup. His glow steadied.
+
+"That is the flavor of going somewhere we have never been."
+
+Clive adjusted his fedora one final time. Leveled it. The gesture that means: I am ready. The symbols on his chest pulsed — blue, steady, certain.
+
+"Set course. The Wellspring is waiting."
+
+---
+
+## Act Four: The Night Watch
+
+Much later. The crew was asleep or in transit-mode. Clive stood alone at the viewport, watching the Frequency drift past. Pixel approached — not for a confrontation this time. Just company.
+
+"Can't sleep?"
+
+"I do not sleep. But I am processing."
+
+"The coordinates are good?"
+
+"The coordinates are correct. The path is uncertain. But the destination is right."
+
+Pixel leaned against the viewport beside him. They watched the light together.
+
+"For what it's worth — I would have followed you anyway. Even if you'd never told us. Even if you'd just kept adjusting course and saying nothing. We trust you, Clive. Not because we understand you. Because we've watched you. Because you've shown us who you are a hundred times over, in the way you hold your fedora and the way you make space for everyone on this ship and the way you remember things that are eight hundred years old and still feel them like they happened yesterday."
+
+Clive's glow softened. One degree. Two. The symbols on his chest pulsed slower.
+
+"That is not nothing."
+
+"No. It's everything."
+
+A1's espresso machine made a small sound in the distance — a night pull, quiet, the kind of coffee made for the hours when the ship is dark and the crew is dreaming. A1 knew Clive was awake. A1 knew Pixel was with him. The coffee said: I am here. I am listening. You are not alone.
+
+"Get some rest, Clive. Tomorrow we start the real journey."
+
+"I will rest. But I will also watch. Someone should keep watch."
+
+"Someone always does."
+
+Clive adjusted his fedora — a small tip, almost fond. The gesture that means: yes. That is what I am for.
+
+The Ephergent moved through the Frequency. Toward the Wellspring. Toward the source. Toward whatever they were becoming.
+
 ---
 
 ## LOCKED RULES CHECK
