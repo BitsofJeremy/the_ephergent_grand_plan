@@ -185,7 +185,7 @@ Barry unscrewed the thermos. The smell reached everyone — not across the latti
 
 "I made coffee," he said.
 
-A1's machine made a sound — something between a sigh and a laugh. "You kept it warm. For forty years."
+A1 made a sound — something between a sigh and a laugh. "You kept it warm. For forty years."
 
 "I kept it ready. That's different. Ready means it's waiting for the right moment. Warm is just temperature."
 
