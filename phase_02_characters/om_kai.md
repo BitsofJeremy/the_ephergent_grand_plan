@@ -1,3 +1,10 @@
+---
+name: Om Kai
+role: Resonance Observer / Philosophical Anchor
+voice: ephergent_kai
+season_intro: 1
+---
+
 # Om Kai — Character Bible
 
 ## The Ephergent Project

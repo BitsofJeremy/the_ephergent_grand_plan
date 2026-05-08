@@ -1,3 +1,10 @@
+---
+name: Barry Kowalski
+role: Trail-Leaver / Absent Presence
+voice: ephergent_pixel
+season_intro: 1
+---
+
 # Barry Kowalski — Character Bible
 
 ## The Ephergent Project

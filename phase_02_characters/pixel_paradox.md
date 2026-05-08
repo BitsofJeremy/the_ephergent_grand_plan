@@ -1,3 +1,10 @@
+---
+name: Pixel Paradox
+role: Captain / Broadcaster / Primary Narrator
+voice: ephergent_pixel
+season_intro: 1
+---
+
 # PIXEL PARADOX — CHARACTER BIBLE
 ### The Ephergent | Before Greatness LLC
 

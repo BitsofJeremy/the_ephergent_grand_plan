@@ -1,3 +1,10 @@
+---
+name: Baron Klaus von Gnomendorf
+role: Security / Procurement
+voice: ephergent_baron
+season_intro: 2
+---
+
 # BARON KLAUS VON GNOMENDORF — CHARACTER BIBLE
 ### The Ephergent | Nocturne Aeturnus, Frequency 2
 

@@ -1,3 +1,10 @@
+---
+name: Zephyr & Aether
+role: Communications Officer / Keeper
+voice: ephergent_glitch
+season_intro: 2
+---
+
 # Zephyr & Aether — Paired Character Bible
 
 ## The Ephergent Project — Phase 02: Characters

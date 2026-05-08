@@ -41,47 +41,97 @@ fi
 
 # preserve_frontmatter src_body web_file
 # Reads: web_file's frontmatter, replaces body with src_body, writes back.
+# If web_file has no frontmatter, copies src as-is.
 preserve_frontmatter() {
   local src="$1"
   local web="$2"
+  local fm_file="/tmp/fm_$$.txt"
+  local body_file="/tmp/body_$$.txt"
+  local rc=0
 
   if [[ ! -f "$web" ]]; then
     echo "ERROR: website file not found: $web"
     return 1
   fi
 
-  # Extract frontmatter from website file
-  local fm=$("$PYTHON" - "$web" << 'PYEOF'
+  # Extract frontmatter from web file → fm_file
+  "$PYTHON" - "$web" > "$fm_file" << 'PYEOF'
 import sys, re
 path = sys.argv[1]
 with open(path) as f:
     text = f.read()
 m = re.match(r'^---\n(.*?)\n---\n', text, re.DOTALL)
 if m:
-    print(m.group(0), end='')
+    sys.stdout.write(m.group(0))
 else:
-    print("---", file=sys.stderr)
     sys.exit(1)
 PYEOF
-)
+  rc=$?
 
-  # Strip frontmatter from source body
-  local body=$("$PYTHON" - "$src" << 'PYEOF'
+  if [[ $rc -ne 0 ]]; then
+    # No frontmatter in web file — copy src as-is
+    cp "$src" "$web"
+    echo "  COPY    $(basename "$web") (no frontmatter in web file)"
+    rm -f "$fm_file" "$body_file"
+    return 0
+  fi
+
+  # Strip frontmatter from source body → body_file
+  "$PYTHON" - "$src" > "$body_file" << 'PYEOF'
 import sys, re
 path = sys.argv[1]
 with open(path) as f:
     text = f.read()
 m = re.match(r'^---\n.*?\n---\n', text, re.DOTALL)
 if m:
-    print(text[m.end():], end='')
+    sys.stdout.write(text[m.end():])
 else:
-    print(text, end='')
+    sys.stdout.write(text)
 PYEOF
-)
 
-  # Combine and write back
-  printf '%s\n%s' "$fm" "$body" > "$web.tmp"
+  # Combine: frontmatter + newline + body
+  printf '%s\n%s' "$(cat "$fm_file")" "$(cat "$body_file")" > "$web.tmp"
   mv "$web.tmp" "$web"
+  rm -f "$fm_file" "$body_file"
+}
+
+# ── Filename Validation ───────────────────────────────────────────────────────
+# Rule: Space vocabulary only — no sea/nautical language in filenames.
+# Ref: CLAUDE.md Rule 2 + Style Rules ("The Space, not the Sea")
+NAUTICAL_PATTERN='voyage|voyager|sailing|sailor|seafaring|seascape|sea[rt]|ocean|waves?|harbor|harbour|anchors?|maritime|nautical|boat[sz]?|ferry|captain.*ship|ship.*captain'
+
+validate_filenames() {
+  local src_dir="$GP/phase_04_episodes"
+  local violations=0
+
+  echo "=== VALIDATING FILENAMES ==="
+
+  for season in season01 season02 season03; do
+    [[ -d "$src_dir/$season" ]] || continue
+    for src in "$src_dir/$season"/*.md; do
+      [[ -f "$src" ]] || continue
+      local fname
+      fname=$(basename "$src")
+      # Check basename and slug portion (after SXXEXX_)
+      local slug="${fname#S??E??_}"
+      local check="${fname}_${slug}"
+      if echo "$check" | grep -Ei "$NAUTICAL_PATTERN" > /dev/null 2>&1; then
+        echo "  [VIOLATION] $fname — contains sea/nautical language"
+        violations=$((violations + 1))
+      fi
+    done
+  done
+
+  if [[ $violations -gt 0 ]]; then
+    echo ""
+    echo "ERROR: $violations filename(s) violate space-vocabulary rule (Rule 2)."
+    echo "Fix before syncing. The Space, not the Sea."
+    echo ""
+    return 1
+  fi
+
+  echo "  Filename validation: PASS"
+  return 0
 }
 
 # ── Episodes ──────────────────────────────────────────────────────────────────
@@ -150,7 +200,7 @@ sync_lore() {
 sync_crew() {
   echo "=== SYNCING CREW ==="
 
-  local src_dir="$GP/phase_02_characters/crew"
+  local src_dir="$GP/phase_02_characters"
   local web_dir="$WEB/crew"
   local count=0
 
@@ -175,6 +225,7 @@ sync_crew() {
 }
 
 # ── Run ───────────────────────────────────────────────────────────────────────
+validate_filenames || exit 1
 [[ "$SYNC_EPISODES" == true ]] && sync_episodes
 [[ "$SYNC_LORE"     == true ]] && sync_lore
 [[ "$SYNC_CREW"     == true ]] && sync_crew

@@ -1,3 +1,10 @@
+---
+name: Luminara Usha
+role: Science Officer / Visual Correspondent
+voice: ephergent_lumina
+season_intro: 1
+---
+
 # Luminara Usha — Character Bible
 
 ## The Ephergent Project
