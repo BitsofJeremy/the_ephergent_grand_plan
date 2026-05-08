@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(mkdir -p /Users/jeremy/Documents/current_projects/my_websites/ephergent.com/public/images/characters)",
+      "Bash(cp /Users/jeremy/Documents/current_projects/the_ephergent_projects/the_ephergent_grand_plan/source_archive/ephergent_season_03_generator/ephergent_generator/static/img/characters/*.png /Users/jeremy/Documents/current_projects/my_websites/ephergent.com/public/images/characters/)",
+      "Bash(mkdir -p /Users/jeremy/Documents/current_projects/the_ephergent_projects/ARCHIVE/grand_plan_source_archive)",
+      "Bash(mv /Users/jeremy/Documents/current_projects/the_ephergent_projects/the_ephergent_grand_plan/source_archive/* /Users/jeremy/Documents/current_projects/the_ephergent_projects/ARCHIVE/grand_plan_source_archive/)",
+      "Read(//Users/jeremy/.claude/**)",
+      "Bash(mkdir -p /Users/jeremy/.claude/skills)",
+      "Bash(./scripts/sync_to_website.sh --help)",
+      "Read(//Users/jeremy/Documents/**)",
+      "Bash(./scripts/sync_to_website.sh --all)",
+      "Bash(npm run *)",
+      "Bash(./scripts/sync_to_website.sh *)",
+      "Bash(python3 *)",
+      "Bash(mv .claude/settings.local.json ARCHIVE/)",
+      "Bash(rm .claude/.DS_Store)",
+      "Bash(rm -rf .claude)"
+    ]
+  }
+}

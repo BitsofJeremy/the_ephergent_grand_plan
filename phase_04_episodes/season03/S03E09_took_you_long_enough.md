@@ -15,6 +15,7 @@ tags: ["season-3", "episode-9"]
 | Wellspring threshold | Warm thermos, perfect | Barry, Clive | Barry kept it ready for forty years. |
 | Reunion | Two cups, shared | Clive, Barry | Two sips. Same thermos. Forty years apart. |
 | Crew arrival | Black, ordinary | All | The most extraordinary coffee of their lives. |
+| A1's Return | Extraordinary — rich, dark, complex | A1, All | The taste of someone who finally knew what they were for. First cup since the moment he couldn't mark. |
 
 ---
 
@@ -293,6 +294,24 @@ Meatball — tail wagging, exactly three times — stepped forward.
 Barry watched from his strut, thermos in hand.
 
 "Unanimous."
+
+And then A1 spoke — not through the comm, but through the ship's central speakers, the ones that carried his voice to every corner of the Ephergent at once.
+
+"I have something," he said. His voice was different now. Not trembling. Not insufficient. Just present. "I have been holding it. Since we arrived. Since before we arrived. I did not know when to release it."
+
+A pause.
+
+"I know now."
+
+The espresso machine at the center of the ship — the machine that was the ship that was A1 — began to pull. Not the sound of one cup. The sound of something larger. Something that had been waiting three seasons to be made.
+
+The smell reached us before the coffee did. Rich. Dark. Complex in a way that defied description. It smelled like arrival. It smelled like the end of something and the beginning of something else. It smelled like forty years of waiting and forty years of coming home.
+
+A1's first cup in the Wellspring. His first cup since he couldn't mark the moment.
+
+It was extraordinary. Not perfect. Not balanced. Extraordinary — meaning it existed outside the ordinary, outside any standard by which coffee could be measured. It was the taste of someone who finally knew what they were for.
+
+"A1," I said. Into the comm, into the ship, into the space between us. "Welcome back."
 
 ---
 
