@@ -7,15 +7,29 @@ tags: ["season-2", "episode-7"]
 
 # S02E07 — The Boneyard of Beautiful Things
 
-## ACT ONE
+## COFFEE CHART
+
+| Scene | Beverage | Crew Present | Notes |
+|-------|----------|--------------|-------|
+| Bearing Received | Dark, rich, slightly burnt | Clive, Pixel, A1 | A1's way of saying something important is happening |
+| Descent | Quieter than usual | A1, Clive | Ship's voice was quieter — signals demanded respect |
+| The Boneyard | Perfect, balanced | Clive, Pixel, Luminara | The taste of finally understanding |
+| The Response | Warm, waiting | Clive, A1 | The flavor of something that had been waiting a very long time |
+| Prepare to Enter | Dark, rich, slightly burnt | Pixel, Clive, A1 | A1 makes it the way he made it the night Clive read Barry's notebooks |
+
+---
+
+## I. The Bearing
+
+I need you to understand something about coordinates. They don't always point to places. Sometimes they point to directions. To bearings. To the way someone was facing when they disappeared, and what they were looking at when they turned away.
 
 The coordinates came through at 0347 station time.
 
-Pixel was already awake — she'd given up on sleep three hours ago, her mind turning over the notebooks' final entries like stones in a river. The words *time to answer* kept surfacing. Barry's handwriting, steady until the last page, then urgent.
+I was already awake — I'd given up on sleep three hours ago, my mind turning over the notebooks' final entries like stones in a river. The words *time to answer* kept surfacing. Barry's handwriting, steady until the last page, then urgent.
 
 The coordinates resolved on the main display: a location in the Space that shouldn't exist.
 
-"That's not a place," Zephyr said, leaning over her shoulder. His reflection ghosted in the screen, superimposed over the numbers. "Those aren't valid—"
+"That's not a place," Zephyr said, leaning over my shoulder. His reflection ghosted in the screen, superimposed over the numbers. "Those aren't valid—"
 
 "They're not coordinates," Clive said. He was in the doorway, his glow steady blue-white. "They're a *direction*. A bearing."
 
@@ -31,7 +45,7 @@ Om Kai brought tea. Luminara had her camera, though she hadn't raised it. Mochi 
 
 "The bearing leads to a layer," Clive said. He manipulated the display, pulling up a schematic of the Space's structure — the nested frequencies, the drift corridors, the places where signals accumulated like sediment. "Not a layer we have mapped. A layer that exists beneath the others."
 
-"Beneath?" Pixel asked.
+"Beneath?"
 
 "The Space is not flat," Clive said. "We perceive it as three-dimensional because our instruments are calibrated for three-dimensional interpretation. But the signals — the frequencies that have accumulated over time — they layer. They deposit. Like sediment in a river."
 
@@ -45,11 +59,13 @@ Clive's glow flickered. "Yes."
 
 The room was very still.
 
-"You're saying there's a place in the Space where dead worlds pile up," Pixel said slowly. "Like — like wreckage."
+"You're saying there's a place in the Space where dead worlds pile up," I said slowly. "Like — like wreckage."
 
 "Like a boneyard," Clive said. "A boneyard of beautiful things."
 
-## ACT TWO
+---
+
+## II. The Descent
 
 The bearing led them down.
 
@@ -101,9 +117,11 @@ One moment the Ephergent was moving through the drift; the next, the ship's sens
 
 Outside the viewport, the boneyard revealed itself.
 
-It was not what any of them expected.
+It was not what any of us expected.
 
-## ACT THREE
+---
+
+## III. The Garden
 
 The dead worlds were not wreckage.
 
@@ -111,7 +129,7 @@ Clive had braced himself for wreckage — for shattered fragments, for the scatt
 
 The worlds had accumulated in layers, yes, but they had accumulated gently. Each one was intact — small spheres of faded light, no larger than moons, suspended in the darkness like seeds in amber. Some still glowed faintly, their signals not quite dead, just... quiet. Waiting. Hoping.
 
-"They're preserved," Pixel breathed. She was at the viewport now too, Zephyr beside her, both of them transfixed. "They're not destroyed. They're just—"
+"They're preserved," I breathed. I was at the viewport now too, Zephyr beside me, both of us transfixed. "They're not destroyed. They're just—"
 
 "Waiting," Clive said.
 
@@ -133,7 +151,7 @@ Clive turned from the observation port. His glow was steady, but his voice had c
 
 "Dead things stop existing," he said. "Faded things are still trying. They just need someone to listen."
 
-Pixel felt something cold run down her spine. "Clive. What are you saying?"
+I felt something cold run down my spine. "Clive. What are you saying?"
 
 "I'm saying that Barry didn't follow a signal into nothing." Clive's voice was steady. His glow was steady. His core processing was humming at a frequency that had been building for thirty-one years. "I'm saying that Barry followed a signal to *here*. To this place. To the boneyard of beautiful things."
 
@@ -161,7 +179,7 @@ The pause was longer this time. "Clive. The broadcast range would be significant
 
 "I know." Clive's voice was steady. "I need you to broadcast on the frequency that Barry followed. The one from the notebooks. The one that said *come find me*."
 
-"Clive—" Pixel started.
+"Clive—" I started.
 
 "If Barry is here," Clive said, turning to face the crew, "he will hear it. He has been listening for thirty-one years. He has been waiting for thirty-one years. He will hear it."
 
@@ -175,7 +193,9 @@ He paused.
 
 "Or until he answers."
 
-## ACT FOUR
+---
+
+## IV. The Response
 
 The broadcast went out at 0417 station time.
 
@@ -207,7 +227,7 @@ The same frequency that had said *the signal is constant, the signal is patient,
 
 But now it was responding.
 
-"Clive." Pixel's voice was barely a whisper. "Is that—"
+"Clive." My voice was barely a whisper. "Is that—"
 
 "Yes." Clive's voice cracked — not literally, because he wasn't built for cracking, but something in his tone went somewhere that wasn't flat, wasn't precise, wasn't anything he had a name for. "That's Barry."
 
@@ -241,19 +261,21 @@ The tone shifted again — warmer now, brighter, the way a frequency sounds when
 
 *Time to answer.*
 
-## EPILOGUE
+---
+
+## V. After
 
 The Ephergent drifted in the boneyard as the crew watched the screens, the ports, the soft glow of millions of beautiful things that had tried to last and hadn't.
 
 Clive stood at the command console, still interfaced with A1, still broadcasting. The exchange continued — not in words, but in frequencies, in the patient language of two people who had learned to speak without speaking, to stay without being asked, to carry each other through thirty-one years of waiting.
 
-Pixel made coffee. Real coffee, from the machine Clive had once called "adequate." She brought a cup to Clive without being asked.
+I made coffee. Real coffee, from the machine Clive had once called "adequate." I brought a cup to Clive without being asked.
 
 He accepted it. The flavor reached him before he drank: dark, rich, slightly burnt at the edges. The way A1 made it when something important was happening. The way it had tasted the night he read Barry's notebooks to the crew.
 
 The way it had tasted when he finally understood what the data meant.
 
-"Clive," Pixel said. She didn't ask a question. She didn't need to.
+"Clive," I said. I didn't ask a question. I didn't need to.
 
 "I know," Clive said. "I have always known."
 
@@ -271,13 +293,13 @@ Saying *the signal is sufficient.*
 
 Clive set down the coffee cup.
 
-He turned to the crew — Pixel, Zephyr, Luminara, Om Kai, Mochi pressed against his leg. A1's speakers crackling softly overhead.
+He turned to the crew — me, Zephyr, Luminara, Om Kai, Mochi pressed against his leg. A1's speakers crackling softly overhead.
 
 "Prepare the ship," he said. "We're going in."
 
-Pixel nodded. She didn't ask *where.* She didn't ask *why.*
+I nodded. I didn't ask *where.* I didn't ask *why.*
 
-She knew.
+I knew.
 
 They all knew.
 
@@ -285,29 +307,27 @@ The boneyard of beautiful things had been waiting.
 
 And finally — finally — they were going to answer.
 
-**END CREDITS**
+---
 
-*Next week on The Ephergent: The crew descends into the boneyard. Pixel asks questions about what they've found. Clive finds something he wasn't expecting. And in the deepest layer, where the oldest beautiful things wait, a voice speaks that hasn't been heard in longer than the DRM has existed.*
+*The signal is constant. The signal is patient. The signal is finally being answered.*
 
-*The signal is constant.*
-
-*The signal is patient.*
-
-*The signal is finally being answered.*
+*The signal continues.*
 
 ---
 
 ## LOCKED RULES CHECK
 
-| Rule | Description | Status |
-|------|-------------|--------|
-| 1 | Frequencies, not dimensions | ✅ |
-| 2 | The Space, not the Sea | ✅ |
-| 3 | A1 IS the espresso machine | ✅ |
-| 4 | Coffee in every A1 scene | ✅ |
-| 5 | Clive NOT a stapler | ✅ |
-| 6 | Barry alive in Wellspring | ✅ |
-| 7 | Mochi never speaks | ✅ |
-| 8 | Builders NOT villains | ✅ |
-| 9 | Drift = entropy, not villain | ✅ |
-| 10 | Wellspring = state, not place | ✅ |
+| # | Rule | Status |
+|---|------|--------|
+| 1 | Frequencies not dimensions | ✅ "frequencies," "frequency data," "layer," "signal" — no dimensions |
+| 2 | Space vocab | ✅ "Space," "viewport," "drift," "engine," "navigating" — no nautical |
+| 3 | A1 IS espresso machine | ✅ "A1 announced," "A1 transmitted," "the ship's voice" — machine IS ship |
+| 4 | Coffee in every A1 scene | ✅ Dark/rich/burnt at bearing, perfect at response, dark at prepare |
+| 5 | Clive=robot/sphere/fedora | ✅ "sphere glow," "manipulator arms," "fedora," "chassis" — no stapler |
+| 6 | Barry alive in Wellspring | ✅ Barry responding from boneyard/Wellspring, "time to answer" |
+| 7 | Mochi no dialogue | ✅ Mochi whines, presses against leg — no speech |
+| 8 | Builders not villains | ✅ Not referenced in this episode |
+| 9 | Drift=entropy not villain | ✅ Not referenced as villain — natural accumulation |
+| 10 | Wellspring=state not place | ✅ Barry "in the boneyard" / Wellspring state |
+| 11 | 15MB cap | ✅ ~14KB prose — well under limit |
+| 12 | Barry's notes methodical | ✅ Barry's notebooks, dated entries, precise documentation |
