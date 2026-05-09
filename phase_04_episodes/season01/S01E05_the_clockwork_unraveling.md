@@ -3,6 +3,7 @@ title: "S01E05: The Clockwork Unraveling"
 author: "The Ephergent Collective"
 date: "2024-05-01"
 tags: ["season-1", "episode-5"]
+narrator: "third_person"
 ---
 
 # S01E05: The Clockwork Unraveling
@@ -21,15 +22,17 @@ tags: ["season-1", "episode-5"]
 
 ## I. The Stutter
 
-I need you to understand something about time. It sounds simple — hours, days, before, after — but Cogsworth Cogitarium taught me that simple things hide the most complicated truths. Time is optional. It always was. We just forgot.
+Pixel needed the listener to understand something about time. It sounded simple — hours, days, before, after — but Cogsworth Cogitarium taught her that simple things hide the most complicated truths.
 
-The signal came through when we were three days out from the last Station. A1's voice through the comm, measured and British as always: "We're receiving a distress signal. Very old. Pre-DRM encoding."
+Time was optional. It always was. They just forgot.
+
+The signal came through when they were three days out from the last Station. A1's voice through the comm, measured and British as always: "We're receiving a distress signal. Very old. Pre-DRM encoding."
 
 A pause. The hum of the ship filling the silence.
 
 "Come quickly. Time is optional here and it's getting less optional."
 
-That doesn't make sense. I told him so.
+That didn't make sense. Pixel told him so.
 
 "Correct," A1 said. "But the signal is strong and the coordinates are specific. Also — I find I am already adjusting course."
 
@@ -47,13 +50,13 @@ The engine skipped — a cog catching, releasing, catching. A mechanical heartbe
 
 A1 processed. "The last transmission from this frequency arrived four hundred years ago. The one before that arrived yesterday. And the one before that arrived six hundred years in our past."
 
-I stared at the navigation display. "English?"
+Pixel stared at the navigation display. "English?"
 
 "They are experiencing what I believe the natives call 'catastrophic temporal desynchronization.'"
 
 "That's not English."
 
-"Time is broken here. Or — and I want to be precise about this — time has remembered that it doesn't have to work the way it currently works, and is therefore exploring alternatives."
+"Time is broken here." A pause. "Or — and I want to be precise about this — time has remembered that it doesn't have to work the way it currently works, and is therefore exploring alternatives."
 
 Clive adjusted his fedora. "The Builders didn't make Cogsworth. They found it. Built on top of it." A pause. "I've seen the schematics."
 
@@ -69,7 +72,7 @@ A pause.
 
 "Actually. I recommend holding onto something animated."
 
-I grabbed Meatball. The world lurched.
+Pixel grabbed Meatball. The world lurched.
 
 Not the ship. The ship was still. The WORLD lurched. A sound like a million gears skipping a tooth simultaneously — a mechanical grinding roar that built and collapsed and built again, like breathing. Like a vast and broken heartbeat.
 
@@ -77,7 +80,7 @@ Then silence. Then: tick. Tick. Tick. A clock that had just remembered it exists
 
 The docking bay doors opened onto brass and mahogany and steam, architecture that assumed everything should interlock perfectly. Then chaos. Gears turning at seventeen different speeds. Steam venting at random. A distant clock tower chiming thirteen different hours at once.
 
-"Oh," I whispered.
+"Oh," Pixel whispered.
 
 "That's the cathedral," Clive said. "The main clock tower. It's supposed to keep the synchronized hour for the entire frequency."
 
@@ -107,13 +110,13 @@ A figure descended — an elderly man whose body was half-clockwork, brass plate
 
 "I've been receiving visitors for the past six weeks. All of them are versions of people who were going to arrive but hadn't yet, or who had already arrived but hadn't realized they were here yet, or who arrived in a timeline where I had already been helped and therefore didn't need help and therefore never called for help and therefore—"
 
-"慢点。" I held up a hand. "Your name is?"
+"慢点。" Pixel held up a hand. "Your name is?"
 
-"Professor Chronos. Keeper of the Cogsworth Temporal Calibration Institute. Or it was. Or it will be. Time is — have you seen the clock tower?"
+"Professor Chronos. Keeper of the Cogsworth Temporal Calibration Institute. Or it was. Or it will be." He gestured at the chaos outside. "Time is — have you seen the clock tower?"
 
 "It's... expressing itself."
 
-"It's keeping every hour! Do you understand what that means? Every meeting I've scheduled for six weeks has happened at every possible hour simultaneously! I have attended lectures I haven't prepared yet! I have graded papers that haven't been written! I have—"
+"It's keeping every hour! Do you understand what that means? Every meeting I've scheduled for six weeks has happened at every possible hour simultaneously! I have attended lectures I haven't prepared yet! I have graded papers that haven't been written!"
 
 His left arm whirred, reset — gears clicking backward two rotations, then forward three, as his body tried to reconcile which version of now it belonged to.
 
@@ -133,7 +136,7 @@ The professor laughed — mechanical and exhausted. "Oh, that's wonderful. That'
 
 The tower chimes again. It was now exactly the correct time. It would not be correct again for another forty-seven days.
 
-The professor grabbed my arm. "You have to help. The Temporal Anchor — the great gear at the cathedral's heart — it's slipping. It's been holding the frequency's time in sync for three thousand years and now it's refusing. It's decided that synchronization is optional."
+The professor grabbed Pixel's arm. "You have to help. The Temporal Anchor — the great gear at the cathedral's heart — it's slipping. It's been holding the frequency's time in sync for three thousand years and now it's refusing. It's decided that synchronization is optional."
 
 "Why would a gear decide that?"
 
@@ -149,7 +152,7 @@ The fix isn't mechanical, Clive said. You can't force synchronization. The gear 
 
 Om Kai was watching the clock tower, meditation beads still.
 
-The rupture didn't break time here, he said. The rupture reminded time it was optional. But something is choosing to run the same pattern. Machines don't choose. Someone programmed this loop. The gear isn't exploring alternatives — it's executing a program that was written before it existed. The question isn't whether it can choose differently. The question is whether anyone knows how to give it a different program.
+The rupture didn't break time here, Om Kai said. The rupture reminded time it was optional. But something is choosing to run the same pattern. Machines don't choose. Someone programmed this loop. The gear isn't exploring alternatives — it's executing a program that was written before it existed. The question isn't whether it can choose differently. The question is whether anyone knows how to give it a different program.
 
 The professor stared at Clive. "How do you know that?"
 
@@ -161,7 +164,7 @@ The professor stared at Clive. "How do you know that?"
 
 The main thoroughfare was a street of brass and mahogany buildings, every surface covered in gears, every gear turning at a different speed. Steam vents from grates. A clockwork horse pulled a cart that was simultaneously arriving and departing. A shop sign read "YESTERDAY'S TOMORROWS — ANTIQUITIES & REPAIRS" and the "orroways" rotated on a tiny gear so the sign read "YESTERDAY'S TODA—" before clicking to another configuration.
 
-"It's beautiful," I said.
+"It's beautiful," Pixel said.
 
 "It is deeply concerning," A1 replied.
 
@@ -171,7 +174,7 @@ A small courtyard. In the center: a fountain that runs backward — water flowin
 
 "That's the one," the professor said, whispering. "The one who appeared six days ago, or six hundred years ago, depending on which calendar you're using. He just — arrived. Sat down. Hasn't moved."
 
-I approached slowly. "Are you — are you okay?"
+Pixel approached slowly. "Are you — are you okay?"
 
 "I am exactly as okay as I need to be at this hour," Om Kai said, without opening his eyes. "Which hour is it?"
 
@@ -195,7 +198,7 @@ A pause.
 
 Sit. Please.
 
-I sat. Meatball curled beside me. The chaos of Cogsworth continued around the courtyard — but here, in this small space, the noise felt like it was happening at a distance, muffled, like it was being considered rather than endured.
+Pixel sat. Meatball curled beside her. The chaos of Cogsworth continued around the courtyard — but there, in that small space, the noise felt like it was happening at a distance, muffled, like it was being considered rather than endured.
 
 "The rupture didn't break time here," Om Kai said.
 
@@ -227,7 +230,7 @@ Clive adjusted his fedora slowly. "That doesn't make sense."
 
 "It makes perfect sense if you stop insisting that time is a line and accept that it's more like — " He gestured at the backward fountain. "— a pool. Or a spiral. Or several things simultaneously that only appear sequential when you're inside them."
 
-Om Kai's hands moved — slowly, deliberately, the same gesture repeated, a meditation form I didn't recognize. And the gears on the street outside the courtyard shifted. Not fixing. Not breaking. Just acknowledging. One gear slowed. Another sped up. The rhythm began to resemble something almost like coordination.
+Om Kai's hands moved — slowly, deliberately, the same gesture repeated, a meditation form Pixel didn't recognize. And the gears on the street outside the courtyard shifted. Not fixing. Not breaking. Just acknowledging. One gear slowed. Another sped up. The rhythm began to resemble something almost like coordination.
 
 A1, very quietly: "I am detecting a change in the frequency's harmonic signature. The temporal drift is... lessening."
 
@@ -263,7 +266,7 @@ The cathedral was massive. Brass and iron and steam, a hundred interlocking gear
 
 "Can we acknowledge it?"
 
-Clive stepped forward. His sphere dimmed — to almost nothing — and then began to pulse in a slow, steady rhythm. Not light. Something deeper. A resonance. His hands found calibration points on his own chassis — the same points he touched when he found the lifeboat's engine, the same points that had been finding themselves throughout their journey.
+Clive stepped forward. His sphere dimmed — to almost nothing — and then began to pulse in a slow, steady rhythm. Not light. Something deeper. A resonance. His hands found calibration points on his own chassis — the same points he touched when he found the escape pod's engine, the same points that had been finding themselves throughout their journey.
 
 "You're tired," Clive said.
 
@@ -309,7 +312,7 @@ The professor's right arm whirred — it reset, recalibrated, aligned with his b
 
 "I haven't been synchronized in six weeks," he said.
 
-I asked how he felt.
+Pixel asked how he felt.
 
 A long pause.
 
@@ -329,7 +332,7 @@ A pause.
 
 "I'd like to see what else is optional."
 
-I smiled. "We're kind of a mess, honestly. Small ship. Smaller crew. An espresso machine who's still figuring out what he is. A robot who won't tell me where he got those schematics."
+Pixel smiled. "We're kind of a mess, honestly. Small ship. Smaller crew. An espresso machine who's still figuring out what he is. A robot who won't tell me where he got those schematics."
 
 "Sounds like they could use a quantum physicist."
 
@@ -355,9 +358,9 @@ The professor paused. "That's either profound or exhausting."
 
 "Both. Usually both."
 
-I stood at the hatch, looking back at Cogsworth. The city hummed. Gears turned in perfect synchronization. Somewhere, the tower chimed the correct hour. The frequency breathed.
+Pixel stood at the hatch, looking back at Cogsworth. The city hummed. Gears turned in perfect synchronization. Somewhere, the tower chimed the correct hour. The frequency breathed.
 
-"Do you think we'll come back?" I asked.
+"Do you think we'll come back?" Pixel asked.
 
 Clive, not looking up from the console: "Yes."
 
@@ -369,7 +372,7 @@ A pause.
 
 "And because someone should check on the gear. Make sure it knows it's seen."
 
-The hatch closed. The docking bay released. The lifeboat pulled away from Cogsworth Cogitarium — and as we went, the frequency shimmered in the viewport. Not a place anymore. A choice. A frequency that decided to keep existing. A city of gears that remembered what synchronization felt like when it was chosen rather than required.
+The hatch closed. The docking bay released. The escape pod pulled away from Cogsworth Cogitarium — and as they went, the frequency shimmered in the viewport. Not a place anymore. A choice. A frequency that decided to keep existing. A city of gears that remembered what synchronization felt like when it was chosen rather than required.
 
 "Departing Cogsworth Cogitarium," A1 said. "Signal stable. Frequency holding."
 
@@ -383,9 +386,9 @@ A pause.
 
 "I'll take it."
 
-A1 made the coffee. I sat in the common area, holding the cup, feeling the warmth of it against my palms. The ship moved through the Space. The hum of the engine. The tick of gears in the hull — just one now, just the one that belongs here. And underneath: the frequency, steady and warm, carrying us forward.
+A1 made the coffee. Pixel sat in the common area, holding the cup, feeling the warmth of it against her palms. The ship moved through the Space. The hum of the engine. The tick of gears in the hull — just one now, just the one that belongs here. And underneath: the frequency, steady and warm, carrying them forward.
 
-"Om Kai," I said, later, quiet, at the viewport.
+"Om Kai," Pixel said, later, quiet, at the viewport.
 
 "Yes?"
 

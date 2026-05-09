@@ -3,8 +3,8 @@ title: "When the Moon Stopped Weeping"
 author: "The Ephergent Collective"
 date: "2024-04-01"
 tags: ["season-1", "episode-4"]
+narrator: "third_person"
 ---
-
 
 # When the Moon Stopped Weeping
 
@@ -12,175 +12,304 @@ tags: ["season-1", "episode-4"]
 
 ### Opening
 
-The phase-shift into Nocturne Aeturnus feels different from Prime Material. Where home snaps into place with familiar physics — gravity, light, cause and effect — this new frequency slides in like a sigh. The porthole fills with twilight: deep indigo bleeding into violet, no horizon line, no sun, just a perpetual dusk that feels like it's been holding its breath for centuries.
+The phase-shift into Nocturne Aeturnus felt different from Prime Material. Where home snapped into place with familiar physics — gravity, light, cause and effect — this new frequency slid in like a sigh. The porthole filled with twilight: deep indigo bleeding into violet, no horizon line, no sun, just a perpetual dusk that felt like it had been holding its breath for centuries.
 
-Pixel's hands grip the console. This is it. The documents in the DRM ruins talked about other frequencies. The rupture tore the walls between them. And now they're *in one*. An actual other frequency. The rational part of her brain is screaming. The journalist part is already composing the lead.
+Pixel's hands gripped the console. Her knuckles were white and she didn't remember letting them get that way. This was it. The documents in the DRM ruins talked about other frequencies. The rupture tore the walls between them. And now they were *in one*. An actual other frequency. The rational part of her brain was screaming. The journalist part was already composing the lead.
 
-"Oh my god," she whispers. "It's real. It's actually real."
+"Oh my god," she whispered. "It's real. It's actually real."
 
-Meatball presses against the porthole and whines — not distress, but something closer to awe. Pixel watches him carefully. Meatball perceives frequencies as emotion, and whatever he's feeling from Nocturne is *big*. His tail tucks, then slowly wags, then tucks again, as if the frequency itself can't decide what it's feeling.
+Meatball pressed against the porthole and whined — not distress, but something closer to awe. Pixel watched him carefully. Meatball perceived frequencies as emotion, and whatever he was feeling from Nocturne was *big*. His tail tucked, then slowly wagged, then tucked again, as if the frequency itself couldn't decide what it was feeling. The poor dog was probably getting emotional whiplash from a whole world that didn't know what it wanted to feel.
 
-"Nocturne Aeturnus," A1 says, and then stops. His holographic projection flickers with what looks like confusion. "I... know this place. Nocturne Aeturnus. The frequency designation, the emotional substrate mechanics, the crystallization cycles — I *know* this." He turns to Pixel. "I should not know this. That information isn't in any database I have access to."
+"Oh my god," Pixel said again, softer this time. Because saying it twice made it more real somehow.
 
-Pixel stares at him. "A1, how do you know the *name* of an entire frequency?"
+A1's holographic projection flickered with what looked like confusion. "I... know this place. Nocturne Aeturnus." He stopped. His projection wavered. "I know this place. The frequency designation, the emotional substrate mechanics, the crystallization cycles — I *know* this."
 
-"I don't know. But it's correct. I'm certain it's correct." His projection steadies, but there's something underneath — old memory surfacing, fighting through compression. "It typically registers as a stable emotional frequency — deep, resonant, internally consistent. What I'm reading now is... fragmented. The emotional substrate is fluctuating."
+Pixel turned to look at him. "A1, how do you know the *name* of an entire frequency?"
 
-Clive's sphere pulses a terse observation: *FEELS WRONG. LIKE A SONG OFF-KEY.* He does not comment on A1 knowing the frequency's name. He does not seem surprised. Pixel notices this too.
+"I don't know." His voice was careful. Controlled. The way A1 sounded when he was trying very hard to be accurate. "But it's correct. I'm certain it's correct." He paused. "It typically registers as a stable emotional frequency — deep, resonant, internally consistent. What I'm reading now is... fragmented. The emotional substrate is fluctuating."
 
-Clive had rerouted them here via what he called a "navigation efficiency" — a detour through a region of the Space that A1's instruments flagged as a frequency anomaly. From the porthole, Pixel had squinted at it: a shape in the dark, angular, enormous, too large to be a ship and too still to be natural. Clive had watched it pass without a word. His fedora, if possible, tilted further down. The shape faded into the static. Pixel had meant to ask about it. She hadn't yet.
+Clive's sphere pulsed a terse observation: *FEELS WRONG. LIKE A SONG OFF-KEY.*
 
-The lifeboat descends through clouds that shimmer with half-formed emotional residue — residue that should crystallize into gentle precipitation, emotion-rain that the inhabitants below presumably collect and trade. Instead, the residue swirls formlessly, refusing to solidify, dissipating into mist before it can become anything. Through the haze, the City of Aethel-Gloom emerges: spires of dark stone draped in luminescent moss, bridges arching between towers like frozen sighs, streets paved with emotional crystal that should glow with stored feeling but instead lie dim and inert.
+He did not comment on A1 knowing the frequency's name. He did not seem surprised.
 
-The city looks like a chandelier with the lights off.
+Pixel noticed this too. She filed it with all the other things Clive didn't comment on, all the things he seemed to already know, all the times his silence said more than his words. Clive had ninety years of not being surprised. She was starting to think that ninety years was a long time to practice not being surprised by anything.
 
-Pixel can't stop staring. Gothic architecture that would make a cathedral weep with envy. Bioluminescent vegetation growing up impossible spires. A civilization built on *feelings*. She turns to the crew. "Are we all seeing this? This isn't a hallucination? There's a gothic emotion-city outside our window?"
+Clive had rerouted them there via what he called a "navigation efficiency" — a detour through a region of the Space that A1's instruments flagged as a frequency anomaly. From the porthole, Pixel had squinted at it: a shape in the dark, angular, enormous, too large to be a ship and too still to be natural. Clive had watched it pass without a word. His fedora, if possible, tilted further down. The shape faded into the static.
+
+Pixel had meant to ask about it. She hadn't yet. There were so many things she hadn't yet.
+
+---
+
+### The Descent
+
+The escape pod descended through clouds that shimmered with half-formed emotional residue — residue that should crystallize into gentle precipitation, emotion-rain that the inhabitants below presumably collected and traded. Instead, the residue swirled formlessly, refusing to solidify, dissipating into mist before it could become anything. It looked like smoke that forgot how to burn. It looked like music that lost its melody halfway through.
+
+Through the haze, the City of Aethel-Gloom emerged.
+
+Spires of dark stone draped in luminescent moss. Bridges arching between towers like frozen sighs. Streets paved with emotional crystal that should glow with stored feeling but instead lay dim and inert.
+
+The city looked like a chandelier with the lights off.
+
+Pixel couldn't stop staring. Gothic architecture that would make a cathedral weep with envy. Bioluminescent vegetation growing up impossible spires. A civilization built on *feelings*. She turned to the crew.
+
+"Are we all seeing this? This isn't a hallucination? There's a gothic emotion-city outside our window?"
 
 A1: "It is not a hallucination."
 
 Clive's sphere pulses: *GOTHS WERE RIGHT.*
 
-"THE GOTHS WERE RIGHT," Pixel says, and starts laughing in a way that's about thirty percent wonder and seventy percent hysteria.
+"THE GOTHS WERE RIGHT," Pixel said, and she started laughing in a way that was about thirty percent wonder and seventy percent hysteria. She couldn't help it. Two days ago she was filing noise complaints. Now she was looking at a city made of solidified emotions and her robot companion just made a joke about goths.
 
-### Escalation
+Meatball barked once, short and sharp, which might be agreement or might be his way of saying he didn't know what was happening either and would someone please explain.
 
-They land the lifeboat in a public square near what A1 identifies (again, without knowing how he knows) as the central crystal exchange. The square should be bustling — Nocturne's emotional economy depends on the constant harvesting, trading, and crafting of crystallized emotions. Instead, it's quiet. Stalls stand empty, their display cases bare of crystal. The few inhabitants they see move slowly, wrapped in dark cloaks, their expressions flat with a kind of exhaustion that goes deeper than physical tiredness.
+---
 
-The crew steps out and just... stares. Pixel reaches down and picks up a crystal shard from the ground. It hums against her palm — a tiny vibration that she can *feel* emotionally, a ghost of sadness, beautiful and alien. "Emotions are *rocks* here," she says, turning it in her fingers. "Emotions. Are. Rocks."
+### The Square
 
-"Crystallized emotional resonance," A1 corrects, "formed through stable frequency interaction with the local—" He catches himself again. "I'm doing it again. I shouldn't know any of this."
+They landed the escape pod in a public square near what A1 identified (again, without knowing how he knew) as the central crystal exchange. The square should be bustling — Nocturne's emotional economy depended on the constant harvesting, trading, and crafting of crystallized emotions. Instead, it was quiet. Stalls stood empty, their display cases bare of crystal. The few inhabitants they saw moved slowly, wrapped in dark cloaks, their expressions flat with a kind of exhaustion that went deeper than physical tiredness.
 
-Pixel's observational instincts kick in immediately. She can *see* the instability — not through any supernatural perception, but the way a journalist reads a room. The emotional spectrum, which should be rich and layered (she's guessing, based on the empty crystal displays and the architecture designed to house something luminous), is full of gaps. The air feels *thin*, emotionally. Like a concert hall with the acoustics stripped out.
+The crew stepped out and just... stared. Pixel reached down and picked up a crystal shard from the ground. It hummed against her palm — a tiny vibration that she could *feel* emotionally, a ghost of sadness, beautiful and alien. The emotion hit her like a memory of something she never experienced. A sadness for a sadness that didn't belong to her.
 
-"The rupture," A1 confirms, analyzing readings. "The frequency earthquake destabilized Nocturne's emotional substrate. The crystallization process requires stable frequency resonance — the emotions need a consistent frequency vibration to solidify. Without it, they remain gaseous, ephemeral. They *feel* but cannot *become*."
+"Emotions are *rocks* here," Pixel said, turning it in her fingers. "Emotions. Are. Rocks."
 
-A local approaches them — an elderly figure with eyes like polished amethyst and skin that seems to absorb light. Pixel tries not to stare. Fails. The figure regards them with weary curiosity. "You're from outside," they say, their voice a low chord that Pixel feels in her sternum. "We felt your arrival. A new frequency, small and mechanical." They look at the lifeboat. "The Sorrowful Moon has been flickering for twelve cycles. The Melancholic Joy will not solidify. Even common sorrow — the foundation of our economy, our art, our architecture — evaporates before it can be harvested." They pause. "We are not starving for food, travelers. We are starving for *feeling*."
+"Crystallized emotional resonance," A1 corrected, "formed through stable frequency interaction with the local—" He caught himself. Took a breath. "I'm doing it again. I shouldn't know any of this."
 
-Pixel's mouth opens. Closes. She is standing in another frequency talking to a being with amethyst eyes about an economy based on solidified emotions. She's going to need a minute.
+Pixel looked at him. He was trying to be clinical, to distance himself from the knowledge that was surfacing without his permission. She understood that. She understood not wanting to know things that might change how you see yourself.
 
-It's Meatball who responds first — walking up to the elder and pressing his warm head against their hand. The elder's eyes widen. "This creature... he carries feeling like a vessel. Such simple, enormous emotion." For the first time, something in their expression shifts. Not quite hope. The ghost of it.
+But she also thought sometimes the information finds you exactly when you need it.
 
-Pixel looks up. Above the city, the Sorrowful Moon hangs — Nocturne's emotional anchor, a massive luminous orb that reflects and amplifies the frequency's collective feeling. It should glow a deep, steady blue-violet. Instead, it stutters: bright, dim, bright, dim, like a heartbeat going irregular. Each flicker sends a ripple of unease through the streets below.
+"The rupture," A1 continued, analyzing readings, "the frequency earthquake destabilized Nocturne's emotional substrate. The crystallization process requires stable frequency resonance — the emotions need a consistent frequency vibration to solidify. Without it, they remain gaseous, ephemeral. They *feel* but cannot *become*."
 
-"A weeping moon," Pixel whispers. "An actual weeping moon." She pulls out her recording equipment. "Nobody back home is going to believe this."
+Pixel thought about that. A world where feelings could exist but not take shape. A world where you could be sad but never cry. Where you could be happy but never hold it.
+
+"No wonder they look so tired," she murmured. "They're starving for something they can't even name."
+
+---
+
+### The Elder
+
+A local approached them — an elderly figure with eyes like polished amethyst and skin that seemed to absorb light instead of reflecting it. Pixel tried not to stare. She failed. She was a journalist, she was allowed to stare at alien life forms, that was basically her job description now.
+
+The figure regarded them with weary curiosity. "You're from outside," they said. Their voice was a low chord that Pixel felt in her sternum, a resonance that bypassed her ears and went straight to something deeper. "We felt your arrival. A new frequency, small and mechanical."
+
+They looked at the escape pod.
+
+"The Sorrowful Moon has been flickering for twelve cycles. The Melancholic Joy will not solidify. Even common sorrow — the foundation of our economy, our art, our architecture — evaporates before it can be harvested."
+
+They paused. The pause had weight. It had the weight of someone deciding whether to say something that felt too big for words.
+
+"We are not starving for food, travelers. We are starving for *feeling*."
+
+Pixel's mouth opened. Closed. She was standing in another frequency talking to a being with amethyst eyes about an economy based on solidified emotions. She was going to need a minute. She was going to need several minutes and possibly a lie down.
+
+It was Meatball who responded first.
+
+He walked up to the elder and pressed his warm head against their hand. His tail wagged — not exuberantly, but with steady, simple warmth. The kind of warmth that didn't ask for anything.
+
+The elder's eyes widened. "This creature... he carries feeling like a vessel. Such simple, enormous emotion."
+
+For the first time, something in their expression shifted. Not quite hope. The ghost of it. The memory of what hope felt like before they forgot.
+
+Pixel looked up. Above the city, the Sorrowful Moon hung — Nocturne's emotional anchor, a massive luminous orb that reflected and amplified the frequency's collective feeling. It should glow a deep, steady blue-violet. Instead, it stuttered: bright, dim, bright, dim, like a heartbeat going irregular.
+
+Each flicker sent a ripple of unease through the streets below. Pixel could feel it even without Meatball's senses. A world on edge. A world waiting for its own heart to steady.
+
+"A weeping moon," Pixel whispered. "An actual weeping moon."
+
+She pulled out her recording equipment. "Nobody back home is going to believe this."
+
+---
 
 ### Luminara
 
-Pixel is trying to figure out how to help — the lifeboat's resources are thin, and emotional crystallization isn't exactly something she learned about in journalism school (or, you know, ANYWHERE, because OTHER FREQUENCIES WEREN'T REAL until last week) — when they find her.
+Pixel was trying to figure out how to help — the escape pod's resources were thin, and emotional crystallization wasn't exactly something she learned about in journalism school — when they found her.
 
-Or rather, she finds them.
+Or rather, when she found them.
 
-A flash of light in a darkened alley — not the stuttering light of Nocturne's failing spectrum, but something directed, intentional. Pixel turns to see a young woman standing in the mouth of the alley, holding what looks like a professional camera jury-rigged with components that glow faintly with frequency energy. She's wearing clothes that were clearly normal once — jeans, a leather jacket, hiking boots — now patched and adapted with materials from Nocturne. Her hands glow faintly — light moving under her skin like bioluminescence, and the look on her face when she sees the lifeboat is the look of someone seeing a life raft after weeks adrift in the Space.
+A flash of light in a darkened alley — not the stuttering light of Nocturne's failing spectrum, but something directed, intentional. Pixel turned to see a young woman standing in the mouth of the alley, holding what looked like a professional camera jury-rigged with components that glowed faintly with frequency energy.
 
-"You're Pixel Paradox," the woman says. Her voice cracks. "I heard your broadcast. Both of them. I've been tracking your signal for days." She steps forward. Her eyes catch the dim light and refract it in ways that shouldn't be physically possible. "I'm Luminara. Luminara Usha. I'm a photographer from — from home. From our world. Please tell me you have a way back."
+She was wearing clothes that were clearly normal once — jeans, a leather jacket, hiking boots — now patched and adapted with materials from Nocturne. Her hands glowed faintly. Light moving under her skin like bioluminescence.
 
-The story comes out in fragments, rapid and shaking: Luminara was a freelance photographer, shooting urban landscapes in the city. She was near the DRM building when the rupture hit — not inside it, not connected to it, just in the wrong place at the worst possible time. The ground tore open. Light poured out. And she woke up *here*. In a gothic emotion-frequency with a weeping moon and emotions that turn into gemstones.
+And the look on her face when she saw the escape pod was the look of someone seeing a life raft after weeks adrift in the Space.
 
-"I thought I was dead," she says. "Or dreaming. Or both. Then the locals found me and I realized — this is real. This is a real place with real people who live in perpetual twilight and trade in crystallized sorrow and I am ACTUALLY HERE."
+"You're Pixel Paradox," the woman said. Her voice cracked. "I heard your broadcast. Both of them. I've been tracking your signal for days."
 
-She'd survived. More than survived — adapted, the way humans do when the alternative is giving up. And in the process, she'd discovered something terrifying and wonderful: she could manipulate light. Not just photograph it — *shape* it. Bend it. Fix it to emotion. The rupture had awakened something in her, some latent ability that had no name and no explanation in the physics she'd grown up with.
+She stepped forward. Her eyes caught the dim light and refracted it in ways that shouldn't be physically possible.
 
-"I can shape light," she says, holding up her camera. "But more than that — I can *fix* it to emotion. My photographs don't just capture what something looks like. They capture what it *feels* like. And in a frequency where feeling is the fundamental currency..." She trails off, gesturing at the dim streets.
+"I'm Luminara. Luminara Usha. I'm a photographer from — from home. From our world."
 
-"Your photos can stabilize the emotional spectrum?" Pixel asks, the journalist in her already spinning.
+She swallowed. The crack in her voice widened.
 
-"Partially. Locally. I've been working with some of the crystal-crafters, using photographs as emotional anchors — fixed points of feeling that the spectrum can reference, like tuning forks for the soul." She pauses. "But it's not enough. The instability goes deeper than I can reach alone. It's in the frequency itself."
+"Please tell me you have a way back."
 
-This is where Clive speaks. He produces a complex, precise light pattern that takes Pixel a full minute to read, and when she does, she turns to A1 with wide eyes.
+The story came out in fragments, rapid and shaking:
+
+Luminara was a freelance photographer, shooting urban landscapes in the city. She was near the DRM building when the rupture hit — not inside it, not connected to it, just in the wrong place at the worst possible time. The ground tore open. Light poured out. And she woke up *here*. In a gothic emotion-frequency with a weeping moon and emotions that turned into gemstones.
+
+"I thought I was dead," she said. "Or dreaming. Or both. Then the locals found me and I realized — this is real. This is a real place with real people who live in perpetual twilight and trade in crystallized sorrow and I am ACTUALLY HERE."
+
+She'd survived. More than survived — adapted, the way humans do when the alternative is giving up. And in the process, she'd discovered something terrifying and wonderful: she could manipulate light. Not just photograph it — *shape* it. Bend it. Fix it to emotion.
+
+The rupture had awakened something in her. Some latent ability that had no name and no explanation in the physics she'd grown up with.
+
+"I can shape light," she said, holding up her camera. "But more than that — I can *fix* it to emotion. My photographs don't just capture what something looks like. They capture what it *feels* like."
+
+She gestured at the dim streets.
+
+"And in a frequency where feeling is the fundamental currency..."
+
+She trailed off. She didn't need to finish. Pixel understood.
+
+"Your photos can stabilize the emotional spectrum?" Pixel asked. The journalist in her was already spinning, already seeing the story, already understanding that this mattered.
+
+"Partially. Locally. I've been working with some of the crystal-crafters, using photographs as emotional anchors — fixed points of feeling that the spectrum can reference, like tuning forks for the soul."
+
+She paused. "But it's not enough. The instability goes deeper than I can reach alone. It's in the frequency itself."
+
+This was where Clive spoke.
+
+He produced a complex, precise light pattern that took Pixel a full minute to read. When she did, she turned to A1 with wide eyes.
 
 "A1 — Clive says you can generate a harmonic anchor. That the espresso machine's quantum processing can produce a stable frequency pulse that the emotional spectrum can crystallize around. Is that true?"
 
-A1's hologram flickers with something that might be surprise. "Clive's assessment is... not entirely inaccurate. My quantum processing core does emit a stable frequency signature. In theory, if I modulated it to match Nocturne's base emotional resonance, I could provide a temporary stabilization field. However, the power drain would be significant. The lifeboat's reserves—"
+A1's hologram flickered with something that might be surprise. "Clive's assessment is... not entirely inaccurate. My quantum processing core does emit a stable frequency signature. In theory, if I modulated it to match Nocturne's base emotional resonance, I could provide a temporary stabilization field."
 
-"Can you do it?" Pixel asks.
+He paused. "However, the power drain would be significant. The escape pod's reserves—"
+
+"Can you do it?" Pixel asked.
 
 A beat. "Yes."
 
+Pixel didn't ask how Clive knew this. Clive knew things. Clive had always known things. She'd stopped asking where the knowledge came from and started accepting that it does.
+
+---
+
 ### The Harmonic Stabilization
 
-They set up in the central square — A1 at the center, Clive positioned at key structural points around the plaza to create what he calls "harmonic anchor points" (Pixel's translation of his light-pattern instructions — resonance markers that extend A1's field). Luminara positions herself with her camera, ready to photograph the stabilization — to capture the moment the emotions begin to crystallize again and use those images as lasting reference points.
+They set up in the central square — A1 at the center, Clive positioned at key structural points around the plaza to create what he called "harmonic anchor points" (Pixel's translation of his light-pattern instructions — resonance markers that extend A1's field). Luminara positioned herself with her camera, ready to photograph the stabilization — to capture the moment the emotions began to crystallize again and use those images as lasting reference points.
 
-A1 begins. His espresso machine body hums — a deep, resonant tone that Pixel feels in her chest. His holographic projection expands, further than she's ever seen it reach, a shimmering blue field that spreads across the square like ripples in a pond. The hum deepens, finds Nocturne's base frequency, and *matches* it.
+A1 began.
 
-For a moment, nothing happens.
+His espresso machine body hummed — a deep, resonant tone that Pixel felt in her chest. His holographic projection expanded, further than she'd ever seen it reach, a shimmering blue field that spread across the square like ripples in a pond. The hum deepened, found Nocturne's base frequency, and *matched* it.
 
-Then: the air shimmers. A mote of light appears — tiny, blue-violet, trembling — and slowly, impossibly, *solidifies*. A crystal. The size of a teardrop. It catches the light from the Sorrowful Moon and refracts it into a tiny rainbow of emotion. Then another crystal forms. And another.
+For a moment, nothing happened.
 
-Luminara's camera clicks. The flash isn't light — it's *feeling*, captured and fixed, a permanent record of the moment sorrow remembered how to become solid.
+Then: the air shimmered. A mote of light appeared — tiny, blue-violet, trembling — and slowly, impossibly, *solidified*. A crystal. The size of a teardrop. It caught the light from the Sorrowful Moon and refracted it into a tiny rainbow of emotion.
 
-Above the city, the Sorrowful Moon steadies. Its flicker smooths. Not perfectly — not yet — but the irregular heartbeat becomes something closer to rhythm. The elder from before stands in the square, eyes wide, a crystal forming in their outstretched palm. They close their fingers around it, and for the first time in twelve cycles, they weep.
+Then another crystal formed. And another.
 
-Meatball sits in the middle of the square, tail wagging slowly, surrounded by falling emotion-crystals that chime softly as they land around him. He looks up at the Sorrowful Moon with an expression of perfect, uncomplicated happiness — and a crystal of pure, simple joy forms at his feet. Golden, warm, the size of a marble. Luminara photographs it.
+Luminara's camera clicked. The flash wasn't light — it was *feeling*, captured and fixed, a permanent record of the moment sorrow remembered how to become solid.
 
-In Pixel's jacket pocket, Mochi stirs.
+Above the city, the Sorrowful Moon steadied. Its flicker smoothed. Not perfectly — not yet — but the irregular heartbeat became something closer to rhythm. The elder from before stood in the square, eyes wide, a crystal forming in their outstretched palm.
 
-Luminara reaches into the pocket — curious, drawn to the warmth she can feel through the fabric — and her fingers brush Mochi's dome.
+They closed their fingers around it.
 
-Mochi pulses. Amber. A slow, warm glow that matches the joy-crystals falling around them, the color of Luminara's own light-manipulation ability, the color of Nocturne Aeturnus at its most stable and most alive. The warmth radiates up Luminara's arm and she pulls her hand back, startled.
+For the first time in twelve cycles, they wept.
 
-"It's warm," she says. "What is that?"
+Meatball sat in the middle of the square, tail wagging slowly, surrounded by falling emotion-crystals that chimed softly as they landed around him. He looked up at the Sorrowful Moon with an expression of perfect, uncomplicated happiness.
 
-Pixel looks at the pocket. "That's Mochi. I don't know what it is. It does that sometimes."
+A crystal of pure, simple joy formed at his feet. Golden, warm, the size of a marble.
 
-Luminara stares at the pocket for a long moment. Then she smiles — the first real smile Pixel has seen from her. "It feels like the crystals," she says quietly. "Like the emotion-crystals when they're working right. Warm. Steady. Like it's... keeping time with something."
+Luminara photographed it. Her hands were shaking, but her images were steady.
 
-Pixel doesn't have an answer for that. She files it away. *Observed. Unexplained. Important.*
+---
 
-Mochi dims back to its usual gentle warmth. But the amber lingers in Pixel's memory — the color of a frequency working the way it's supposed to.
+### Mochi
+
+In Pixel's jacket pocket, Mochi stirred.
+
+Luminara reached into the pocket — curious, drawn to the warmth she could feel through the fabric — and her fingers brushed Mochi's dome.
+
+Mochi pulsed. Amber. A slow, warm glow that matched the joy-crystals falling around them, the color of Luminara's own light-manipulation ability, the color of Nocturne Aeturnus at its most stable and most alive. The warmth radiated up Luminara's arm and she pulled her hand back, startled.
+
+"It's warm," she said. "What is that?"
+
+Pixel looked at the pocket. "That's Mochi. I don't know what it is. It does that sometimes."
+
+Luminara stared at the pocket for a long moment. Then she smiled — the first real smile Pixel had seen from her.
+
+"It feels like the crystals," she said quietly. "Like the emotion-crystals when they're working right. Warm. Steady. Like it's... keeping time with something."
+
+Pixel didn't have an answer for that. She filed it away. *Observed. Unexplained. Important.*
+
+Mochi dimmed back to its usual gentle warmth. But the amber lingered in her memory — the color of a frequency working the way it was supposed to.
+
+---
 
 ### Resolution
 
-The stabilization isn't permanent — A1 is clear about that. His harmonic field gave Nocturne's emotional spectrum a reference point, a reminder of what stable resonance feels like, and the frequency's own natural processes are slowly picking up from there. But the underlying frequency instability from the rupture remains. Nocturne will need to rebuild its emotional infrastructure, develop new crystallization techniques that account for the wobble in their frequency. It's going to be hard work. Long work.
+The stabilization wasn't permanent — A1 was clear about that. His harmonic field gave Nocturne's emotional spectrum a reference point, a reminder of what stable resonance felt like, and the frequency's own natural processes were slowly picking up from there. But the underlying frequency instability from the rupture remained.
 
-But they're not helpless anymore. And they're not alone.
+Nocturne would need to rebuild its emotional infrastructure. Develop new crystallization techniques that accounted for the wobble in their frequency. It was going to be hard work. Long work.
 
-Luminara asks to join them.
+But they were not helpless anymore. And they were not alone.
 
-"I've done what I can here," she says, packing her camera into a battered case. "The crystal-crafters have my photographs — emotional anchors they can reference as they rebuild. But the instability isn't just here. It's everywhere, right? Every frequency?"
+Luminara asked to join them.
 
-Pixel nods. "Every one we've checked so far."
+"I've done what I can here," she said, packing her camera into a battered case. "The crystal-crafters have my photographs — emotional anchors they can reference as they rebuild. But the instability isn't just here. It's everywhere, right? Every frequency?"
+
+Pixel nodded. "Every one we've checked so far."
 
 "Then you need someone who can capture what's happening. Not just in words — in light. In feeling. Someone who can show people what it *looks like* when a world remembers how to feel."
 
-She pauses, and the desperation she'd been holding back surfaces. "And — you have a ship. You can travel between frequencies. There has to be a way home. I want to help fix this, I do, but I also want to find my way back. I need to know my world is still there."
+She paused. The desperation she'd been holding back surfaced.
 
-"It is," Pixel says. "It's messed up, but it's there."
+"And — you have a ship. You can travel between frequencies. There has to be a way home. I want to help fix this, I do, but I also want to find my way back. I need to know my world is still there."
 
-Something in Luminara's face breaks with relief. Then steadies. "Then I'm coming. For both reasons."
+"It is," Pixel said. "It's messed up, but it's there."
 
-Clive's sphere pulses an opinion: *SHE'S GOOD. TAKE HER.*
+Something in Luminara's face broke with relief. Then steadied. "Then I'm coming. For both reasons."
 
-A1 says nothing, but his holographic projection extends slightly toward Luminara — the espresso machine equivalent of a nod.
+Clive's sphere pulsed an opinion: *SHE'S GOOD. TAKE HER.*
 
-Meatball walks up to Luminara and leans his full weight against her legs, which is Meatball for "you're family now."
+A1 said nothing, but his holographic projection extended slightly toward Luminara — the espresso machine equivalent of a nod.
 
-The lifeboat is more cramped than ever. Luminara wedges herself into a corner with her camera case, her faintly glowing hands illuminating the dim interior in soft, shifting colors. A1 makes espresso — "Welcome aboard. It's not much, but the coffee is exceptional, warm and bright as C-bg minor" — and Luminara takes her first sip and her eyes widen in a way that Pixel recognizes. Everyone has that reaction to A1's espresso.
+Meatball walked up to Luminara and leaned his full weight against her legs, which was Meatball for "you're family now."
 
-"So," Luminara says, cradling the cup, "how many other frequencies are there?"
+The escape pod was more cramped than ever. Luminara wedged herself into a corner with her camera case, her faintly glowing hands illuminating the dim interior in soft, shifting colors. A1 made espresso — "Welcome aboard. It's not much, but the coffee is exceptional, warm and bright as C-bg minor" — and Luminara took her first sip and her eyes widened.
 
-Pixel and A1 exchange a look. "We're... still finding out," Pixel says.
+Everyone had that reaction to A1's espresso. Pixel had stopped being surprised by it.
 
-"The DRM documents suggested at least five core frequencies," A1 adds. "Though I suspect the actual number is significantly higher." He pauses. "I should not know that either."
+"So," Luminara said, cradling the cup, "how many other frequencies are there?"
 
-Luminara nods slowly. "Cool. Cool cool cool. I'm a photographer from Brooklyn who can now bend light with her hands and I'm in a spaceship-lifeboat with a sentient espresso machine heading to frequency number three. This is fine."
+Pixel exchanged a look with A1. "We're... still finding out."
 
-"It's really not," Pixel says.
+"The DRM documents suggested at least five core frequencies," A1 added. "Though I suspect the actual number is significantly higher." He paused. "I should not know that either."
 
-"No," Luminara agrees. "But the coffee is exceptional."
+Luminara nodded slowly. "Cool. Cool cool cool. I'm a photographer from Brooklyn who can now bend light with her hands and I'm in a spaceship-escape pod with a sentient espresso machine heading to frequency number three. This is fine."
 
-As they depart Nocturne, Pixel files her third dispatch:
+"It's really not," Pixel said.
 
-"This is Pixel Paradox, broadcasting from DRM Lifeboat 27-B, departing Nocturne Aeturnus — our first visit to an actual other frequency. And I need you to hear me when I say: it's real. All of it. A world of perpetual twilight where emotions crystallize into gemstones and a moon weeps light over gothic spires. It's the most beautiful and terrifying thing I've ever seen. The emotion drought is easing. The Sorrowful Moon is steady — for now. And we've gained a crew member. Luminara Usha, photographer, light-shaper, and the bravest person I've met in any frequency — she got pulled here during the rupture and survived on her own for weeks. Her pictures carry feeling across frequencies. If my words are the signal, her images are the color."
+"No," Luminara agreed. "But the coffee is exceptional."
 
-She pauses, looking at the lifeboat's straining power readout.
+---
 
-"We're heading deeper. There are more frequencies out there — the DRM was tracking at least five. The lifeboat's holding — barely. A1 is... changing, in ways I don't fully understand. He knows things he shouldn't know. Clive keeps pulsing coordinates I can't decipher and being suspiciously unsurprised by everything. Meatball can feel frequencies the rest of us can only measure. And Luminara wants to go home. We all do. We're a mess. But we're a *functional* mess."
+### The Dispatch
+
+As they departed Nocturne, Pixel filed her third dispatch:
+
+"This is Pixel Paradox, broadcasting from DRM Lifeboat 27-B, departing Nocturne Aeturnus — our first visit to an actual other frequency. And I need you to hear me when I say: it's real. All of it."
+
+"A world of perpetual twilight where emotions crystallize into gemstones and a moon weeps light over gothic spires. It's the most beautiful and terrifying thing I've ever seen. The emotion drought is easing. The Sorrowful Moon is steady — for now."
+
+"And we've gained a crew member. Luminara Usha, photographer, light-shaper, and the bravest person I've met in any frequency — she got pulled here during the rupture and survived on her own for weeks. Her pictures carry feeling across frequencies. If my words are the signal, her images are the color."
+
+Pixel paused. Looked at the escape pod's straining power readout.
+
+"We're heading deeper. There are more frequencies out there — the DRM was tracking at least five. The escape pod's holding — barely. A1 is... changing, in ways I don't fully understand. He knows things he shouldn't know. Clive keeps pulsing coordinates I can't decipher and being suspiciously unsurprised by everything. Meatball can feel frequencies the rest of us can only measure."
+
+"And Luminara wants to go home. We all do."
+
+"We're a mess. But we're a *functional* mess."
 
 "Dispatch three. The Ephergent. Still broadcasting. Still listening. Still trying to understand what the hell is happening."
 
-The lifeboat groans into the Space between. Through the porthole, the twilight of Nocturne fades — deep indigo dissolving into the quantum static of the in-between. Somewhere ahead, another frequency waits: Cogsworth Cogitarium, where — if A1's inexplicable knowledge is correct — everything runs on gears and precision and the rupture will have hit like a wrench thrown into the world's most delicate clock.
+The escape pod groaned into the Space between. Through the porthole, the twilight of Nocturne faded — deep indigo dissolving into the quantum static of the in-between.
 
-But that's next episode's problem.
+Somewhere ahead, another frequency waited: Cogsworth Cogitarium, where — if A1's inexplicable knowledge was correct — everything ran on gears and precision and the rupture would have hit like a wrench thrown into the world's most delicate clock.
+
+But that was next episode's problem.
+
 ---
 
 ## LOCKED RULES CHECK

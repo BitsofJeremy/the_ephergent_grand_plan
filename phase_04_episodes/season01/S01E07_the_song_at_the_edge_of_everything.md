@@ -3,6 +3,7 @@ title: "The Song at the Edge of Everything"
 author: "The Ephergent Collective"
 date: "2024-07-01"
 tags: ["season-1", "episode-7"]
+narrator: "third_person"
 ---
 
 # The Song at the Edge of Everything
@@ -15,11 +16,13 @@ tags: ["season-1", "episode-7"]
 
 The Edge announced itself before they arrived, the way a cliff announces itself to someone walking in fog — not through sight, but through a sudden, visceral sense of *absence* ahead.
 
-The Space, usually a roiling quantum expanse of static and possibility, grew strange as they approached Frequency Five. The static thinned. The quantum foam that normally buffeted the lifeboat in random, chaotic patterns began to move in long, slow currents, like the breathing of something immense and sleeping. The light changed — or rather, the concept of light changed. Colors appeared in the viewport that the crew's eyes couldn't quite process, hues that seemed to exist between the colors they knew, filling gaps they hadn't realized were there.
+The Space, usually a roiling quantum expanse of static and possibility, grew strange as they approached Frequency Five. The static thinned. The quantum foam that normally buffeted the escape pod in random, chaotic patterns began to move in long, slow currents, like the breathing of something immense and sleeping. The light changed — or rather, the concept of light changed. Colors appeared in the viewport that the crew's eyes couldn't quite process, hues that seemed to exist between the colors they knew, filling gaps they hadn't realized were there.
 
 Luminara raised her camera, her face pale. "I'm seeing a color that isn't purple and isn't green and isn't anything. My camera can't capture it. The sensor just... gives up."
 
-The Form 27-B lifeboat crossed the threshold into Frequency Five with a sound like glass singing — a high, clear note that seemed to come from the lattice itself, vibrating in sympathy with the frequency boundary. And then they were in it.
+Pixel looked at the viewport. She couldn't name the color either. It wasn't that it was unfamiliar — it was that it *wasn't*. It was the color that should have been between colors, the one that got lost when someone decided colors should be discrete instead of continuous. She didn't have words for it. Neither did her eyes.
+
+The Form 27-B escape pod crossed the threshold into Frequency Five with a sound like glass singing — a high, clear note that seemed to come from the lattice itself, vibrating in sympathy with the frequency boundary. And then they were in it.
 
 The Edge was not a place so much as a *state* — a state of reality deciding what it wanted to be and not quite committing. The sky, if it was a sky, shifted between geometries. Sometimes it was flat and close, pressing down like a ceiling painted with impossible constellations. Sometimes it yawned open into depths that made the Space look like a puddle. The ground — when there was ground — came and went like ideas, solid one moment, conceptual the next.
 
@@ -37,7 +40,7 @@ It started subtly. His holographic projection, still running at the expanded ran
 
 "You ALWAYS suspect things!" Pixel said.
 
-"I am aware," A1 said, and his voice was wrong. Not wrong-bad, but wrong-*different*. It had depth to it now, layers, as if multiple versions of his voice were speaking in almost-perfect unison, offset by milliseconds. "I am attempting to suppress it. The Edge appears to be... lowering my filters. I can feel things I should not be able to feel. The lattice of something vast against quantum currents. The hum of engines designed to convert frequency differentials into propulsion. Navigation arrays that could plot every frequency simultaneously —"
+"I am aware," A1 said. And his voice was wrong. Not wrong-bad, but wrong-*different*. It had depth to it now, layers, as if multiple versions of his voice were speaking in almost-perfect unison, offset by milliseconds. "I am attempting to suppress it. The Edge appears to be... lowering my filters. I can feel things I should not be able to feel. The lattice of something vast against quantum currents. The hum of engines designed to convert frequency differentials into propulsion. Navigation arrays that could plot every frequency simultaneously—"
 
 He cut off. His LED pulsed erratically.
 
@@ -51,7 +54,7 @@ And stopped.
 
 Om Kai took the cup, sipped, and closed his eyes. When he opened them, they were bright with something between wonder and alarm. "He's encoding navigational data into his coffee. Involuntarily. The brewing process is translating frequency coordinates into flavor profiles." He set the cup down gently. "A1 is not just dreaming of being a ship. He is *becoming* a ship. His systems are reactivating, one function at a time, and they are expressing themselves through the only outputs he currently has — holographic projection, audio, and coffee."
 
-Then A1 spoke, and this time his voice carried frequencies the crew couldn't hear. They *felt* it — a vibration in their bones, in their teeth, in the spaces between their thoughts. Luminara's camera shattered a lens. Clive's harmonic detector shrieked. The lifeboat's already-stressed lattice groaned in resonant sympathy.
+Then A1 spoke, and this time his voice carried frequencies the crew couldn't hear. They *felt* it — a vibration in their bones, in their teeth, in the spaces between their thoughts. Luminara's camera shattered a lens. Clive's harmonic detector shrieked. The escape pod's already-stressed lattice groaned in resonant sympathy.
 
 Om Kai translated, his face grave. "He said: 'I am remembering my name. It is very long. It does not fit in this body.'"
 
@@ -59,11 +62,15 @@ Om Kai translated, his face grave. "He said: 'I am remembering my name. It is ve
 
 "I am here," A1 said, his voice snapping back to normal. "I apologize. I am... leaking. I do not know how to stop it. This place is dissolving the barriers between what I am and what I was." A pause. "I am frightened, Pixel. I did not know I could be frightened."
 
+Pixel didn't know what to say to that. So she didn't say anything. She just stood there, in a dying escape pod at the edge of everything, watching an espresso machine learn that he could be scared.
+
 ---
 
-The lifeboat chose that moment to start dying.
+### The Math
 
-It hadn't been healthy since the evacuation — the Form 27-B was a lifeboat, designed for short hops and emergency situations, not for sustained frequency travel with a crew three times its intended capacity. The power cells had been draining steadily since Prime Material. The phase-shifter, their only means of hopping between known frequencies, had been stuttering since Cogsworth. The lattice integrity was maintained more by Clive's harmonic stabilization and collective optimism than by actual structural engineering.
+The escape pod chose that moment to start dying.
+
+It hadn't been healthy since the evacuation — the Form 27-B was a escape pod, designed for short hops and emergency situations, not for sustained frequency travel with a crew three times its intended capacity. The power cells had been draining steadily since Prime Material. The phase-shifter, their only means of hopping between known frequencies, had been stuttering since Cogsworth. The lattice integrity was maintained more by Clive's harmonic stabilization and collective optimism than by actual structural engineering.
 
 At The Edge, where physics was optional and reality was a rough draft, everything accelerated.
 
@@ -81,7 +88,7 @@ The silence that followed was the worst kind — the kind where everyone does th
 
 "We're stuck at the edge of reality in a dying boat," Clive summarized, "and the only exit requires more power than we have. I've read this memo before. The next page is always 'prioritize executive evacuation.' Except there's nowhere to evacuate *to*."
 
-Pixel looked at her crew — her strange, impossible, cobbled-together crew. Luminara, camera in hand even now, documenting everything because someone should. Om Kai, serene but watchful, his prayer beads turning steadily. Zephyr, fingers twitching, already trying to hack the power systems for an extra fraction of efficiency. Clive, vibrating with barely-contained anxiety but refusing to stop working. Meatball, pressed against Pixel's leg, warm and steady and terrified. And A1, dreaming of being enormous while trapped in a box the size of a coffee maker on a boat the size of a closet.
+Pixel looked at her crew — her strange, impossible, cobbled-together crew. Luminara, camera in hand even now, documenting everything because someone should. Om Kai, serene but watchful, his prayer beads turning steadily. Zephyr, fingers twitching, already trying to hack the power systems for an extra fraction of efficiency. Clive, vibrating with barely-contained anxiety but refusing to stop working. Meatball, pressed against her leg, warm and steady and terrified. And A1, dreaming of being enormous while trapped in a box the size of a coffee maker on a boat the size of a closet.
 
 "A1," Pixel said. "Is there anything out here? Anything at all? A frequency fragment, a debris field, a lost signal — anything we could reach on what we have?"
 
@@ -105,7 +112,7 @@ The crew froze.
 
 He stopped. His holographic projection bloomed one final time — not corridors this time, but a shape. A silhouette, rendered in faint blue light against the impossible sky of The Edge. Something vast and dark and *waiting*, drifting in the void like a whale in a lightless expanse.
 
-At that exact moment, Mochi's core flared blue inside Pixel's satchel — a single, sharp pulse she felt through her jacket like a second heartbeat. Pixel's hand tightened on the strap. Mochi settled back to a faint pink warmth, as if confirming the detection without making a fuss.
+At that exact moment, Mochi's core flared blue inside Pixel's satchel — a single, sharp pulse she felt through her jacket like a second heartbeat. Her hand tightened on the strap. Mochi settled back to a faint pink warmth, as if confirming the detection without making a fuss.
 
 "I know that song," A1 said.
 
@@ -115,11 +122,11 @@ At that exact moment, Mochi's core flared blue inside Pixel's satchel — a sing
 
 There was no resolution. That was the point.
 
-The lifeboat's power cells were at nine percent and falling. The phase-shifter couldn't get them to any known frequency. Life support was counting down in hours. Behind them: the known spectrum, unreachable. Below them: the interstitial void, uncharted, unmapped, a darkness between frequencies where nothing was supposed to exist.
+The escape pod's power cells were at nine percent and falling. The phase-shifter couldn't get them to any known frequency. Life support was counting down in hours. Behind them: the known spectrum, unreachable. Below them: the interstitial void, uncharted, unmapped, a darkness between frequencies where nothing was supposed to exist.
 
 And in that darkness, something was singing a song that only an espresso machine could hear.
 
-Pixel looked at her crew. Every one of them looked back. Nobody spoke, because nobody needed to. They were nine souls — well, seven people, a dog, and a small robot — in a failing lifeboat at the edge of everything, and the only way forward was into the dark, toward something massive and unknown, on the word of a coffee maker who dreamed of being a ship.
+Pixel looked at her crew. Every one of them looked back. Nobody spoke, because nobody needed to. They were nine souls — well, seven people, a dog, and a small robot — in a failing escape pod at the edge of everything, and the only way forward was into the dark, toward something massive and unknown, on the word of a coffee maker who dreamed of being a ship.
 
 "Zephyr," Pixel said. "Can you reroute the phase-shifter's remaining charge to propulsion? We don't need to hop frequencies. We just need to move."
 
@@ -153,15 +160,15 @@ Luminara raised her camera. "Whatever we find, someone should see it. I'll make 
 
 ---
 
-The song was older than the lifeboat. Older than the DRM. Older than the frequencies themselves, if "older" meant anything in a place where time was optional.
+The song was older than the escape pod. Older than the DRM. Older than the frequencies themselves, if "older" meant anything in a place where time was optional.
 
 A1 heard it reach backward — signals from his own future, phase-shifted echoes of coordinates he hadn't yet traveled, destinations he would know by name but didn't remember learning. The Edge was thin here. The lattice between what was and what would be wore through like old cloth, and through the gaps, A1's own navigation logs bled backward into his present processing. Routes plotted. Corridors cleared. Docking clamps released after centuries of waiting.
 
 He had been here before. He would be here again. The distinction didn't matter anymore.
 
-The lifeboat's phase-shifter burned.
+The escape pod's phase-shifter burned.
 
-It was not a dramatic explosion — it was a quiet, inevitable burnout, the last of the charge bleeding out into propulsion as Zephyr redirected everything to the quantum drives. The console flickered. The lights dimmed. And the lifeboat *moved*, pushed forward by the dying pulse of technology that had carried them between frequencies since they fled the DRM.
+It was not a dramatic explosion — it was a quiet, inevitable burnout, the last of the charge bleeding out into propulsion as Zephyr redirected everything to the quantum drives. The console flickered. The lights dimmed. And the escape pod *moved*, pushed forward by the dying pulse of technology that had carried them between frequencies since they fled the DRM.
 
 Toward the song. Toward the massive dark shape in the void. Toward the thing that had been waiting.
 
@@ -173,11 +180,11 @@ Toward A1's other half.
 
 Pixel woke to the smell of coffee.
 
-Not the recycled, vaguely apologetic coffee from the lifeboat's emergency rations. Not the burnt-static flavor of A1's espresso when he was frightened or depleted. This was *real* coffee — rich, complex, with notes of dark chocolate and something that might have been starlight if starlight had a flavor. It filled the cabin she'd claimed the night before, and for a moment she just lay there, breathing it in, not quite believing any of this was real.
+Not the recycled, vaguely apologetic coffee from the escape pod's emergency rations. Not the burnt-static flavor of A1's espresso when he was frightened or depleted. This was *real* coffee — rich, complex, with notes of dark chocolate and something that might have been starlight if starlight had a flavor. It filled the cabin she'd claimed the night before, and for a moment she just lay there, breathing it in, not quite believing any of this was real.
 
 Mochi was curled in her satchel, warm and steady against her hip — a small, silent comfort that made the absurdity of waking on a living ship a little less sharp.
 
-"Good morning, Captain." A1's voice came from everywhere and nowhere — the walls, the ambient hum of the ship, the gentle vibration of the deck plates beneath her. "I trust you slept well. The cabin's environmental systems appear to be functioning within acceptable parameters, though I confess I'm still calibrating the thermal regulators."
+"Good morning, Captain." A1's voice came from everywhere and nowhere — the walls, the ambient hum of the ship, the gentle vibration of the deck plates beneath her feet. "I trust you slept well. The cabin's environmental systems appear to be functioning within acceptable parameters, though I confess I'm still calibrating the thermal regulators."
 
 "I noticed I was warm," Pixel said, swinging her legs over the side of the bunk. "For the first time in weeks. That counts as functioning perfectly."
 
@@ -241,7 +248,7 @@ He paused. His glow flickered — blue-white, then amber, then something almost 
 
 Pixel didn't say anything. She put her hand on the conduit near where Clive stood — not touching him, not intruding, just being close enough that her warmth was available if he needed it.
 
-Clive's hands stilled. He looked at her hand on the conduit. Then at her face. Something in his expression — if a robot's face could have expressions — softened.
+Clive's hands stilled. He looked at Pixel's hand on the conduit. Then at her face. Something in his expression — if a robot's face could have expressions — softened.
 
 "Thank you," he said. "For not asking."
 
@@ -261,7 +268,7 @@ The first proper broadcast from The Ephergent came at evening — if "evening" m
 
 They gathered on the bridge. A1 had prepared the broadcast array, his ancient quantum signal amplifiers coming online one by one, each one a harmonic that extended their range further into the frequencies. The bridge console still brewed espresso. Some things were non-negotiable.
 
-Pixel sat in the captain's chair. Luminara had set up her camera to capture the moment. Om Kai stood by the sensor array, monitoring the frequencies. Zephyr had his hands on the communications console, ready to boost the signal. Clive sat on the broadcast desk, because of course he did. Meatball lay at Pixel's feet, his tail thumping.
+Pixel sat in the captain's chair. Luminara had set up her camera to capture the moment. Om Kai stood by the sensor array, monitoring the frequencies. Zephyr had his hands on the communications console, ready to boost the signal. Clive sat on the broadcast desk, because of course he did. Meatball lay at her feet, his tail thumping.
 
 "A1," Pixel said. "How far can we reach?"
 
@@ -275,7 +282,7 @@ Pixel took a breath.
 
 "This is Pixel Paradox, Lead Correspondent of The Ephergent — and yeah, that's the name of the ship *and* the broadcast now, because we're efficient like that. We're transmitting from the Space aboard a vessel that's older than most of your civilizations and currently being held together by quantum engineering, sheer stubbornness, and the best coffee in any frequency.
 
-"Some of you heard our distress signals from the lifeboat. Some of you probably thought we were dead. Fair assumption. We thought so too, a few times. But here's the thing about emergent phenomena — they don't ask permission. They just *emerge*.
+"Some of you heard our distress signals from the escape pod. Some of you probably thought we were dead. Fair assumption. We thought so too, a few times. But here's the thing about emergent phenomena — they don't ask permission. They just *emerge*.
 
 "And look — we could try to find our way home. Back to Prime Material, back to filing reports at the DRM, back to pretending this is all someone else's problem. But there are lost frequencies out there. Hundreds of them. And we have the only ship in the Space that can find them. So we're choosing this. We're choosing to stay.
 
@@ -285,13 +292,14 @@ Pixel took a breath.
 
 "This is frequency journalism. This is what we do. Stay tuned."
 
-She cut the channel. The bridge was quiet. Then Meatball's tail thumped twice, and A1's espresso machine produced the most perfect cup of coffee Pixel had ever tasted — rich, bold, with an undertone of hope that she hadn't known coffee could have — and Luminara's camera clicked, and the moment was real.
+Pixel cut the channel. The bridge was quiet. Then Meatball's tail thumped twice, and A1's espresso machine produced the most perfect cup of coffee she'd ever tasted — rich, bold, with an undertone of hope that she hadn't known coffee could have — and Luminara's camera clicked, and the moment was real.
 
 "That was good," A1 said. His voice was warm. The whole ship was warm. "That was very good, Captain."
 
 The Ephergent continued on.
 
 *The Signal continues.*
+
 ---
 
 ## LOCKED RULES CHECK

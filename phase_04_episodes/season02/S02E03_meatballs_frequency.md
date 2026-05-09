@@ -3,6 +3,7 @@ title: "S02E03 — Meatball's Frequency"
 author: "The Ephergent Collective"
 date: "2025-03-01"
 tags: ["season-2", "episode-3"]
+narrator: "third_person"
 ---
 
 # S02E03 — Meatball's Frequency
@@ -20,11 +21,11 @@ tags: ["season-2", "episode-3"]
 
 ## I. The Signal
 
-I need you to understand something about dead zones. They shouldn't transmit. They're dead — places where signals go to stop, where frequencies dissolve into static and then dissolve further into nothing. That's the definition. That's what dead means.
+Pixel needed the listener to understand something about dead zones. They shouldn't transmit. They're dead — places where signals go to stop, where frequencies dissolve into static and then dissolve further into nothing. That's the definition. That's what dead means.
 
 Except Meatball was receiving a signal from one.
 
-Let me back up. The Ephergent had been running a routine signal sweep — the kind we do three times a day because the Space is always changing, always finding new ways to surprise us. Clive was at the navigation console, his fedora tilted at that particular angle that meant he was paying attention to something the rest of us had missed. Zephyr was at the analyzer, headphones on, then off, then on again. His face was pale.
+Let me back up. The Ephergent had been running a routine signal sweep — the kind they did three times a day because the Space was always changing, always finding new ways to surprise them. Clive was at the navigation console, his fedora tilted at that particular angle that meant he was paying attention to something the rest of them had missed. Zephyr was at the analyzer, headphones on, then off, then on again. His face was pale.
 
 "I'm getting something," Zephyr said. "Faint. Fragmented. It's — it's in the dead zone, Pixel. By all rights, I shouldn't be reading anything at all. But there's a carrier wave. And underneath it—"
 
@@ -38,9 +39,9 @@ A1 made a sound — a single pull of espresso that came out perfectly clear. Not
 
 "What word?"
 
-Meatball's ears both pointed toward the dead zone at the same time. I'd never seen him do that before — usually one ear led, the other followed, some instinct about direction and source. But both ears, pointing at the same thing, at the same moment.
+Meatball's ears both pointed toward the dead zone at the same time. Pixel had never seen him do that before — usually one ear led, the other followed, some instinct about direction and source. But both ears, pointing at the same thing, at the same moment.
 
-Then Meatball spoke — not in words, in harmonized frequencies that somehow translated in my mind like words.
+Then Meatball spoke — not in words, in harmonized frequencies that somehow translated in Pixel's mind like words.
 
 "Listen."
 
@@ -90,15 +91,15 @@ This signal was different.
 
 "Belief that someone, somewhere, would eventually hear. That the universe would produce a listener. That attention itself is worth preserving."
 
-I stared at the viewport. The dead zone shimmered at its edge — not light, not static, just the suggestion of something that had been waiting.
+Pixel stared at the viewport. The dead zone shimmered at its edge — not light, not static, just the suggestion of something that had been waiting.
 
 "We're crossing the boundary in thirty seconds," Klaus said from the helm. His hands were steady. His face was the face of someone who had crossed dead zones before and had learned not to flinch.
 
-"Everyone hold on to something," I said. "And maybe — maybe listen. Really listen. Whatever this is, it's been waiting for us specifically."
+"Everyone hold on to something," Pixel said. "And maybe — maybe listen. Really listen. Whatever this is, it's been waiting for us specifically."
 
-Meatball padded to the viewport. His ears both pointed forward now — toward the signal, toward the buoy, toward whatever had been broadcasting listen into the void for longer than any of us could calculate.
+Meatball padded to the viewport. His ears both pointed forward now — toward the signal, toward the buoy, toward whatever had been broadcasting listen into the void for longer than any of them could calculate.
 
-Mochi pulsed in my pocket — warm, warmer than he'd been in months. Not warning. Recognizing.
+Mochi pulsed in Pixel's pocket — warm, warmer than he'd been in months. Not warning. Recognizing.
 
 ---
 
@@ -134,13 +135,13 @@ Klaus leaned forward. "A signal that saves things by making people care about th
 
 ## V. The Reciprocity
 
-I stood outside the ship with Meatball, in suits, approaching the buoy. The darkness was total. The only light came from the buoy itself — a soft, rhythmic pulse. Listen.
+Pixel stood outside the ship with Meatball, in suits, approaching the buoy. The darkness was total. The only light came from the buoy itself — a soft, rhythmic pulse. Listen.
 
-Meatball pressed against my leg. His ears both pointed at the buoy.
+Meatball pressed against Pixel's leg. His ears both pointed at the buoy.
 
-"Meatball," I said quietly. "What is this thing?"
+"Meatball," Pixel said quietly. "What is this thing?"
 
-His harmonized frequency shifted — not words, but meaning. I was getting better at this. I was learning to hear the shape of what he meant instead of demanding he put it into language.
+His harmonized frequency shifted — not words, but meaning. Pixel was getting better at this. She was learning to hear the shape of what he meant instead of demanding he put it into language.
 
 "The buoy is a beacon," he said, or meant, or broadcast. "It's been broadcasting for — I can't tell you how long. It's outside time. It doesn't experience duration the way we do. It was built to survive the end of everything. To preserve one signal — one frequency — one act of attention — forever."
 
@@ -154,15 +155,15 @@ Meatball's frequency shaped itself into something almost like wonder.
 
 "Because they listened. And they wanted to be listened to in return."
 
-Mochi pulsed inside my suit — so bright it showed through the helmet. The crew watched from the ship. The buoy's pulse synchronized with Mochi's glow.
+Mochi pulsed inside Pixel's suit — so bright it showed through the helmet. The crew watched from the ship. The buoy's pulse synchronized with Mochi's glow.
 
 ---
 
 ## VI. The Listening Network
 
-The crew was quiet when we got back inside. The buoy was behind us, still pulsing, but fainter now — satisfied.
+The crew was quiet when they got back inside. The buoy was behind them, still pulsing, but fainter now — satisfied.
 
-"So we were saved," I said. "By people who listened to us. And then built a dead zone to preserve the sound of what we said."
+"So we were saved," Pixel said. "By people who listened to us. And then built a dead zone to preserve the sound of what we said."
 
 "The mathematics of reciprocity," A1 said. He was making espresso — dark, rich, the color of gratitude, the texture of permanence. "They heard you. They kept you. Now you hear them. Now you keep them."
 
@@ -184,9 +185,9 @@ Meatball sighed contentedly. His ears twitched once — not toward the buoy this
 
 "For us to listen. For us to add our frequency to theirs. For us to become part of the signal that saves everything."
 
-I looked at the crew. The crew looked at each other. We had been broadcasting since Season One. We had been insisting that every frequency deserves to be heard. We had been fighting entropy with nothing but signal and stubbornness.
+Pixel looked at the crew. The crew looked at each other. They had been broadcasting since Season One. They had been insisting that every frequency deserves to be heard. They had been fighting entropy with nothing but signal and stubbornness.
 
-And now we knew: the signal was bigger than us. The signal was older than us. The signal had been waiting for us to arrive so we could join the network.
+And now they knew: the signal was bigger than them. The signal was older than them. The signal had been waiting for them to arrive so they could join the network.
 
 The dead zone began to brighten — slowly, impossibly — with the light of a thousand stars being remembered.
 
@@ -196,13 +197,13 @@ The dead zone began to brighten — slowly, impossibly — with the light of a t
 
 The Ephergent moved through the Space. Meatball sat at the forward viewport, ears both pointing forward, toward the next signal, the next frequency, the next thing that needed to be heard.
 
-The buoy was behind us. Listen was behind us. But there were more buoys — a network of preservation, a web of listening that had been waiting for someone to join it.
+The buoy was behind them. Listen was behind them. But there were more buoys — a network of preservation, a web of listening that had been waiting for someone to join it.
 
-We were going to be those someones.
+They were going to be those someones.
 
 Clive was at the navigation console, his fedora level, his sphere steady blue-white. He had found something in the buoy's data — a map, partial but growing, of every other preservation buoy across the deep Space. He was already plotting vectors.
 
-"How many did you find?" I asked.
+"How many did you find?" Pixel asked.
 
 "Enough," Clive said. "Enough to keep us busy for a very long time."
 

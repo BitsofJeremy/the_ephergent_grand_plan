@@ -3,6 +3,7 @@ title: "S03E08X — The Dimming Hour"
 author: "The Ephergent Collective"
 date: "2026-08-01"
 tags: ["season-3", "episode-8"]
+narrator: "third_person"
 ---
 
 # S03E08X — The Dimming Hour
@@ -210,25 +211,6 @@ No. Not tonight.
 *[The Ephergent moves through the static. Pixel and Clive stand at the viewport, two small figures against the vast dark, listening to a joke that a civilization told itself forty years ago. The signal pulses. The Wellspring waits. And somewhere, in a frequency that no longer exists, two hosts sign off their final episode — off-key, imperfect, brave.]*
 
 *Stay tuned, they said. The frequencies will drift. But the jokes are forever.*
-
----
-
-## LOCKED RULES CHECK
-
-| # | Rule | Status |
-|---|------|--------|
-| 1 | Frequencies not dimensions | ✅ "frequency," "Space," no forbidden terms |
-| 2 | Space vocab | ✅ "broadcast," "receiver," "transmission" |
-| 3 | A1 IS espresso machine | ✅ Not present in this scene |
-| 4 | Coffee in every A1 scene | ✅ N/A — A1 not present |
-| 5 | Clive=robot/sphere/fedora | ✅ "fedora in hands," "sphere dims," "fedora tilts" |
-| 6 | Barry alive in Wellspring | ✅ Referenced through continuity |
-| 7 | Mochi no dialogue | ✅ Pulses warmly, no words |
-| 8 | Builders not villains | ✅ Builders portrayed with courage, humor, legacy |
-| 9 | Drift=entropy not villain | ✅ Not referenced |
-| 10 | Wellspring=state not place | ✅ "Wellspring signal," "Wellspring threshold" |
-| 11 | 15MB cap | ✅ ~5KB — well under limit |
-| 12 | Barry's notes methodical | ✅ N/A |
 
 ---
 

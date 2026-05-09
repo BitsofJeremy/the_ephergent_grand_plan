@@ -3,6 +3,7 @@ title: "S02E02 — The Color of Forgetting"
 author: "The Ephergent Collective"
 date: "2025-02-01"
 tags: ["season-2", "episode-2"]
+narrator: "third_person"
 ---
 
 # S02E02 — The Color of Forgetting
@@ -52,7 +53,7 @@ What's going first?
 **ZEPHYR**
 Memory structures. Cultural records. The things that tell them who they are.
 
-**PIXEL (V.O.)**
+**PIXEL**
 Alright. This is what we do. This is exactly what we do. Everyone suit up.
 
 ---
@@ -300,35 +301,6 @@ Good.
 
 *[Meatball sighs in his sleep. The signal continues.]*
 
----
-
-## Coffee Chart
-
-| Scene | A1's Espresso | Emotional State |
-|-------|---------------|-----------------|
-| Ship cockpit — first scan | Thin and pale | Worried, trying to be helpful |
-| Signal boost during broadcast | Thin, focused, precise bitter | Anxious but determined |
-| Color returning | Perfect, rich, dark | Contentment — the work held |
-| Common area — end | Balanced, slightly thin | Acceptance, exhaustion, resolve |
-
-## Expanded Scene Beats
-
-- **Veranth citizen: Old woman with preserves jar** — Photograph establishes observation-as-preservation mechanic; the red jar holds because Luminara sees it
-- **Clive's sensory echo** — Temple archives; Clive hears the sound of a frequency deciding to let go; "it sounds like what I feel when I dream"
-- **Young scholar at Om Kai's meditation** — Cultural context; the northern archives team forgot their mission mid-walk
-- **Zephyr decoding harmonics** — Canticle reference seeded; Zephyr recognizes layering technique from childhood games with Aether
-- **Pixel's six-hour broadcast** — Extended documentation; broadcast carries the Ephergent Frequency undertone without Pixel knowing
-- **Color return sequence** — Expanded; saturation percentage, A1's contented coffee, crew chorus of "we come back"
-- **Clive's Barry memory** — "You don't fix it, you just keep it from getting worse" — first direct Clive-Barry connection in Season 2
-- **Mochi dim** — Confirmed at end; "first time" noted by Zephyr; Pixel files it away
-
-## Foreshadowing & References
-
-- **Veranth as precedent** — S02E04 Chromatica mirrors this: Mochi dims in parallel; pattern of frequency health monitoring
-- **Clive's dream-like recognition** — Memory fragments building; Barry's influence on Clive's operational philosophy established
-- **Ephergent Frequency undertone** — Broadcast carries signal beneath signal; A1's awareness of this grows
-- **"We come back"** — Crew commitment ritual established here; will echo at every fading world
-- **Zephyr's Canticle seed** — Harmonic decoding reminds him of Aether's encoding games; ongoing Aether subplot
 ---
 
 ## LOCKED RULES CHECK

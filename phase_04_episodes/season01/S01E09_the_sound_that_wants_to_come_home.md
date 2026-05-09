@@ -3,8 +3,8 @@ title: "The Sound That Wants to Come Home"
 author: "The Ephergent Collective"
 date: "2024-09-01"
 tags: ["season-1", "episode-9"]
+narrator: "third_person"
 ---
-
 
 # The Sound That Wants to Come Home
 
@@ -18,7 +18,9 @@ First came the sound — or rather, the *almost*-sound, a subsonic pressure that
 
 "Captain." A1's voice was calm, but his lights had shifted — from the warm amber of contentment to a sharper, more alert blue-white. "I'm detecting a significant harmonic disturbance at bearing two-one-five. Multiple frequency interference patterns, escalating rapidly. Classification: frequency storm."
 
-Pixel set down her coffee. "How bad?"
+Pixel set down her coffee. Her second cup. The first had been sacrificed to a moment of distraction when A1's systems hiccupped during a calibration cycle. The new cup was still warm in her hands. She found herself grateful for that — for the small things, now. For coffee that was still coffee.
+
+"How bad?"
 
 "Uncertain. My sensors are still calibrating. But based on the interference patterns..." A pause. The bridge lights flickered — not fear this time, but something older. Memory. "I've traversed these before. A very long time ago."
 
@@ -32,17 +34,19 @@ A1's response was immediate. "We could. It would add approximately forty-seven h
 
 "My lattice was built for this, Captain. This vessel was designed to navigate the spaces between frequencies — including the turbulent ones. I believe..." The lights shifted again, warmer. "I believe I remember how."
 
-Pixel looked at her crew. Om Kai, calm and centered, already listening to the frequency storm's approach with the focused attention of a physicist hearing a new theorem. Luminara, camera in hand, her eyes bright with the specific hunger of a photographer who has just spotted impossible light. Zephyr, hands on the nav console, his fragmented consciousness already interfacing with A1's navigation systems, ready to boost whatever needed boosting. Clive on the archive desk, his knee-high robot form angled toward the viewport, noir-detective calm. Mochi pressed briefly against Pixel's ankle, tail thumping once, a warm, silent presence. And Meatball, sitting up in the bridge doorway (he'd come up from the engine room the moment the jellyfish scattered), his massive head tilted, ears forward, listening to something none of them could hear.
+Pixel looked at her crew. Om Kai, calm and centered, already listening to the frequency storm's approach with the focused attention of a physicist hearing a new theorem. Luminara, camera in hand, her eyes bright with the specific hunger of a photographer who had just spotted impossible light. Zephyr, hands on the nav console, his fragmented consciousness already interfacing with A1's navigation systems, ready to boost whatever needed boosting. Clive on the archive desk, his knee-high robot form angled toward the viewport, noir-detective calm. Mochi pressed briefly against her ankle, tail thumping once, a warm, silent presence. And Meatball, sitting up in the bridge doorway — he'd come up from the engine room the moment the jellyfish scattered — his massive head tilted, ears forward, listening to something none of them could hear.
 
 "The frequency storm smells purple," Meatball said. "And also like the number seven."
 
-"That settles it," Pixel said. "Take us through."
+Pixel couldn't argue with that logic. "That settles it. Take us through."
 
-### Escalation
+---
+
+### The Storm
 
 The frequency storm hit The Ephergent like a wall of broken music.
 
-One moment, the Space was its usual shimmering expanse of indigo and pearl. The next, the viewport erupted in light — not one color but *all* colors, layered and conflicting, aurora ribbons tangling with each other like fighting snakes, frequencies that had no business being in the same octave suddenly occupying the same space. The ship lurched. Not gently. Pixel was thrown sideways in the captain's chair, her harness catching her, coffee — her second cup, the first having been sacrificed to the ceiling — sloshing against the mug's quantum-stabilized rim.
+One moment, the Space was its usual shimmering expanse of indigo and pearl. The next, the viewport erupted in light — not one color but *all* colors, layered and conflicting, aurora ribbons tangling with each other like fighting snakes, frequencies that had no business being in the same octave suddenly occupying the same space. The ship lurched. Not gently. Pixel was thrown sideways in the captain's chair, her harness catching her, coffee sloshing against the mug's quantum-stabilized rim.
 
 Reality became a blender.
 
@@ -68,7 +72,9 @@ Zephyr laughed — an actual laugh, bright and startled and delighted. "A1, your
 
 Luminara braced herself against the observation console and photographed everything. The frequency storm through the viewport, the crew at their stations, A1's lights blazing through the bridge like a heartbeat made visible. She would develop these photographs later and find that the frequency storm had left its fingerprints on the images — streaks of impossible color, ghostly afterimages of frequencies bleeding through, and in one photograph, barely visible beneath the chaos, the outline of something she couldn't identify. A shape in the static. A structure. A *place*.
 
-### Climax
+---
+
+### The Signal
 
 Om Kai felt it first.
 
@@ -100,7 +106,7 @@ A1 assessed. The frequency storm was still raging, still beautiful, still terrif
 
 "So we mark it," Pixel said.
 
-"We mark it," A1 confirmed. "Coordinates logged. Frequency signature recorded. When we're ready — when we've learned more, when our instruments are fully calibrated, when we understand how to navigate the deep frequency storm —"
+"We mark it," A1 confirmed. "Coordinates logged. Frequency signature recorded. When we're ready — when we've learned more, when our instruments are fully calibrated, when we understand how to navigate the deep frequency storm—"
 
 "We come back."
 
@@ -114,7 +120,9 @@ Meatball was standing at the viewport. He hadn't moved since the signal appeared
 
 The bridge went quiet. The frequency storm raged. The signal flickered. And every person on that bridge understood, in that moment, exactly what they were meant to do.
 
-### Resolution
+---
+
+### The Aftermath
 
 The frequency storm passed.
 
@@ -148,9 +156,10 @@ Pixel sat in the captain's chair and drafted a broadcast. Not the triumphant dec
 
 "Stay tuned. There's so much more out there than any of us imagined."
 
-She cut the channel. A1's coffee tasted like ozone and resolve and the first notes of a song that hadn't been sung in millennia.
+Pixel cut the channel. A1's coffee tasted like ozone and resolve and the first notes of a song that hadn't been sung in millennia.
 
 The Ephergent flew on.
+
 ---
 
 ## LOCKED RULES CHECK

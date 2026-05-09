@@ -3,6 +3,7 @@ title: "First Station"
 author: "The Ephergent Collective"
 date: "2025-01-01"
 tags: ["season-2", "episode-1"]
+narrator: "third_person"
 ---
 
 
@@ -12,9 +13,9 @@ tags: ["season-2", "episode-1"]
 
 Okay, so — here's the thing about finding something that's been waiting for you for eight hundred years: you don't know that's what's happening. You think you're just following a signal anomaly A1 flagged during third watch. You think Clive's quiet suggestion about the approach vector is just Clive being Clive. You think the shimmer at the edge of the viewscreen is Space playing tricks on tired eyes. And then the shimmer resolves into geometry — perfect, enormous, impossible geometry — and you realize you have been walking toward something that already knew your name.
 
-We found Builder Station 3-Resonant on the forty-third day of Season Two. I'm numbering it that way because I've given up on standard calendars. Time is a suggestion out here, and not a very convincing one. The Station was floating in open Space between Frequencies 1 and 3 — that corridor where Prime Material's solidity and Cogsworth's clockwork precision create this faint geometric shimmer in the void, like the universe can't decide which physics to run. A1 had been tracking a faint structured signal for six days. Clive had been subtly steering us toward it for longer than that, though I didn't know it at the time. I thought we stumbled on it. We didn't stumble on anything. But that's a conversation for later. Much later.
+They found Builder Station 3-Resonant on the forty-third day of Season Two. Pixel was numbering it that way because she'd given up on standard calendars. Time was a suggestion out here, and not a very convincing one. The Station was floating in open Space between Frequencies 1 and 3 — that corridor where Prime Material's solidity and Cogsworth's clockwork precision created this faint geometric shimmer in the void, like the universe couldn't decide which physics to run. A1 had been tracking a faint structured signal for six days. Clive had been subtly steering them toward it for longer than that, though Pixel didn't know it at the time. She thought they'd stumbled on it. They hadn't stumbled on anything. But that's a conversation for later. Much later.
 
-The Station was the most beautiful thing I have ever seen. I need you to understand that I don't say that lightly. I've watched frequency jellyfish pulse in the deep. I've seen echo whales singing through the static. I've stood at the edge of The Edge and looked at the place where reality gives up pretending to be solid. None of it prepared me for this.
+The Station was the most beautiful thing Pixel had ever seen. She needed the listener to understand that she didn't say that lightly. She'd watched frequency jellyfish pulse in the deep. She'd seen echo whales singing through the static. She'd stood at the edge of The Edge and looked at the place where reality gives up pretending to be solid. None of it prepared her for this.
 
 A1's coffee that morning was floral.
 
@@ -138,7 +139,7 @@ A silence that lasted three heartbeats.
 
 Pixel stood in the center of the resonance chamber and felt the Ephergent Frequency wash through her, and for the first time since they'd heard it in scattered fragments throughout Season One, she could point to where it came from. Not the void. Not the static between frequencies. This. This enormous, beautiful, barely breathing instrument, still humming after eight hundred years of solitude.
 
-Meatball walked to the exact center of the chamber and lay down. His tail was still. His eyes were closed. His body was doing the thing it did when a frequency was good — the complete, boneless surrender of an animal that has found the spot where everything resonates correctly.
+Meatball walked to the exact center of the chamber and lay down. His tail was still. His eyes were closed. His body was doing the thing it did when a frequency was good — the complete, boneless surrender of an animal that had found the spot where everything resonates correctly.
 
 Mochi's warmth, in Pixel's hands, was extraordinary. The deepest violet. The most sustained pulse. Builder-adjacent material triggering something in the small dome-shaped Keeper that went beyond anything they'd felt in Season One. Every warmth cue, every glow shift, every subtle response Mochi had produced over thirteen episodes — this was what all of it had been pointing toward. Mochi held near the chamber's center, and the crystalline structures shifted pitch. The hum changed. Something in the Station's residual broadcast adjusted, ever so slightly, to accommodate the presence of the small, warm thing in Pixel's hands.
 

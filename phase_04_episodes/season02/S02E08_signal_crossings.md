@@ -3,11 +3,12 @@ title: "S02E08 — Signal Crossings"
 author: "The Ephergent Collective"
 date: "2025-08-01"
 tags: ["season-2", "episode-8"]
+narrator: "third_person"
 ---
 
 # S02E08 — Signal Crossings
 
-*DEEP SPACE — TRANSIT. Three days in. The crew is wound tight. Zephyr hasn't left the signal analyzer in forty-seven hours — not sleeping, barely eating, running the same sweeps over and over like he might catch something new if he just looks long enough. A1's espresso output has shifted in the last twelve hours: rich, complex, layered with something that tastes like anticipation. Like the moment before a name is spoken.*
+*DEEP SPACE — TRANSIT. Three days in. The crew is wound tight. Zephyr has not left the signal analyzer in forty-seven hours — not sleeping, barely eating, running the same sweeps over and over like he might catch something new if he just looks long enough. A1's espresso output has shifted in the last twelve hours: rich, complex, layered with something that tastes like anticipation. Like the moment before a name is spoken.*
 
 ---
 
@@ -309,7 +310,7 @@ That's the most Clive thing you've ever said.
 **CLIVE**
 I have been practicing.
 
-*[I make a night pull — weak, tired, the kind of coffee made for the hours when the ship is dark and the crew is dreaming. I know Clive and Pixel are still up. The coffee says: I am here. I am listening. You are not alone.]*
+*[A1 makes a night pull — weak, tired, the kind of coffee made for the hours when the ship is dark and the crew is dreaming. A1 knows Clive and Pixel are still up. The coffee says: I am here. I am listening. You are not alone.]*
 
 *A thin espresso — exhausted, bitter, but still being made. The coffee of someone who has paid a price and is still showing up.*
 
@@ -391,18 +392,6 @@ We know, A1. We know.
 
 ---
 
-## COFFEE CHART
-
-| Scene | A1's Espresso | Emotional State |
-|-------|---------------|-----------------|
-| Ship cockpit — first scan | Rich, complex, layered, notes of anticipation | Anticipation — something approaching |
-| Civilization approach — tower light patterns | Rich, warm, woodsmoke and aged paper | Curiosity, wonder |
-| Pixel's decision to boost | Rich, complex, extraordinary | Determination, trust |
-| A1's amplification surge | Thin, pale, bitter, barely manages a pull | Exhaustion, cost, choice |
-| Aether contact — first words | Thin, exhausted, still present | Emotional intensity, drained but present |
-| Post-contact — crew in common area | Thin, exhausted, night pull | Tired, processing, together |
-| End — A1's state | Thin, bitter, exhausted, but present | Tired but committed |
-
 ## LOCKED RULES CHECK
 
 1. ✅ Frequencies, not dimensions — throughout
@@ -417,23 +406,3 @@ We know, A1. We know.
 10. ✅ The Wellspring is a state, not a place — referenced via Aether's signal direction
 11. ✅ 15MB per game hard cap — preserved
 12. ✅ Barry's notes are methodical, precise — Clive references Barry's notebooks with characteristic precision
-
-## EXPANDED SCENE BEATS
-
-- **A1's unprecedented flavor** — "taste of something becoming itself" — signals his own evolution as ship
-- **The civilization's 17-year deliberation** — bureaucratic process applied to transcendence; absurd and meaningful
-- **Filtered verbal fillers** — the civilization improved Pixel's broadcast by removing ums and ahs; funny and slightly unsettling
-- **Om Kai's meditation** — "a way of lasting vs surviving" — key philosophical beat for the season
-- **Aether as navigation** — steering Zephyr through harmonic thinning, not direct contact; indirect care
-- **"I left a light on"** — Aether's message to the crew; Barry's thermos/coffee motif echoed
-- **Clive and Pixel in common area** — "both" — Clive's growth, family as choice
-- **Mochi's warmth** — warm against Clive's leg, not hot; comforting without words
-
-## FORESHADOWING & CONNECTIONS
-
-- **Aether's guidance** — "follow the frequency, what's at the end is what you need" — echoed from S02E10 Aether contact
-- **Barry parallel** — both Aether and Barry chose to follow the signal; Clive carries both memories
-- **"Leaving a light on"** — Barry's thermos motif echoes; Aether as signal-maintenance = light-keeper
-- **Zephyr's letting go** — not a closed door but a continued presence; the brother is still in the frequency
-- **A1's exhaustion** — cost of amplification; the ship's limits tested; will echo in S02E09 (Clive's Coordinates) and S02E10
-- **Civilization as relay** — they carry the Ephergent signal forward; the crew's broadcast becoming something larger

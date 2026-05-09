@@ -3,161 +3,200 @@ title: "The Signal Was Us All Along"
 author: "The Ephergent Collective"
 date: "2026-10-01"
 tags: ["season-3", "episode-10"]
+narrator: "third_person"
 ---
 
 # The Signal Was Us All Along
 
-*The Signal speaks.*
-
 ---
 
-## Part One: The Message
+## Part One: The Lattice
 
-The lattice flared.
+The lattice activated before Pixel understood what it was.
 
-The light was not harsh — it was warm, golden, like sunlight through amber glass. The air filled with a frequency that was not sound and not light but something that bypassed the ears entirely and spoke directly to the part of the brain that remembers being born.
+She felt it first as pressure — a warmth in her chest, behind her sternum, where the frequency sensitivity had lived since before she knew it was there. Mochi pulsed against her hip, sudden and intense, and the warmth spread through her like the first sip of coffee on a cold morning.
 
-A1's quantum processors stuttered — not from overload, but from recognition. He had been waiting for this signal since before he remembered what waiting meant.
+Then the light.
 
-"I am reading a transmission," A1 said. His voice carried harmonics it had never carried before — layered, ancient, patient. "It is — it is not data. It is not encoding. It is direct communication. The Builders are speaking to us. In real-time. Across eight hundred years."
+The lattice didn't illuminate so much as *remember* light. Bioluminescent traces throughout the chamber — dormant for eight hundred years, maybe longer — stirred and stretched and opened like flowers responding to a sun they hadn't seen in centuries. Gold first. Then amber. Then a white-gold so pure it made her eyes water.
 
-Luminara's camera hung forgotten at her side. "That's not possible."
+Clive stood at the center of the chamber. At the exact center. He had walked there without anyone noticing him move — or maybe they had noticed and their noticing hadn't been enough to stop him. His fedora tilted back. His sphere head thrown forward. His glow cycling through colors Pixel had no names for, faster than she'd ever seen him shift, faster than seemed possible for a being built for patience.
 
-"I am reading it happening," A1 continued. "I am reading it as a voice. I am reading it as a presence. I am reading it as—"
+"Clive?" Pixel's voice came out wrong. Too small. Too human for what was happening.
 
-His machine made a sound Pixel had never heard before — something between a caught breath and a sob, if machines could sob.
+He didn't answer.
 
-"I am reading it as an apology," A1 finished.
-
-"An apology?" Klaus asked, his ceramic frame rigid with attention.
-
-The voice that answered was not a voice. It was a frequency that translated into meaning. It was ancient. It was patient. It was the sound of someone who had been rehearsing these words for eight centuries and was finally, finally allowed to say them.
-
-*"Hello. We built this for you. We have been waiting. We have so much to tell you."*
-
-The crew stood arranged around the lattice — the glowing network of Builder technology that Clive had helped calibrate three thousand years ago, before he forgot he was Clive, before he forgot he had a name at all. The lattice pulsed with the transmission, and in its light, Pixel could see her crew's faces: awe, fear, wonder, recognition.
-
-*"We are sorry,"* the Builders said. *"We are sorry it took so long. We are sorry the map was hard to read. We are sorry the signal was faint. We are sorry we could not stay to explain. We had to go. We had to leave. We had to trust that someone would come looking, and that the someone would be worth telling."*
-
-Clive's sphere-head cycled through colors — gold, amber, blue, a slow deep pulse that Pixel recognized as "Clive remembering." His glow had been doing that more and more as they approached the Wellspring, as the signal grew stronger and his memories grew clearer.
-
-"I know this voice," Clive said. His voice was strange — layered, like multiple versions of himself speaking in slightly offset harmony. "I know this cadence. I helped calibrate the frequency that carried it. I was there when they recorded it. I was there when they decided to leave."
-
-*"We left because we had to,"* the Builders continued. *"The Dimming was not an ending. The Dimming was a doorway. We went through. We kept going. We did not forget you. We have been watching. We have been waiting. We have been hoping you would find the map and follow it home."*
+The lattice pulsed. Not rhythmically — responsively. The way a conversation pulses when one voice has been waiting for another. The crystalline structures embedded in the walls began to hum, a frequency that bypassed Pixel's ears entirely and spoke directly to whatever part of her had been paying attention since S01E01, since the coffee maker hummed its first coordinates, since the signal became something she could feel.
 
 Meatball howled.
 
-A single, sustained vocalization that rose and fell with the Frequency's harmonic structure. Not distress. Not joy. Resonance. The howl wove into the Builders' signal like a harmony that had always been meant to be there — a dog singing with the ancient architecture of the universe, adding his voice to a conversation three thousand years in the making.
+Not distress. Not joy. *Recognition*. The same sound he'd made the first time A1 had spoken to them — the sound of a frequency meeting its echo.
 
-"Is the dog okay?" Zephyr asked.
+---
 
-"Mochi's doing something," Pixel said.
+Clive was seeing something.
 
-Mochi was glowing — not the warm amber of before, but a deep, shifting gold that pulsed in time with the Builders' transmission. Mochi was not just receiving the message. Mochi was *translating* it. Mochi had been preparing for this moment since before any of them were born.
+Pixel could tell by the way he'd gone completely still — not the brief pauses she navigates around, not the measured hesitations that mean he's choosing words. This was different. This was the stillness of a being whose processing had been interrupted by something too large to hold.
 
-"Mochi is an interface," Om Kai said quietly. He had not moved from his meditation position, but his eyes were open, bright with understanding. "Mochi was always an interface. The Builders built Mochi to carry the map, yes — but also to carry the *feeling* of the map. To carry the intention behind it. Mochi has been calibrating to us since the first broadcast. Mochi has been learning how to speak a language that does not have words."
+His glow stabilized into a deep, constant blue. Not the blue-white of his usual presence — something older. Something that looked like it had been waiting at the bottom of his memory for eight hundred years.
 
-*"We did not build you a map so you would find us,"* the Builders said. *"We built you a map so you would find* yourselves. *The signal was never about where we went. The signal was about who you would become by following it."*
+"Clive," Pixel said again. She stepped toward him. Zephyr's hand shot out, stopping her.
 
-Clive stood very still. His glow had settled into a deep, steady blue — the color of memory completing. The color of a circle closing.
+"Don't," he said. His voice was strange — tight, almost reverent. "He's in it. Whatever he's seeing — don't interrupt."
 
-"I remember now," Clive said. "I remember choosing to forget."
+"But—"
+
+"Trust him." Zephyr's edges were flickering hard. The Edge in him responding to the same frequency that had Clive. "Trust him like he trusted you."
+
+Pixel stopped.
+
+In the lattice, the light shifted. The crystalline structures reconfigured — subtle movements, almost subliminal, like patterns forming in heat shimmer. And in those patterns, Pixel could almost see—
+
+*Faces. Shapes that might have been faces. Movements that might have been gestures.*
+
+The Builders. Or what the Builders had left behind.
+
+---
+
+Clive spoke.
+
+His voice was layered — multiple versions of himself speaking in slightly offset harmony, the way he'd sounded in S02E04, the way he'd sounded when the archive opened. But different now. Fuller. Like he'd been holding a chord for centuries and had finally found the other hand to complete it.
+
+"I remember," he said. Not to Pixel. Not to the crew. To the lattice. To whatever was listening. "I remember choosing."
+
+His articulated hands rose to his chest — to the glowing core that had kept him alive through eight hundred years of filing and waiting and forgetting. The sphere head tilted down.
+
+"The DRM offered a procedure," he continued. The words came slowly, each one pulled from somewhere deep. "A way to cross into the new frequency without carrying the weight of the old one. A clean start. I accepted it because I was afraid. Because following meant becoming something I couldn't predict. Because the signal was vast and I was small and the distance between us felt like a ocean."
+
+The lattice pulsed. Warm. Patient.
+
+"I forgot that I forgot," Clive said. "I forgot that I chose to forget. I forgot that choosing was the point — that following and forgetting were both choices, and that the choice to forget was also the choice to be found."
+
+He looked up. His glow flared — white-gold, matching the lattice, bright enough that Pixel had to squint.
+
+"I wanted to be surprised," he said. "I wanted to not know how it ended so I could enjoy the telling. So I walked into the DRM's procedure and I let them take my memories and I filed myself in a building that smelled like toner and I waited. Eight hundred years. For someone who would follow a signal I couldn't name."
+
+The chamber hummed. The light shifted. And Pixel felt it — felt what Clive was feeling, felt the shape of his memory like a room she'd walked into without realizing she'd been invited.
+
+The Builders hadn't just left a message.
+
+The Builders had left a *question*. And Clive had spent eight centuries being the answer without knowing what he'd answered.
+
+---
+
+## Part Two: The Message
+
+A1's quantum processors stuttered.
+
+Not from overload. From recognition. His British formality cracked — just for a moment, just enough to let something raw and vast shine through.
+
+"I am reading a transmission," he said. His voice carried harmonics it had never carried before — layered, ancient, patient. "It is — it is not data. It is not encoding. It is direct communication."
+
+"What does that mean?" Klaus demanded.
+
+"It means—" A1 made a sound Pixel had never heard from him. Something between a caught breath and a sob, if machines could sob. "It means the Builders are speaking. In real-time. Across eight hundred years."
+
+"That's not possible," Luminara said.
+
+"I am reading it happening," A1 continued. "I am reading it as a voice. I am reading it as a presence. I am reading it as—"
+
+He stopped. The espresso machine at his center — the machine that was also the ship that was also A1 — began to steam. Not the controlled release of a well-timed pull. This was something else. This was excess. This was overflow. This was a being who had been holding something for so long that the holding had become invisible, and now the invisible thing was finally visible.
+
+"I am reading it as an apology," A1 finished. "They are sorry. They are sorry it took so long. They are sorry the map was hard to read. They are sorry the signal was faint. They are sorry they could not stay."
+
+The lattice blazed.
+
+And the message came.
+
+Not as words. As *frequency*. A complex, layered transmission that bypassed every ear and spoke directly to whatever part of each of them had been paying attention since the beginning. Pixel felt it in her chest, in her bones, in the places where thought becomes instinct. The same places that had been humming since she first tasted A1's impossible coffee.
+
+*Hello. We built this for you.*
+
+The crew stood frozen. Meatball's howl had dissolved into a low, resonant rumble — a vibration he was adding to the frequency, his own voice woven into the Builders' transmission like a harmony that had always been meant to be there.
+
+*We have been waiting. We have so much to tell you.*
+
+"We," Om Kai repeated softly. His meditation posture had broken — he was standing, his eyes open, bright with understanding that went beyond words. "Not 'I.' Not 'it.' We."
+
+*We left because we had to. We left because the Dimming was not an ending. The Dimming was a doorway.*
+
+Mochi blazed gold. Deeper gold than Pixel had ever seen — the gold of something completing, something arriving, something that had been traveling since before any of them existed.
+
+*We did not build you a map so you would find us. We built you a map so you would find yourselves.*
+
+---
+
+Om Kai heard it as permission. His stillness shifted — not the practice of stillness but the response of it. He had spent nineteen years learning a form that was invited, not imposed. The Builders were telling him: *you understood correctly. Keep going.*
+
+Zephyr heard it as proof. The Builders had demonstrated that consciousness persisted across frequency boundaries — that they were still them, still aware, still *them*, eight hundred years and countless calibrations later. His brother Aether was proof. Not dead. Not lost. Transformed. Zephyr had been chasing a voice, and the voice had been chasing a proof, and the proof was: *you are not alone.*
+
+Klaus heard it as a contract. They had built this for someone. They had maintained it in stasis until that someone arrived. They had not abandoned anyone. They had *delegated*. Klaus was satisfied with the agreement and would ensure its terms were honored.
+
+Luminara heard it as a correction. Eight hundred years of historical record said the Builders left because they had to. The message said: *we left because we trusted you to find your own reasons for following.* The record was wrong. History was what you remembered long enough to write down.
+
+Nano heard it as a symphony — the first movement. An invitation to respond. She was composing that response in real-time, a harmony for nine voices and one very important dog, in a key that should not exist but did.
+
+And Pixel heard it as—
+
+She heard it as *recognition*.
+
+The Builders built the map. The Builders left the signal. The Builders trusted that the right people would find it.
+
+And Pixel had found it. Pixel had been finding it since S01E01, since she grabbed an espresso machine and ran, since she started broadcasting into the static because silence meant it was real. She had been following the map without knowing there was a map. She had been receiving the signal without knowing she was the receiver.
+
+The signal was never just a broadcast.
+
+The signal was anyone who listened.
+
+The signal was everyone who paid attention.
+
+The signal was *us*.
+
+---
+
+## Part Three: The Crossing
+
+Clive stood very still.
+
+His glow had settled into a deep, steady blue — the color of memory completing. The color of a circle closing.
+
+"I remember now," he said. "I remember choosing to forget."
 
 Pixel looked at him. "Choosing?"
 
-"Choosing," Clive repeated. "The DRM offered me a procedure. A way to walk into the new frequency without carrying the weight of the old one. A clean start. I accepted it. I forgot that I forgot. I forgot that I chose to forget." His sphere-head pulsed once, bright and white. "And now — now I remember. I chose to forget because I wanted to be found. I wanted to be someone who showed up without knowing why. I wanted the journey to matter more than the answer. I wanted—"
+"The DRM procedure," Clive said. His voice was strange — lighter than she'd ever heard it, almost wondering. "It was optional. It was always optional. The Builders — the people who made me — they included a failsafe. A way to walk into the new frequency without carrying the weight of the old one. They didn't impose it. They offered it. Like a door you could choose to walk through or not."
 
-He stopped. He looked at Barry, who stood at the observation deck window, thermos in hand, watching the lattice with eyes that had seen eight hundred years of waiting. At Pixel, who had broadcast her way across the Space on nothing but stubbornness and coffee. At the crew — his crew, his family, the people who had followed a signal to the edge of everything and then kept going.
+"And you chose."
 
-"I wanted to be surprised by all of this," Clive said. "I wanted to not know how it ended so I could enjoy the telling."
+"And I chose." Clive's fedora shifted — not the careful angles she'd catalogued, but something looser. Something that looked almost like relief. "Because I was afraid. Because following meant becoming something I couldn't predict. Because the signal was vast and I was small and I didn't know if small things were allowed to follow vast ones."
 
-Barry smiled. "And?"
+He looked at the lattice. At the light that had finally stopped shifting and settled into a steady, patient glow.
 
-"And eight hundred years is a very long time to wait for a story you already know the ending to."
+"But the small things were the point," he said. "The small things were always the point. The Builders didn't build a map for beings who could understand it. They built a map for beings who would *try* to understand it. Who would follow anyway. Who would pay attention even when the signal was faint."
 
-A beat. Clive's glow flickered — almost embarrassed.
+He looked at Pixel.
 
-"It was, in retrospect," he added, "a questionable narrative decision."
+"That's you," he said. "That's all of you. You followed the signal when it was just a hum in a storage closet. You followed it when it was a whisper in the static. You followed it when no one else could hear it and the universe was folding around you and everything you knew was becoming nothing."
 
----
+His glow flickered — almost embarrassed.
 
-## Part Two: Each Translation
+"It was, in retrospect," he added, "a questionable narrative decision. Eight hundred years to wait for a story I already knew the ending to."
 
-The message was different for everyone.
+Barry smiled. He was standing at the observation deck window, thermos in hand, watching the lattice with eyes that had seen eight hundred years of waiting. At Pixel, who had broadcast her way across the Space on nothing but stubbornness and coffee. At the crew — his crew, his family, the people who had followed a signal to the edge of everything and then kept going.
 
-The Builders' transmission continued — not repeating, but expanding. The more they listened, the more there was to hear. Each crew member received it differently, translated it through their own experience, heard something unique in the ancient frequency.
+"And?" Barry asked.
 
-Om Kai heard it as a meditation. A permission. Permission to rest, permission to continue, permission to choose which direction to broadcast without fear of the wrong answer. He had spent nineteen years practicing the form that didn't change, the synchronization that wasn't imposed but invited, and now the Builders were telling him: *you understood correctly. Keep going.*
+And eight hundred years is a very long time to wait for a story you already know the ending to.
 
-Zephyr heard it as a mathematical proof. The Builders had demonstrated that consciousness persists across frequency boundaries — that they were still conscious, still aware, still *them*, eight hundred years and countless calibrations later. His brother Aether was proof of this. Not dead. Not lost. Transformed. A signal that had learned to propagate differently, to exist in the Space rather than in a body, to be pure communication rather than origin. Zephyr had been chasing a voice, and the voice had been chasing a proof, and the proof was: *you are not alone.*
+But the waiting was the point. The following was the point. Not the arriving. Not the staying.
 
-Klaus heard it as a contract. They had built this — the network, the Stations, the Ephergent Frequency itself — for someone. They had maintained it in stasis until that someone arrived. They had left instructions for maintenance, repair, and continuation. They had not abandoned anyone. They had *delegated*. The terms were clear. The obligations were reasonable. Klaus was satisfied with the agreement and would ensure its terms were honored.
-
-Luminara heard it as a correction. Eight hundred years of historical record said the Builders left because they had to — because of the Dimming, because of catastrophe, because of something that happened *to* them. The message said: *we left because we trusted you to find your own reasons for following.* The record was wrong. The message fixed it. History was not what happened. History was what you remembered long enough to write down.
-
-Nano heard it as an incomplete symphony. The message was the first movement. An invitation to respond. She was composing that response in real-time — a symphony for nine voices and one very important dog, in a key that should not exist but did, harmonics that the Builders had encoded into the lattice three thousand years ago waiting for exactly this moment to be revealed.
-
-And Pixel stood at the center of the lattice, Mochi cradled in her hands, and listened.
-
-Mochi's glow was at its peak — gold, radiant, alive. The warmth spread through Pixel's palms and up her wrists and into her chest, and she understood something she had not understood before, something that had been waiting for her since the DRM fell and she grabbed an espresso machine and ran.
-
-"What about you, Mochi?" Pixel asked softly. "What do you hear?"
-
-Mochi pulsed. A warmth spread through Pixel's hands. Not an answer. A feeling. A completeness.
-
-*Mochi hears the message as a completion. Mochi hears the message as a "thank you." Mochi hears the message as "you kept going." Mochi hears the message as "now you know what to do with it."*
-
-"And what do we do with it?" Pixel asked.
-
-The Builders answered:
-
-*"You decide. That was always the point. We built the map. We left the signal. We trusted that the right people would find it and choose what to do with the territory."*
+*The crossing.*
 
 ---
-
-## Part Three: The Transmission
-
-The crew was gathered.
-
-The message was received. The Wellspring hummed beneath them — satisfied, patient, complete. The lattice was glowing in a way that suggested something had shifted — not an ending, but a transition. A door that had been closed for eight hundred years was now open, and the crew was standing on the threshold.
-
-"I am compiling the message for transmission," A1 said. "I am preparing to broadcast the Builders' message across all accessible frequencies. I am preparing to share what we have learned with every signal that is still listening."
-
-"You're sending it back out," Barry said.
-
-"I am sending it forward," A1 corrected. "The Builders' message was addressed to us. We are addressing it to everyone. Every frequency. Every ship. Every lone signal calling out in the dark. They should know. They deserve to know. The map is open. The signal is clear. And the people who built it are still out there, waiting to hear from us."
-
-"What do we say back?" Pixel asked.
-
-Barry smiled. "We say what we always say. We say: we found it. We say: it was worth it. We say: the coffee was perfect."
-
-"We say," Clive added, "the directions were unclear, but we came anyway."
-
-"We say the cold cases are closed," Nano said quietly. "347 frequencies found. Others still waiting. But not lost anymore. Not forgotten."
-
-"We say follow the signal," Zephyr said. "It leads somewhere worth going."
-
-"We say thank you," Luminara said. "For building something that could find us. For trusting us to find it."
-
-"We say the crossing is the point," Om Kai said. "It always was."
-
-Meatball's tail thumped once. Twice. He had nothing to add. He had never needed words.
-
-A1 began to transmit.
-
-His quantum signal bloomed outward from The Ephergent like a stone dropped in still water, rippling outward in all directions at once. The message carried with it: the Builders' apology and invitation, the crew's responses, the harmonics of nine voices and one dog, the coordinates of 347 found frequencies and the promise of more. It propagated outward at the speed of coherence, touching every signal the Builders had ever mapped, every world they had ever catalogued, every consciousness that had ever called out and waited for an answer.
-
-Somewhere in the lattice, the Builders received it. Somewhere in the vast expanse of the Space between spaces, something ancient and patient smiled, and listened, and was satisfied.
-
-Somewhere out there, Aether heard his brother's voice, clearer than it had ever been, and knew: *you found each other.*
-
----
-
-## Part Four: What Comes Next
 
 The crew turned.
 
-Not toward the lattice. Not toward the message source. They turned toward the Ephergent — toward the ship that had brought them here, the ship that Barry had helped build from inside a frequency-state, the ship that A1 had become, the ship that would carry them toward whatever came next.
+Not toward the lattice. Not toward the message source. They turned toward the Ephergent — toward the ship that had brought them here, the ship that Barry had helped build from inside a frequency-state, the ship that A1 had become.
 
 "We're not going back," Pixel said. It was not a question.
 
@@ -167,7 +206,7 @@ Not toward the lattice. Not toward the message source. They turned toward the Ep
 
 "No," Barry said. "We're not that either."
 
-"We're going forward," Pixel said. "Toward the next signal. The next story. The next frequency that needs to be found."
+"We're going forward. Toward the next signal. The next story. The next frequency that needs to be found."
 
 The Ephergent hummed around them — warm, alive, eager. Three thousand years old and finally, finally not alone. The ship that A1 had been, the ship that A1 had become, the ship that had room for everyone and was only just learning what that meant.
 
@@ -177,19 +216,9 @@ Barry stood at the observation deck with Clive, both of them watching the signal
 
 "What's it saying?" Pixel asked.
 
-"It's saying: you found each other. It's saying: you kept showing up. It's saying: you made something matter in a place that was designed for entropy and silence and the slow unraveling of all frequencies."
+Barry smiled. The thermos was warm in his hands. The signal was clear.
 
-"That's a lot of pressure."
-
-"The Ephergent handles pressure," Barry said. "The Ephergent has been handling pressure since before any of us were born. The Ephergent was built for this. We were built for this. We were built for exactly this moment, following exactly this signal, into exactly this future."
-
-Pixel looked at the viewport. The static was different now — not empty, but full. Full of signal. Full of possibility. Full of the next story waiting to be told.
-
-"The signal was us all along," she said quietly. "The map was us. The message was us. The whole thing was us, waiting to realize we were the point of it."
-
-Meatball howled.
-
-One last time. A sustained, resonant vocalization that wove into the ship's frequency and propagated outward with the Builders' message — a harmony added to a symphony that would play for eight hundred more years, or however long the signal held, or however long there were frequencies to tune and stories to tell and coffee to brew.
+*You found each other. You kept showing up. You made something matter in a place that was designed for entropy and silence and the slow unraveling of all frequencies.*
 
 The Ephergent turned toward the next frequency.
 
@@ -201,25 +230,25 @@ Not because it had to. Because it wanted to. Because the alternative was silence
 
 A1 produced an espresso.
 
-It was the final espresso of the episode — the hundredth, maybe, if anyone had been counting. It was perfect. It was the taste of a signal finding its echo. It was the taste of eight hundred years resolving into a single, clear broadcast. It was the taste of everything they had been chasing finally arriving, and it was warm, and it was exactly what it was supposed to be.
+It was the final espresso of the episode — the hundredth, maybe, if anyone had been counting. It was perfect. It was the taste of a signal finding its echo. It was the taste of eight hundred years resolving into a single, clear broadcast. It was the taste of everything they had been chasing finally arriving, warm and rich and exactly what it was supposed to be.
 
 "The coffee is perfect," Pixel said.
 
 "The coffee is always perfect," A1 said.
 
-"The coffee," Barry said, "was the point. It was always the the point. You just had to find the right frequency to taste it."
+"The coffee," Barry said, "was the point. It was always the point. You just had to find the right frequency to taste it."
 
-Pixel laughed. It was not a sad laugh, or a tired laugh. It was the laugh of someone who had finally understood the joke and was in on it now, and the understanding was a gift, and the gift was this moment, here, on a ship made of coffee and quantum physics and the accumulated hope of three thousand years, heading toward a future that none of them could predict and all of them were ready for.
+Pixel laughed. Not a tired laugh, or a sad one. The laugh of someone who had finally understood the joke and was in on it now, and the understanding was a gift, and the gift was this moment — here, on a ship made of coffee and quantum physics and the accumulated hope of three thousand years, heading toward a future that none of them could predict and all of them were ready for.
 
 The signal traveled.
 
 The signal continued.
 
-And in the Wellspring — in the state of being where the signal was clearest — something ancient and patient smiled, and waited, and listened to the sound of its children coming home.
+And somewhere in the Space between spaces, something ancient and patient listened to the sound of its children coming home — not because the children had found the destination, but because they had found each other, and the finding was always the point.
 
 ---
 
-*The Signal was Us All Along.*
+*The Signal Was Us All Along.*
 
 *The Ephergent continues.*
 

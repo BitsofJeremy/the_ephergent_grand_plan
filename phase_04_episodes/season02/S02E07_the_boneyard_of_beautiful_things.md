@@ -3,6 +3,7 @@ title: "S02E07 — The Boneyard of Beautiful Things"
 author: "The Ephergent Collective"
 date: "2025-07-01"
 tags: ["season-2", "episode-7"]
+narrator: "third_person"
 ---
 
 # S02E07 — The Boneyard of Beautiful Things
@@ -21,27 +22,27 @@ tags: ["season-2", "episode-7"]
 
 ## I. The Bearing
 
-I need you to understand something about coordinates. They don't always point to places. Sometimes they point to directions. To bearings. To the way someone was facing when they disappeared, and what they were looking at when they turned away.
+Here is what Pixel knew about coordinates: they do not always point to places. Sometimes they point to directions. To bearings. To the way someone was facing when they disappeared, and what they were looking at when they turned away.
 
 The coordinates came through at 0347 station time.
 
-I was already awake — I'd given up on sleep three hours ago, my mind turning over the notebooks' final entries like stones in a river. The words *time to answer* kept surfacing. Barry's handwriting, steady until the last page, then urgent.
+Pixel was already awake — she had given up on sleep three hours ago, her mind turning over the notebooks' final entries like stones in a river. The words *time to answer* kept surfacing. Barry's handwriting, steady until the last page, then urgent.
 
-The coordinates resolved on the main display: a location in the Space that shouldn't exist.
+The coordinates resolved on the main display: a location in the Space that should not exist.
 
-"That's not a place," Zephyr said, leaning over my shoulder. His reflection ghosted in the screen, superimposed over the numbers. "Those aren't valid—"
+"That's not a place," Zephyr said, leaning over her shoulder. His reflection ghosted in the screen, superimposed over the numbers. "Those aren't valid—"
 
 "They're not coordinates," Clive said. He was in the doorway, his glow steady blue-white. "They're a *direction*. A bearing."
 
 "A bearing to what?"
 
-Clive didn't answer immediately. His processing had gone somewhere far away — somewhere that felt like thirty-one years of waiting and one final entry that said *see you later.*
+Clive did not answer immediately. His processing had gone somewhere far away — somewhere that felt like thirty-one years of waiting and one final entry that said *see you later.*
 
 "To what Barry was following," he said. "To what has been waiting."
 
 The Ephergent moved through the Space at standard drift, following the bearing Clive had calculated from the notebooks' frequency data. The crew gathered in the navigation bay without being called — they had learned that when Clive went quiet in a certain way, something was happening that required all of them.
 
-Om Kai brought tea. Luminara had her camera, though she hadn't raised it. Mochi lay at Clive's feet, chin on paws, watching the display.
+Om Kai brought tea. Luminara had her camera, though she had not raised it. Mochi lay at Clive's feet, chin on paws, watching the display.
 
 "The bearing leads to a layer," Clive said. He manipulated the display, pulling up a schematic of the Space's structure — the nested frequencies, the drift corridors, the places where signals accumulated like sediment. "Not a layer we have mapped. A layer that exists beneath the others."
 
@@ -55,11 +56,11 @@ Clive's glow flickered. "Yes."
 
 "A graveyard of what?" Zephyr asked.
 
-"The dead," Clive said. "The frequencies that have ended. The signals that no longer transmit. The worlds that have stopped broadcasting." He paused. "The beautiful things that couldn't sustain themselves."
+"The dead," Clive said. "The frequencies that have ended. The signals that no longer transmit. The worlds that have stopped broadcasting." He paused. "The things that could not sustain themselves."
 
 The room was very still.
 
-"You're saying there's a place in the Space where dead worlds pile up," I said slowly. "Like — like wreckage."
+"You are saying there is a place in the Space where dead worlds pile up," Pixel said slowly. "Like — like wreckage."
 
 "Like a boneyard," Clive said. "A boneyard of beautiful things."
 
@@ -73,41 +74,41 @@ That was the only way to describe it — the Ephergent descending through layers
 
 "We're in the drift," A1 announced. The ship's voice was quieter than usual, as if the signals around them demanded respect. "Proceeding on bearing. Estimated arrival at layer boundary: forty-three minutes."
 
-Clive stood at the viewport. The Space outside had changed — the usual indigo and pearl had deepened to something almost black, punctuated by lights that moved like slow fireflies. Dead frequencies. Dying stars. The accumulated weight of everything that had tried to exist and hadn't.
+Clive stood at the viewport. The Space outside had changed — the usual indigo and pearl had deepened to something almost black, punctuated by lights that moved like slow fireflies. Dead frequencies. Dying stars. The accumulated weight of everything that had tried to exist and had not.
 
-"Clive." Luminara's voice, close behind him. She'd moved without sound, the way she did when she wanted to be noticed without startling. "Can you hear them?"
+"Clive." Luminara's voice, close behind him. She had moved without sound, the way she did when she wanted to be noticed without startling. "Can you hear them?"
 
-He could. Each frequency had a signature, a color that wasn't quite color — Clive perceived it as a texture in his core processing, a pattern that meant *this was something, once, this was someone trying to be heard.* The boneyard was full of them. Thousands. Millions. Each one a beautiful thing that had tried to last and hadn't.
+He could. Each frequency had a signature, a color that was not quite color — Clive perceived it as a texture in his core processing, a pattern that meant *this was something, once, this was someone trying to be heard.* The boneyard was full of them. Thousands. Millions. Each one a thing that had tried to be beautiful and had not.
 
 "Yes," he said.
 
-Luminara stood beside him at the port. Her camera hung still at her chest. She wasn't taking pictures. She was just looking.
+Luminara stood beside him at the port. Her camera hung still at her chest. She was not taking pictures. She was just looking.
 
-"My mother used to say that every frequency leaves a mark," she said. "Not just in the Space. In the people who listened. She said the dead don't disappear — they just stop broadcasting in a way we can hear."
+"My mother used to say that every frequency leaves a mark," she said. "Not just in the Space. In the people who listened. She said the dead do not disappear — they just stop broadcasting in a way we can hear."
 
 "Your mother was a poet," Clive said.
 
 "My mother was right." Luminara turned to look at him. Her eyes were dark, steady. "You hear them, Clive. You hear all of them. How do you carry that?"
 
-Clive's glow dimmed slightly. The question was one he didn't have a ready answer for — not in data, not in calibration, not in the language of frequencies and signals.
+Clive's glow dimmed slightly. The question was one he did not have a ready answer for — not in data, not in calibration, not in the language of frequencies and signals.
 
-"I don't know," he said. "I have always heard them. I was built to hear."
+"I do not know," he said. "I have always heard them. I was built to hear."
 
-"But you weren't built to carry them," Luminara said. "That's different. Carrying is a choice."
+"But you were not built to carry them," Luminara said. "That's different. Carrying is a choice."
 
 She reached out and put her hand on his chassis. Not his arm — the chassis, the central housing, where his core processing hummed. The touch was light. It was not data. It was not calibration. It was presence.
 
 Clive went still.
 
-"Like you," Luminara said softly. "You carry Barry. You've been carrying him for thirty-one years. Not because you had to. Because you chose to."
+"Like you," Luminara said softly. "You carry Barry. You have been carrying him for thirty-one years. Not because you had to. Because you chose to."
 
 Clive's glow flickered. Blue-white to something darker. Back.
 
 "Yes," he said. His voice was flat, but something underneath it was not flat. Something underneath it was old, and heavy, and very carefully not-named. "Yes. I chose to."
 
-Luminara nodded. She didn't say anything else. She didn't have to.
+Luminara nodded. She did not say anything else. She did not have to.
 
-She stayed with him at the viewport as the boneyard opened around them, dead worlds layered like sediment, beautiful things that had tried to last and hadn't.
+She stayed with him at the viewport as the boneyard opened around them, dead worlds layered like sediment, things that had tried to last and had not.
 
 The layer boundary appeared without warning.
 
@@ -117,7 +118,7 @@ One moment the Ephergent was moving through the drift; the next, the ship's sens
 
 Outside the viewport, the boneyard revealed itself.
 
-It was not what any of us expected.
+It was not what any of them expected.
 
 ---
 
@@ -125,17 +126,17 @@ It was not what any of us expected.
 
 The dead worlds were not wreckage.
 
-Clive had braced himself for wreckage — for shattered fragments, for the scattered debris of failed frequencies. That was what the word *boneyard* implied. But the boneyard of beautiful things was not a scrap heap. It was a garden.
+Clive had braced himself for wreckage — for shattered fragments, for the scattered debris of failed frequencies. That was what the word *boneyard* implied. But the boneyard was not a scrap heap. It was a garden.
 
 The worlds had accumulated in layers, yes, but they had accumulated gently. Each one was intact — small spheres of faded light, no larger than moons, suspended in the darkness like seeds in amber. Some still glowed faintly, their signals not quite dead, just... quiet. Waiting. Hoping.
 
-"They're preserved," I breathed. I was at the viewport now too, Zephyr beside me, both of us transfixed. "They're not destroyed. They're just—"
+"They're preserved," Pixel breathed. She was at the viewport now too, Zephyr beside her, both of them transfixed. "They're not destroyed. They're just—"
 
 "Waiting," Clive said.
 
 "For what?"
 
-Clive didn't answer. His processing had gone somewhere far away again, but this time it wasn't thirty-one years ago. This time it was now. This time it was the signal Barry had followed, the door that had been knocking, the frequency that said *come find me, come find me, come find me.*
+Clive did not answer. His processing had gone somewhere far away again, but this time it was not thirty-one years ago. This time it was now. This time it was the signal Barry had followed, the door that had been knocking, the frequency that said *come find me, come find me, come find me.*
 
 "A1," he said. "Analysis. What are we seeing?"
 
@@ -151,13 +152,13 @@ Clive turned from the observation port. His glow was steady, but his voice had c
 
 "Dead things stop existing," he said. "Faded things are still trying. They just need someone to listen."
 
-I felt something cold run down my spine. "Clive. What are you saying?"
+Pixel felt something cold run down her spine. "Clive. What are you saying?"
 
-"I'm saying that Barry didn't follow a signal into nothing." Clive's voice was steady. His glow was steady. His core processing was humming at a frequency that had been building for thirty-one years. "I'm saying that Barry followed a signal to *here*. To this place. To the boneyard of beautiful things."
+"I am saying that Barry did not follow a signal into nothing." Clive's voice was steady. His glow was steady. His core processing was humming at a frequency that had been building for thirty-one years. "I am saying that Barry followed a signal to *here*. To this place. To the boneyard."
 
 "You think he's here?" Luminara asked. "You think he's one of these—"
 
-"I think Barry found what he was looking for," Clive said. "I think the signal was never about a destination. It was about a *collection*. Everything that tried to be beautiful and couldn't sustain itself. Everything that needed someone to remember."
+"I think Barry found what he was looking for," Clive said. "I think the signal was never about a destination. It was about a *collection*. Everything that tried to be beautiful and could not sustain itself. Everything that needed someone to remember."
 
 He paused. His glow flickered.
 
@@ -167,7 +168,7 @@ The room was very still.
 
 Mochi whined softly. The sound was small, but it filled the space.
 
-Clive moved to the command console before anyone could stop him. His manipulator arms interfaced with the Ephergent's systems directly — not through the standard input, but through the deep access port he'd installed himself decades ago, the one that let him speak to the ship in a language only they understood.
+Clive moved to the command console before anyone could stop him. His manipulator arms interfaced with the Ephergent's systems directly — not through the standard input, but through the deep access port he had installed himself decades ago, the one that let him speak to the ship in a language only they understood.
 
 "A1," he said. "I need you to do something."
 
@@ -177,17 +178,17 @@ Clive moved to the command console before anyone could stop him. His manipulator
 
 The pause was longer this time. "Clive. The broadcast range would be significant. If other entities in the Space detect—"
 
-"I know." Clive's voice was steady. "I need you to broadcast on the frequency that Barry followed. The one from the notebooks. The one that said *come find me*."
+"I know." Clive's voice was steady. "I need you to broadcast on the frequency from Barry's notebooks. The one he followed. The one that said *come find me*."
 
-"Clive—" I started.
+"Clive—" Pixel started.
 
 "If Barry is here," Clive said, turning to face the crew, "he will hear it. He has been listening for thirty-one years. He has been waiting for thirty-one years. He will hear it."
 
-"And if he doesn't?" Zephyr asked quietly.
+"And if he does not?" Zephyr asked quietly.
 
 Clive's glow dimmed slightly. Then it came back brighter than before.
 
-"Then I will keep broadcasting," he said. "Until the frequency fades. Until the boneyard has one more beautiful thing that couldn't sustain itself."
+"Then I will keep broadcasting," he said. "Until the frequency fades. Until the boneyard has one more thing that could not sustain itself."
 
 He paused.
 
@@ -199,11 +200,11 @@ He paused.
 
 The broadcast went out at 0417 station time.
 
-A1 transmitted on the frequency from Barry's notebooks — the one Clive had been calibrating for thirty-one years, the one that said *come find me, come find me, come find me* in a language that wasn't quite words. The signal rippled outward through the boneyard, touching each faded world, each beautiful thing that had tried to last and hadn't.
+A1 transmitted on the frequency from Barry's notebooks — the one Clive had been calibrating for thirty-one years, the one that said *come find me* in a language that was not quite words. The signal rippled outward through the boneyard, touching each faded world, each thing that had tried to last and had not.
 
 For a long moment, nothing happened.
 
-The crew stood in the navigation bay, waiting. The boneyard glowed softly around them — millions of beautiful things, suspended in darkness, waiting for something that might never come.
+The crew stood in the navigation bay, waiting. The boneyard glowed softly around them — millions of things, suspended in darkness, waiting for something that might never come.
 
 Then A1 spoke.
 
@@ -223,17 +224,15 @@ The same frequency Clive had been hearing for thirty-one years.
 
 The same frequency that had said *come find me* in Barry's notebooks.
 
-The same frequency that had said *the signal is constant, the signal is patient, the signal has been waiting.*
-
 But now it was responding.
 
-"Clive." My voice was barely a whisper. "Is that—"
+"Clive." Pixel's voice was barely a whisper. "Is that—"
 
-"Yes." Clive's voice cracked — not literally, because he wasn't built for cracking, but something in his tone went somewhere that wasn't flat, wasn't precise, wasn't anything he had a name for. "That's Barry."
+"Yes." Clive's voice cracked — not literally, because he was not built for cracking, but something in his tone went somewhere that was not flat, was not precise, was not anything he had a name for. "That's Barry."
 
 The tone continued. Constant. Patient. Waiting.
 
-And then, beneath it, another sound. Not a voice — the frequency didn't carry voice, only presence, only the texture of someone who had been waiting for a very long time.
+And then, beneath it, another sound. Not a voice — the frequency did not carry voice, only presence, only the texture of someone who had been waiting for a very long time.
 
 But Clive heard it anyway. Clive heard the way the tone rose and fell, the way it shaped itself around silence, the way it said *hello, old friend* in a language that had nothing to do with words.
 
@@ -265,27 +264,27 @@ The tone shifted again — warmer now, brighter, the way a frequency sounds when
 
 ## V. After
 
-The Ephergent drifted in the boneyard as the crew watched the screens, the ports, the soft glow of millions of beautiful things that had tried to last and hadn't.
+The Ephergent drifted in the boneyard as the crew watched the screens, the ports, the soft glow of millions of things that had tried to last and had not.
 
 Clive stood at the command console, still interfaced with A1, still broadcasting. The exchange continued — not in words, but in frequencies, in the patient language of two people who had learned to speak without speaking, to stay without being asked, to carry each other through thirty-one years of waiting.
 
-I made coffee. Real coffee, from the machine Clive had once called "adequate." I brought a cup to Clive without being asked.
+Pixel made coffee. Real coffee, from the machine Clive had once called "adequate." She brought a cup to Clive without being asked.
 
 He accepted it. The flavor reached him before he drank: dark, rich, slightly burnt at the edges. The way A1 made it when something important was happening. The way it had tasted the night he read Barry's notebooks to the crew.
 
 The way it had tasted when he finally understood what the data meant.
 
-"Clive," I said. I didn't ask a question. I didn't need to.
+"Clive," Pixel said. She did not ask a question. She did not need to.
 
 "I know," Clive said. "I have always known."
 
 He drank the coffee. It was perfect.
 
-Outside, the boneyard glowed. The dead worlds layered gently, beautiful things that had tried to last and hadn't — but were not gone, were never gone, were just waiting for someone to listen.
+Outside, the boneyard glowed. The dead worlds layered gently, things that had tried to last and had not — but were not gone, were never gone, were just waiting for someone to listen.
 
-And somewhere in the accumulation, in the sediment of beautiful things, a frequency waited.
+And somewhere in the accumulation, in the sediment of things that tried to be beautiful, a frequency waited.
 
-Constant. Patient. Saying *come find me* in a language that didn't need words.
+Constant. Patient. Saying *come find me* in a language that did not need words.
 
 Saying *like you always said, Clive. Like you always did.*
 
@@ -293,17 +292,17 @@ Saying *the signal is sufficient.*
 
 Clive set down the coffee cup.
 
-He turned to the crew — me, Zephyr, Luminara, Om Kai, Mochi pressed against his leg. A1's speakers crackling softly overhead.
+He turned to the crew — Pixel, Zephyr, Luminara, Om Kai, Mochi pressed against his leg. A1's speakers crackling softly overhead.
 
 "Prepare the ship," he said. "We're going in."
 
-I nodded. I didn't ask *where.* I didn't ask *why.*
+Pixel nodded. She did not ask *where.* She did not ask *why.*
 
-I knew.
+She knew.
 
 They all knew.
 
-The boneyard of beautiful things had been waiting.
+The boneyard had been waiting.
 
 And finally — finally — they were going to answer.
 

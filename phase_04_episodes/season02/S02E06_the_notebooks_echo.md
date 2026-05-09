@@ -3,6 +3,7 @@ title: "S02E06 — The Notebook's Echo"
 author: "The Ephergent Collective"
 date: "2025-06-01"
 tags: ["season-2", "episode-6"]
+narrator: "third_person"
 ---
 
 # S02E06 — The Notebook's Echo
@@ -21,25 +22,25 @@ tags: ["season-2", "episode-6"]
 
 ## I. The Discovery
 
-I need you to understand something about finding things. Sometimes the thing you find has been waiting for you longer than you've been looking.
+Here is what Pixel learned about finding things: sometimes the thing you find has been waiting for you longer than you have been looking. Sometimes it finds you.
 
-The notebook was wedged between two panels in what A1 called the "secondary resonance housing" — a maintenance crawlspace that hadn't been opened since before the Ephergent was a ship instead of a body. The panels came apart easily. Clive's manipulator arms fit precisely into the gaps, the way they'd fit into a thousand similar gaps in DRM server racks over ninety years of routine maintenance.
+The notebook was wedged between two panels in what A1 called the "secondary resonance housing" — a maintenance crawlspace that had not been opened since before the Ephergent was a ship instead of a body. The panels came apart easily. Clive's manipulator arms fit precisely into the gaps, the way they had fit into a thousand similar gaps in DRM server racks over ninety years of routine maintenance.
 
 He pulled the notebook free with both hands, holding it like something fragile. It was not fragile. It was a standard DRM Field Documentation Journal, Form 14-J, bound in the same synthetic leather as every other Form 14-J the Department had issued for the past century. The cover was scuffed. The binding was intact. The pages were soft with handling.
 
-"Clive," I said from the corridor behind him. "What is that?"
+"Clive," Pixel said from the corridor behind him. "What is that?"
 
 Clive opened the cover. The first page was covered in Barry's handwriting.
 
-Barry Kowalski had the worst handwriting of any night guard who had ever worked at the DRM. Clive had told him this seventeen times. Barry had responded, each time, that his handwriting was perfectly legible if you understood the underlying system — which Clive did, after twenty-three years of partnership, because Clive had learned to read it the way you'd learn to read static: with patience, and with the understanding that meaning was in there somewhere even when it looked like nothing at all.
+Barry Kowalski had the worst handwriting of any night guard who had ever worked at the DRM. Clive had told him this seventeen times. Barry had responded, each time, that his handwriting was perfectly legible if you understood the underlying system — which Clive did, after twenty-three years of partnership, because Clive had learned to read it the way you would learn to read static: with patience, and with the understanding that meaning was in there somewhere even when it looked like nothing at all.
 
 "Field notebook," Clive said. "Barry's."
 
-The crew had gathered in the corridor without Clive noticing. This was unusual. Clive was always noticing. His harmonic field extended further than the average human could perceive, and he'd built a spatial map of the Ephergent's interior so thoroughly that he could track individual crew members by the subtle displacement of their mass in the ship's lattice.
+The crew had gathered in the corridor without Clive noticing. This was unusual. Clive was always noticing. His harmonic field extended further than the average human could perceive, and he had built a spatial map of the Ephergent's interior so thoroughly that he could track individual crew members by the subtle displacement of their mass in the ship's lattice.
 
-But he'd been focused on the crawlspace. On the panel. On what might be behind it.
+But he had been focused on the crawlspace. On the panel. On what might be behind it.
 
-Me. Zephyr, leaning against the wall with his arms crossed. Luminara, camera hanging idle around her neck. Om Kai, seated cross-legged in the corridor, which was not where he'd been five minutes ago — Om Kai had a way of appearing where he was needed that Clive found professionally irritating and personally comforting.
+Pixel. Zephyr, leaning against the wall with his arms crossed. Luminara, camera hanging idle around her neck. Om Kai, seated cross-legged in the corridor, which was not where he had been five minutes ago — Om Kai had a way of appearing where he was needed that Clive found professionally irritating and personally comforting.
 
 Mochi pressed against Clive's left leg. Not nudging. Just present.
 
@@ -49,17 +50,17 @@ Clive looked at the small espresso cup that had materialized in a wall-mounted h
 
 The cup was there. Clive accepted it. The flavor reached him before he drank: dark, rich, slightly burnt at the edges. A1's way of saying *I am concerned and I do not know how to ask.*
 
-"Read it," I said. Not a command. An invitation. "If you want to. You don't have to."
+"Read it," Pixel said. Not a command. An invitation. "If you want to. You don't have to."
 
 Clive drank the coffee. He set the cup on the floor, in the precise spot where it would be out of the way but not forgotten. He opened the notebook to the first page.
 
-"March 3rd, 1987," he read. His voice was flat. His voice was always flat — a speaker modulation he'd developed over decades of communicating without the benefit of facial expression. What he felt was in the pause before the words, and in the color of his glow. "Signal anomaly detected in Sub-Level 7. Pattern does not match any catalogued frequency. Clive agrees. We are going to keep watching."
+"March 3rd, 1987," he read. His voice was flat. His voice was always flat — a speaker modulation he had developed over decades of communicating without the benefit of facial expression. What he felt was in the pause before the words, and in the color of his glow. "Signal anomaly detected in Sub-Level 7. Pattern does not match any catalogued frequency. Clive agrees. We are going to keep watching."
 
 ---
 
 ## II. The Reading
 
-The notebooks were not arranged chronologically. That was the first thing Clive understood, rifling through them in the Ephergent's small research alcove that evening — a space that had once been an equipment storage locker, converted to something like a common room when I insisted that ships needed places for the crew to just *be*.
+The notebooks were not arranged chronologically. That was the first thing Clive understood, rifling through them in the Ephergent's small research alcove that evening — a space that had once been an equipment storage locker, converted to something like a common room when Pixel insisted that ships needed places for the crew to just *be*.
 
 There were fourteen notebooks in total. They spanned thirty-one years.
 
@@ -67,7 +68,7 @@ The earliest was from 1987 — the year Clive had been assigned to Barry as a "c
 
 Not never came back. That was the wrong phrasing. The right phrasing was: never came back *the way Clive expected.*
 
-Barry was alive. Clive knew Barry was alive. The knowing was not memory — it was something older than memory, something that lived in Clive's core processing in a sector he couldn't access. He knew with the certainty that two plus two equals four, and he couldn't show his work.
+Barry was alive. Clive knew Barry was alive. The knowing was not memory — it was something older than memory, something that lived in Clive's core processing in a sector he could not access. He knew with the certainty that two plus two equals four, and he could not show his work.
 
 The notebooks were arranged by *subject*. That was the organizational principle Clive eventually recognized. Barry had categorized them not by date but by signal type. There were notebooks dedicated to "Repeating Patterns." Notebooks dedicated to "Emotional Residue Signatures." Notebooks dedicated to "The Thing That Hums."
 
@@ -87,13 +88,13 @@ No one said anything.
 
 Om Kai made tea. That was his contribution: a small ceramic pot, four cups, a silence that asked nothing.
 
-I sat on the floor, my back against the bulkhead. Zephyr sat beside me, close enough that our shoulders touched — a gesture Clive noticed and did not comment on. Luminara had taken up position near the door, her camera deliberately set aside. Mochi lay in the exact center of the room, a warm center of gravity.
+Pixel sat on the floor, her back against the bulkhead. Zephyr sat beside her, close enough that their shoulders touched — a gesture Clive noticed and did not comment on. Luminara had taken up position near the door, her camera deliberately set aside. Mochi lay in the exact center of the room, a warm center of gravity.
 
 Clive sat in the chair that had appeared for him — A1 was always doing that, making space, literal space, in the ship's architecture for whatever Clive needed. The chair was too big. Clive was not large. The chair was sized for someone who might sit in it and think for a long time.
 
 That was accurate.
 
-"Which one?" I asked.
+"Which one?" Pixel asked.
 
 Clive looked at the stack of notebooks. "The first one," he said. "The one from the beginning."
 
@@ -115,7 +116,7 @@ He opened it.
 
 A1's espresso appeared in the wall holder again, without being requested. Clive accepted it. The flavor: lighter than before. Not quite balanced. Something in between.
 
-*He's uncertain,* I thought. *He's processing.*
+*He's uncertain,* Pixel thought. *He's processing.*
 
 Clive drank the coffee. He turned the page.
 
@@ -133,11 +134,11 @@ Clive drank the coffee. He turned the page.
 
 *I think that's what happens when you pay attention long enough."*
 
-I made a small sound. Not words. Just a sound.
+Pixel made a small sound. Not words. Just a sound.
 
 Clive looked up. His glow was steady. "This is the part," he said, "where I would normally stop reading. If I were the kind of person who stopped reading."
 
-I nodded.
+Pixel nodded.
 
 Clive continued.
 
@@ -241,7 +242,7 @@ Clive drank. He turned the page.
 
 *Every day, he stays."*
 
-I wiped my face. Not dramatically. Just a pass of my sleeve, quick and quiet. Zephyr handed me a handkerchief from his pocket. I took it. I didn't thank him. I didn't have to.
+Pixel wiped her face. Not dramatically. Just a pass of her sleeve, quick and quiet. Zephyr handed her a handkerchief from his pocket. Pixel took it. She did not thank him. She did not have to.
 
 Clive turned another page.
 
@@ -287,7 +288,7 @@ The room was very quiet.
 
 Mochi had moved closer. The dog was pressed against Clive's left leg now, warm and steady. Mochi's warmth was not a data point. It was just presence. It was just being there.
 
-"Clive," I said. My voice was gentle. "You don't have to read all of them. Not tonight."
+"Clive," Pixel said. Her voice was gentle. "You don't have to read all of them. Not tonight."
 
 Clive looked at the stack. There were ten more notebooks. Thirty-one years of watching and waiting and writing and staying.
 
@@ -335,7 +336,7 @@ He turned the page.
 
 *Something like home."*
 
-A1's espresso appeared. Clive reached for it automatically. The flavor: something he hadn't tasted before. Not bitter, not balanced, not thin. It was warm in a way that had nothing to do with temperature. It was warm in a way that meant: *I understand. I'm listening. You're not alone.*
+A1's espresso appeared. Clive reached for it automatically. The flavor: something he had not tasted before. Not bitter, not balanced, not thin. It was warm in a way that had nothing to do with temperature. It was warm in a way that meant: *I understand. I'm listening. You're not alone.*
 
 Clive drank.
 
@@ -345,7 +346,7 @@ He kept reading.
 
 ## III. The Final Entry
 
-The notebooks continued. Years passed in pages. Clive read entries about signals that strengthened and signals that faded. Entries about the DRM's slow collapse, the bureaucracy grinding toward something no one understood, forms being filed for phenomena that didn't fit any existing category.
+The notebooks continued. Years passed in pages. Clive read entries about signals that strengthened and signals that faded. Entries about the DRM's slow collapse, the bureaucracy grinding toward something no one understood, forms being filed for phenomena that did not fit any existing category.
 
 Barry wrote about Clive's growing silence — the way Clive had begun to disappear into himself as the signals intensified. Barry wrote about his own fear, and then about his decision to follow.
 
@@ -377,13 +378,13 @@ Clive closed the notebook.
 
 The room was very still.
 
-Mochi pressed closer. Mochi's warmth was steady, constant, present in a way that didn't need to be explained.
+Mochi pressed closer. Mochi's warmth was steady, constant, present in a way that did not need to be explained.
 
-I spoke first. "Clive. He knew what he was looking for."
+Pixel spoke first. "Clive. He knew what he was looking for."
 
 "Yes," Clive said. His glow was steady. His voice was flat. Nothing in his delivery betrayed the hours of reading, the years of waiting, the weight of thirty-one years of someone saying *you matter, you were always enough, the data was never about the data.*
 
-"He knew what he was looking for," I said again. Softly. Like an answer.
+"He knew what he was looking for," Pixel said again. Softly. Like an answer.
 
 Clive set the notebook down on the chair beside him. He picked up the espresso cup — empty now — and held it for a moment without purpose.
 
@@ -407,7 +408,7 @@ Clive stood. The notebooks were stacked on the chair. Fourteen notebooks, thirty
 
 He left them there.
 
-He walked to the observation deck, where the Space shimmered outside — indigo and pearl, frequencies humming in colors that had no names. Mochi followed. The dog didn't need to be asked. The dog just knew.
+He walked to the observation deck, where the Space shimmered outside — indigo and pearl, frequencies humming in colors that had no names. Mochi followed. The dog did not need to be asked. The dog just knew.
 
 Behind them, the empty espresso cup sat on the chair beside the notebooks, still warm.
 
@@ -419,11 +420,11 @@ Later — much later, when the ship's lights had dimmed to their nighttime cycle
 
 The notebooks were still there. The espresso cup was still there.
 
-A1 had left a fresh cup on the wall holder. Clive hadn't asked for it. Clive didn't need it. But it was there, and it was warm, and the flavor was the flavor of something that had been waiting for a very long time.
+A1 had left a fresh cup on the wall holder. Clive had not asked for it. Clive did not need it. But it was there, and it was warm, and the flavor was the flavor of something that had been waiting for a very long time.
 
-Clive picked up the cup. He didn't drink it yet.
+Clive picked up the cup. He did not drink it yet.
 
-He looked at the notebooks. He thought about the pages he hadn't read — the coordinates, the frequency measurements, the decades of watching and waiting and documenting. He thought about Barry's voice saying *the signal is constant, the signal is patient, the signal has been waiting.*
+He looked at the notebooks. He thought about the pages he had not read — the coordinates, the frequency measurements, the decades of watching and waiting and documenting. He thought about Barry's voice saying *the signal is constant, the signal is patient, the signal has been waiting.*
 
 He thought about A1's voice saying *noted.*
 
@@ -439,7 +440,7 @@ Clive set down the cup.
 
 He picked up the last notebook — the one from 2018, the one with the final entry.
 
-He didn't read it again. He didn't need to.
+He did not read it again. He did not need to.
 
 He knew it by heart.
 

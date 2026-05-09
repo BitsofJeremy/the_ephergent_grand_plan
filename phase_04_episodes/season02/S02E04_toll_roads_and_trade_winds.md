@@ -3,6 +3,7 @@ title: "Toll Roads and Trade Winds"
 author: "The Ephergent Collective"
 date: "2025-04-01"
 tags: ["season-2", "episode-4"]
+narrator: "third_person"
 ---
 
 
@@ -14,17 +15,17 @@ Here's the thing about trade routes: someone always decides who gets to travel t
 
 Sable Voss runs Toll Station Theta-9. She'll tell you she's a steward of the old ways, a guardian of the corridors, a necessary function in a universe that otherwise falls apart. She calls herself all of those things. The people who can't afford her fees call her something else. Frequency pirate. Toll tyrant. The name that sticks is the one that rhymes with her surname, and that one I won't put in the official log.
 
-Clive has been trying to reach Theta-9 for three weeks. I didn't know why until he told me. I didn't know a lot of things until he told me. That's the nature of Clive — he keeps his reasons folded up small and hidden in his chest cavity, next to whatever component makes him glow when he's thinking about something he lost.
+Clive has been trying to reach Theta-9 for three weeks. Pixel didn't know why until he told her. She didn't know a lot of things until he told her. That's the nature of Clive — he keeps his reasons folded up small and hidden in his chest cavity, next to whatever component makes him glow when he's thinking about something he lost.
 
-We weren't here to see Sable Voss. We were here because the signal Squeeze-Bot 7.3 intercepted pointed to something she'd been sitting on for six months — something that belonged in the logs of a frequency archaeologist, not in the locked ledgers of a toll collector who answers to no one. But when you go looking for buried signals in the corridors, you don't get to choose who else is buried there with you.
+They weren't here to see Sable Voss. They were here because the signal Squeeze-Bot 7.3 intercepted pointed to something she'd been sitting on for six months — something that belonged in the logs of a frequency archaeologist, not in the locked ledgers of a toll collector who answers to no one. But when you go looking for buried signals in the corridors, you don't get to choose who else is buried there with you.
 
-This is the story of what we found, what it cost, and what Clive decided was worth paying.
+This is the story of what they found, what it cost, and what Clive decided was worth paying.
 
 The *Aether Meridian* held position at the edge of Theta-9's detection range, just inside the static buffer where the Station's scanners couldn't quite resolve them and their own instruments were still functional. A tense margin. A polite fiction of invisibility.
 
 A1 had been running probability matrices on the Station for six hours. The results were not reassuring.
 
-"Toll Station Theta-9 is operating at approximately sixty-three percent Builder specification," A1 reported, the kind of precision that meant something was deeply wrong. "Structural integrity is being maintained through non-Builder augmentation. The original frequency stabilization matrices have been supplemented with — " A pause, processing. "With what I can only describe as improvised harmonic scaffolding. The work is elegant, in its way. Someone has been keeping this Station alive through sheer accumulated expertise."
+"Toll Station Theta-9 is operating at approximately sixty-three percent Builder specification," A1 reported. "Structural integrity is being maintained through non-Builder augmentation. The original frequency stabilization matrices have been supplemented with — " A pause. "With what I can only describe as improvised harmonic scaffolding. Someone has been keeping this Station alive through sheer accumulated expertise."
 
 "Non-Builder augmentation," Pixel repeated. She was standing at the observation port, arms crossed, watching the distant shimmer of Theta-9 resolve through the static. The Station looked like a Builder original wrapped in something added later — geometric perfection interrupted by patched seams, clean lines interrupted by the slight bulge of added modules. Like someone had taken a cathedral and built a village around its base. "Someone being Sable Voss?"
 
@@ -136,7 +137,7 @@ The little cylindrical informant had been rolled into the commerce hall by Nano,
 
 "Seven-Three," Pixel said. "You intercepted the original distress signal. Walk us through what you found."
 
-The bot's vocoder crackled. "Signal origin: Sublevel Seven, Builder Archive Theta-9-Alpha. Modulation: harmonic bifurcation sequence, Builder-era standard. Content: compressed data package, approximately 2.3 terahertz of stored information. Beacon pattern: repeating distress, with embedded priority designation." A pause. "The priority designation is the interesting part. The Builders used a分级 system for their distress signals. Priority One meant 'situation requiring immediate response.' Priority Two meant 'situation requiring eventual response.' Priority Three meant 'message for future recipients.'"
+The bot's vocoder crackled. "Signal origin: Sublevel Seven, Builder Archive Theta-9-Alpha. Modulation: harmonic bifurcation sequence, Builder-era standard. Content: compressed data package, approximately 2.3 terahertz of stored information. Beacon pattern: repeating distress, with embedded priority designation." A pause. "The priority designation is the interesting part. The Builders used a分级系统 for their distress signals. Priority One meant 'situation requiring immediate response.' Priority Two meant 'situation requiring eventual response.' Priority Three meant 'message for future recipients.'"
 
 "What's the designation on this one?"
 
@@ -178,7 +179,7 @@ Voss felt it too. Her copper skin had gone slightly pale.
 
 "You're not just an old bot," she said. "You're something else. Something the Builders made."
 
-"I'm something the Builders hoped would survive," Clive said. "They were not always correct about what survived. But they were very good at leaving messages for the future." He extended his hand — the gesture strange from a being who didn't usually offer伸出手. "Let me show you what they left. Let me show you what the toll roads were always meant to carry."
+"I'm something the Builders hoped would survive," Clive said. "They were not always correct about what survived. But they were very good at leaving messages for the future." He extended his hand. "Let me show you what they left. Let me show you what the toll roads were always meant to carry."
 
 Voss looked at his hand for a long moment.
 
@@ -234,7 +235,7 @@ The corridor hummed with new stability — Builder harmonics restored, fed by th
 
 And Clive, for the first time in eight hundred years, remembered what he was supposed to do.
 
-## Epilogue — What We Carried Forward
+## Epilogue
 
 The *Aether Meridian* broke orbit of Theta-9 three days later.
 
@@ -253,6 +254,18 @@ Clive stood at the observation port, watching the Station shrink behind them. Hi
 "Sounds like a long trip," Pixel said.
 
 "It will be," Clive agreed. He smiled — a rare expression, strange and warm on his mechanical face. "But I've gotten good at long trips. Eight hundred years of practice."
+
+A pause. The kind that used to be gaps and were becoming something else. Clive's glow steadied — blue-white, calm, the color of a being who had finally stopped waiting.
+
+"The crossing is the point," he said quietly. "Not the staying. Not the arrival. The crossing."
+
+Pixel looked at him. "What do you mean?"
+
+"I mean—" Clive paused. His fedora shifted — a tiny adjustment, barely perceptible. "The archive wasn't a destination. It was a passage. The message the Builders left wasn't a conclusion. It was a waypoint. We're not here to stay. We're here to pass through. To carry what we've learned to the next corridor, the next signal, the next frequency that needs to be found."
+
+He turned back to the viewport. The Station was almost gone from view — just a shimmer in the static now, a memory of geometry.
+
+"The staying would be the end," he said. "The staying would be silence. But the crossing — the crossing is how the signal survives. The crossing is how the story continues."
 
 Zephyr laughed from the communications array. Nano was already running calculations for their next approach vector. Meatball's tail had finally relaxed, his ears tracking the familiar hum of the *Meridian's* engines.
 

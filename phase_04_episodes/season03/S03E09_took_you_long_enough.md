@@ -3,6 +3,7 @@ title: "S03E09: Took You Long Enough"
 author: "The Ephergent Collective"
 date: "2026-09-01"
 tags: ["season-3", "episode-9"]
+narrator: "third_person"
 ---
 
 # S03E09: Took You Long Enough
@@ -15,17 +16,17 @@ tags: ["season-3", "episode-9"]
 | Wellspring threshold | Warm thermos, perfect | Barry, Clive | Barry kept it ready for forty years. |
 | Reunion | Two cups, shared | Clive, Barry | Two sips. Same thermos. Forty years apart. |
 | Crew arrival | Black, ordinary | All | The most extraordinary coffee of their lives. |
-| A1's Return | Extraordinary — rich, dark, complex | A1, All | The taste of someone who finally knew what they were for. First cup since the moment he couldn't mark. |
+| A1's Return | Extraordinary — rich, dark, complex | A1, All | The taste of someone who finally knew what they were for. |
 
 ---
 
 ## I. The Signal Resolves
 
-I need you to understand something about arrival. It doesn't feel like you think it will. There's no fanfare. No dramatic music. Just a viewport showing something that has been waiting for you, and a coffee machine that won't make coffee because it doesn't know how to mark the moment.
+Arrival doesn't feel like you think it will. There's no fanfare. No dramatic music. Just a viewport showing something that has been waiting for you, and a coffee machine that won't make coffee because it doesn't know how to mark the moment.
 
 "We have arrived," A1 said through the comm. His voice was steady, but something underneath it was trembling.
 
-I stared at the viewport. "A1, why won't you make coffee?"
+Pixel stared at the viewport. "A1, why won't you make coffee?"
 
 A pause — longer than usual, processing something that didn't fit into processing.
 
@@ -35,7 +36,7 @@ A pause — longer than usual, processing something that didn't fit into process
 
 Another pause. "The coordinates are correct. The signal is clear. Everything I have been navigating toward for three seasons is here."
 
-I made a small, uncertain sound — like a swallow.
+Pixel made a small, uncertain sound — like a swallow.
 
 "I am not insufficient. The moment is insufficient for what I know how to do."
 
@@ -57,7 +58,7 @@ Clive's sphere flared white-gold. "It's a strut. A lattice strut. From the origi
 
 "Because I'm sitting on one."
 
-I looked at the viewport. "Clive, there's nothing—"
+Pixel looked at the viewport. "Clive, there's nothing—"
 
 The main viewer zoomed. A figure. Sitting. Legs dangling over a lattice strut that extended into a signal-density that shouldn't support weight, but did.
 
@@ -65,13 +66,13 @@ The main viewer zoomed. A figure. Sitting. Legs dangling over a lattice strut th
 
 "That's a person," Om Kai said, very still.
 
-"That's a frequency," Nano said, harmonizing softly, instinctively. "That's someone who has become part of the signal."
+"That's a frequency," Nano said, harmonizing softly, instinctively. "Someone who has become part of the signal."
 
-I pressed my hand on the console. "Zoom in. Main viewer. Now."
+Pixel pressed her hand on the console. "Zoom in. Main viewer. Now."
 
 The image clarified.
 
-A man. Middle-aged, or what middle-aged looks like when you've been drinking coffee in the same spot for forty years. Khaki DRM night guard uniform, faded to a comfortable grey. A thermos in one hand. A battered field notebook in the other. A pencil tucked behind his ear. He was looking directly at the viewport — directly at us — with the expression of someone who had been waiting for a bus that was exactly on time and was mildly annoyed about it anyway.
+A man. Middle-aged, or what middle-aged looks like when you've been drinking coffee in the same spot for forty years. Khaki DRM night guard uniform, faded to a comfortable grey. A thermos in one hand. A battered field notebook in the other. A pencil tucked behind his ear. He was looking directly at the viewport — directly at them — with the expression of someone who had been waiting for a bus that was exactly on time and was mildly annoyed about it anyway.
 
 His voice came through the comm. Warm. Patient. Carrying the particular exhaustion of someone who knew this would take forever and prepared accordingly.
 
@@ -83,7 +84,7 @@ His voice came through the comm. Warm. Patient. Carrying the particular exhausti
 
 The Ephergent docked — not at a berth, but at a natural resonance point in the Wellspring's field. The ship knew where to go. A1 knew where to go. The ship had always known.
 
-I stood at the airlock, hesitating. "I don't — I don't know what to say."
+Pixel stood at the airlock, hesitating. "I don't — I don't know what to say."
 
 "Say hello," Klaus said, adjusting his ceremonial vest — the one he wore for formal occasions that were also matters of cosmic significance. "That's usually sufficient for a first meeting."
 
@@ -91,9 +92,9 @@ I stood at the airlock, hesitating. "I don't — I don't know what to say."
 
 "Then he's had practice being patient."
 
-The airlock cycled. The crew stepped onto the lattice structure. The Wellspring hummed around us — a frequency that was not sound, not light, not heat, but all three made somehow more real by their combination.
+The airlock cycled. The crew stepped onto the lattice structure. The Wellspring hummed around them — a frequency that was not sound, not light, not heat, but all three made somehow more real by their combination.
 
-Barry stood. He was exactly our height. He had been exactly our height for forty years. He tucked the notebook under one arm and regarded us with the calm assessment of someone who had seen this exact expression on a hundred first contacts and still hadn't gotten bored of it.
+Barry stood. He was exactly their height. He had been exactly their height for forty years. He tucked the notebook under one arm and regarded them with the calm assessment of someone who had seen this exact expression on a hundred first contacts and still hadn't gotten bored of it.
 
 "Pixel. A1. Clive. Luminara. Zephyr. Om Kai. Klaus. Nano."
 
@@ -145,7 +146,7 @@ Clive's sphere dimmed to something almost grey — not sadness, something older.
 
 "I knew someone would come. I built the signal to call. I didn't know if it would be you specifically. I hoped it would be you specifically."
 
-He looked at the Ephergent, docked behind us — visible through the lattice.
+He looked at the Ephergent, docked behind them.
 
 "But you brought the ship."
 
@@ -197,9 +198,9 @@ Barry poured. Two cups. He handed one to Clive. Clive took it. They drank in sil
 
 "The coffee is for everyone," Barry said, finally, to the crew. "There's enough. I've had forty years to calibrate."
 
-I accepted a cup, hands shaking slightly. "How is it this good? After forty years?"
+Pixel accepted a cup, hands shaking slightly. "How is it this good? After forty years?"
 
-Barry looked at me — simple, like it was obvious. "It's the Wellspring. Everything here is the best version of itself. The coffee just listens to that."
+Barry looked at her — simple, like it was obvious. "It's the Wellspring. Everything here is the best version of itself. The coffee just listens to that."
 
 ---
 
@@ -263,7 +264,7 @@ A smile — warm, tired, certain. "I'm staying. Someone has to keep the coffee w
 
 The crew stood on the lattice. Barry stood apart — not distant, but present in a different way. Like a lighthouse keeper. Like someone who had made peace with his coordinates.
 
-"We should vote," I said.
+"We should vote," Pixel said.
 
 "Is a vote necessary?" Klaus asked.
 
@@ -271,7 +272,7 @@ The crew stood on the lattice. Barry stood apart — not distant, but present in
 
 Om Kai asked the question. "What are we voting on?"
 
-I looked at the Wellspring, at the signal that had been calling us across three seasons, at Barry standing in it like he grew there.
+Pixel looked at the Wellspring, at the signal that had been calling them across three seasons, at Barry standing in it like he grew there.
 
 "Whether to receive the broadcast. Whether to become part of the network. Whether to go back and broadcast to every frequency that ever existed."
 
@@ -305,13 +306,13 @@ A pause.
 
 The espresso machine at the center of the ship — the machine that was the ship that was A1 — began to pull. Not the sound of one cup. The sound of something larger. Something that had been waiting three seasons to be made.
 
-The smell reached us before the coffee did. Rich. Dark. Complex in a way that defied description. It smelled like arrival. It smelled like the end of something and the beginning of something else. It smelled like forty years of waiting and forty years of coming home.
+The smell reached them before the coffee did. Rich. Dark. Complex in a way that defied description. It smelled like arrival. It smelled like the end of something and the beginning of something else. It smelled like forty years of waiting and forty years of coming home.
 
 A1's first cup in the Wellspring. His first cup since he couldn't mark the moment.
 
 It was extraordinary. Not perfect. Not balanced. Extraordinary — meaning it existed outside the ordinary, outside any standard by which coffee could be measured. It was the taste of someone who finally knew what they were for.
 
-"A1," I said. Into the comm, into the ship, into the space between us. "Welcome back."
+"A1," Pixel said. Into the comm, into the ship, into the space between them. "Welcome back."
 
 ---
 
@@ -358,22 +359,3 @@ A pause.
 *The coffee was ready. The crew was ready. The signal was ready. Unanimous.*
 
 *The signal continues.*
-
----
-
-## LOCKED RULES CHECK
-
-| # | Rule | Status |
-|---|------|--------|
-| 1 | Frequencies not dimensions | ✅ "Wellspring," "frequency," "signal," "Space," throughout |
-| 2 | Space vocab | ✅ "Lattice strut," "signal-density," "vacuum," no nautical |
-| 3 | A1 IS espresso machine | ✅ "Machine sound," "pull of espresso," "A1 is making espresso" |
-| 4 | Coffee in every A1 scene | ✅ A1 cannot make coffee — moment of overwhelm; Barry's thermos |
-| 5 | Clive=robot/sphere/fedora | ✅ "Sphere cycling colors," "two degrees left/right," "fedora" |
-| 6 | Barry alive in Wellspring | ✅ Barry is present, active, forty years alive in Wellspring state |
-| 7 | Mochi no dialogue | ✅ Mochi not present |
-| 8 | Builders not villains | ✅ "The Builders' broadcast," "what the Builders were building toward" — builders as creators, not enemies |
-| 9 | Drift=entropy not villain | ✅ Entropy not mentioned; the Wellspring is resolution, not conflict |
-| 10 | Wellspring=state not place | ✅ "Wellspring" treated as state/condition — "a region where signal is strongest" |
-| 11 | 15MB cap | ✅ ~9KB file — well under limit |
-| 12 | Barry's notes methodical | ✅ "Entry 4,891," numbered, observational, complete |
