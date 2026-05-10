@@ -1,0 +1,391 @@
+/* ephergent-terminal.css — CRT Phosphor Terminal Theme */
+
+/* === Color Palette === */
+:root {
+  --bg:          #08080d;
+  --fg:          #e8e8f0;
+  --amber:       #ffb020;
+  --cyan:        #00d4ff;
+  --green:       #00e676;
+  --red:         #ff4444;
+  --dim:         #606080;
+
+  --glow-cyan:   rgba(0, 212, 255, 0.15);
+  --glow-amber:  rgba(255, 176, 32, 0.12);
+}
+
+/* === Base Terminal === */
+.ephergent-terminal {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--fg);
+  overflow: hidden;
+  cursor: default;
+  user-select: none;
+}
+
+/* === CRT Overlay Effects === */
+
+/* Scanlines — fixed overlay, non-interactive */
+.terminal-scanlines {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1000;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 2px,
+    rgba(0, 0, 0, 0.15) 2px,
+    rgba(0, 0, 0, 0.15) 4px
+  );
+}
+
+/* Vignette — radial gradient darkening at edges */
+.terminal-vignette {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 999;
+  background: radial-gradient(
+    ellipse at center,
+    transparent 50%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+}
+
+/* Phosphor glow — ambient cyan radial behind text */
+.terminal-glow {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  background: radial-gradient(
+    ellipse at 50% 80%,
+    var(--glow-cyan) 0%,
+    transparent 60%
+  );
+}
+
+/* === Terminal Window Layout === */
+.terminal-window {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  z-index: 10;
+}
+
+/* Output area — scrolls */
+.terminal-output {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 1rem 1.5rem 0.5rem;
+  scroll-behavior: smooth;
+}
+
+/* Hide scrollbar, keep functionality */
+.terminal-output::-webkit-scrollbar {
+  width: 0;
+}
+
+/* Input line — fixed at bottom */
+.terminal-input-line {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1.5rem 1rem;
+  border-top: 1px solid var(--dim);
+  flex-shrink: 0;
+}
+
+.terminal-prompt {
+  color: var(--cyan);
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+.terminal-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--fg);
+  font-family: inherit;
+  font-size: inherit;
+  caret-color: var(--cyan);
+}
+
+.terminal-input::placeholder {
+  color: var(--dim);
+}
+
+/* === Text Styling === */
+.terminal-text {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.terminal-amber {
+  color: var(--amber);
+}
+
+.terminal-cyan {
+  color: var(--cyan);
+}
+
+.terminal-green {
+  color: var(--green);
+}
+
+.terminal-red {
+  color: var(--red);
+}
+
+.terminal-dim {
+  color: var(--dim);
+}
+
+.terminal-italic {
+  font-style: italic;
+}
+
+/* Signal's voice — amber italic */
+.signal-voice {
+  color: var(--amber);
+  font-style: italic;
+}
+
+/* DoRM ghost — dim or amber, slightly de-emphasized */
+.dorm-ghost {
+  color: var(--dim);
+}
+
+/* Command echo */
+.command-echo {
+  color: var(--cyan);
+}
+
+/* === Content Blocks === */
+.terminal-header {
+  color: var(--amber);
+  font-weight: bold;
+  margin: 1rem 0 0.5rem;
+}
+
+.terminal-divider {
+  color: var(--dim);
+  margin: 0.5rem 0;
+}
+
+.terminal-box {
+  border: 1px solid var(--dim);
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+}
+
+/* === Boot Sequence === */
+.boot-line {
+  color: var(--fg);
+  margin: 0.1rem 0;
+}
+
+.boot-line-dim {
+  color: var(--dim);
+}
+
+.boot-line-amber {
+  color: var(--amber);
+}
+
+.boot-line-green {
+  color: var(--green);
+}
+
+/* === Glitch Effects === */
+
+/* Text scramble — characters cycle randomly before resolving */
+.glitch-text {
+  animation: glitch-text 200ms steps(1);
+}
+
+@keyframes glitch-text {
+  0%   { opacity: 0.5; }
+  25%  { color: var(--cyan); transform: translateX(1px); }
+  50%  { color: var(--amber); transform: translateX(-1px); }
+  75%  { opacity: 0.8; }
+  100% { opacity: 1; transform: translateX(0); }
+}
+
+/* Screen tear — single horizontal line briefly offset */
+.screen-tear {
+  animation: screen-tear 150ms steps(1);
+}
+
+@keyframes screen-tear {
+  0%   { clip-path: inset(40% 0 40% 0); transform: translateX(3px); }
+  50%  { clip-path: inset(40% 0 40% 0); transform: translateX(-3px); }
+  100% { clip-path: inset(40% 0 40% 0); transform: translateX(0); }
+}
+
+/* Flicker burst — 3 rapid opacity changes on content load */
+.flicker-burst {
+  animation: flicker-burst 300ms ease-out;
+}
+
+@keyframes flicker-burst {
+  0%   { opacity: 0.3; }
+  20%  { opacity: 1; }
+  40%  { opacity: 0.5; }
+  60%  { opacity: 1; }
+  80%  { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+
+/* Subtle flicker — continuous, respects prefers-reduced-motion */
+.subtle-flicker {
+  animation: subtle-flicker 0.1s infinite;
+}
+
+@keyframes subtle-flicker {
+  0%   { opacity: 0.97; }
+  50%  { opacity: 1; }
+  100% { opacity: 0.98; }
+}
+
+/* === Loading State === */
+.loading-cursor::after {
+  content: '...';
+  animation: loading-dots 500ms infinite;
+}
+
+@keyframes loading-dots {
+  0%   { content: ''; }
+  25%  { content: '.'; }
+  50%  { content: '..'; }
+  75%  { content: '...'; }
+}
+
+/* === Audio Player Block === */
+.audio-block {
+  border: 1px solid var(--green);
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+  font-family: inherit;
+}
+
+.audio-block-paused {
+  border-color: var(--amber);
+}
+
+.audio-block-stopped {
+  border-color: var(--dim);
+}
+
+.audio-progress {
+  color: var(--green);
+  letter-spacing: 0;
+}
+
+.audio-label {
+  color: var(--fg);
+  font-weight: bold;
+}
+
+.audio-time {
+  color: var(--dim);
+}
+
+.audio-controls {
+  color: var(--cyan);
+  font-size: 12px;
+}
+
+/* ASCII Waveform */
+.waveform {
+  color: var(--green);
+  letter-spacing: -1px;
+  font-size: 12px;
+}
+
+/* === Cursor Blink === */
+.cursor-blink {
+  animation: cursor-blink 1s step-start infinite;
+}
+
+@keyframes cursor-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* === Idle State (60s+) === */
+.idle-prompt {
+  color: var(--dim);
+  font-style: italic;
+}
+
+/* === Accessibility — reduce motion === */
+@media (prefers-reduced-motion: reduce) {
+  .subtle-flicker,
+  .flicker-burst,
+  .glitch-text,
+  .screen-tear {
+    animation: none;
+  }
+
+  .terminal-scanlines {
+    display: none;
+  }
+}
+
+/* === Debug Mode Badge === */
+.debug-badge {
+  position: fixed;
+  top: 0.5rem;
+  right: 0.5rem;
+  color: var(--dim);
+  font-size: 10px;
+  z-index: 2000;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* === Error Flash === */
+.error-flash {
+  animation: error-flash 150ms ease-out;
+}
+
+@keyframes error-flash {
+  0%   { color: var(--red); background: rgba(255, 68, 68, 0.1); }
+  100% { background: transparent; }
+}
+
+/* === Tab Completion Dropdown === */
+.completion-dropdown {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  background: var(--bg);
+  border: 1px solid var(--dim);
+  max-height: 200px;
+  overflow-y: auto;
+  min-width: 200px;
+  z-index: 100;
+}
+
+.completion-item {
+  padding: 0.2rem 0.5rem;
+  cursor: pointer;
+  color: var(--cyan);
+}
+
+.completion-item:hover,
+.completion-item.selected {
+  background: var(--dim);
+  color: var(--fg);
+}

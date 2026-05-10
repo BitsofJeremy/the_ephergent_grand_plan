@@ -1,0 +1,499 @@
+---
+// terminal.astro — Ephergent Signal Station Terminal
+// Full terminal interface: CRT phosphor aesthetic, Signal's voice, Unix-style commands
+
+import '../styles/terminal.css';
+---
+
+<div class="ephergent-terminal" id="terminal">
+  <!-- CRT Overlay Effects -->
+  <div class="terminal-scanlines" aria-hidden="true"></div>
+  <div class="terminal-vignette" aria-hidden="true"></div>
+  <div class="terminal-glow" aria-hidden="true"></div>
+
+  <!-- Debug Badge (hidden by default) -->
+  <div class="debug-badge" id="debug-badge" style="display: none;">DEBUG</div>
+
+  <!-- Terminal Window -->
+  <div class="terminal-window">
+    <!-- Output Area -->
+    <div class="terminal-output" id="terminal-output" role="log" aria-live="polite" aria-label="Terminal output"></div>
+
+    <!-- Input Line -->
+    <div class="terminal-input-line">
+      <span class="terminal-prompt" id="terminal-prompt">Signal@relay-7b:~$</span>
+      <input
+        type="text"
+        class="terminal-input"
+        id="terminal-input"
+        autocomplete="off"
+        autocapitalize="off"
+        spellcheck="false"
+        aria-label="Terminal input"
+        placeholder="Type 'help' for available commands"
+      />
+    </div>
+  </div>
+</div>
+
+<script>
+  import {
+    Terminal,
+    BootSequence,
+    CommandParser,
+    Renderer,
+    SignalVoice,
+    GlitchEffects,
+    DoRMEngine,
+    AudioPlayer,
+  } from '../components/terminal';
+
+  // Check for debug mode
+  const urlParams = new URLSearchParams(window.location.search);
+  const isDebug = urlParams.get('debug') === 'true' || localStorage.getItem('DEBUG') === '1';
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // Initialize components
+  const terminal = document.getElementById('terminal') as HTMLElement;
+  const outputEl = document.getElementById('terminal-output') as HTMLElement;
+  const inputEl = document.getElementById('terminal-input') as HTMLInputElement;
+  const promptEl = document.getElementById('terminal-prompt') as HTMLElement;
+  const debugBadge = document.getElementById('debug-badge') as HTMLElement;
+
+  if (isDebug) {
+    debugBadge.style.display = 'block';
+  }
+
+  // Content data — in a real implementation, this would come from an API or content.json
+  const contentData = {
+    transmissions: [
+      { slug: 'S01E01_the_frequency', title: 'The Frequency', locked: false },
+      { slug: 'S01E02_ruins_and_ripples', title: 'Ruins and Ripples', locked: false },
+      { slug: 'S01E03_the_drm_archive', title: 'The DRM Archive', locked: false },
+      { slug: 'S01E04_when_the_moon_stopped_weeping', title: 'When the Moon Stopped Weeping', locked: false },
+      { slug: 'S01E05_the_clockwork_unraveling', title: 'The Clockwork Unraveling', locked: false },
+      { slug: 'S01E10_bureaucracy_frequency', title: 'Bureaucracy Frequency', locked: false },
+      { slug: 'S01E07_the_song_at_the_edge_of_everything', title: 'The Song at the Edge of Everything', locked: false },
+      { slug: 'S01E08_learning_to_be_large', title: 'Learning to Be Large', locked: false },
+      { slug: 'S01E09_the_sound_that_wants_to_come_home', title: 'The Sound That Wants to Come Home', locked: false },
+      { slug: 'S01E10_barrys_desk', title: "Barry's Desk", locked: false },
+      { slug: 'S02E01_first_station', title: 'First Station', locked: true },
+      { slug: 'S02E02_the_color_of_forgetting', title: 'The Color of Forgetting', locked: true },
+      { slug: 'S02E03_meatballs_frequency', title: "Meatball's Frequency", locked: true },
+      { slug: 'S02E04_toll_roads_and_trade_winds', title: 'Toll Roads and Trade Winds', locked: true },
+      { slug: 'S02E05_wreckage_and_will', title: 'Wreckage and Will', locked: true },
+      { slug: 'S02E06_the_notebooks_echo', title: 'The Notebooks Echo', locked: true },
+      { slug: 'S02E07_the_boneyard_of_beautiful_things', title: 'The Boneyard of Beautiful Things', locked: true },
+      { slug: 'S02E08_signal_crossings', title: 'Signal Crossings', locked: true },
+      { slug: 'S02E09_clives_coordinates', title: "Clive's Coordinates", locked: true },
+      { slug: 'S02E10_the_frequency_and_the_future', title: 'The Frequency and the Future', locked: true },
+      { slug: 'S03E01_where_the_frequencies_have_no_name', title: 'Where the Frequencies Have No Name', locked: true },
+      { slug: 'S03E02_the_boneyard_of_beautiful_things', title: 'The Boneyard of Beautiful Things', locked: true },
+      { slug: 'S03E03_the_threshold', title: 'The Threshold', locked: true },
+      { slug: 'S03E04_the_day_that_loved_itself_to_death', title: 'The Day That Loved Itself to Death', locked: true },
+      { slug: 'S03E05_the_loudest_thing_in_the_room_is_nothing', title: 'The Loudest Thing in the Room Is Nothing', locked: true },
+      { slug: 'S03E06_my_brother_the_broadcast', title: 'My Brother the Broadcast', locked: true },
+      { slug: 'S03E07_every_ship_that_ever_sailed_this_far', title: 'Every Ship That Ever Sailed This Far', locked: true },
+      { slug: 'S03E08_the_atlas_opens', title: 'The Atlas Opens', locked: true },
+      { slug: 'S03E08x_the_dimming_hour', title: 'The Dimming Hour', locked: true },
+      { slug: 'S03E08y_the_machine_that_grew', title: 'The Machine That Grew', locked: true },
+      { slug: 'S03E09_took_you_long_enough', title: 'Took You Long Enough', locked: true },
+      { slug: 'S03E10_the_signal_was_us_all_along', title: 'The Signal Was Us All Along', locked: true },
+      { slug: 'S03E11_the_green_listening', title: 'The Green Listening', locked: true },
+    ],
+    atlas: [
+      { slug: 'prime-material', title: 'Prime Material', type: 'Dimension' },
+      { slug: 'nocturne-aeturnus', title: 'Nocturne Aeturnus', type: 'Dimension' },
+      { slug: 'cogsworth-cogitarium', title: 'Cogsworth Cogitarium', type: 'Dimension' },
+      { slug: 'verdantia', title: 'Verdantia', type: 'Dimension' },
+      { slug: 'the-edge', title: 'The Edge', type: 'Dimension' },
+      { slug: 'the-space', title: 'The Space', type: 'Concept' },
+      { slug: 'the-drift', title: 'The Drift', type: 'Concept' },
+      { slug: 'the-wellspring', title: 'The Wellspring', type: 'Concept' },
+      { slug: 'silence-zones', title: 'Silence Zones', type: 'Phenomenon' },
+    ],
+    crew: [
+      { slug: 'pixel-paradox', title: 'Pixel Paradox', type: 'Primary Narrator' },
+      { slug: 'a1', title: 'A1 / Arc', type: 'Ship AI' },
+      { slug: 'clive', title: 'Clive', type: 'Builder Companion' },
+      { slug: 'mochi', title: 'Mochi', type: 'Builder Companion' },
+      { slug: 'barry-kowalski', title: 'Barry Kowalski', type: 'Field Correspondent' },
+      { slug: 'meatball', title: 'Meatball', type: 'Engineer' },
+      { slug: 'nano', title: 'Nano', type: 'Navigator' },
+      { slug: 'om-kai', title: 'Om Kai', type: 'Frequency Specialist' },
+      { slug: 'zephyr-glitch', title: 'Zephyr Glitch', type: 'Technician' },
+      { slug: 'baron-klaus', title: 'Baron Klaus', type: 'Archivist' },
+    ],
+    games: [
+      { slug: 'tune-the-dial', title: 'Tune the Dial', type: 'Interactive' },
+      { slug: 'static-run', title: 'Static Run', type: 'Interactive' },
+      { slug: 'builder-station', title: 'Builder Station', type: 'Interactive' },
+      { slug: 'the-wellspring', title: 'The Wellspring', type: 'Interactive' },
+      { slug: 'the-laughing-funeral', title: 'The Laughing Funeral', type: 'Interactive' },
+      { slug: 'meatballs-big-walk', title: "Meatball's Big Walk", type: 'Interactive' },
+    ],
+    signal: [
+      { slug: 'origin-story', title: "Signal's Origin", type: 'Narrator' },
+    ],
+  };
+
+  // Initialize systems
+  const bootSeq = new BootSequence({
+    isDebug,
+    reducedMotion,
+  });
+
+  const signalVoice = new SignalVoice({ debug: isDebug });
+  const glitch = new GlitchEffects({ enabled: true, reducedMotion });
+  const dormEngine = new DoRMEngine({ frequency: isDebug ? 0.5 : 0.25, debug: isDebug });
+  const renderer = new Renderer({ maxWidth: 72 });
+  const audioPlayer = new AudioPlayer({
+    audioBasePath: '/audio/',
+  });
+
+  // Terminal state
+  let cwd = bootSeq.getCwd();
+  let commandHistory: string[] = JSON.parse(localStorage.getItem('ephergent_history') || '[]');
+  let historyIndex = -1;
+
+  // Append output to terminal
+  function appendOutput(lines: { text: string; className?: string; isHtml?: boolean }[]): void {
+    for (const line of lines) {
+      const p = document.createElement('div');
+      p.className = `terminal-text ${line.className || ''}`;
+      if (line.isHtml) {
+        p.innerHTML = line.text;
+      } else {
+        p.textContent = line.text;
+      }
+      outputEl.appendChild(p);
+    }
+    outputEl.scrollTop = outputEl.scrollHeight;
+  }
+
+  // Clear output
+  function clearOutput(): void {
+    outputEl.innerHTML = '';
+  }
+
+  // Get current prompt
+  function getPrompt(): string {
+    return `Signal@relay-7b:${cwd}$`;
+  }
+
+  // Update prompt display
+  function updatePrompt(): void {
+    promptEl.textContent = getPrompt();
+  }
+
+  // Boot sequence
+  function runBootSequence(): void {
+    const lines: { text: string; className?: string }[] = [];
+
+    if (bootSeq.shouldShowFullBoot()) {
+      const fullBootLines = bootSeq.getFullBootLines();
+      for (const line of fullBootLines) {
+        lines.push({ text: line, className: 'boot-line' });
+      }
+      const signalMsg = signalVoice.getRandomBootMessage();
+      for (const msg of signalMsg) {
+        lines.push({ text: msg, className: 'signal-voice' });
+      }
+
+      if (isDebug) {
+        for (const dbgLine of bootSeq.getDebugInfo()) {
+          lines.push({ text: dbgLine, className: 'terminal-dim' });
+        }
+      }
+    } else if (bootSeq.shouldShowDormancyBoot()) {
+      const bootLines = bootSeq.getBootLines();
+      for (const line of bootLines) {
+        lines.push({ text: line, className: 'boot-line' });
+      }
+      const signalMsg = signalVoice.getSignalMessage('dormancy');
+      for (const msg of signalMsg) {
+        lines.push({ text: msg, className: 'signal-voice' });
+      }
+
+      if (isDebug) {
+        for (const dbgLine of bootSeq.getDebugInfo()) {
+          lines.push({ text: dbgLine, className: 'terminal-dim' });
+        }
+      }
+    } else {
+      const signalMsg = signalVoice.getSignalMessage('return');
+      for (const msg of signalMsg) {
+        lines.push({ text: msg, className: 'signal-voice' });
+      }
+    }
+
+    for (const line of lines) {
+      appendOutput([line]);
+    }
+
+    bootSeq.recordVisit();
+    updatePrompt();
+  }
+
+  // Command parser
+  const commandParser = new CommandParser({
+    cwd,
+    setCwd: (path: string) => {
+      cwd = path;
+      bootSeq.setCwd(path);
+      updatePrompt();
+    },
+    content: contentData,
+    audioPlayer: {
+      play: async (slug: string) => {
+        await audioPlayer.play(slug);
+      },
+      pause: () => audioPlayer.pause(),
+      stop: () => audioPlayer.stop(),
+      getState: () => audioPlayer.getState(),
+    },
+  });
+
+  // Execute command
+  async function executeCommand(input: string): Promise<void> {
+    if (!input.trim()) return;
+
+    // Echo command
+    appendOutput([{ text: `${getPrompt()} ${input}`, className: 'command-echo' }]);
+
+    // Add to history
+    commandHistory.push(input);
+    if (commandHistory.length > 100) commandHistory.shift();
+    localStorage.setItem('ephergent_history', JSON.stringify(commandHistory));
+    historyIndex = -1;
+
+    // Parse and execute
+    const parts = input.trim().split(/\s+/);
+    const command = parts[0];
+    const args = parts.slice(1);
+
+    switch (command) {
+      case 'help':
+        appendOutput(commandParser.execute('help'));
+        break;
+
+      case 'cd':
+        appendOutput(commandParser.execute(`cd ${args[0] || '/'}`));
+        if (dormEngine.shouldIntrude()) {
+          appendOutput(dormEngine.getIntrusionForContext('navigate'));
+        }
+        break;
+
+      case 'ls':
+        appendOutput(await commandParser.execute(`ls ${args[0] || cwd}`));
+        if (dormEngine.shouldIntrude()) {
+          appendOutput(dormEngine.getIntrusionForContext('navigate'));
+        }
+        break;
+
+      case 'cat':
+        appendOutput(await commandParser.execute(`cat ${args[0]}`));
+        if (dormEngine.shouldIntrude()) {
+          appendOutput(dormEngine.getIntrusionForContext('cat'));
+        }
+        glitch.triggerFlickerBurst(outputEl);
+        break;
+
+      case 'pwd':
+        appendOutput([{ text: cwd }]);
+        break;
+
+      case 'clear':
+        clearOutput();
+        return;
+
+      case 'history':
+        if (commandHistory.length === 0) {
+          appendOutput([{ text: 'No command history.', className: 'terminal-dim' }]);
+        } else {
+          const historyLines = [{ text: 'Command History:', className: 'terminal-amber' }];
+          for (let i = 0; i < commandHistory.length; i++) {
+            historyLines.push({ text: `  ${i + 1}  ${commandHistory[i]}`, className: 'terminal-fg' });
+          }
+          appendOutput(historyLines);
+        }
+        break;
+
+      case 'play':
+        appendOutput(await commandParser.execute(`play ${args[0]}`));
+        if (dormEngine.shouldIntrude()) {
+          appendOutput(dormEngine.getIntrusionForContext('play'));
+        }
+        glitch.triggerScreenTear(outputEl);
+        break;
+
+      case 'pause':
+        audioPlayer.pause();
+        appendOutput([{ text: audioPlayer.getState().paused ? '⏸ PAUSED' : 'Playback paused', className: 'terminal-amber' }]);
+        break;
+
+      case 'stop':
+        audioPlayer.stop();
+        appendOutput([{ text: '⏹ STOPPED', className: 'terminal-dim' }]);
+        break;
+
+      case 'audio':
+        const playerBlock = audioPlayer.getPlayerBlock();
+        if (playerBlock.length > 0) {
+          appendOutput(playerBlock.map(line => ({ text: line, className: 'terminal-green' })));
+        } else {
+          appendOutput([{ text: 'No audio playing. Type `play [slug]` to broadcast.', className: 'terminal-dim' }]);
+        }
+        break;
+
+      case 'signal':
+        const interjection = signalVoice.getInterjection('manual');
+        appendOutput([{ text: `"${interjection}"`, className: 'signal-voice' }]);
+        break;
+
+      case 'whoami':
+        appendOutput([
+          { text: 'EPHERGENT RELAY STATION 7-B', className: 'terminal-amber terminal-bold' },
+          { text: 'Department of Reality Maintenance — Abandoned', className: 'terminal-dim' },
+          { text: 'Operator: Signal (Narrator, non-corporeal)', className: 'terminal-dim' },
+          { text: 'Status: Dormant → Active', className: 'terminal-green' },
+        ]);
+        break;
+
+      default:
+        if (command) {
+          appendOutput([{ text: `Command not found: ${command}. Type 'help' for available commands.`, className: 'terminal-red error-flash' }]);
+          if (dormEngine.shouldIntrude()) {
+            appendOutput(dormEngine.getIntrusionForContext('error'));
+          }
+        }
+    }
+
+    // Show player block if audio is playing
+    const playerBlock = audioPlayer.getPlayerBlock();
+    if (playerBlock.length > 0 && command !== 'audio') {
+      appendOutput(playerBlock.map(line => ({ text: line, className: 'terminal-green' })));
+    }
+  }
+
+  // Keyboard handlers
+  inputEl.addEventListener('keydown', async (e) => {
+    switch (e.key) {
+      case 'Enter':
+        e.preventDefault();
+        await executeCommand(inputEl.value);
+        inputEl.value = '';
+        break;
+
+      case 'ArrowUp':
+        e.preventDefault();
+        if (commandHistory.length > 0) {
+          const newIndex = Math.min(commandHistory.length - 1, historyIndex + 1);
+          if (newIndex !== historyIndex) {
+            historyIndex = newIndex;
+            inputEl.value = commandHistory[commandHistory.length - 1 - newIndex];
+          }
+        }
+        break;
+
+      case 'ArrowDown':
+        e.preventDefault();
+        if (historyIndex > 0) {
+          historyIndex--;
+          inputEl.value = commandHistory[commandHistory.length - 1 - historyIndex];
+        } else if (historyIndex === 0) {
+          historyIndex = -1;
+          inputEl.value = '';
+        }
+        break;
+
+      case 'Tab':
+        e.preventDefault();
+        // TAB completion with word-boundary detection
+        const cursorPos = inputEl.selectionStart || inputEl.value.length;
+        const textBeforeCursor = inputEl.value.slice(0, cursorPos);
+        const wordPosition = textBeforeCursor.split(/\s+/).length;
+        const completions = commandParser.getCompletions(inputEl.value, wordPosition);
+
+        if (completions.length === 0) {
+          // No match
+          const interjection = signalVoice.getInterjection('no_match');
+          appendOutput([{ text: `"${interjection}"`, className: 'signal-voice' }]);
+        } else if (completions.length === 1) {
+          // Auto-insert single match
+          const parts = inputEl.value.trim().split(/\s+/);
+          if (wordPosition === 1) {
+            inputEl.value = completions[0] + ' ';
+          } else {
+            parts[parts.length - 1] = completions[0];
+            inputEl.value = parts.join(' ') + ' ';
+          }
+        } else {
+          // Multiple matches — show indexed menu
+          for (let i = 0; i < completions.length; i++) {
+            appendOutput([{ text: `  ${i + 1}. ${completions[i]}`, className: 'terminal-amber' }]);
+          }
+          const interjection = signalVoice.getInterjection('multiple_matches');
+          appendOutput([{ text: `"${interjection}"`, className: 'signal-voice' }]);
+        }
+        break;
+
+      case 'l':
+        if (e.ctrlKey) {
+          e.preventDefault();
+          clearOutput();
+        }
+        break;
+
+      case 'c':
+        if (e.ctrlKey) {
+          e.preventDefault();
+          appendOutput([{ text: '^C', className: 'terminal-cyan' }]);
+          inputEl.value = '';
+        }
+        break;
+    }
+
+    // Audio keyboard controls (always active when input not focused on audio)
+    if (!inputEl.matches(':focus')) {
+      if (audioPlayer.handleKeyboard(e.key)) {
+        e.preventDefault();
+      }
+    }
+  });
+
+  // Click anywhere to focus input
+  terminal.addEventListener('click', () => {
+    inputEl.focus();
+  });
+
+  // Idle detection — show Signal's idle message after 60s
+  let idleTimeout: number | null = null;
+  let isIdle = false;
+
+  function resetIdleTimer(): void {
+    if (idleTimeout) clearTimeout(idleTimeout);
+    if (isIdle) {
+      isIdle = false;
+    }
+    idleTimeout = window.setTimeout(() => {
+      if (!audioPlayer.getState().playing) {
+        isIdle = true;
+        appendOutput([{ text: 'Signal is patient...', className: 'terminal-dim terminal-italic' }]);
+      }
+    }, 60000);
+  }
+
+  document.addEventListener('mousemove', resetIdleTimer);
+  document.addEventListener('keydown', resetIdleTimer);
+
+  // Initialize
+  async function init(): Promise<void> {
+    glitch.startSubtleFlicker(terminal);
+    runBootSequence();
+    resetIdleTimer();
+    inputEl.focus();
+  }
+
+  init();
+</script>
