@@ -2,9 +2,9 @@
 # sync_to_website.sh — Sync episodes, lore, crew from grand_plan → ephergent.com
 # 
 # USAGE: ./scripts/sync_to_website.sh [--episodes] [--lore] [--crew] [--all]
-#   --episodes  sync phase_04_episodes → transmissions/
-#   --lore       sync phase_05_lore     → lore/
-#   --crew       sync phase_02_characters/crew → crew/
+#   --episodes  sync episodes → transmissions/
+#   --lore       sync lore     → lore/
+#   --crew       sync characters/crew → crew/
 #   --all        sync all three (default)
 #
 # IMPORTANT: Website frontmatter is PRESERVED. Source body overwrites, frontmatter stays.
@@ -101,7 +101,7 @@ PYEOF
 NAUTICAL_PATTERN='voyage|voyager|sailing|sailor|seafaring|seascape|sea[rt]|ocean|waves?|harbor|harbour|anchors?|maritime|nautical|boat[sz]?|ferry|captain.*ship|ship.*captain'
 
 validate_filenames() {
-  local src_dir="$GP/phase_04_episodes"
+  local src_dir="$GP/episodes"
   local violations=0
 
   echo "=== VALIDATING FILENAMES ==="
@@ -138,7 +138,7 @@ validate_filenames() {
 sync_episodes() {
   echo "=== SYNCING EPISODES ==="
 
-  local src_dir="$GP/phase_04_episodes"
+  local src_dir="$GP/episodes"
   local web_dir="$WEB/transmissions"
   local count=0
 
@@ -171,7 +171,7 @@ sync_episodes() {
 sync_lore() {
   echo "=== SYNCING LORE ==="
 
-  local src_dir="$GP/phase_05_lore"
+  local src_dir="$GP/lore"
   local web_dir="$WEB/lore"
   local count=0
 
@@ -200,7 +200,7 @@ sync_lore() {
 sync_crew() {
   echo "=== SYNCING CREW ==="
 
-  local src_dir="$GP/phase_02_characters"
+  local src_dir="$GP/characters"
   local web_dir="$WEB/crew"
   local count=0
 

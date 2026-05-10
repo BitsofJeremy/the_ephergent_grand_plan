@@ -29,6 +29,7 @@ Radio play series about a ship (The Ephergent) navigating **frequencies** — no
 | 10 | **The Wellspring is a state, not a place** | location, destination |
 | 11 | **15MB per-game hard cap** | (game adaptations) |
 | 12 | **Barry's notes are methodical, precise** | dramatic |
+| 13 | **Episodes are written in third person** | Signal narrates all episodes in third person, audio and web playback use this voice |
 
 ## The Cast
 

@@ -406,6 +406,7 @@ These 12 rules govern ALL content produced for The Ephergent:
 10. **The Wellspring is a state, not a place.**
 11. **15MB per-game hard cap.**
 12. **Barry's notes are never dramatic.**
+13. **Episodes are written in third person. Signal reads all episodes in third person.** Audio playback and web reading use third-person narration.
 
 ### Removed Elements (DO NOT Reference)
 - Corporate Corp / The Board
