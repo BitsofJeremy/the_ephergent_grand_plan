@@ -2,6 +2,9 @@
 title: "Bureaucracy Frequency"
 type: "episode"
 summary: "Pixel needs transportation authorization forms but has no emotional processing tokens — until a mispronounced Grabovoi code turns money into a bureaucracy nightmare."
+author: "The Ephergent Collective"
+date: "2025-05-09"
+tags: ["season-1", "episode-10", "grabovoi"]
 season: 1
 episode: 10
 narrator: "third_person"

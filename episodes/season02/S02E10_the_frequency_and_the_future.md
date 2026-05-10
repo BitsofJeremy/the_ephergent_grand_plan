@@ -2,6 +2,9 @@
 title: "The Frequency and the Future"
 type: "episode"
 summary: "Pixel uses her first deliberate Grabovoi code — 519 714 8 — and discovers that telling the universe 'everything is possible' has real consequences."
+author: "The Ephergent Collective"
+date: "2025-05-09"
+tags: ["season-2", "episode-10", "grabovoi"]
 season: 2
 episode: 10
 narrator: "third_person"

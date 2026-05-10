@@ -2,8 +2,12 @@
 title: "The Machine That Grew"
 type: "episode"
 summary: "An experimental episode told entirely through Grabovoi code sequences — a Builder machine awakens and broadcasts its original purpose across the frequencies."
+author: "The Ephergent Collective"
+date: "2025-05-09"
+tags: ["season-3", "episode-8", "grabovoi"]
 season: 3
 episode: 8
+narrator: "third_person"
 ---
 
 # The Machine That Grew
