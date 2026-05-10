@@ -10,8 +10,8 @@ import os
 from PIL import Image
 from pathlib import Path
 
-# Character set: dark → light (works well on green-on-black CRT)
-CHARS = " .:-=+*#%@"
+# Character set: sparse/legible for CRT — 10 chars, maps pixel 0-255 to 0-9
+CHARS = " -:.=+*#@"
 
 # Source image directories (checked in order)
 IMAGE_DIRS = [
@@ -21,18 +21,18 @@ IMAGE_DIRS = [
     "/Users/jeremy/Documents/current_projects/the_ephergent_projects/ARCHIVE/pixels_papercraft/assets/characters_profile_images",
 ]
 
-# Slug → filename mappings (not all characters have images)
+# Slug → filename mappings
 SLUG_MAP = {
     "pixel-paradox": "pixel_paradox.png",
     "a1": "a1_assistant.png",
     "clive": "clive_stapler_informant.png",
-    "mochi": None,  # no image — will use placeholder
+    "mochi": None,
     "meatball": "meatball_rottweiler.png",
     "nano": "nano_informant.png",
     "baron-klaus": "baron_klaus_von_gnomendorf.png",
     "luminara": "luminara_usha.png",
-    "signal-the-narrator": None,  # meta character — no portrait
-    "barry-kowalski": None,  # no image found
+    "signal-the-narrator": None,
+    "barry-kowalski": None,
     "om-kai": "om_kai.png",
     "zephyr-glitch": "zephyr_glitch.png",
 }
@@ -52,48 +52,53 @@ def image_to_ascii(img_path: str, width: int = 36) -> str:
     pixels = list(img.getdata())
     rows = [pixels[i * width:(i + 1) * width] for i in range(height)]
     return "\n".join(
-        "".join(CHARS[min(p // 16, len(CHARS) - 1)] for p in row) for row in rows
+        "".join(CHARS[min(p * len(CHARS) // 256, len(CHARS) - 1)] for p in row) for row in rows
     )
 
 
 def generate_portraits():
     portraits = {}
 
-    # Placeholder art for characters without images
+    # Placeholder art — framed with pipe borders for terminal-authentic character sheet look
     portraits["mochi"] = (
-        "     .-----.     \n"
-        "   .'  .-.  '.   \n"
-        "  /   (o)(o)  \\  \n"
-        " |  .-------.  | \n"
-        " |  |  ===  |  | \n"
-        "  \\ |       | /  \n"
-        "   |       |    \n"
-        "   '-------'     "
+        "|               |\n"
+        "|    .-----.    |\n"
+        "|  .'  .-.  '.  |\n"
+        "| /   (o)(o)  \\ |\n"
+        "| |  .-----.  | |\n"
+        "| |  |  ===  |  |\n"
+        "|  \\ |       | / |\n"
+        "|   |       |   |\n"
+        "|   '-------'   |\n"
+        "|               |"
     )
     portraits["barry-kowalski"] = (
-        "   .--------.    \n"
-        "  /  .----.  \\   \n"
-        "  |  |    |  |   \n"
-        "  |  |    |  |   \n"
-        "   \\ |    | /    \n"
-        "   | '----' |    \n"
-        "   |  ____  |    \n"
-        "   |__|  |__|    "
+        "|                 |\n"
+        "|   .--------.    |\n"
+        "|  /  .----.  \\   |\n"
+        "|  |  |    |  |   |\n"
+        "|  |  |    |  |   |\n"
+        "|   \\ |    | /    |\n"
+        "|   | '----' |    |\n"
+        "|   |  ____  |    |\n"
+        "|   |__|  |__|    |\n"
+        "|                 |"
     )
     portraits["signal-the-narrator"] = (
-        "  .__:____::__   \n"
-        " /   |    |   \\  \n"
-        "|    |    |    | \n"
-        "|    |    |    | \n"
-        "|____|    |____| \n"
-        " \\______________/ \n"
-        "   \\________/     \n"
-        "    |      |      "
+        "|   .__:____::__  |\n"
+        "|  /   |    |   \\ |\n"
+        "| |    |    |    ||\n"
+        "| |    |    |    ||\n"
+        "| |____|    |____||\n"
+        "|  \\______________/ |\n"
+        "|    \\________/    |\n"
+        "|     |      |     |\n"
+        "|                 |"
     )
 
     for slug, filename in SLUG_MAP.items():
         if slug in portraits:
-            continue  # skip placeholders
+            continue
         if filename is None:
             continue
         path = find_image(filename)
@@ -113,7 +118,7 @@ if __name__ == "__main__":
         "meta": {
             "width": 36,
             "chars": CHARS,
-            "description": "ASCII art portraits for Signal terminal. 36 chars wide."
+            "description": "ASCII art portraits for Signal terminal. 36 chars wide, pipe-bordered placeholders."
         },
         "portraits": portraits
     }
