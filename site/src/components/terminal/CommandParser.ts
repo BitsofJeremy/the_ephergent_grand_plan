@@ -428,7 +428,7 @@ export class CommandParser {
 
       if (subCmd === 'cd' || subCmd === 'ls') {
         return Object.keys(VIRTUAL_FS).filter(p =>
-          p.toLowerCase().startsWith(`/${subPartial}`)
+          p.toLowerCase().startsWith(subPartial)
         );
       }
 
