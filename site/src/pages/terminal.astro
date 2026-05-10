@@ -47,6 +47,7 @@ import '../styles/terminal.css';
     DoRMEngine,
     AudioPlayer,
   } from '../components/terminal';
+  import { asciiPortraits } from '../data/asciiPortraits';
 
   // Check for debug mode
   const urlParams = new URLSearchParams(window.location.search);
@@ -123,6 +124,8 @@ import '../styles/terminal.css';
       { slug: 'om-kai', title: 'Om Kai', type: 'Frequency Specialist' },
       { slug: 'zephyr-glitch', title: 'Zephyr Glitch', type: 'Technician' },
       { slug: 'baron-klaus', title: 'Baron Klaus', type: 'Archivist' },
+      { slug: 'luminara', title: 'Luminara Usha', type: 'Boundary Artist' },
+      { slug: 'signal_the_narrator', title: 'Signal the Narrator', type: 'Narrator / Meta-Voice' },
     ],
     games: [
       { slug: 'tune-the-dial', title: 'Tune the Dial', type: 'Interactive' },
@@ -244,6 +247,7 @@ import '../styles/terminal.css';
       updatePrompt();
     },
     content: contentData,
+    asciiPortraits,
     audioPlayer: {
       play: async (slug: string) => {
         await audioPlayer.play(slug);

@@ -20,6 +20,7 @@ export interface CommandContext {
     games: ContentItem[];
     signal: ContentItem[];
   };
+  asciiPortraits?: Record<string, string | null>;
   audioPlayer: {
     play: (slug: string) => Promise<void>;
     pause: () => void;
@@ -272,15 +273,24 @@ export class CommandParser {
   }
 
   private formatCrew(item: ContentItem): OutputLine[] {
-    return [
+    const lines: OutputLine[] = [
       { text: '═══════════════════════════════════════════════════════════════════', className: 'terminal-dim' },
       { text: `${item.title.toUpperCase()} — ${item.type || 'Character'}`, className: 'terminal-amber terminal-bold' },
       { text: '═══════════════════════════════════════════════════════════════════', className: 'terminal-dim' },
+    ];
+
+    const portrait = this.ctx.asciiPortraits?.[item.slug];
+    if (portrait) {
+      lines.push({ text: portrait, className: 'ascii-portrait', isRaw: true });
+    }
+
+    lines.push(
       { text: '' },
       { text: '[CONTENT WOULD RENDER HERE — crew profile markdown]', className: 'terminal-dim terminal-italic' },
       { text: '' },
       { text: '═══════════════════════════════════════════════════════════════════', className: 'terminal-dim' },
-    ];
+    );
+    return lines;
   }
 
   private formatSignalOrigin(): OutputLine[] {

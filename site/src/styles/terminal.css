@@ -171,6 +171,16 @@
   color: var(--cyan);
 }
 
+/* ASCII portrait display */
+.ascii-portrait {
+  color: var(--green);
+  font-size: 11px;
+  line-height: 1.2;
+  margin: 0.5rem 0;
+  text-shadow: 0 0 6px rgba(0, 230, 118, 0.4);
+  white-space: pre;
+}
+
 /* === Content Blocks === */
 .terminal-header {
   color: var(--amber);

@@ -20,6 +20,7 @@ export interface OutputLine {
   text: string;
   className?: string;
   isHtml?: boolean;
+  isRaw?: boolean; // skip HTML escaping (for ASCII art)
 }
 
 export class Terminal {
@@ -297,7 +298,9 @@ export class Terminal {
     for (const line of lines) {
       const p = document.createElement('div');
       p.className = `terminal-text ${line.className || ''}`;
-      if (line.isHtml) {
+      if (line.isRaw) {
+        p.innerHTML = line.text;
+      } else if (line.isHtml) {
         p.innerHTML = line.text;
       } else {
         p.textContent = line.text;
