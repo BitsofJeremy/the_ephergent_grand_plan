@@ -204,6 +204,17 @@ export class SignalVoice {
       : null;
   }
 
+  // Get idle message (for backwards compat with SignalInterjections)
+  getIdleMessage(): string {
+    const idle = this.getInterjectionsForContext('idle');
+    return idle[Math.floor(Math.random() * idle.length)];
+  }
+
+  // Alias for getInterjection (backwards compat)
+  getSignalMessage(context: string): string[] {
+    return [this.getInterjection(context)];
+  }
+
   // Format Signal's voice for display
   formatVoiceLine(line: string, includeQuotes: boolean = true): string {
     return includeQuotes ? `"${line}"` : line;
