@@ -164,7 +164,46 @@ Full plan: `plans/grabovoi-code-integration.md` | `plans/grabovoi-episode-mappin
 
 ## Audio Pipeline
 
-Audio generation reads from `ephergent.com/src/content/transmissions/` (TTS text source).
-Voice: single narrator `bf_emma+af_sarah` blend — no character voice separation.
+All audio scripts live in `scripts/` — the canonical source. Audio files are stored in `audio/` (permanent) and copied to the website.
 
-When episode content changes: re-sync to website, then regenerate TTS text, then generate audio.
+### Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `scripts/preprocess_episodes.py` | Strip markdown/audio artifacts, output clean TTS text |
+| `scripts/generate_summaries.py` | Derive Signal-voice episode summaries → `excerpts/SXXEXX.txt` |
+| `scripts/assemble_tts_text.py` | Build final TTS text: intro + summary + body + outro |
+| `scripts/generate_audio.py` | Generate MP3 via Kokoro TTS → `audio/seasonNN/SXXEXX.mp3` |
+
+### Data Storage
+
+- `excerpts/seasonNN/SXXEXX.txt` — 2-3 sentence episode summaries (Signal voice, usable for website/social)
+- `tts_text/seasonNN/SXXEXX.tts.txt` — clean TTS text (intermediate + final)
+- `audio/seasonNN/SXXEXX.mp3` — permanent audio (NOT ephemeral like website rebuilds)
+
+### Flow
+
+```
+episodes/seasonNN/SXXEXX.md
+    → preprocess_episodes.py → tts_text/SXXEXX.tts.txt (body)
+    → generate_summaries.py → excerpts/SXXEXX.txt (summary)
+    → assemble_tts_text.py → tts_text/SXXEXX.tts.txt (final)
+    → generate_audio.py → audio/seasonNN/SXXEXX.mp3 + copy to website
+```
+
+### TTS Service
+
+- **Endpoint**: `http://sprecher.nexus.home.test/api/tts/sync`
+- **Voice**: `bf_emma(0.7)+af_sarah(0.3)` — Signal narrator, single voice
+- **Health**: `curl http://sprecher.nexus.home.test/api/health`
+
+### Quick Start
+
+```bash
+python scripts/preprocess_episodes.py --episode S01E01
+python scripts/generate_summaries.py --episode S01E01
+python scripts/assemble_tts_text.py --episode S01E01
+python scripts/generate_audio.py --episode S01E01
+```
+
+Use `--all` for full pipeline run. See `SKILL.md` for full documentation.

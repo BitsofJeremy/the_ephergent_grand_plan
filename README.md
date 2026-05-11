@@ -75,7 +75,15 @@ The universe's original firmware — pre-Builder numerological sequences that ac
 
 ---
 
-## Key Paths
+## Audio Pipeline
+
+Scripts in `scripts/`: preprocess_episodes.py → generate_summaries.py → assemble_tts_text.py → generate_audio.py
+
+Data: `excerpts/` (summaries), `tts_text/` (clean text), `audio/seasonNN/` (permanent MP3, copied to website).
+
+TTS: Kokoro at `http://sprecher.nexus.home.test` — voice `bf_emma(0.7)+af_sarah(0.3)` — single narrator Signal.
+
+See `SKILL.md` for full documentation.
 
 | Path | Purpose |
 |------|---------|
