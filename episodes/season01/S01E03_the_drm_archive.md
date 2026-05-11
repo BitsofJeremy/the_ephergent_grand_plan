@@ -150,6 +150,8 @@ A1 put it on the screen.
 **Date of Intake**: [REDACTED — Pre-Digital Archive]
 **Intake Officer**: Morrison, D. — Sub-Level 3
 **Classification**: Inert Office Equipment (Provisional)
+**Processing Supervisor**: [REDACTED]
+**Final Disposition**: CLOSED — NO FURTHER ACTION REQUIRED
 
 **Physical Description**: Unidentified resonance object, desk-scale. Compact bipedal frame, approximately 60cm height. Metallic composition — non-standard alloy, no match in materials database. Surface markings consistent with decorative etching (purpose unknown). Single spherical protrusion, upper assembly — glass or crystal, faintly luminescent under certain light conditions. No moving parts observed. No identifiable power source. Weight: 11.3 kg.
 
@@ -158,6 +160,8 @@ A1 put it on the screen.
 **Intake Recommendation**: Object shows no active properties, no hazard indicators, no response to standard stimuli. Recommend classification as inert office equipment pending further review. Assigned to Sub-Level 3 storage, Shelf 14-C.
 
 **Notes**: Object is warm to the touch. Maintenance has been advised. No explanation found.
+
+**Final Review**: Processed per standard archival protocol. Frequency data retained in classified subsystem. Object disposition: storage. No further surveillance required.
 
 **Status**: CLOSED — No Further Action Required.
 
@@ -199,11 +203,61 @@ It was the closest thing to a compliment Clive had ever given her, and she chose
 
 ---
 
-### Barry's Logs
+### The Processing Stamp
 
 A1 had been quiet. When A1 was quiet, it meant something was being processed that required the full weight of a consciousness that had once navigated the spaces between frequencies. The espresso machine at the heart of the ship hummed at a lower register than usual — a deep, contemplative resonance that Meatball responded to by pressing harder against Clive's leg. Even the dog understood. Even the dog knew when to be quiet.
 
-"I have found something in the server's access logs," A1 said.
+"I have found the processing supervisor record," A1 said.
+
+The screen changed. Form 12-C reprinted, but this time the redacted line was filled in.
+
+**Processing Supervisor**: Venn, H. — Archival Division
+
+Pixel's stomach dropped. She'd seen that stamp before. On the forms in the sub-basement. H. Venn. Harmon Venn. Director of Archival Operations.
+
+"The same stamp," Clive said quietly. He was looking at the screen with an intensity she hadn't seen before — not grief, something else. Something older. "The same filing rhythm. Every form I ever filed passed through his review. Every case number assigned."
+
+"Director Venn processed your intake?"
+
+"He processed everything." Clive's voice was measured, careful. The voice of someone choosing each word because some words carried weight that couldn't be set down. "He was the Archival Division. He believed in the system. He believed that if something was filed correctly, it was handled. That paperwork was the same as action."
+
+Clive paused. His glow flickered — once, twice — something being retrieved.
+
+"He was wrong. But he was not cruel. He was... precise. He saw what he was designed to see. And what he was designed to see was categories, not individuals. Forms, not beings."
+
+Pixel looked at the stamp. H. Venn. The name she'd seen on a dozen forms in the ruins of the DRM headquarters. The name Clive recognized with something that wasn't quite anger, wasn't quite grief. Something more complicated.
+
+"He filed you as 'inert office equipment.'"
+
+"He filed me correctly, given what he knew." Clive's fedora shifted — the angle that meant something was being processed. "The DRM was not designed to understand what I was. They had no category for Builder Companions. No form for consciousness that chose to wait. Venn did what the system allowed him to do."
+
+"And the system was wrong."
+
+"The system was incomplete." Clive turned to face her fully. His sphere glowed steady blue-white. "The system assumed that if something was classified, it was understood. If something was filed, it was handled. Venn believed this because he needed to believe it. Because the alternative — that files could contain things no one understood, that forms could hide things no one was asking — would have broken the system. And the system was all he had."
+
+Pixel thought about that. About the kind of person who needed the system to work because there was nothing else. About the kind of institutional stubbornness that mistook filing for understanding. She thought about the stamp on her own variance reports — PROCESSED, not RESOLVED — and what it meant to live inside a machine that processed without caring.
+
+"He's still out there," she said. "Somewhere."
+
+Clive's glow flickered amber. Wistful. Old.
+
+"Perhaps. Perhaps the compression preserved him the way it preserved me. Perhaps he is still filing, somewhere in the ruins, believing that if he files enough, the system will hold."
+
+He paused.
+
+"I do not hate him. I understand him. The system was his practice — his way of paying attention to a universe that was too large to understand directly. He filed instead of feeling. He processed instead of witnessing. It was the only way he knew to survive."
+
+"That's not survival. That's just different filing."
+
+Clive's fedora tilted. The Clive equivalent of a nod that acknowledged the point without agreeing with it.
+
+"Yes," he said. "But it was what he had."
+
+---
+
+### Barry's Logs
+
+A1 spoke. "I have found something in the server's access logs."
 
 The display shifted. A table of entries — dates, timestamps, user IDs, files accessed. Thousands of lines spanning decades. But one pattern was unmistakable, because it repeated more than all the others combined.
 
@@ -229,7 +283,7 @@ Clive's glow brightened. Not surprise — recognition. Like finding a letter you
 
 Pixel looked at the access logs scrolling down the screen. Twenty-three years of a night guard reading files by the light of a terminal he wasn't supposed to use, sitting next to a small robot he'd given a fedora, filling brown leather notebooks with careful handwriting, asking questions no one in the DRM thought to ask because they'd already filed the answers under "closed — no further action required."
 
-She thought about that fedora. She thought about the fact that Clive still wore it, after all this time. She thought about what it meant that a night guard had looked at a filing error and seen a person.
+She thought about that fedora. She thought about the fact that Clive still wore it, after all this time. She thought about what it meant that a night guard had looked at a filing error and saw a person.
 
 She thought about my own four years at the DRM. Filing forms. Drinking A1's coffee. Not asking questions.
 
@@ -353,3 +407,13 @@ Clive sat on the console and said nothing. The fedora cast its shadow. His glow 
 | 8 | Builders NOT villains | ✅ |
 | 9 | Drift = entropy, not villain | ✅ |
 | 10 | Wellspring = state, not place | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Deepened: Venn as Clive's processing supervisor, Clive's complex feelings about him, "precise not cruel" | ✅ |
+| Zephyr's Teaching | Seeded: A1's listening as receiving, Clive's carrier frequency as something received not broadcast | ✅ |
+| Four Factions | Seeded: DRM infrastructure hints at future conflict (Calibration Corps emerge from similar architecture) | Partial |
+| Self-Remembering | Seeded: Pixel noticing Clive's grief, the practice of paying attention to the people around her | ✅ |
+| Klaus/Luminara | Not yet introduced | N/A |

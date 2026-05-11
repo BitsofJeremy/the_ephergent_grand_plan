@@ -24,7 +24,7 @@ The streets below were chaos. Traffic lights cycling through colors that shouldn
 
 A1's holographic projection flickered into existence near the porthole, scanning the scene. He had gotten better at this — better at projecting, better at holding a shape that almost passed for solid. But there was something in his posture that day that hadn't been there before. A tension she didn't have a word for.
 
-"Significant frequency instability across the Prime Material substrate," he said. His voice was measured, controlled — British formal, even when delivering what sounded like bad news. But Pixel had been listening to A1 for a few days now, and she caught the edge underneath. Concern, maybe. Or the memory of concern, borrowed from whoever he used to be. "The reality rupture appears to have destabilized the local frequency membrane. These ripples will—"
+"Significant frequency instability across the Prime Material substrate," he said. His voice was measured, controlled — British formal, even when delivering what sounds like bad news. But Pixel had been listening to A1 for a few days now, and she caught the edge underneath. Concern, maybe. Or the memory of concern, borrowed from whoever he used to be. "The reality rupture appears to have destabilized the local frequency membrane. These ripples will—"
 
 He stopped. Recalibrated. Something crossed his projection — surprise, maybe. Or recognition. Something that flickered across his face like a cloud across the sun.
 
@@ -163,6 +163,46 @@ He didn't answer. His hand rose to his fedora — adjusted it, slowly — the ge
 This time, the "someone" sounded different. Smaller. Older. More like a name he used to know. More like a door he was afraid to open.
 
 Pixel stood beside him. She didn't ask again. Some questions needed time to be ready for their answers. She was learning that too.
+
+---
+
+### The Stamps
+
+Among the debris, Pixel found a stack of forms that hadn't been processed. They were old — the paper yellowed, the ink faded — but they were organized. Filed. Waiting in a bin that had never been emptied.
+
+She picked one up. Form 77-R: ANOMALY DOCUMENTATION — FREQUENCY SENSITIVE.
+
+The stamp on the corner said: **PROCESSED — H. VENN — ARCHIVAL DIVISION**
+
+She knew that stamp. She had seen it on hundreds of forms during her years at DRM. The H. stood for Harmon. Harmon Venn. Director of Archival Operations. The man who had approved every frequency-sensitive document that crossed the DRM's desks for as long as anyone could remember.
+
+But that was just a name to her. An institutional signature. The kind of thing you saw on stamps and never thought about.
+
+She looked at Clive. Clive's sphere was fixed on the stamp. His glow flickered — once, twice — something that might have been recognition.
+
+"You know that name," Pixel said.
+
+Clive's response came slowly. Carefully. Like he was choosing each word.
+
+"I know the pattern. The stamp. The filing rhythm." He paused. "The Director was... precise. Every form I ever filed was reviewed. Every case number assigned. He was the one who decided what got processed and what got lost."
+
+His fedora shifted. Tilted toward the stamp like a salutation.
+
+"He believed the system was the point. That order was survival. That chaos was the enemy."
+
+Clive's voice dropped.
+
+"He may have been right. In his way. The system held. Through everything. Through the Dimming, through the drift, through the silence at the edges. It held because someone believed it should."
+
+Pixel looked at the stamp. At the precise letters. At the institutional stubbornness encoded in ink and paper.
+
+"What happened to him?"
+
+Clive's glow flickered amber. Wistful. Old.
+
+"The same thing that happens to everyone who chooses the system over the chaos. He stayed. He filed. He believed."
+
+He didn't say it like a tragedy. He didn't say it like a victory. He said it like a fact. Like a file noting.
 
 ---
 
@@ -336,3 +376,13 @@ The escape pod entered the Space between. The dial turned. The next frequency aw
 | 8 | Builders NOT villains | ✅ |
 | 9 | Drift = entropy, not villain | ✅ |
 | 10 | Wellspring = state, not place | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Seeded: H. Venn stamp, Clive's institutional memory, "the Director was precise" | ✅ |
+| Zephyr's Teaching | Seeded: A1's listening, the crew learning through experience not instruction | ✅ |
+| Four Factions | Not yet introduced (S01E01-E02 are origin/first response) | N/A |
+| Self-Remembering | Seeded: Pixel's noticing practice, Mochi's warmth as communication | ✅ |
+| Klaus/Luminara | Not yet introduced | N/A |

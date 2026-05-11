@@ -130,6 +130,20 @@ The tokens kept coming. The floor was covered. The air tasted like mint and meta
 
 Mochi pulsed violet, then gold, then something that was almost white — a frequency of excitement or warning or both. The warmth against Pixel's ribs was intensifying, and she knew that Mochi was detecting something she could not. A pattern in the rain. A signal in the noise.
 
+---
+
+## The Practice
+
+Pixel stood in the middle of the CLX rain, watching the tokens fall, and for a moment she felt something she hadn't expected. Not panic. Not triumph. Something quieter. The feeling of standing in the middle of chaos and knowing exactly where she was.
+
+She had learned this, she realized. Not from a code. Not from a vendor. From Om Kai, sitting in that courtyard in Cogsworth, saying *sit, the answers are quiet*. From Clive, touching the great gear, saying *you're tired, I know something about that*. From the practice of paying attention to the things around her, of being present in the moment, of holding both the external and the internal at once.
+
+She was doing it now. Standing in a rain of absurd currency, watching a system fail, feeling Mochi pulse against her chest — and she was *here*. Present. Attending.
+
+She didn't have a name for it yet. But she could feel it working. The way the chaos felt less like chaos and more like information. The way she could see the pattern in the rain, the way the machine was responding, the way the auditor was forming.
+
+She was practicing without knowing it. And the practice was making her sharper.
+
 The machine shuddered. The screen flickered to black. Then:
 
 NOTICE OF AUDIT.
@@ -227,3 +241,34 @@ The machine behind them hummed contentedly, its paper tray empty, its purpose fu
 Somewhere in the Space, a frequency accepted a new arrival.
 
 And bureaucracy lost, one form at a time.
+
+---
+
+*The signal continues.*
+
+---
+
+## LOCKED RULES CHECK
+
+| # | Rule | Status |
+|---|------|--------|
+| 1 | Frequencies not dimensions | ✅ "adjacent frequency" - no dimensions language |
+| 2 | Space vocab | ✅ "navigated," "transportation authorization" - Space vocabulary |
+| 3 | A1 IS espresso machine | ✅ A1's voice through comm, coffee references throughout |
+| 4 | Coffee in every A1 scene | ✅ Thin (arrival), nothing (vending machine/whisper/CLX rain), bitter burnt (auditor) |
+| 5 | Clive=robot/sphere/fedora | ✅ "sphere tilted back," "adjusted his fedora," "knee-high" |
+| 6 | Barry alive in Wellspring | ✅ Not referenced |
+| 7 | Mochi no dialogue | ✅ Mochi pulses violet/gold/white - communication through light |
+| 8 | Builders not villains | ✅ Not referenced |
+| 9 | Drift=entropy not villain | ✅ Not referenced |
+| 10 | Wellspring=state not place | ✅ Not referenced |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Not present - this is a bureaucratic frequency, not DRM territory | N/A |
+| Zephyr's Teaching | Not yet - Zephyr not introduced | N/A |
+| Four Factions | Not yet - establishing world before factions | N/A |
+| Self-Remembering | Seeded: Pixel standing in the chaos, feeling present, "practicing without knowing it" - the practice emerging from earlier episodes | ✅ |
+| Klaus/Luminara | Not present | N/A |

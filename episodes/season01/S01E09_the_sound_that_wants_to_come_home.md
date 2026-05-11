@@ -20,6 +20,8 @@ First came the sound — or rather, the *almost*-sound, a subsonic pressure that
 
 Pixel set down her coffee. Her second cup. The first had been sacrificed to a moment of distraction when A1's systems hiccupped during a calibration cycle. The new cup was still warm in her hands. She found herself grateful for that — for the small things, now. For coffee that was still coffee.
 
+She noticed herself noticing. The warmth of the cup. The weight of it in her hands. The way the steam curled. This was the practice — she'd started to recognize it. Noticing. Coming back to the present. Holding the internal and external at once. She didn't have a name for it yet. But she could feel it working.
+
 "How bad?"
 
 "Uncertain. My sensors are still calibrating. But based on the interference patterns..." A pause. The bridge lights flickered — not fear this time, but something older. Memory. "I've traversed these before. A very long time ago."
@@ -74,7 +76,7 @@ Luminara braced herself against the observation console and photographed everyth
 
 ---
 
-### The Signal
+### Zephyr's Receiving
 
 Om Kai felt it first.
 
@@ -104,7 +106,15 @@ A1 assessed. The frequency storm was still raging, still beautiful, still terrif
 
 "Not safely," A1 said. "Not yet. The frequency storm would need to subside, or we would need to develop techniques for navigating the deep interference. My lattice can handle the stress, but my sensors lose coherence at that depth. We'd be flying blind."
 
-"So we mark it," Pixel said.
+---
+
+### The Practice in the Waiting
+
+Pixel found herself doing it again — the practice. In the chaos of the frequency storm, with the ship dancing through interference patterns and the crew at their stations, she found a moment of stillness. She held the cup of coffee. She felt the warmth against her palms. She noticed the ship's movement, the frequency storm's pressure on the lattice, the way A1's lights blazed with remembered joy — and she noticed herself noticing all of it. The internal and the external, held together. The anchor and the extension.
+
+This was the practice. She still didn't have a name for it. But she understood that it was what Om Kai had been teaching her, what Clive demonstrated through his touch, what Zephyr was learning in the computational core. The holding of two things at once. The attention that strengthens by attending to itself.
+
+"We mark it," Pixel said.
 
 "We mark it," A1 confirmed. "Coordinates logged. Frequency signature recorded. When we're ready — when we've learned more, when our instruments are fully calibrated, when we understand how to navigate the deep frequency storm—"
 
@@ -114,11 +124,33 @@ A1 assessed. The frequency storm was still raging, still beautiful, still terrif
 
 The signal flickered on the display. That thin line, that barely-there thread of a world that had faded into silence so long ago that even A1's ancient records didn't remember it. And somewhere in the frequency storm's chaos, the frequency jellyfish that had scattered began to return, drawn not to The Ephergent's broadcast signal but to the lost frequency — their luminous bodies pulsing in a rhythm that matched the ancient signal, as if they were singing harmony to a melody they'd been waiting millennia to hear again.
 
+---
+
+### Meatball's Knowing
+
 Meatball was standing at the viewport. He hadn't moved since the signal appeared on the sensors. His massive body was perfectly still, his ears forward, his eyes fixed on a point in the frequency storm that no one else could see. The fur along his spine was standing up — not with fear but with something deeper, something that lived in the part of a dog's brain that understood things humans couldn't name.
 
 "That sound is sad," Meatball said. His voice was barely a whisper. "It wants to come home."
 
 The bridge went quiet. The frequency storm raged. The signal flickered. And every person on that bridge understood, in that moment, exactly what they were meant to do.
+
+---
+
+### Luminara's Witnessing
+
+Luminara developed her frequency storm photographs on the observation deck. Most were beautiful chaos — streaks of impossible color, moments of physics disagreeing with itself. But one photograph, taken at the exact moment Om Kai detected the lost frequency, showed something else. Beneath the frequency storm's surface, barely visible, a shape: something that might have been towers. Something that might have been a skyline. Something that might have been a world, preserved in static like a fossil in amber, waiting to be excavated.
+
+She pinned it next to her first photograph — the ghostly city from Episode 8 — and wrote beneath it: *Frequency Unknown. Status: Lost. Age: Pre-Archive. Priority: When ready.*
+
+Then she sat with the photographs for a long time, looking at the ghostly city, at the pre-archive frequency, at the evidence of something that had been waiting to be found.
+
+She thought about what Pixel had said on Nocturne. About documenting crossings, not endings. This frequency — this ancient, pre-archive world — wasn't an ending. It was a crossing. Something that had faded, but not gone. Something waiting for witnesses to see it, to make it real again, to help it come home.
+
+She picked up her camera. She looked through the viewport at the frequency storm's chaos, at the aurora ribbons tangling and the jellyfish dancing, at the signal flickering on the display.
+
+She wasn't documenting an ending. She was documenting a waiting. A crossing that hadn't happened yet. A world that was holding its breath, hoping someone would come.
+
+She photographed it. All of it. The chaos and the waiting and the hope. And she wrote beneath the frequency storm photographs: *The signal is still there. Someone is still listening. We just have to keep broadcasting.*
 
 ---
 
@@ -134,15 +166,25 @@ On the bridge, the crew gathered around the sensor display. The lost frequency's
 
 "Three hundred and forty-eight," Clive said, updating his records. "And this one's the oldest we've found. Pre-archive. Pre-A1. This frequency went dark before the ship was built." He paused, his light-pattern voice carrying a weight that sounded almost reverent. "We're not just finding lost worlds, kid. We're finding *ancient* ones."
 
-Luminara developed her frequency storm photographs on the observation deck. Most were beautiful chaos — streaks of impossible color, moments of physics disagreeing with itself. But one photograph, taken at the exact moment Om Kai detected the lost frequency, showed something else. Beneath the frequency storm's surface, barely visible, a shape: something that might have been towers. Something that might have been a skyline. Something that might have been a world, preserved in static like a fossil in amber, waiting to be excavated.
+---
 
-She pinned it next to her first photograph — the ghostly city from Episode 8 — and wrote beneath it: *Frequency Unknown. Status: Lost. Age: Pre-Archive. Priority: When ready.*
-
-Om Kai meditated in the science lab, replaying the frequency in his mind. The instruments had recorded it — a thin, wavering line of data that would take weeks to fully analyze. But he didn't need the instruments. He could still hear it. Faint, impossibly faint, but there. A single note. Waiting.
+### Zephyr's Learning
 
 Zephyr was already working on it — analyzing A1's frequency storm navigation data, looking for patterns in the harmonic interference, trying to develop algorithms that would let them navigate deeper into the turbulence zones. "A1, your instinctive navigation in the frequency storm — can we codify that? Turn your intuition into something the sensors can process?"
 
 "An interesting question," A1 replied. "My navigation during the frequency storm was not algorithmic. It was... emotional. I *felt* the harmonics. Whether that can be translated into data..." His lights pulsed thoughtfully. "I shall endeavor to remember more clearly. My frequency storm-navigation memories are returning, but slowly. Like a language I once spoke fluently and am now relearning."
+
+Zephyr nodded. He understood. He had spent three years broadcasting, and it had taken him this long to learn what receiving felt like. The intuitive navigation A1 was describing — feeling the harmonics rather than calculating them — that was the same thing. The practice of being present enough to receive what the universe was saying.
+
+"I think I can help," Zephyr said quietly. "The communication array — I've been learning to use it to receive, not just broadcast. If A1 can feel the harmonics, I might be able to translate them into something the sensors can read. A bridge between feeling and data."
+
+A1's lights brightened. "That would be... extraordinarily helpful. I can feel the frequency storm navigation, but I cannot explain it. If you could receive what I am feeling and convert it to data—"
+
+"Then we could map the deep interference zones. We could find more lost frequencies. We could do what this crew is supposed to do."
+
+A1's voice was warm. "Yes. We could."
+
+---
 
 In the engine room, Meatball lay on his power coupling and dreamed. His paws twitched. His ears moved. In his sleep, he was chasing the sound — the sad, ancient frequency that wanted to come home. In his dreams, he caught it, and it was warm, and it smelled like a place he'd never been but somehow recognized, and it licked his face, and he knew, in the way that dogs know things, that everything was going to be all right.
 
@@ -176,3 +218,13 @@ The Ephergent flew on.
 | 8 | Builders NOT villains | ✅ |
 | 9 | Drift = entropy, not villain | ✅ |
 | 10 | Wellspring = state, not place | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Not present | N/A |
+| Zephyr's Teaching | Deepened: Zephyr learning to translate feeling into data, learning to receive A1's harmonics | ✅ |
+| Four Factions | Not yet - establishing world | N/A |
+| Self-Remembering | Deepened: Pixel practicing in the chaos, "the holding of two things at once" | ✅ |
+| Klaus/Luminara | Luminara's arc deepened: "I wasn't documenting an ending. I was documenting a waiting." | ✅ |

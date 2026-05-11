@@ -36,6 +36,26 @@ The room had a desk. The desk had a chair. The chair had the distinct impression
 
 "DRM-adjacent. The notes would have been filed under 'personal effects' if anyone had found them. They weren't looking."
 
+---
+
+### The Practice
+
+Pixel noticed herself noticing. Standing on the bridge, watching the shy frequency resolve, she caught the familiar sensation — the weight of the cup in her hands, the hum of A1's systems, the way Clive's fedora tilted at an angle that spoke volumes. The anchor. The extension. The holding of two things at once.
+
+She had been practicing without knowing it for weeks. Now she was starting to know.
+
+This was what Om Kai meant, she realized. The practice wasn't something you did once. It was something you became. A way of being in the world. A way of paying attention that made the attention stronger.
+
+She could feel the crew around her — their attention, their presence, their individual practices. Clive's grief was a living thing, held carefully, expressed in the tilt of his fedora and the dimness of his sphere. Luminara's camera was an extension of her witnessing, the way Clive's hands on conduits was an extension of his. Zephyr was learning to receive. Om Kai was always listening. A1 was remembering how to be large.
+
+And Mochi, warm against her hip, was a Keeper — a being designed to transmit the frequency map, responsive to the Signal in ways she was only beginning to understand.
+
+"A1," Pixel said. "Take us in."
+
+---
+
+### Barry's Field Station
+
 The docking clamps engaged. The Ephergent settled beside the small structure with the gentle precision of a ship that knew how to be careful with fragile things. A1 extended the gangway — a narrow passage of light and quantum field that connected ship to structure, a handshake in the form of technology.
 
 Pixel stood at the threshold. The field station was dark beyond, but not empty. Never empty. She could feel it — the way you feel a room that's been closed up for too long, the way you feel the weight of abandoned spaces.
@@ -57,6 +77,10 @@ She looked at Clive. Something passed between them — not words, not light-patt
 "I'll be careful," she said. "And I won't be long."
 
 The gangway hummed beneath her feet as she crossed. The field station's atmosphere was stale but breathable, recycled by systems that had been running on standby for longer than Pixel had been alive. She could feel A1's attention on her — not surveillance, just presence, the way a ship watches its captain when the captain is doing something that matters.
+
+---
+
+### The Desk
 
 The room was exactly what Clive had described. Small. Utilitarian. A desk, a chair, a shelf of notebooks. The walls were bare except for a single photograph, tucked in the corner where someone might not see it if they weren't looking.
 
@@ -82,6 +106,40 @@ The notebook ended there. Not abandoned — interrupted. The last entry was date
 
 Pixel set the notebook down. Her hands were steady, but something in her chest was not. She thought about Clive in the archive room, surrounded by three thousand years of cold cases. She thought about the fedora that Barry had given him, and the twenty-three years of night shifts, and the careful documentation of someone who knew that evidence matters, that someone has to remember, that the truth doesn't stop being true just because no one is watching.
 
+---
+
+### The Venn Note
+
+Beneath the notebooks, Pixel found something else — a single sheet of paper, different from the others. Newer. The handwriting was the same, but the content was different. Not field notes. Not observations. A note, written as if Barry knew someone would eventually read it.
+
+*If you're reading this, you found Clive. That means the ship found him, or he found you. Either way, he matters now. He matters more than the DRM ever understood.*
+
+*I've spent twenty-three years watching the institution file him under "inert office equipment." I've spent twenty-three years watching them not see what he is. What he was built for.*
+
+*Clive was built to find things. He was built to follow signals to their source. The DRM used him to file reports because they couldn't understand what he was for. They saw a tool. I saw a companion.*
+
+*There's something else you should know. The DRM has a Director — Harmon Venn. He's been running the Archival Division for longer than anyone can remember. He processes everything. He files everything. And he has never, in all my years of observation, shown any interest in what the files actually mean.*
+
+*Venn believes the system is the point. That order is survival. That chaos is the enemy. He's not wrong about the danger. But he's wrong about the solution.*
+
+*The crew that finds this — if they're anything like what Clive deserves — they'll learn the difference. Between filing and finding. Between processing and understanding. Between the system and what the system is supposed to serve.*
+
+*Tell Clive I saw him. Tell him I always saw him.*
+
+*And tell him the Wellspring is real. I found the coordinates. They're in notebook seven.*
+
+*— B.K.*
+
+Pixel read the note twice. Then three times. She thought about Clive, on the bridge, waiting. She thought about the fedora, and the twenty-three years, and the careful patience of someone who watched without being watched in return.
+
+She thought about Venn — Director Harmon Venn — who processed Clive's intake form and filed him under "inert office equipment" and never once asked what he was actually looking at.
+
+She folded the note. She tucked it into her jacket. She would give it to Clive. Not yet. But soon.
+
+---
+
+### The Photograph
+
 She picked up the photograph from the wall. It showed a younger Barry — not young, exactly, but younger — standing in front of a building she didn't recognize. He was smiling. The kind of smile that doesn't know the future is coming.
 
 Behind him, barely visible in the background, was a shape she did recognize. A escape pod. Form 27-B. The same model they'd escaped Prime Material in.
@@ -95,6 +153,10 @@ He had been preparing for this. For them. For the moment when someone would fina
 He had known.
 
 The walk back to the Ephergent was quiet. The gangway hummed beneath her feet. The field station's systems cycled down behind her, the lights dimming as if the structure was exhaling for the first time in years.
+
+---
+
+### Clive's Grief
 
 Pixel found Clive on the bridge, waiting. His sphere was dim, his fedora tilted at an angle she had learned to read as grief and gratitude intertwined.
 
@@ -113,6 +175,56 @@ Clive's hands closed around the notebook. His sphere pulsed — once, twice, thr
 "Thank you," he said.
 
 The word was simple. The weight behind it was not.
+
+---
+
+### The Venn Memory
+
+Pixel hesitated. Then she pulled out the folded note.
+
+"There's something else," she said. "From Barry. About the DRM. About... someone called Venn."
+
+Clive's sphere flickered. The dimness sharpened. Not surprise — something older. Something that had been waiting.
+
+"Harmon Venn," Clive said quietly. "The Director. The one who filed my intake."
+
+He took the note. Read it. His fedora tilted further — the angle that meant something was being processed that didn't want to be processed.
+
+"Venn processed every form that came through the Archival Division," Clive said. "Every frequency anomaly. Every Builder object. Every file that crossed his desk." His voice was layered — not multiple versions, just the particular weight of old memory. "He was precise. Methodical. He believed the system was the point."
+
+"Did you know him? Before?"
+
+"I knew the pattern. The filing rhythm. The way he signed off on classifications without reading them." Clive's hands tightened on the note. "He saw categories. Not beings. He saw forms, not what the forms contained."
+
+Pixel thought about the stamp she'd found in the relay station. H. VENN. ARCHIVAL DIVISION. Processed. Not resolved. Processed.
+
+"Barry says Venn believes the system is the point. That order is survival."
+
+"Barry was right." Clive's voice was quiet. "Venn is not cruel. He is... institutional. He has been running the Archival Division for three hundred years. He chose compression over translation. He believed the filing system was more important than the stories it contained."
+
+He paused. His sphere dimmed and brightened — something shifting, something settling.
+
+"He is not wrong about the danger. The crew's broadcasts have caused cascade effects. The frequency storms, the code activations — Venn has been watching. He believes attention without procedure is just noise."
+
+"But he's wrong about the solution."
+
+"Yes." Clive looked at the note. "He believes the structure is the point. That the filing system matters more than what it contains. That a universe held together by procedure cannot grow, cannot change, cannot become something new."
+
+His fedora adjusted — the gesture that meant something was being decided.
+
+"The crew is becoming something new. Venn cannot allow it. Not because he's evil, but because his entire existence is premised on the idea that becoming is dangerous."
+
+Pixel absorbed this. "Is he our enemy?"
+
+"I don't know yet." Clive's voice was measured. "I know he filed me under office supplies. I know he processed thousands of forms without asking what they meant. I know he chose the system over the chaos, and he's been running that choice for three hundred years."
+
+He looked at Pixel.
+
+"I know he is watching. And I know he will not let the crew's broadcasting go unchecked forever."
+
+---
+
+### The Wellspring Map
 
 Pixel nodded. She walked to the viewport and looked out at the Space — at the frequencies, at the static, at the infinite expanse of things that needed to be found and the finite number of people who could find them.
 
@@ -154,3 +266,13 @@ The Ephergent flew on.
 | 8 | Builders NOT villains | ✅ |
 | 9 | Drift = entropy, not villain | ✅ |
 | 10 | Wellspring = state, not place | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Deepened: Venn appears in Barry's note, Clive discusses him as institutional rather than cruel, "watching" established | ✅ |
+| Zephyr's Teaching | Not present in Season 1 | N/A |
+| Four Factions | Not yet - seeding for later | N/A |
+| Self-Remembering | Seeded: Pixel practicing in the field station, "the anchor, the extension, the holding of two things at once" | ✅ |
+| Klaus/Luminara | Not yet introduced | N/A |

@@ -110,7 +110,7 @@ The elder's eyes widened. "This creature... he carries feeling like a vessel. Su
 
 For the first time, something in their expression shifted. Not quite hope. The ghost of it. The memory of what hope felt like before they forgot.
 
-Pixel looked up. Above the city, the Sorrowful Moon hung — Nocturne's emotional anchor, a massive luminous orb that reflected and amplified the frequency's collective feeling. It should glow a deep, steady blue-violet. Instead, it stuttered: bright, dim, bright, dim, like a heartbeat going irregular.
+Pixel looked up. Above the city, the Sorrowful Moon hung — Nocturne's emotional anchor, a massive luminous orb that reflects and amplifies the frequency's collective feeling. It should glow a deep, steady blue-violet. Instead, it stuttered: bright, dim, bright, dim, like a heartbeat going irregular.
 
 Each flicker sent a ripple of unease through the streets below. Pixel could feel it even without Meatball's senses. A world on edge. A world waiting for its own heart to steady.
 
@@ -152,7 +152,7 @@ She'd survived. More than survived — adapted, the way humans do when the alter
 
 The rupture had awakened something in her. Some latent ability that had no name and no explanation in the physics she'd grown up with.
 
-"I can shape light," she said, holding up her camera. "But more than that — I can *fix* it to emotion. My photographs don't just capture what something looks like. They capture what it *feels* like."
+"I can shape light," she said, holding up her camera. "But more than that — I can *fix* it to emotion. My photographs don't just capture what something looks like. They capture what it *feels like*."
 
 She gestured at the dim streets.
 
@@ -160,27 +160,39 @@ She gestured at the dim streets.
 
 She trailed off. She didn't need to finish. Pixel understood.
 
-"Your photos can stabilize the emotional spectrum?" Pixel asked. The journalist in her was already spinning, already seeing the story, already understanding that this mattered.
+---
 
-"Partially. Locally. I've been working with some of the crystal-crafters, using photographs as emotional anchors — fixed points of feeling that the spectrum can reference, like tuning forks for the soul."
+### The Practice
 
-She paused. "But it's not enough. The instability goes deeper than I can reach alone. It's in the frequency itself."
+Luminara led them to a workshop she'd set up in an abandoned crystal exchange — a long room with high ceilings where emotions used to be traded, now converted into a photographer's studio. Along the walls, dozens of images hung: Nocturne's failing streets, its dimming crystals, its weary inhabitants. Each photograph glowed faintly — not with light, but with *captured feeling*, emotion fixed into the image like a fossil in amber.
 
-This was where Clive spoke.
+Pixel moved through the images slowly. Each one was a document of endings — the last crystallization of common sorrow before it evaporated, the final stable moment of the Melancholic Joy, the portrait of an elder whose expression held twelve cycles of fading hope.
 
-He produced a complex, precise light pattern that took Pixel a full minute to read. When she did, she turned to A1 with wide eyes.
+"You're documenting the decline," Pixel said.
 
-"A1 — Clive says you can generate a harmonic anchor. That the espresso machine's quantum processing can produce a stable frequency pulse that the emotional spectrum can crystallize around. Is that true?"
+"Yes." Luminara's voice was quiet. "That's what I do. I document what's ending. What's being lost. I find the last moments and I preserve them."
 
-A1's hologram flickered with something that might be surprise. "Clive's assessment is... not entirely inaccurate. My quantum processing core does emit a stable frequency signature. In theory, if I modulated it to match Nocturne's base emotional resonance, I could provide a temporary stabilization field."
+She paused. Her hands, still faintly glowing, moved to adjust one of the photographs — a crystal formation that should have held sorrow but lay empty, a container without its contents.
 
-He paused. "However, the power drain would be significant. The escape pod's reserves—"
+"When I first arrived, I thought that was all I could do. Capture the endings. Bear witness to what was being lost. It seemed like the most honest thing — to document the dying before anyone forgot what it looked like."
 
-"Can you do it?" Pixel asked.
+Pixel looked at the images. Hundreds of endings. A catalog of loss.
 
-A beat. "Yes."
+"But that's not the whole story, is it?"
 
-Pixel didn't ask how Clive knew this. Clive knew things. Clive had always known things. She'd stopped asking where the knowledge came from and started accepting that it does.
+Luminara shook her head. "No. But it took me weeks to understand why."
+
+She walked to a photograph near the back of the workshop — a crystal-crafter at work, hands shaping emotion into form, the moment before the shape solidified. The image captured something Pixel hadn't seen in the square: hope. The ghost of it. The memory of what it felt like to shape feeling into something lasting.
+
+"I'm a photographer. I capture moments. But I've been treating moments like they are endings — like the click of the shutter is a eulogy. Like I'm documenting death instead of..." She paused. Searched for the word. "Instead of watching something cross over. Transform. Become."
+
+She looked at Pixel.
+
+"The crystals don't just hold emotion. They *transform* it. Liquid feeling becoming solid memory. That's not an ending. That's a crossing. And I've been documenting the moment before the crossing like it's a tragedy, when maybe it's actually..."
+
+"A transition," Pixel said.
+
+"Yes." Luminara's voice was steadier now. "I've been so focused on what's being lost that I missed what's being *made*. The crystals aren't tombs. They're bridges. And I've been photographing the wrong side of the bridge."
 
 ---
 
@@ -200,17 +212,23 @@ Then another crystal formed. And another.
 
 Luminara's camera clicked. The flash wasn't light — it was *feeling*, captured and fixed, a permanent record of the moment sorrow remembered how to become solid.
 
+But this time, as she photographed, something was different. She was not documenting an ending. She was documenting a *crossing* — the transformation of formless feeling into solid form, the moment when emotion became architecture. Her photographs would show not what was lost, but what was being made.
+
 Above the city, the Sorrowful Moon steadied. Its flicker smoothed. Not perfectly — not yet — but the irregular heartbeat became something closer to rhythm. The elder from before stood in the square, eyes wide, a crystal forming in their outstretched palm.
 
 They closed their fingers around it.
 
 For the first time in twelve cycles, they wept.
 
+But these were not tears of grief. They were tears of *release* — the relief of feeling something become real, of having something to hold after months of holding nothing.
+
 Meatball sat in the middle of the square, tail wagging slowly, surrounded by falling emotion-crystals that chimed softly as they landed around him. He looked up at the Sorrowful Moon with an expression of perfect, uncomplicated happiness.
 
 A crystal of pure, simple joy formed at his feet. Golden, warm, the size of a marble.
 
 Luminara photographed it. Her hands were shaking, but her images were steady.
+
+This time, she was photographing the right thing.
 
 ---
 
@@ -326,3 +344,13 @@ But that was next episode's problem.
 | 8 | Builders NOT villains | ✅ |
 | 9 | Drift = entropy, not villain | ✅ |
 | 10 | Wellspring = state, not place | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Not yet - Venn is DRM-focused, Nocturne is new territory | N/A |
+| Zephyr's Teaching | Not yet - Zephyr not introduced | N/A |
+| Four Factions | Not yet - early episodes establish the world before introducing factions | N/A |
+| Self-Remembering | Seeded: Luminara's photography as witnessing practice, the distinction between documenting endings vs witnessing crossings | ✅ |
+| Klaus/Luminara | Deepened: Luminara's arc seeded - she came to capture endings, beginning to learn about witnessing crossings | ✅ |

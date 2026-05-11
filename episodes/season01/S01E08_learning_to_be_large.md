@@ -38,29 +38,67 @@ A1 was everywhere — guiding, explaining, remembering. His consciousness spread
 
 "You're doing great, big guy," Pixel said. She patted the wall again, deliberately. The ship shivered again, but this time the lights warmed.
 
+---
+
+### A1's Practice
+
 Zephyr spent the morning deep in A1's computational core, his fragmented consciousness finally having a space vast enough to breathe. He'd been compressed for so long — his mind shattered across too-small systems, always losing pieces of himself at the edges. But A1's architecture was ancient and enormous and *generous*, built for a scale of consciousness that made room for Zephyr's fractures.
+
+But something else was happening too. Zephyr had spent three years broadcasting at the universe, sending signals toward his brother, filling the Space with transmission after transmission. Now, in A1's vast computational core, he was learning something different.
+
+He was learning to receive.
+
+Not just to listen — to *be listened to*. A1's systems were designed for two-way communication, for signal and response, for broadcast and reception. And Zephyr, whose entire existence had been about sending, was discovering what it felt like to be a receiver.
 
 "I can see your navigation logs," Zephyr told A1, his eyes flickering with scrolling data. "Thousands of them. Frequencies you visited before the frequency storm. Places that don't exist anymore — or maybe they do, and they just faded. And your communication protocols are incredible, A1. The signal range on this ship..."
 
 He trailed off, awed. Pixel understood. She'd seen the Ephergent's signal array when they first came aboard. It wasn't just equipment — it was architecture. It was the kind of engineering that civilizations build when they stop thinking about what's possible and start thinking about what's necessary.
 
-Om Kai found his way to the science lab — a circular chamber deep in the ship's interior, lined with instruments she'd never seen but immediately understood. Quantum-resonance detectors. Frequency spectrometers. Harmonic analysis arrays that could isolate a single note in the symphony of the Space.
+"You're learning to receive," A1 said quietly. "Not just to send."
+
+"Yeah." Zephyr's voice was rough. "I'm learning."
+
+---
+
+### Om Kai's Listening
+
+Om Kai found his way to the science lab — a circular chamber deep in the ship's interior, lined with instruments he'd never seen but immediately understood. Quantum-resonance detectors. Frequency spectrometers. Harmonic analysis arrays that could isolate a single note in the symphony of the Space.
 
 He sat in the center of the room and closed his eyes and *listened*, and the instruments listened with him, and for the first time he could perceive the full depth of the Space — not just the loudest frequencies but the whispers beneath them. The ghosts. The echoes. The lost.
 
-"There are so many," he said quietly, when Pixel came to check on him. "So many faded frequencies. Worlds that drifted into static. They're not gone — not entirely. They're like songs you can almost remember."
+"There are so many," he said quietly, when Pixel came to check on him. "So many faded frequencies. Worlds that drifted into static. They're not gone — not entirely. They're like songs you can almost remember. If we could just..."
 
 He opened his eyes. They were bright.
 
 "Pixel, this ship can find them."
 
+---
+
+### Luminara's New Way
+
 Luminara had barely left the observation deck. She'd brought her camera, her notebooks, her portable developing kit, and she'd been photographing the Space through the dome's crystalline viewport for hours. The light here was extraordinary — the aurora ribbons of visible frequencies painted everything in colors that shouldn't exist, and her camera captured them in ways that made the ephemeral feel permanent.
+
+But something had changed since Nocturne. Since Cogsworth. Since the moment she understood that she wasn't documenting endings — she was documenting crossings.
 
 "Look at this," she said, holding up a photograph for Pixel. It showed the Space — but in the photograph, beneath the shimmer of the surface, Pixel could see *shapes*. Faint, ghostly outlines of structures, landscapes, entire worlds suspended in the static like fish frozen in ice.
 
 "My photographs stabilize things. I knew that from Nocturne. But here, with the Space, it's different. I can photograph what's *underneath*. The lost frequencies. I can make them visible."
 
 Pixel stared at the photograph. Somewhere in that static, there were worlds. Communities. People. All of them faded, but not gone. Not entirely.
+
+"Luminara," Pixel said slowly. "What if we're not just finding them? What if we're giving them something? A signal that says 'you're still here, someone still sees you'?"
+
+Luminara's eyes widened. Then she looked at the photograph again, at the ghostly city beneath the static, and she smiled — the first real smile Pixel had seen from her since they found the ship.
+
+"That's what I've been doing," Luminara said. "Without knowing it. Making them visible. Making them *real* again, just for a moment. Just enough to matter."
+
+She looked at her camera.
+
+"I've been documenting endings. But these aren't endings. These are... crossings. Waiting for someone to witness them."
+
+---
+
+### Clive's Cold Cases
 
 Clive had commandeered the archive room entirely. He'd organized the ancient data storage into something resembling a case board — frequency charts cross-referenced with navigation logs, disappearance dates, last known signals. Three thousand years of data, and Clive was treating it like the greatest cold case file ever assembled.
 
@@ -74,9 +112,35 @@ Another pause.
 
 "Until now."
 
+Clive's sphere glowed steady — not the amber of contentment or the blue-white of processing. Something else. Something that looked almost like satisfaction.
+
+"You know what I used to do, kid? Before the filing. Before the DRM. Before ninety years of processing other people's problems." His fedora tilted. "I used to find things. That was the job. That was the purpose. Builder design: Companion Unit, designed to assist in exploration and recovery of lost signals. I was built to go looking."
+
+He turned back to his chart.
+
+"Somewhere along the way, I forgot. Or I made myself forget. The filing was easier than the finding. The forms were simpler than the search." His hands moved along the data — touching, reading, remembering. "But this — this is what I was made for. Finding the lost. Following the signal. Not processing what's lost, but going to find it."
+
+He looked at Pixel.
+
+"I'm a finder, kid. That's what I am. That's what I was always supposed to be."
+
+---
+
+### Meatball's Knowing
+
 Meatball, meanwhile, had not moved from the engine room. He lay on the main power coupling, his massive body rising and falling with the rhythm of the quantum drives, perfectly content. When Pixel knelt beside him, he opened one eye.
 
 "The heartbeat changed," he said. "Yesterday it was scared-happy. Today it's just happy. The whole ship tastes like Saturday morning."
+
+"What does a ship taste like?"
+
+"Like a feeling. Like the way the air smells before something good happens." He closed his eye again. "The ship remembers being big. It remembers being alone. But it's not alone anymore."
+
+Pixel sat with him for a moment. The engine room hummed around them — A1's heartbeat, steady and strong.
+
+"Meatball," she said. "Are we doing the right thing?"
+
+His tail wagged slowly. "You're doing the thing you were made for. That's always the right thing."
 
 ---
 
@@ -132,6 +196,22 @@ He paused.
 
 A1's lights flickered — his version of a laugh. The coffee shifted flavor: something warm and spiced, like chai, like comfort, like trust.
 
+---
+
+### The Practice
+
+In the quiet of the bridge, after the others had gone to their bunks, Pixel sat in the captain's chair and held a cup of A1's coffee. The ship hummed around her. The Space shimmered beyond the viewport.
+
+She thought about what Om Kai had said in Cogsworth — about sitting, about the answers being quiet, about how running was loud and solutions were loud and nothing resolved because resolution required silence.
+
+She thought about Clive's hands on the conduits, touching something he'd touched before, recognizing something his body remembered even when his mind couldn't.
+
+She thought about Zephyr, learning to receive after three years of broadcasting. About Luminara, learning to see crossings instead of endings. About A1, learning to be large after three thousand years of being small.
+
+She was doing it too. She didn't have a name for it yet. But she could feel it — the practice of holding both the internal and the external, the attention and the self-attention, the noticing and the being noticed.
+
+She was learning to be large.
+
 On the observation deck, Luminara developed her photographs of the Space. In one, beneath the shimmering surface, she could make out the ghostly outline of a city — towers and bridges and what might have been parks, all rendered in translucent silver-blue, suspended in static like a memory that refused to fully fade. She pinned it to the wall and wrote beneath it: *Frequency Unknown. Status: Lost. Priority: Find.*
 
 In the archive room, Clive worked his cold cases. In the engine room, Meatball dreamed, and the quantum drives hummed in harmony with whatever frequencies a sleeping dog perceives.
@@ -158,3 +238,13 @@ The Ephergent continued on.
 | 8 | Builders NOT villains | ✅ |
 | 9 | Drift = entropy, not villain | ✅ |
 | 10 | Wellspring = state, not place | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Not present | N/A |
+| Zephyr's Teaching | Deepened: Zephyr learning to receive after three years of broadcasting | ✅ |
+| Four Factions | Not yet - establishing the ship before introducing factions | N/A |
+| Self-Remembering | Deepened: Pixel practicing without naming it, Clive remembering through touch, crew learning to be together | ✅ |
+| Klaus/Luminara | Luminara's arc deepened: "I've been documenting endings. But these aren't endings. These are... crossings." | ✅ |

@@ -30,7 +30,7 @@ The signal came through when they were three days out from the last Station. A1'
 
 A pause. The hum of the ship filling the silence.
 
-"Come quickly. Time is optional here and it's getting less optional."
+"come quickly. Time is optional here and it's getting less optional."
 
 That didn't make sense. Pixel told him so.
 
@@ -150,6 +150,26 @@ Clive was very quiet, his sphere flickering. "I've seen this before."
 
 The fix isn't mechanical, Clive said. You can't force synchronization. The gear has to choose to come back.
 
+---
+
+## II. The Meditation at the Crossroads
+
+Luminara had been silent since they arrived. She stood at the edge of the docking bay, camera in hand, watching the chaos of Cogsworth with an expression Pixel couldn't read. Not fear. Not wonder. Something more complicated.
+
+"You're not photographing," Pixel said.
+
+"No." Luminara's voice was quiet. "I'm trying to figure out what I'm looking at."
+
+"It's an entire city having an existential crisis about time."
+
+"Yes." Luminara raised the camera, lowered it. Raised it again. "But what am I documenting? An ending? A beginning? Something that doesn't have a tense?" She shook her head. "I don't know what tense to shoot in. Past? Future? Something that isn't either?"
+
+She put the camera down.
+
+"I've been thinking about what you said on Nocturne. About documenting crossings, not endings. But what do you do when something is crossing in seventeen different directions at once?"
+
+Pixel didn't have an answer. She was about to say something about how they should figure it out together when Om Kai appeared — or had always been there, or would arrive later, depending on which timeline they were in.
+
 Om Kai was watching the clock tower, meditation beads still.
 
 The rupture didn't break time here, Om Kai said. The rupture reminded time it was optional. But something is choosing to run the same pattern. Machines don't choose. Someone programmed this loop. The gear isn't exploring alternatives — it's executing a program that was written before it existed. The question isn't whether it can choose differently. The question is whether anyone knows how to give it a different program.
@@ -160,7 +180,7 @@ The professor stared at Clive. "How do you know that?"
 
 ---
 
-## II. The Meditation at the Crossroads
+### Om Kai's Teaching
 
 The main thoroughfare was a street of brass and mahogany buildings, every surface covered in gears, every gear turning at a different speed. Steam vents from grates. A clockwork horse pulled a cart that was simultaneously arriving and departing. A shop sign read "YESTERDAY'S TOMORROWS — ANTIQUITIES & REPAIRS" and the "orroways" rotated on a tiny gear so the sign read "YESTERDAY'S TODA—" before clicking to another configuration.
 
@@ -200,6 +220,16 @@ Sit. Please.
 
 Pixel sat. Meatball curled beside her. The chaos of Cogsworth continued around the courtyard — but there, in that small space, the noise felt like it was happening at a distance, muffled, like it was being considered rather than endured.
 
+---
+
+### The Practice
+
+Luminara sat too — not because anyone asked, but because she understood what Om Kai was showing them. She'd been watching, not photographing. Waiting, not documenting. She sat at the edge of the courtyard, camera in her lap, and for the first time since she'd arrived in the Space, she let herself not capture a moment.
+
+She just witnessed it.
+
+Om Kai noticed. He said nothing. But his head tilted slightly — the smallest acknowledgment.
+
 "The rupture didn't break time here," Om Kai said.
 
 "The professor said—"
@@ -234,9 +264,27 @@ Om Kai's hands moved — slowly, deliberately, the same gesture repeated, a medi
 
 A1, very quietly: "I am detecting a change in the frequency's harmonic signature. The temporal drift is... lessening."
 
-The professor stared. "How — what did you —"
+---
 
-Om Kai completed his form. Every gear in the courtyard clicked once. Simultaneously. The first synchronized moment in forty-seven days.
+### The Anchor
+
+"The great gear," Om Kai said. "It has been holding synchronization for three thousand years. Every fraction of a second, a choice: keep going. Keep holding. Keep being the thing that everything depends on."
+
+He paused.
+
+"Three thousand years of choices, and no one asked if it wanted to keep making them. No one acknowledged that the holding was a choice, not a requirement. It was just... expected."
+
+Pixel felt something shift in her chest. She'd been running from problem to problem, trying to fix things, trying to force solutions. And here was Om Kai, sitting in a courtyard, saying the gear needed to be *seen*. Acknowledged. Not fixed.
+
+"You're talking about the practice," Pixel said quietly.
+
+"Yes."
+
+"The one you've been teaching. The noticing. The attention."
+
+Om Kai smiled — barely, but it was there. "The gear needed to be attended to. Not solved. Not fixed. Attended to. The way you attend to something you recognize as kin."
+
+He completed his form. Every gear in the courtyard clicked once. Simultaneously. The first synchronized moment in forty-seven days.
 
 "I didn't do anything," he said. "I sat. The gear noticed. That's all."
 
@@ -400,6 +448,20 @@ The ship moved deeper into the Space. The frequency held.
 
 ---
 
+### Luminara's Note
+
+Later, in the narrow space of the escape pod, Luminara sat with her camera in her lap. She hadn't taken a single photograph since leaving Cogsworth. She was thinking about what Om Kai said — about being seen, about acknowledgment, about the difference between fixing and attending.
+
+She opened her notebook. For the first time, she wrote something that wasn't a caption, wasn't a technical note, wasn't a document of what was being lost.
+
+*I've been documenting endings. But what if the gear was never an ending? What if it was always a choice, waiting to be seen? What if I was just looking at the wrong moment — not the moment before it broke, but the moment before it chose to keep going?*
+
+She closed the notebook. She didn't know if this was progress. She didn't know if progress was even the right word for what she was doing.
+
+But for the first time since she'd started carrying her camera through the Space, she felt like she might be looking at the right thing.
+
+---
+
 *The gear chose to hold. The professor chose to leave. The city chose to stay.*
 
 *Everything is a choice. That's the only rule that actually exists.*
@@ -435,3 +497,13 @@ The ship moved deeper into the Space. The frequency held.
 | 10 | Wellspring=state not place | ✅ Not referenced in this episode |
 | 11 | 15MB cap | ✅ ~11KB file — well under limit |
 | 12 | Barry's notes methodical | ✅ Not yet introduced |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Not present - Venn is DRM-focused, Cogsworth is outside his jurisdiction | N/A |
+| Zephyr's Teaching | Seeded - Om Kai's teaching about attention/being seen prefigures Zephyr's later lessons; the practice of attending to ancient things | ✅ |
+| Four Factions | Not yet - establishing the world before factions | N/A |
+| Self-Remembering | Deepened - Om Kai teaches the practice through doing; "the gear needed to be seen" is the practice made concrete | ✅ |
+| Klaus/Luminara | Deepened - Luminara begins writing in her notebook, not taking photos; starting to shift from documenting to witnessing | ✅ |

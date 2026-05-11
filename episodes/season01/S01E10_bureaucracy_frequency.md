@@ -121,3 +121,38 @@ Somewhere in the Space, bureaucracy had won a small victory.
 But the Ephergent had its transit forms.
 
 And that was enough.
+
+---
+
+## LOCKED RULES CHECK
+
+| Rule | Description | Status |
+|------|-------------|--------|
+| 1 | Frequencies, not dimensions | ✅ |
+| 2 | The Space, not the Sea | ✅ |
+| 3 | A1 IS the espresso machine | ✅ |
+| 4 | Coffee in every A1 scene | ✅ |
+| 5 | Clive NOT a stapler | ✅ |
+| 6 | Barry alive in Wellspring | ✅ |
+| 7 | Mochi never speaks | ✅ |
+| 8 | Builders NOT villains | ✅ |
+| 9 | Drift = entropy, not villain | ✅ |
+| 10 | Wellspring = state, not place | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Not present - this is a self-contained Grabovoi tutorial episode | N/A |
+| Zephyr's Teaching | Not present | N/A |
+| Four Factions | Not present | N/A |
+| Self-Remembering | Not present | N/A |
+| Klaus/Luminara | Not present | N/A |
+
+## GRABOVOI INTEGRATION
+
+This episode serves as the canonical introduction to Grabovoi codes for Season 1:
+- Code for unexpected money: 520 741 8
+- Spaces are the architecture (quantum pauses)
+- Numbers are just the payload
+- Mispronunciation = mirror version (money becomes bureaucracy)

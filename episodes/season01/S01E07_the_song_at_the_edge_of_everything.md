@@ -144,6 +144,10 @@ Pixel looked at her crew. Every face told the same story — the war between the
 
 "We weren't going back anyway," Pixel said. But her voice was softer than she intended.
 
+---
+
+### The Practice in the Choice
+
 Om Kai folded his prayer beads into his robes. "Into the void. Following the oldest signal. Toward something that has been waiting." He smiled. "Home is where the signal leads. It always has been."
 
 Clive's sphere pulsed in a rapid pattern — his equivalent of a deep breath. "For the record, kid, I want it noted that I objected to this plan. I also want it noted that I didn't suggest an alternative, because there isn't one."
@@ -157,6 +161,34 @@ Meatball looked up at her. His tail wagged once — not the excited wag of a wal
 Luminara raised her camera. "Whatever we find, someone should see it. I'll make sure they do."
 
 "A1," Pixel said. "Take us to the song."
+
+---
+
+### Zephyr's Beginning
+
+Zephyr's hands moved across the console, but his mind was elsewhere.
+
+He had been broadcasting for three years. Three years of sending his signal toward the boundary, toward his brother, toward the frequency where Aether had become something else. He had filled the Space with his transmission, wave after wave, message after message — and he had received nothing back.
+
+The crew assumed he was the broadcaster. The technician. The one who knew how to send signals across frequencies. But Zephyr understood something they didn't: he had been broadcasting at the universe. He had been so focused on sending that he had forgotten to receive.
+
+This was what Om Kai had been trying to teach him, in the meditation courtyard, in the quiet moments aboard the escape pod. The practice wasn't just about attention. It was about *reception*. About holding space for what came back.
+
+And now, watching the phase-shifter's charge drain into propulsion, watching the last ticket home burn away, Zephyr felt something he hadn't felt in three years: silence. Not empty silence. Not the silence of his brother's absence. The silence of a channel waiting to receive.
+
+He looked at Pixel. At her crew. At the void ahead.
+
+"I can hear it," he said quietly. "The song. It's not just A1 who can hear it."
+
+Pixel turned. "What do you mean?"
+
+"Aether used to say that broadcasting was easy. That anyone could send. But receiving—" Zephyr's voice caught. "Receiving is the hard part. You have to be quiet enough to hear. Empty enough to receive. I spent three years shouting into the void. I forgot that the void was shouting back."
+
+He paused. The phase-shifter's last charge bled away.
+
+"Maybe that's why he couldn't hear me. I was too full of sending to receive."
+
+The ship shuddered. The phase-shifter died. And the escape pod began to move — not toward any known frequency, but toward the song, toward the massive dark shape in the void, toward the thing that had been waiting three thousand years to be found.
 
 ---
 
@@ -194,6 +226,8 @@ The ship hummed around her. She could feel it — not just hear it, but *feel* i
 
 ---
 
+### The Crew Finds Its Shape
+
 The crew spent the morning exploring.
 
 A1 was everywhere — guiding, explaining, remembering. His consciousness spread through the ship's systems like water finding its level, and with each new room they entered, he recovered another fragment of who he'd been. But it wasn't seamless. His lights flickered with emotion. Corridors would brighten when he was excited about something they'd found, dim when they opened a door to a damaged section he hadn't been able to repair. Once, when Pixel ran her hand along a wall in the lower decks, the entire ship shivered.
@@ -202,25 +236,93 @@ A1 was everywhere — guiding, explaining, remembering. His consciousness spread
 
 "You're doing great, big guy," Pixel said. She patted the wall again, deliberately. The ship shivered again, but this time the lights warmed.
 
-Zephyr spent the morning deep in A1's computational core, his fragmented consciousness finally having a space vast enough to breathe. He'd been compressed for so long — his mind shattered across too-small systems, always losing pieces of himself at the edges. But A1's architecture was ancient and enormous and *generous*, built for a scale of consciousness that made room for Zephyr's fractures.
+---
 
-"I can see your navigation logs," Zephyr told A1, his eyes flickering with scrolling data. "Thousands of them. Frequencies you visited before the frequency storm. Places that don't exist anymore — or maybe they do, and they just faded. And your communication protocols are incredible, A1. The signal range on this ship..." He trailed off, awed. "You could broadcast to frequencies that haven't been tuned in centuries."
+### Zephyr's First Lesson
 
-Om Kai found his way to the science lab — a circular chamber deep in the ship's interior, lined with instruments he'd never seen but immediately understood. Quantum-resonance detectors. Frequency spectrometers. Harmonic analysis arrays that could isolate a single note in the symphony of the Space. He sat in the center of the room and closed his eyes and *listened*, and the instruments listened with him, and for the first time he could perceive the full depth of the Space — not just the loudest frequencies but the whispers beneath them. The ghosts. The echoes. The lost.
+Zephyr spent the morning in the communication array — not broadcasting, but *listening*. He had spent three years transmitting, and now, for the first time, he was using the array to receive. To tune in. To hear what the Space was saying back.
 
-"There are so many," he said quietly, when Pixel came to check on him. "So many faded frequencies. Worlds that drifted into static. They're not gone — not entirely. They're like songs you can almost remember. If we could just..." He opened his eyes. They were bright. "Pixel, this ship can find them."
+A1 found him there, in the dark, surrounded by instrumentation that was older than human civilization. Zephyr's eyes were closed. His hands rested on the console, not typing, not adjusting — just touching, the way Clive touched the conduits, the way Pixel touched the wall.
+
+"You're learning," A1 said.
+
+Zephyr opened his eyes. "I'm remembering."
+
+"The communication array. It was built for two-way transmission. Not just broadcasting."
+
+"I know." Zephyr's voice was quiet. "I spent three years shouting. Sending. I never—" He stopped. Swallowed. "I never thought about what I might be missing."
+
+A1's projection flickered — not the corridors this time, but something softer. Something that might have been recognition.
+
+"The song," A1 said. "I heard it reach backward. Signals from my future. Coordinates I would travel." He paused. "You hear differently than I do. Your frequency perception is different. If we could combine—"
+
+"You want to listen together."
+
+"I want to receive together. The song is old. It may have things to say that I cannot parse alone."
+
+Zephyr looked at the console. At his hands. At the vast, dark instrument that had been waiting three thousand years for someone to learn its language.
+
+"How do we start?"
+
+A1's voice was gentle. "The same way you learned anything. By being quiet enough to hear."
+
+---
+
+### Luminara's Photographs
 
 Luminara had barely left the observation deck. She'd brought her camera, her notebooks, her portable developing kit, and she'd been photographing the Space through the dome's crystalline viewport for hours. The light here was extraordinary — the aurora ribbons of visible frequencies painted everything in colors that shouldn't exist, and her camera captured them in ways that made the ephemeral feel permanent.
 
+But something was different now. She wasn't just photographing the Space. She was photographing what was *beneath* the Space.
+
 "Look at this," she said, holding up a photograph for Pixel. It showed the Space — but in the photograph, beneath the shimmer of the surface, you could see *shapes*. Faint, ghostly outlines of structures, landscapes, entire worlds suspended in the static like fish frozen in ice. "My photographs stabilize things. I knew that from Nocturne. But here, with the Space, it's different. I can photograph what's *underneath*. The lost frequencies. I can make them visible."
+
+She looked at the photograph with something like wonder. "I've been documenting endings. But these aren't endings. These are... waiting. They're waiting to be found."
+
+Pixel looked at the ghostly shapes in the photograph. At the frequencies that had faded into static, waiting for someone to tune them back in.
+
+"Luminara," she said quietly. "What if that's what we do? Not just find them. Make them visible. Give people something to see."
+
+Luminara's eyes were bright. "That's what I do. That's what I've always done." She paused. "I just didn't know what I was photographing."
+
+---
+
+### Clive Remembers
 
 Clive had commandeered the archive room entirely. He'd organized the ancient data storage into something resembling a case board — frequency charts cross-referenced with navigation logs, disappearance dates, last known signals. Three thousand years of data, and Clive was treating it like the greatest cold case file ever assembled.
 
 "Three hundred and forty-seven," he announced when Pixel found him. "That's how many frequencies went dark during or after the frequency storm that separated A1 from the ship. Three hundred and forty-seven worlds, kid. Some faded slow. Some went out like a light. And nobody went looking for them." He paused, his knee-high robot form gleaming under the archive room's reading lights. "Until now."
 
+He looked at the chart. At the patterns. At the names of places that had been silent for centuries.
+
+"I knew some of them," he said quietly. "Before. I knew some of these frequencies. Visited them, maybe. Or—" He stopped. His hands moved to his chassis, to the Builder symbols etched into his surface. "Or I was built knowing them. The schematics were in me. I just forgot."
+
+"What do you remember now?"
+
+Clive was quiet for a long moment. Then he turned to Pixel, his sphere glowing steady blue-white.
+
+"That I was built to find things. That the finding was the purpose. Not the filing. Not the classifying. The finding." His fedora tilted. "Someone built me to go looking, kid. And I spent eight hundred years filing instead."
+
+He turned back to the chart.
+
+"Not anymore."
+
+---
+
+### Meatball's Knowing
+
 Meatball, meanwhile, had not moved from the engine room. He lay on the main power coupling, his massive body rising and falling with the rhythm of the quantum drives, perfectly content. When Pixel knelt beside him, he opened one eye.
 
 "The heartbeat changed," he said. "Yesterday it was scared-happy. Today it's just happy. The whole ship tastes like Saturday morning."
+
+"What does a ship taste like?"
+
+"Like a feeling. Like the way the air smells before something good happens." He closed his eye again. "The ship remembers being big. It remembers being alone. But it's not alone anymore."
+
+Pixel sat with him for a moment. The engine room hummed around them — A1's heartbeat, steady and strong.
+
+"Meatball," she said. "Are we doing the right thing?"
+
+His tail wagged slowly. "You're doing the thing you were made for. That's always the right thing."
 
 ---
 
@@ -318,3 +420,13 @@ The Ephergent continued on.
 | 10 | Wellspring = state, not place | ✅ |
 | 11 | 15MB per-game hard cap | N/A (radio play) |
 | 12 | Barry's notes methodical/precise | ✅ |
+
+## EXPANSION INTEGRATION
+
+| Element | Integration | Status |
+|---------|-------------|--------|
+| Director Harmon Venn | Not present - the DRM is mentioned but Venn is elsewhere | N/A |
+| Zephyr's Teaching | Deepened: Zephyr learns about receiving vs broadcasting; "I spent three years shouting" - his arc begins | ✅ |
+| Four Factions | Not yet - establishing the ship and crew before introducing factions | N/A |
+| Self-Remembering | Deepened: Multiple crew members practicing - Clive with conduits, Zephyr learning to receive, Pixel choosing | ✅ |
+| Klaus/Luminara | Luminara's arc deepened: "I've been documenting endings. But these aren't endings. These are... waiting." | ✅ |
