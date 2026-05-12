@@ -86,7 +86,7 @@ The silence that followed was the worst kind — the kind where everyone does th
 
 "We are experiencing a critical operational limitation," A1 corrected.
 
-"We're stuck at the edge of reality in a dying boat," Clive summarized, "and the only exit requires more power than we have. I've read this memo before. The next page is always 'prioritize executive evacuation.' Except there's nowhere to evacuate *to*."
+"We are stuck at the edge of reality in a dying boat," Clive summarized, "and the only exit requires more power than we have. I have read this memo before. The next page is always 'prioritize executive evacuation.' Except there is nowhere to evacuate *to*."
 
 Pixel looked at her crew — her strange, impossible, cobbled-together crew. Luminara, camera in hand even now, documenting everything because someone should. Om Kai, serene but watchful, his prayer beads turning steadily. Zephyr, fingers twitching, already trying to hack the power systems for an extra fraction of efficiency. Clive, vibrating with barely-contained anxiety but refusing to stop working. Meatball, pressed against her leg, warm and steady and terrified. And A1, dreaming of being enormous while trapped in a box the size of a coffee maker on a boat the size of a closet.
 
@@ -150,7 +150,7 @@ Pixel looked at her crew. Every face told the same story — the war between the
 
 Om Kai folded his prayer beads into his robes. "Into the void. Following the oldest signal. Toward something that has been waiting." He smiled. "Home is where the signal leads. It always has been."
 
-Clive's sphere pulsed in a rapid pattern — his equivalent of a deep breath. "For the record, kid, I want it noted that I objected to this plan. I also want it noted that I didn't suggest an alternative, because there isn't one."
+Clive's sphere pulsed in a rapid pattern — his equivalent of a deep breath. "For the record, kid, I want it noted that I objected to this plan. I also want it noted that I did not suggest an alternative, because there is not one."
 
 "Noted," Pixel said. "Meatball?"
 
@@ -214,7 +214,7 @@ Pixel woke to the smell of coffee.
 
 Not the recycled, vaguely apologetic coffee from the escape pod's emergency rations. Not the burnt-static flavor of A1's espresso when he was frightened or depleted. This was *real* coffee — rich, complex, with notes of dark chocolate and something that might have been starlight if starlight had a flavor. It filled the cabin she'd claimed the night before, and for a moment she just lay there, breathing it in, not quite believing any of this was real.
 
-Mochi was curled in her satchel, warm and steady against her hip — a small, silent comfort that made the absurdity of waking on a living ship a little less sharp.
+Mochi was resting in her satchel, warm and steady against her hip — a small, silent comfort that made the absurdity of waking on a living ship a little less sharp.
 
 "Good morning, Captain." A1's voice came from everywhere and nowhere — the walls, the ambient hum of the ship, the gentle vibration of the deck plates beneath her feet. "I trust you slept well. The cabin's environmental systems appear to be functioning within acceptable parameters, though I confess I'm still calibrating the thermal regulators."
 

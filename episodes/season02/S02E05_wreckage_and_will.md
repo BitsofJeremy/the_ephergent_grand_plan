@@ -30,6 +30,8 @@ She was watching the debris field the way you watch a fire — unable to look aw
 
 A1's voice cut in from the sensor array, clinical and precise. "Captain, I'm detecting seventeen intact signal sources within the debris field. Fourteen are consistent with derelict hull plating — passive resonance only. Two are consistent with emergency beacon signatures. One is — unusual."
 
+A1's coffee came out thin and anxious — a precise, fractured espresso that tasted like uncertainty. The kind of coffee that meant the machine was running scenarios it did not want to complete.
+
 "Unusual how?" Pixel asked.
 
 A pause. A1 did not pause often. "The signal is broadcasting on a frequency I do not recognize. It is also approximately eight hundred years old, and it is coming from a source that should not exist."

@@ -272,7 +272,7 @@ Pixel nodded. "Every one we've checked so far."
 
 She paused. The desperation she'd been holding back surfaced.
 
-"And — you have a ship. You can travel between frequencies. There has to be a way home. I want to help fix this, I do, but I also want to find my way back. I need to know my world is still there."
+"And you have a ship. You can travel between frequencies. There has to be a way home. I want to help fix this, I do, but I also want to find my way back. I need to know my world is still there."
 
 "It is," Pixel said. "It's messed up, but it's there."
 
@@ -318,7 +318,7 @@ Pixel paused. Looked at the escape pod's straining power readout.
 
 "And Luminara wants to go home. We all do."
 
-"We're a mess. But we're a *functional* mess."
+"We're a mess. But we're functional."
 
 "Dispatch three. The Ephergent. Still broadcasting. Still listening. Still trying to understand what the hell is happening."
 

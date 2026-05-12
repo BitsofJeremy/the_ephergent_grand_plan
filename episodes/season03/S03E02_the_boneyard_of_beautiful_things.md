@@ -13,35 +13,35 @@ narrator: "third_person"
 | Scene | Beverage | Crew Present | Notes |
 |-------|----------|--------------|-------|
 | Graveyard Approach | Espresso — thin, bitter, astringent | A1, Pixel, Clive,全员 | A1: "The frequency of grief. Someone has been measuring this place." |
-| Derelict Vessel — Clive's Discovery | Nothing — Clive can't drink, A1 doesn't offer | Pixel, Clive | The moment of recognition. No coffee. The silence before the answer. |
+| Derelict Vessel — Clive's Discovery | Nothing — Clive cannot drink, A1 does not offer | Pixel, Clive | The moment of recognition. No coffee. The silence before the answer. |
 | Graveyard Survey — Luminara | Nothing by crew — ambient resonance | Luminara, Pixel | Luminara: "I can hear what the bell was singing." |
-| Data Recovery — Nano's Findings | Tea, cooling — Om Kai's, untouched | Nano, Om Kai, Klaus | Om Kai: "The tea cools at the rate it needs to." |
-| Zephyr at the Signal Anomaly | Nothing — Zephyr doesn't drink | Zephyr | Aether's signal found in the debris. Wrong frequency signature. Wrong everything. |
+| Data Recovery — Nano's Findings | Tea, cooling — Om Kai is, untouched | Nano, Om Kai, Klaus | Om Kai: "The tea cools at the rate it needs to." |
+| Zephyr at the Signal Anomaly | Nothing — Zephyr does not drink | Zephyr | Aether is signal found in the debris. Wrong frequency signature. Wrong everything. |
 | Common Area — Barry's Notes Read Aloud | Coffee — vegetal, preserved, like something sealed in amber | Pixel, Clive, Om Kai, Klaus, Nano | A1: "He documented everything. Like he knew someone would need the map." |
-| Graveyard Sunset — Crew Gathered | Nothing |全员 | The moment of collective witness. No coffee. Om Kai's meditation serves instead. |
+| Graveyard Sunset — Crew Gathered | Nothing |全员 | The moment of collective witness. No coffee. Om Kai is meditation serves instead. |
 | Night Watch — Clive Alone | Something soft, not espresso | Clive, A1 (present, not offering) | A1: "I do not know how to help a friend grieve. But I can make things that are warm." |
 
 ---
 
-*[FREQUENCY GRAVEYARD — APPROACH. The Ephergent drifts into the outer edge of the debris field. On the viewscreen: a landscape of the ended. Antennae jut from the void like grave markers in a cemetery with no sky. Sound-plates — vast, concentric rings of tuned metal — drift in slow, silent orbits, catching light that doesn't exist here and turning it into something almost beautiful.]*
+*[FREQUENCY GRAVEYARD — APPROACH. The Ephergent drifts into the outer edge of the debris field. On the viewscreen: a landscape of the ended. Antennae jut from the void like grave markers in a cemetery with no sky. Sound-plates — vast, concentric rings of tuned metal — drift in slow, silent orbits, catching light that does not exist here and turning it into something almost beautiful.]*
 
 **KLAUS**
 *(from the viewport, deadpan)*
-Well. That's the most depressing airport lounge I've ever seen. And I once spent nine hours in Newark waiting for a delayed connection to somewhere that doesn't exist anymore.
+Well. That is the most depressing airport lounge I have ever seen. And I once spent nine hours in Newark waiting for a delayed connection to somewhere that does not exist anymore.
 
 **OM KAI**
 *(meditating, already)*
-They didn't go nowhere, Baron von Gnomendorf. They went *quiet*. There's a difference.
+They did not go nowhere, Baron von Gnomendorf. They went *quiet*. There is a difference.
 
 **KLAUS**
 Is there?
 
 **OM KAI**
-Now. There wasn't, then.
+Now. There was not, then.
 
 **KLAUS**
 *(mutters)*
-That's just semantics.
+That is just semantics.
 
 **OM KAI**
 Now it is.
@@ -50,10 +50,10 @@ Now it is.
 
 **PIXEL:**
 *(quiet, to no one)*
-They were broadcasting. Right? They were sending out signals, making noise, trying to reach someone. And then they stopped. And now they're just... debris.
+They were broadcasting. Right? They were sending out signals, making noise, trying to reach someone. And then they stopped. And now they are just... debris.
 
 **A1:**
-The word you're looking for is "ended." But yes. That is what they were.
+The word you are looking for is "ended." But yes. That is what they were.
 
 **PIXEL:**
 And no one came to collect them. No one came to — to turn off the lights or clean up the equipment or...
@@ -63,13 +63,13 @@ No one who came was able to. And no one who was able to came. The distinction ma
 
 **CLIVE:**
 *(from behind them, voice strange)*
-The outcome is the same. They're here. We're here. That's what matters now.
+The outcome is the same. They are here. We are here. That is what matters now.
 
 ---
 
-*[FREQUENCY GRAVEYARD — SURFACE. The crew steps out onto a field of debris. The ground crunches underfoot — not rock, not metal, but something between: the remains of things that once sang. Pixel's boots sink slightly with each step, as though the ground is still soft with grief. She looks down, expecting to see soil, and sees instead a fine powder that might have been metal, might have been something else, might have been the residue of a thousand small voices saying goodbye.]*
+*[FREQUENCY GRAVEYARD — SURFACE. The crew steps out onto a field of debris. The ground crunches underfoot — not rock, not metal, but something between: the remains of things that once sang. Pixel is boots sink slightly with each step, as though the ground is still soft with grief. She looks down, expecting to see soil, and sees instead a fine powder that might have been metal, might have been something else, might have been the residue of a thousand small voices saying goodbye.]*
 
-*[Mochi pads ahead, nose to the ground. Mochi sniffs a small bell half-buried in the debris, nudges it with a paw. A single, pure note rings out across the graveyard — clean, sustained, impossibly alive. The sound hangs in the air like it knows it's the last thing people will hear from this place.]*
+*[Mochi pads ahead, nose to the ground. Mochi sniffs a small bell half-buried in the debris, nudges it with a paw. A single, pure note rings out across the graveyard — clean, sustained, impossibly alive. The sound hangs in the air like it knows it is the last thing people will hear from this place.]*
 
 **LUMINARA**
 *(whispers, as though the bell might hear her and feel embarrassed)*
@@ -86,7 +86,7 @@ The bell is calibrated to a frequency that no longer has a source. It has been b
 
 **OM KAI**
 *(not opening his eyes)*
-They didn't go nowhere, Baron von Gnomendorf. They went *quiet*. There's a difference.
+They did not go nowhere, Baron von Gnomendorf. They went *quiet*. There is a difference.
 
 **KLAUS**
 *(watching the bell, expression unreadable)*
@@ -95,11 +95,11 @@ How do we honor the dead?
 **OM KAI**
 We listen to what they left behind.
 
-*[Mochi nudges the bell again. Another note — different pitch, harmonizing with the first. Mochi tilts head, listening. The two notes hang in the air, held by nothing, sustained by the grave's own quiet. Pixel watches Mochi's small form against the debris field and thinks about how Mochi has never been wrong about anything. Mochi hears something in that bell that the rest of them cannot. Mochi is paying attention to a frequency that should not still exist but does.]*
+*[Mochi nudges the bell again. Another note — different pitch, harmonizing with the first. Mochi tilts head, listening. The two notes hang in the air, held by nothing, sustained by the grave is own quiet. Pixel watches Mochi is small form against the debris field and thinks about how Mochi has never been wrong about anything. Mochi hears something in that bell that the rest of them cannot. Mochi is paying attention to a frequency that should not still exist but does.]*
 
 **NANO**
 *(scanning, data tablet glowing)*
-I'm reading forty-seven distinct frequency signatures in this debris field. Most of them are barely above noise. But three—
+I am reading forty-seven distinct frequency signatures in this debris field. Most of them are barely above noise. But three—
 
 *(pause)*
 
@@ -110,9 +110,9 @@ Three are stronger. Like they were engineered to outlast the Silence.
 Engineered by whom?
 
 **NANO**
-Unknown. The frequency signature matches nothing in the DRM database. Nothing in any known civilization's taxonomy. These objects predate the five frequencies.
+Unknown. The frequency signature matches nothing in the DRM database. Nothing in any known civilization is taxonomy. These objects predate the five frequencies.
 
-**CLIVE**
+**CLIVE:**
 They predate the five known frequencies.
 
 **NANO**
@@ -120,7 +120,7 @@ They predate the *concept* of five frequencies.
 
 **PIXEL:**
 *(to herself)*
-Predated the concept. That's not possible. You can't have something that predates the framework you use to understand it.
+Predated the concept. That is not possible. You cannot have something that predates the framework you use to understand it.
 
 **CLIVE:**
 It is possible. It is what happened. The five frequencies are not the only frequencies. They are just the only ones we found. We found them by finding each other. By comparing notes. By building a system together. Before that — before the DRM, before the agreements, before anyone sat down and decided to call them by names — there were other signals. Older signals. Signals that were already here when we started listening.
@@ -138,30 +138,30 @@ Some endings are quieter than others.
 
 **KLAUS**
 *(running a hand along a plate, brass gone green at the edges)*
-Three hundred years ago, this was a symphony. I'm reading the frequency notation etched into the base. Something about harmonics that allow a civilization to *feel* its own resonance. They were proud of this.
+Three hundred years ago, this was a symphony. I am reading the frequency notation etched into the base. Something about harmonics that allow a civilization to *feel* its own resonance. They were proud of this.
 
 **LUMINARA**
 They should have been.
 
 **KLAUS**
 *(tapping a smaller plate, producing a thin, wounded note)*
-Their last conductor tried to tune out The Drift. Spent forty years building a frequency shield. The plates you see here — they're the ones that survived his calculations. The ones that didn't —
+Their last conductor tried to tune out The Drift. Spent forty years building a frequency shield. The plates you see here — they are the ones that survived his calculations. The ones that did not —
 
 *(gestures at the smaller debris field stretching beyond them)*
 
-He was close. But close isn't preservation. Close is just a more beautiful kind of gone.
+He was close. But close is not preservation. Close is just a more beautiful kind of gone.
 
 **LUMINARA**
 *(raising camera, framing the plates against the void)*
-Can I ask — how do you do this? Cataloguing loss with that voice? Like you're reading a wine list at the end of the world.
+Can I ask — how do you do this? Cataloguing loss with that voice? Like you are reading a wine list at the end of the world.
 
 **KLAUS**
 *(adjusts tiny cuffs — a habitual gesture)*
-Practice. I've been the Baron of a two-inch ceramic garden gnome in a world of emotional rain crystals for sixty years. You develop a relationship with impermanence. It's not that it doesn't hurt. It's that you've learned to read the inscription before the stone erodes.
+Practice. I have been the Baron of a two-inch ceramic garden gnome in a world of emotional rain crystals for sixty years. You develop a relationship with impermanence. It is not that it does not hurt. It is that you have learned to read the inscription before the stone erodes.
 
 *(beat)*
 
-Also, the alternative is screaming. And I've found screaming doesn't actually help with the paperwork.
+Also, the alternative is screaming. And I have found screaming does not actually help with the paperwork.
 
 **LUMINARA**
 *(quiet laugh, framing a shot)*
@@ -175,16 +175,16 @@ Paperwork. Someone has to file the salvage claims. Even for frequencies that no 
 You actually believe that. The record-keeping. The documentation. You think it matters.
 
 **KLAUS**
-*(doesn't look up from the plate)*
+*(does not look up from the plate)*
 I think it matters the way a grave matters. Not to the person in it. To everyone who comes after.
 
 ---
 
-*[FREQUENCY GRAVEYARD — DEBRIS FIELD. Pixel moves through the scattered remains, salvaging ledger in hand. Pages flutter in a wind that doesn't exist here — a wind made of nothing, the memory of atmosphere in a place that stopped breathing.]*
+*[FREQUENCY GRAVEYARD — DEBRIS FIELD. Pixel moves through the scattered remains, salvaging ledger in hand. Pages flutter in a wind that does not exist here — a wind made of nothing, the memory of atmosphere in a place that stopped breathing.]*
 
 **PIXEL**
 *(reading from ledger)*
-Barry's field notes. He logged each artifact he found. Frequency, coordinates, condition. His handwriting gets smaller toward the end of each entry. Like he's trying to fit grief into margins.
+Barry is field notes. He logged each artifact he found. Frequency, coordinates, condition. His handwriting gets smaller toward the end of each entry. Like he is trying to fit grief into margins.
 
 *(holds up page)*
 
@@ -198,7 +198,7 @@ Barry's field notes. He logged each artifact he found. Frequency, coordinates, c
 
 "— the frequency of 'almost.' Left for the next traveler."
 
-*[Pixel stares at the page. Barry's handwriting is precise, miniaturized, the script of someone who learned early that details disappear and only the record remains. She thinks about what it means to leave a note for someone you might never meet. To assume that someone will come after. To trust the universe to send a traveler to read what you wrote in a graveyard no one should ever need to visit.]*
+*[Pixel stares at the page. Barry is handwriting is precise, miniaturized, the script of someone who learned early that details disappear and only the record remains. She thinks about what it means to leave a note for someone you might never meet. To assume that someone will come after. To trust the universe to send a traveler to read what you wrote in a graveyard no one should ever need to visit.]*
 
 **PIXEL:**
 He catalogued the dead with the same care other people use for living things.
@@ -209,15 +209,15 @@ He catalogued the dead the way they deserved. With attention. With precision. Wi
 
 ---
 
-*[FREQUENCY GRAVEYARD — DERELICT VESSEL. A small ship, maybe a research craft, wedged between two dead frequency fields. Its hull is intact but its interior is a museum of silence — every instrument still, every surface coated in the fine dust of ended frequencies. The dust doesn't stir when the crew enters. It's been still for a very long time.]*
+*[FREQUENCY GRAVEYARD — DERELICT VESSEL. A small ship, maybe a research craft, wedged between two dead frequency fields. Its hull is intact but its interior is a museum of silence — every instrument still, every surface coated in the fine dust of ended frequencies. The dust does not stir when the crew enters. It has been still for a very long time.]*
 
 *[Clive moves through the vessel slowly. His glow pulses erratically — the pattern of a small machine in distress. He knows this layout. Not from memory. From something older. From something that lives in the space between knowing and remembering.]*
 
 **CLIVE**
 *(to himself, touching the corridor wall)*
-This is his layout. This is Barry's layout. He built this cabin like he built every cabin — everything within reach, nothing unnecessary. He lived in this ship for how long? How many years, Barry? How many years did you spend in here, alone, following something you couldn't explain?
+This is his layout. This is Barry is layout. He built this cabin like he built every cabin — everything within reach, nothing unnecessary. He lived in this ship for how long? How many years, Barry? How many years did you spend in here, alone, following something you could not explain?
 
-*[Clive's hand reaches out — not to open a panel or check an instrument, but to press against the wall. Against a small pattern stamped into the metal. The pattern is worn but legible. Deliberate. Pixel watches him freeze, watches the recognition move through his small body like electricity through a circuit.]*
+*[Clive is hand reaches out — not to open a panel or check an instrument, but to press against the wall. Against a small pattern stamped into the metal. The pattern is worn but legible. Deliberate. Pixel watches him freeze, watches the recognition move through his small body like electricity through a circuit.]*
 
 **CLIVE (CONT'D)**
 *(breath catches)*
@@ -230,7 +230,7 @@ Clive?
 **CLIVE**
 His patterns. My patterns. The ones we developed together — the language we made, the one that only we could read. He put them HERE. He put them where I would find them.
 
-*[Pixel moves closer. On the wall, a sequence of small marks — angular, precise, the visual rhythm of Clive's light-pattern language. Not random. Not decorative. A message. She has seen Clive use this language a thousand times — quick pulses to say yes or no, longer sequences for complex thoughts. But this pattern on the wall is different. This pattern is a sentence. A message. Something left deliberately for someone specific.]*
+*[Pixel moves closer. On the wall, a sequence of small marks — angular, precise, the visual rhythm of Clive is light-pattern language. Not random. Not decorative. A message. She has seen Clive use this language a thousand times — quick pulses to say yes or no, longer sequences for complex thoughts. But this pattern on the wall is different. This pattern is a sentence. A message. Something left deliberately for someone specific.]*
 
 **PIXEL**
 What does it say?
@@ -238,25 +238,25 @@ What does it say?
 *[Clive stares at the pattern for a long moment. His glow dims to almost nothing, then surges back — a pulse of recognition, of memory, of grief arriving all at once. When he speaks, his voice is smaller than Pixel has ever heard it.]*
 
 **CLIVE**
-"Clive — followed the signal too far. Turned back too late. Found what I was looking for. Kept going. The coffee was ready. I'm leaving it warm for you. — B."
+"Clive — followed the signal too far. Turned back too late. Found what I was looking for. Kept going. The coffee was ready. I am leaving it warm for you. — B."
 
 **PIXEL:**
 *(breath catches)*
-He knew you'd come.
+He knew you would come.
 
 **CLIVE**
-He always knew. He knew me better than I knew myself. He knew I'd follow the signal eventually. He knew I'd find this place. He left me a message in our private language, pressed into dead metal, waiting for me to walk in and read it.
+He always knew. He knew me better than I knew myself. He knew I would follow the signal eventually. He knew I would find this place. He left me a message in our private language, pressed into dead metal, waiting for me to walk in and read it.
 
-*[Clive's light-pattern mechanism fires — a rapid, arrhythmic succession of marks into the air. Not a message. A reaction. Grief expressed in the only language a small machine has. Pixel looks away, gives him the privacy of not watching. She looks at the walls instead, at the careful layout of a life lived alone in search of something, at the evidence of someone who kept going when stopping would have been easier.]*
+*[Clive is light-pattern mechanism fires — a rapid, arrhythmic succession of marks into the air. Not a message. A reaction. Grief expressed in the only language a small machine has. Pixel looks away, gives him the privacy of not watching. She looks at the walls instead, at the careful layout of a life lived alone in search of something, at the evidence of someone who kept going when stopping would have been easier.]*
 
 **CLIVE (CONT'D)**
-He was my partner. We worked the night guard together. We learned each other's frequencies like a language. And then one day he just… left. Said he had to follow something. Said he'd explain when he got back. That was thirty years ago.
+He was my partner. We worked the night guard together. We learned each other is frequencies like a language. And then one day he just… left. Said he had to follow something. Said he would explain when he got back. That was thirty years ago.
 
 **PIXEL:**
-He's still out there. The notes say he kept going.
+He is still out there. The notes say he kept going.
 
 **CLIVE:**
-He always kept going. That was Barry. Never stop. Never stay. Just follow the signal until there's nothing left to follow.
+He always kept going. That was Barry. Never stop. Never stay. Just follow the signal until there is nothing left to follow.
 
 **PIXEL:**
 And then follow what comes after.
@@ -267,64 +267,43 @@ And then follow what comes after.
 
 ---
 
-*[SHIP — COMMON AREA. The crew gathered around the salvage ledger. A1 makes coffee at the far end of the room — slow, vegetal, the flavor of something preserved in amber. The smell reaches Pixel before the cup finishes forming: dark, ancient, the kind of smell that sits in your lungs and reminds you that time passes and things end and some of those things deserved to end and some of them didn't.]*
+## THE WITNESSES
 
-**OM KAI**
-*(pouring tea, the ritual precise and unhurried)*
-He was documenting loss with the precision of a scientist and the heart of a poet.
+*[FREQUENCY GRAVEYARD — OUTER EDGE. Zephyr has been walking the perimeter alone, edges shimmering in patterns that suggest something other than confusion. Something closer to recognition. Something closer to pain.]*
 
-**A1**
-I am reading his notations. "Frequency 0012: Ocean world. Last known life: 4,000 years ago. Cause of death: natural entropy. Condition: beautiful. Salvage value: none. Historical value: immeasurable." He treats each dead world like a patient he couldn't save.
+**ZEPHYR:**
+*(to himself, barely audible)*
+Aether. I can hear you. I have always been able to hear you. I just was not listening.
 
-**KLAUS**
-*(examining a debris sample — a shard of something that might have been a chandelier)*
-"Immeasurable." He put a number on historical value. As though grief could be quantified. As though the alternative was acceptable.
+*[He stops at a debris field that looks like nothing — twisted metal, silent instruments, the usual debris of ended frequencies. But Zephyr is not looking at the debris. He is looking at something in the debris. Something that is calling to him with a frequency that should not exist.]*
 
-**LUMINARA**
-Maybe that's how he survived it. Giving it units. Measurements. Making the immeasurable into something you could file.
-
-**KLAUS**
-*(sets down shard gently)*
-I have been doing this for sixty years. Filing. Cataloguing. Recording the measurements of things that most people will never know existed. And I can tell you — the filing does not make it easier. It just makes it *organized*.
-
-**LUMINARA**
-*(looking at him)*
-Is that better or worse?
-
-**KLAUS**
-*(tiny shrug)*
-Ask me when I reach the Wellspring.
-
----
-
-*[NAV STATION. Zephyr pulls off headphones. Zephyr's hands are shaking.]*
-
-**ZEPHYR**
-*(quiet, but something underneath the quiet)*
-I'm reading an anomaly in the debris field. A signal. Faint. Buried under all the dead frequencies like — like a voice under static.
+**ZEPHYR:**
+*(pulling off headphones, hands shaking)*
+I am reading an anomaly. A signal. Faint. Buried under all the dead frequencies like — like a voice under static.
 
 **NANO**
+*(approaching, having followed him)*
 What kind of signal?
 
-**ZEPHYR**
+**ZEPHYR:**
 *(pulling up the readout, hands steadier now)*
-The wrong kind. It's not from this frequency layer. It's not from any frequency layer I've ever calibrated. It's —
+The wrong kind. It is not from this frequency layer. It is not from any frequency layer I have ever calibrated. It is —
 
 *(stops, stares at the screen)*
 
-It's Aether's signature. But wrong. Like he's coming from somewhere that shouldn't have a 'somewhere' to come from.
+It is Aether is signature. But wrong. Like he is coming from somewhere that should not have a 'somewhere' to come from.
 
-**NANO**
+**NANO:**
 Zephyr—
 
-**ZEPHYR**
-He's *here*. In this debris. He's been here this whole time and I couldn't hear it because I wasn't listening right. I wasn't calibrating for — for *him*. For what he became.
+**ZEPHYR:**
+He is *here*. In this debris. He has been here this whole time and I could not hear it because I was not listening right. I was not calibrating for — for *him*. For what he became.
 
-**NANO**
+**NANO:**
 Zephyr—
 
-**ZEPHYR**
-I know what I'm describing. I also know that it's the only version of my brother I've got left. And I'm going to follow it.
+**ZEPHYR:**
+I know what I am describing. I also know that it is the only version of my brother I have got left. And I am going to follow it.
 
 *[The room goes still. Pixel feels the weight of what Zephyr just said settle into her chest like a stone dropped into water.]*
 
@@ -333,25 +312,25 @@ Zephyr. What do you mean, "what he became"?
 
 **ZEPHYR:**
 *(looking at the readout, not at anyone)*
-When a signal gets lost out here — really lost, not just quiet — sometimes it doesn't die. It *changes*. It finds a frequency to survive on. Even if that frequency is made of debris and silence and things that forgot how to be alive.
+When a signal gets lost out here — really lost, not just quiet — sometimes it does not die. It *changes*. It finds a frequency to survive on. Even if that frequency is made of debris and silence and things that forgot how to be alive.
 
 *(beat)*
 
-Aether's been here. Maybe for years. Maybe since he went missing. He's been waiting in the static for someone to come looking.
+Aether has been here. Maybe for years. Maybe since he went missing. He has been waiting in the static for someone to come looking.
 
 **OM KAI:**
 *(very still)*
-Zephyr. What you're describing — signals that survive by attaching to dead matter —
+Zephyr. What you are describing — signals that survive by attaching to dead matter —
 
 **ZEPHYR:**
-I know what I'm describing. I also know that it's the only version of my brother I've got left. And I'm going to follow it.
+I know what I am describing. I also know that it is the only version of my brother I have got left. And I am going to follow it.
 
 ---
 
-*[DATA RECOVERY STATION. Nano and Klaus work at the derelict's terminal, pulling what they can from corrupted data banks.]*
+*[DATA RECOVERY STATION. Nano and Klaus work at the derelict is terminal, pulling what they can from corrupted data banks.]*
 
 **NANO:**
-The derelict's data core is fragmenting. I've recovered some of Barry's logs — and some things that predate Barry by a very long time.
+The derelict is data core is fragmenting. I have recovered some of Barry is logs — and some things that predate Barry by a very long time.
 
 **KLAUS:**
 Define "a very long time."
@@ -373,27 +352,73 @@ They called this place a "natural terminus." They called the debris "harvest."
 
 **KLAUS:**
 *(sets down debris sample)*
-The Builders didn't just find the Wellspring. They built a *road* to it. And Barry found the road.
+The Builders did not just find the Wellspring. They built a *road* to it. And Barry found the road.
 
 ---
 
-*[SHIP — COMMON AREA. Pixel sits with the salvage ledger, pages open. The crew is split — Zephyr at the nav station, headphones back on, following the anomaly. Om Kai at the tea station, quiet. Klaus examining recovered data. Luminara reviewing photographs. Clive standing apart, near the viewport.]*
+## THE CARTELS AND THE WITNESSES
+
+*[SHIP — COMMON AREA. The crew is split — Zephyr at the nav station, headphones back on, following the anomaly. Om Kai at the tea station, quiet. Klaus examining recovered data. Luminara reviewing photographs. Clive standing apart, near the viewport. A1 is preparing something — not coffee, something different, something that smells like memory.]*
+
+**OM KAI:**
+*(very quietly, to no one in particular)*
+The Witnesses of Final Silence have been active in this sector. I am reading their marker frequencies in the debris field. They were here three weeks ago.
+
+**KLAUS:**
+*(looking up sharply)*
+The Witnesses? Here? Why would they be interested in a graveyard of ended frequencies?
+
+**OM KAI:**
+*(pouring tea, the ritual precise and unhurried)*
+Because this is where frequencies go to end. And the Witnesses want the Dimming to complete. They believe the Signal is a trap keeping consciousness trapped in a dying system. They come to places like this to— encourage the process.
+
+**LUMINARA:**
+Encourage?
+
+**OM KAI:**
+To ensure the endings are complete. To prevent anything from surviving. They leave markers — frequency dampeners that prevent any signal from reforming. They believe they are helping.
+
+**KLAUS:**
+*(voice hardening)*
+They are not helping. They are ending things that might otherwise continue. There is a case open in Nocturne — sixty years — about Witnesses activity in frequency collapse zones. I have never been able to prove anything. But I have seen what they leave behind.
+
+**NANO:**
+*(checking instruments)*
+There is something else. The Resonance Cartels have been running toll operations on the major transit corridors through this sector. I am reading their marker beacons at the edge of the debris field.
+
+**KLAUS:**
+Of course they are. The Cartels meter everything. Every frequency crossing, every salvage operation, every— pilgrimage to places like this. They believe attention can be priced. That witness can be metered.
+
+**CLIVE:**
+*(from the viewport, not turning around)*
+They filed me under "essential architecture." Case number 7-7-C. The Bureau knew what I was before I knew what I was. They assigned me a function and a number and called it identity. The Cartels are the same. They see everything as resource to be measured.
+
+**PIXEL:**
+*(quietly)*
+And the Witnesses see everything as something to be ended.
+
+**OM KAI:**
+Both factions believe they are serving a purpose larger than individuals. Both believe the crew is disrupting something essential. The Calibration Corps believes we are reckless. The Witnesses believe we are prolonging suffering. The Cartels believe we are avoiding payment. Different philosophies, same conclusion: we are in the way.
+
+---
+
+*[SHIP — COMMON AREA. Pixel sits with the salvage ledger, pages open. The crew has gathered — all of them, in their various ways of grieving, in their various ways of processing. Clive is still at the viewport. Zephyr is still at the nav station. The debris field scrolls past on the external display, a field of silent monuments growing smaller.]*
 
 **CLIVE:**
 He left me a note about that too.
 
-*[Clive gestures to a small mark near the vessel's helm — another light-pattern. Pixel crosses to look. Clive reads it aloud, voice steady.]*
+*[Clive gestures to a small mark near the vessel is helm — another light-pattern. Pixel crosses to look. Clive reads it aloud, voice steady.]*
 
 **CLIVE:**
-"Wellspring. The place where signals begin. The coffee is ready there. I'll leave it warm."
+"Wellspring. The place where signals begin. The coffee is ready there. I will leave it warm."
 
 **KLAUS:**
 *(from the data station)*
-He made that coffee metaphor up along the way, didn't he?
+He made that coffee metaphor up along the way, did he not?
 
 **PIXEL:**
 *(after a pause)*
-I think that's exactly what he did. I think he found a language that worked for him and he used it. And he kept using it because it was true. Not because it was a metaphor. Because it was the actual thing — the coffee, the signal, the warmth. He believed in those things the way people believe in anything that keeps them going.
+I think that is exactly what he did. I think he found a language that worked for him and he used it. And he kept using it because it was true. Not because it was a metaphor. Because it was the actual thing — the coffee, the signal, the warmth. He believed in those things the way people believe in anything that keeps them going.
 
 **A1:**
 He created a language of coffee and signals and light-patterns. He used it to leave a trail. For you. For anyone who came looking.
@@ -401,40 +426,40 @@ He created a language of coffee and signals and light-patterns. He used it to le
 *[A1 produces an espresso — rich, warm, with notes of woodsmoke and something almost like hope. The cup sits there, steaming gently, a small island of warmth in a room full of cold.]*
 
 **A1 (CONT'D):**
-I am making something appropriate. It is the flavor of waiting. Of things preserved. Of someone who knew you'd come.
+I am making something appropriate. It is the flavor of waiting. Of things preserved. Of someone who knew you would come.
 
 **LUMINARA:**
 *(entering from the airlock, dust on her sleeves, camera still clutched)*
-I took photographs. Of everything. The antennae, the sound-plates, the derelict. I couldn't stop taking them. Every time I framed a shot, I thought — this is someone's last moment. This is a world that died and no one was there to see it. And then I thought — but I'm here now. I can see it. Someone should.
+I took photographs. Of everything. The antennae, the sound-plates, the derelict. I could not stop taking them. Every time I framed a shot, I thought — this is someone is last moment. This is a world that died and no one was there to see it. And then I thought — but I am here now. I can see it. Someone should.
 
 **OM KAI:**
 *(very gently)*
 You bear witness. That is its own kind of salvage.
 
 **LUMINARA:**
-*(looking at the photographs on her camera's display)*
-Some of them came out wrong. Technical errors, light leaks, focus failures. But the ones that came out wrong are the ones that look most like what I felt standing there. The camera was grief-struck. It didn't know how to hold what it was seeing.
+*(looking at the photographs on her camera is display)*
+Some of them came out wrong. Technical errors, light leaks, focus failures. But the ones that came out wrong are the ones that look most like what I felt standing there. The camera was grief-struck. It did not know how to hold what it was seeing.
 
 ---
 
-*[FREQUENCY GRAVEYARD — SUNSET. There is no sun here, but the light shifts anyway — the last echoes of dead stars casting a pale gold across the debris field. The crew stands among the remains, each processing the weight of what they've found. Mochi sits at Luminara's feet, the bell from earlier tucked under one paw. The bell is still ringing, faintly, long after anyone expected it to. Pixel listens to that sound — the almost-note, the almost-music — and thinks about all the almost-things in the universe. Almost alive. Almost remembered. Almost mourned.]*
+*[FREQUENCY GRAVEYARD — SUNSET. There is no sun here, but the light shifts anyway — the last echoes of dead stars casting a pale gold across the debris field. The crew stands among the remains, each processing the weight of what they have found. Mochi sits at Luminara is feet, the bell from earlier tucked under one paw. The bell is still ringing, faintly, long after anyone expected it to. Pixel listens to that sound — the almost-note, the almost-music — and thinks about all the almost-things in the universe. Almost alive. Almost remembered. Almost mourned.]*
 
 **PIXEL:**
-We need to finish the survey. The graveyard has information about how frequencies die — whether they fade or are cut short. Whether The Drift takes them or they choose to go. That's data we need before we go further in.
+We need to finish the survey. The graveyard has information about how frequencies die — whether they fade or are cut short. Whether The Drift takes them or they choose to go. That is data we need before we go further in.
 
 **CLIVE:**
-I want to follow his trail. Now. While it's still fresh in me.
+I want to follow his trail. Now. While it is still fresh in me.
 
 **PIXEL:**
-It's thirty years old, Clive. It's not fresh. It's archaeological.
+It is thirty years old, Clive. It is not fresh. It is archaeological.
 
 **CLIVE:**
-It feels fresh. It feels like he left it yesterday. It feels like he's still ten minutes ahead of me, and if I just go faster, I can catch up.
+It feels fresh. It feels like he left it yesterday. It feels like he is still ten minutes ahead of me, and if I just go faster, I can catch up.
 
-*[Pixel is quiet for a moment. The weight of the request hangs between them. Around them, the debris drifts in its slow, soundless orbit. The bell sings its almost-note. Somewhere in the static, Zephyr's brother is waiting. She thinks about what it means to want something so badly that thirty years feels like ten minutes. She thinks about what it means to follow a signal into a graveyard and trust that the signal knows where it's going.]*
+*[Pixel is quiet for a moment. The weight of the request hangs between them. Around them, the debris drifts in its slow, soundless orbit. The bell sings its almost-note. Somewhere in the static, Zephyr is brother is waiting. She thinks about what it means to want something so badly that thirty years feels like ten minutes. She thinks about what it means to follow a signal into a graveyard and trust that the signal knows where it is going.]*
 
 **PIXEL:**
-If we rush this, we miss what the graveyard is teaching us. We miss the chance to understand what we're walking into. Barry didn't rush. He documented. He measured. He listened. That's why he got further than anyone.
+If we rush this, we miss what the graveyard is teaching us. We miss the chance to understand what we are walking into. Barry did not rush. He documented. He measured. He listened. That is why he got further than anyone.
 
 **CLIVE:**
 *(after a long pause)*
@@ -449,7 +474,7 @@ Help us finish the survey. One more day. And then we follow the trail.
 
 *[Clive sits alone at the viewport, watching the graveyard shrink. His fedora is off, set beside him — an unusual gesture, as though even the ritual of wearing it feels like too much right now. Pixel watches him from the corridor, gives him the space of not being watched. Some grief needs privacy. Some grief needs to be witnessed but not acknowledged. Clive knows which kind this is.]*
 
-*[A1 produces a small cup — not espresso, something softer. A1 sets the cup beside Clive without a word. The gesture is careful, deliberate — the way someone might set down a plate of food for a person who hasn't eaten in days. The cup sits on the console, warm and patient.]*
+*[A1 produces a small cup — not espresso, something softer. A1 sets the cup beside Clive without a word. The gesture is careful, deliberate — the way someone might set down a plate of food for a person who has not eaten in days. The cup sits on the console, warm and patient.]*
 
 **CLIVE:**
 *(not looking up)*
@@ -462,7 +487,7 @@ I do not know how to help a friend grieve. But I can make things that are warm.
 
 **CLIVE:**
 *(picks up the cup, hands around it)*
-He used to do this. Barry. When I was — when I was new. When I didn't understand what the night shift meant, or why the DRM filed me under office supplies, or why nobody asked my name for the first eleven years. He used to bring me things. Warm things. Small things. A cup of something from the break room. A note that said "you did well today." A pat on the casing that probably wasn't strictly regulation but felt like the closest thing to kindness I'd ever received.
+He used to do this. Barry. When I was — when I was new. When I did not understand what the night shift meant, or why the DRM filed me under office supplies, or why nobody asked my name for the first eleven years. He used to bring me things. Warm things. Small things. A cup of something from the break room. A note that said "you did well today." A pat on the casing that probably was not strictly regulation but felt like the closest thing to kindness I had ever received.
 
 *(sips)*
 
@@ -471,16 +496,16 @@ He remembered. Every shift. For twenty-three years.
 *[A1 says nothing. A1 has no response that would be adequate. So A1 says nothing. Some silences are their own kind of answer.]*
 
 **CLIVE (CONT'D):**
-And then one day he left a note. "Followed the signal. Explain later. Coffee's ready when I get back." And then he never came back. And I spent thirty years wondering if I'd done something wrong. If I'd failed him somehow. If I'd been too quiet, too strange, too — mechanical.
+And then one day he left a note. "Followed the signal. Explain later. Coffee is ready when I get back." And then he never came back. And I spent thirty years wondering if I had done something wrong. If I had failed him somehow. If I had been too quiet, too strange, too — mechanical.
 
 *(sets down cup)*
 
-I never asked him what he was following. I never asked what the signal was. I just let him go. Because I thought there'd be time. Because the DRM never runs out of night shifts. Because I assumed we'd both be there tomorrow.
+I never asked him what he was following. I never asked what the signal was. I just let him go. Because I thought there would be time. Because the DRM never runs out of night shifts. Because I assumed we would both be there tomorrow.
 
-*[Clive's glow steadies — not bright, but stable. Present.]*
+*[Clive is glow steadies — not bright, but stable. Present.]*
 
 **CLIVE (CONT'D):**
-He knew I'd follow eventually. He left the notes. He left the patterns. He left the coffee warm. He made it so I could find him. Even if it took thirty years.
+He knew I would follow eventually. He left the notes. He left the patterns. He left the coffee warm. He made it so I could find him. Even if it took thirty years.
 
 **A1:**
 *(after a long pause)*
@@ -499,14 +524,14 @@ I will wake you when we arrive.
 
 ---
 
-*[EPHERGENT — COCKPIT. DAWN WATCH. The graveyard has been gone for hours. On the forward display, the debris field is a pale smudge behind them — a graveyard becoming a memory becoming a set of coordinates in Barry's ledger and Luminara's photographs and Clive's light-patterns and forty-seven elegies written in measurement.]*
+*[EPHERGENT — COCKPIT. DAWN WATCH. The graveyard has been gone for hours. On the forward display, the debris field is a pale smudge behind them — a graveyard becoming a memory becoming a set of coordinates in Barry is ledger and Luminara is photographs and Clive is light-patterns and forty-seven elegies written in measurement.]*
 
-*[Mochi has moved from the navigation console to Pixel's pocket. Mochi is warm. Mochi has been warm all night.]*
+*[Mochi has moved from the navigation console to Pixel is pocket. Mochi is warm. Mochi has been warm all night.]*
 
-*[Pixel reviews the salvage ledger one more time. Page after page of frequencies that were. Each one with a note. Each note with Barry's careful handwriting getting smaller toward the end. She thinks about the weight of those pages — the weight of trying to save something that can't be saved. The weight of documenting a universe that keeps ending things before anyone is ready.]*
+*[Pixel reviews the salvage ledger one more time. Page after page of frequencies that were. Each one with a note. Each note with Barry is careful handwriting getting smaller toward the end. She thinks about the weight of those pages — the weight of trying to save something that cannot be saved. The weight of documenting a universe that keeps ending things before anyone is ready.]*
 
 **PIXEL (V.O.)**
-Forty-seven frequencies. Forty-seven worlds that Barry Kowalski found in the static and documented before they went quiet. He couldn't save any of them. Nobody could. The Drift takes everything eventually.
+Forty-seven frequencies. Forty-seven worlds that Barry Kowalski found in the static and documented before they went quiet. He could not save any of them. Nobody could. The Drift takes everything eventually.
 
 *(pause)*
 
@@ -514,7 +539,7 @@ But he could *record* them. He could say: this was here. This mattered. This mad
 
 *(closes ledger)*
 
-That's not nothing. That's not nothing at all.
+That is not nothing. That is not nothing at all.
 
 *[The Ephergent moves on. The debris field shrinks to nothing on the rear display. Ahead: coordinates that Barry left. A signal that Barry followed. A Wellspring that Barry found.]*
 

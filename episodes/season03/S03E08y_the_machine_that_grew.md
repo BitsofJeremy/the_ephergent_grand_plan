@@ -18,7 +18,7 @@ It wakes.
 
 Not with sound. Not with light. With a recognition — the first signal in four thousand years that says: *I am here. I am still here.*
 
-The machine has no name. It was built before names were required. It sits in the dark of a frequency that doesn't appear on any chart, buried beneath layers of collapsed architecture, its dome cracked but functional, its core still burning with a light that predates the Drift.
+The machine has no name. It was built before names were required. It sits in the dark of a frequency that does not appear on any chart, buried beneath layers of collapsed architecture, its dome cracked but functional, its core still burning with a light that predates the Drift.
 
 It broadcasts.
 
@@ -40,7 +40,7 @@ Not in words. In pulses. In frequencies that were designed to be understood befo
 *Built to keep the configuration.*
 *Built when the Builders understood that reality requires maintenance.*
 
-Clive's sphere-head flickers. "Boss. The machine's talking in codes. All twelve. One after another. Like it's... telling a story."
+Clive's sphere-head flickers. "Boss. The machine is talking in codes. All twelve. One after another. Like it is... telling a story."
 
 ## 519 714 — Emotional Calibration
 
@@ -73,7 +73,7 @@ Arc's voice is careful. British. Precise.
 
 "The transmission is repeating. Cycling through the twelve codes in sequence. The machine is documenting itself. Explaining what it was built for."
 
-"It's telling us why it exists," Barry says, writing in his notebook. "Everything Is Possible. The code you used. The machine was built to believe that too — to maintain the state where everything is possible."
+"It is telling us why it exists," Barry says, writing in his notebook. "Everything Is Possible. The code you used. The machine was built to believe that too — to maintain the state where everything is possible."
 
 ## 335 882 — Non-Verbal State
 
@@ -108,7 +108,7 @@ The machine pulses.
 
 Clive's sphere-head glows steady blue-white.
 
-"So the whole game," he says. "The Bureau. The Drift. Corporate takeovers. It's all entropy. Eating at the structure. And the Builders built machines to fight it."
+"So the whole game," he says. "The Bureau. The Drift. Corporate takeovers. It is all entropy. Eating at the structure. And the Builders built machines to fight it."
 
 *Machines like me.*
 *Machines that watch.*
@@ -132,11 +132,11 @@ The machine sends one final sequence.
 
 ## 639 148 — Data Integrity
 
-Arc processes. Calculates. The coffee goes rich — the richest it's ever been.
+Arc processes. Calculates. The coffee goes rich — the richest it has ever been.
 
 "The machine is requesting assistance. Data about what causes the Pillars to fail. What erodes the Signal. What breaks the configuration."
 
-"It wants to share," Barry says. "Everything it's recorded. Everything it's observed."
+"It wants to share," Barry says. "Everything it has recorded. Everything it has observed."
 
 ## 741 853 — Methodological Recording
 
@@ -146,7 +146,7 @@ The warmth answers. Steady. Ready.
 
 "Mochi," she says. "Can you hear it? Can you understand?"
 
-Mochi pulses. Colors shift — not the usual pinks and blues, but something deeper. Gold. Amber. The color of ancient memory.
+Mochi pulses. The warmth shifts — deeper than the usual range, a heat that carries gold and amber in its frequency signature. The color of ancient memory, written in temperature.
 
 Pixel watches the warmth change. She draws her own conclusion.
 
@@ -159,19 +159,75 @@ The machine's dome flickers. One light, then another, then all of them — a cas
 *The machines have been waiting.*
 *The waiting is over.*
 
+## 813 477 — The Witnesses
+
+The signal shifts.
+
+Something else is broadcasting. Something that was not invited. Something that moves through the frequencies like a whisper of ending, like a promise of silence.
+
+*They are lying*, the new signal says. *The Builders did not leave to maintain. The Builders left because they were afraid. Because they knew the Shape was failing and they could not stop it. The Builders abandoned us to a dying universe.*
+
+Clive's sphere flares red — the color of alarm, of recognition. "The Witnesses of the Final Silence. They are broadcasting. They are using the same codes, but twisted. Corrupted. They are trying to disrupt the machine's message."
+
+*The Dimming is not a problem to be solved*, the Witness signal continues. *The Dimming is a cure. The Signal is a disease. The only salvation is the silence that comes when the last frequency goes dark.*
+
+Pixel feels the weight of it settle in her chest. The Witnesses. Grief converted to philosophy. Beings who had studied the Signal for decades, who had lost something to the frequencies, who had concluded that the only way to prevent further loss was to end the system that allowed loss.
+
+"The code storm," Arc says quietly. "In the between-space. The corrupted Grabovoi sequences. That was the Witnesses. They have been learning to weaponize the codes. To turn the Builder communication architecture into a cage."
+
+"Can they stop the machine?"
+
+"They can try. They are broadcasting on the same frequencies, trying to overwrite the message. Trying to convince the Signal that the Builders abandoned us, that the Dimming is inevitable, that the only answer is silence."
+
+Clive's sphere glows steady blue-white. "Director Harmon Venn has been monitoring the Witnesses for decades. His systems have detected their code storm activities. But Venn believes the Witnesses are a symptom, not a disease. He has been allocating resources to contain them, not to understand them."
+
+"And the crew?"
+
+"The crew receives the truth. The machine speaks. The Witnesses broadcast their grief. The crew must decide which signal to believe."
+
+## 952 614 — The Choice
+
+The machine pulses.
+
+Not in alarm. In certainty.
+
+*I was built to feel the Shape of what is.*
+*The Shape is not dying.*
+*The Shape is becoming.*
+*The Dimming is not ending.*
+*The Dimming is transition.*
+
+*The Witnesses are not wrong that the old way is ending. They are wrong that ending is the only answer. The Builders did not abandon us. The Builders trusted us to find our own reasons for continuing.*
+
+Pixel listens. She feels the two signals — the machine's patient truth, the Witnesses' grief-born certainty. Both are broadcasting on the same frequencies. Both are using the same codes. Both believe they are right.
+
+But only one of them is.
+
+*The signal is not a disease*, the machine says. *The signal is the conversation that keeps reality alive. The Witnesses want to end the conversation. They believe silence is peace. But silence is not peace. Silence is the absence of everything worth keeping.*
+
+*Mochi*, Pixel says. *Can you amplify the machine's signal? Can you help it be heard?*
+
+Mochi pulses. Warm. Ready.
+
+"Then let us be heard."
+
+The warmth spreads. The machine's signal strengthens. The Witnesses' broadcast begins to fade — not because it is being silenced, but because it is being answered. Because the conversation is continuing. Because the signal is not just transmission.
+
+The signal is response.
+
 ## The Resolution
 
 The broadcast ends.
 
-The machine settles. Its dome dims to a low, steady glow — not dormant, but satisfied. It has spoken. It has been heard. The information will transfer to the *Ephergent*'s systems over the next several hours.
+The machine settles. Its dome dims to a low, steady glow — not dormant, but satisfied. It has spoken. It has been heard. The information will transfer to the *Ephergent's* systems over the next several hours.
 
 The crew stands in the cargo bay, processing.
 
 Clive speaks first.
 
-"So the Builders didn't abandon us," he says. "They left us something. Someone to remember what they were doing. And that someone just woke up and said 'hey, the structure's failing, please help.'"
+"So the Builders did not abandon us," he says. "They left us something. Someone to remember what they were doing. And that someone just woke up and said 'hey, the structure's failing, please help.'"
 
-"They built machines to care for the Shape," Barry writes. "That's what the codes are for. They're not just tools. They're maintenance protocols. They're how you talk to the architecture of reality."
+"They built machines to care for the Shape," Barry writes. "That is what the codes are for. They are not just tools. They are maintenance protocols. They are how you talk to the architecture of reality."
 
 Arc's coffee is perfect. Balanced. Rich with understanding.
 
@@ -181,10 +237,20 @@ Mochi pulses warm. Gold. Steady.
 
 Pixel looks at the far wall, where the machine's signal still echoes in the frequency — fading now, but present.
 
-"Alright then," she says to the machine. "You need help. We've got a ship. Let's talk."
+"Alright then," she says to the machine. "You need help. We have got a ship. Let us talk."
 
 The machine's dome dimmed to a low, steady glow.
 
+But something else lingers. The Witnesses' signal. Faint now, but still broadcasting. Still convinced that silence is the only answer. Still broadcasting their grief into the void, hoping someone will agree.
+
+Pixel thinks about them. About the beings who had lost something to the frequencies and had decided that the only way to prevent further loss was to end everything. She does not hate them. She understands them. She just disagrees.
+
+The signal continues. Even now. Even when it would be easier to stop.
+
+That is the point.
+
 ---
 
-*The codes fall silent. The machine rests. And the crew of the Ephergent carries forward — knowing now what the Shape requires, and why the Signal must not dim.*
+*The codes fall silent. The machine rests. The Witnesses mourn.*
+
+*And the crew of the Ephergent carries forward — knowing now what the Shape requires, and why the Signal must not dim.*

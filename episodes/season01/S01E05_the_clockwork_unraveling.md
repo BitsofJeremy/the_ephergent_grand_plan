@@ -58,11 +58,11 @@ Pixel stared at the navigation display. "English?"
 
 "Time is broken here." A pause. "Or — and I want to be precise about this — time has remembered that it doesn't have to work the way it currently works, and is therefore exploring alternatives."
 
-Clive adjusted his fedora. "The Builders didn't make Cogsworth. They found it. Built on top of it." A pause. "I've seen the schematics."
+Clive adjusted his fedora. "The Builders did not make Cogsworth. They found it. Built on top of it." A pause. "I have seen the schematics."
 
-"You've seen — Since when do you have schematics for an entire frequency?"
+"You have seen — Since when do you have schematics for an entire frequency?"
 
-"I don't know. I have them when I need them."
+"I do not know." Clive's sphere dimmed slightly. "The knowledge is there when I require it. The source is... inaccessible. Or I am not meant to access it yet." His glow steadied. "But the schematics are accurate. I am certain of that."
 
 The engine skipped again — slower, heavier, as though the ship was pushing through something thicker than void.
 
@@ -142,13 +142,13 @@ The professor grabbed Pixel's arm. "You have to help. The Temporal Anchor — th
 
 He was quiet for a moment. "Because it can. Because the rupture proved that time doesn't actually require a consensus to function. It's been holding everything together out of habit. And now that it's been shown an alternative — it's exploring."
 
-Clive was very quiet, his sphere flickering. "I've seen this before."
+Clive was very quiet, his sphere flickering. "I have seen this before."
 
 "What?"
 
 "Not here. Not this frequency. But the principle — something ancient deciding that the rules it's been following aren't rules, they're choices. And choosing differently."
 
-The fix isn't mechanical, Clive said. You can't force synchronization. The gear has to choose to come back.
+The fix is not mechanical, Clive said. You cannot force synchronization. The gear has to choose to come back.
 
 ---
 

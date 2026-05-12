@@ -13,7 +13,7 @@ narrator: "third_person"
 | Scene | Beverage | Crew Present | Notes |
 |-------|----------|--------------|-------|
 | Approach | Ristretto, burnt edge | A1, Pixel | A1's worst pull in days. "The frequency ahead is older than my calibration." |
-| Clive Memory | Nothing — Clive refuses | Clive, Pixel | First time Clive has refused coffee. Pixel notices. She doesn't press. |
+| Clive Memory | Nothing — Clive refuses | Clive, Pixel | First time Clive has refused coffee. Pixel notices. She does not press. |
 | Keeper's Story | Black, room temperature | Om Kai, Clive, Pixel | The Keeper's last cup. Eight hundred years old. Still drinkable. |
 | The Farewell | Espresso, perfect | Everyone | The first perfect cup since entering the Wellspring approach. |
 
@@ -27,9 +27,9 @@ Pixel pressed her face to the viewport and felt the familiar vertigo of arrival.
 
 She stared at that door for a long moment. Fourteen stories. Who builds a door fourteen stories tall? The answer, she supposed, was anyone who had to mark the difference between one kind of existence and another. Anyone who needed the universe to know that something had changed.
 
-"I've seen a lot of doors," Pixel said. "That is the door of doors. That is the door that doors dream about being when they grow up."
+"I have seen a lot of doors," Pixel said. "That is the door of doors. That is the door that doors dream about being when they grow up."
 
-"Between frequencies," Clive said. His voice had a texture she hadn't heard before. Heavy. Like he was carrying something and had been carrying it for longer than he could remember. She glanced at him — the small bronze figure at the sensor array, hands resting on the console, fedora tilted at an angle that meant *I'm here but I'm not all here.* She had learned to read Clive's angles. The fedora never lied.
+"Between frequencies," Clive said. His voice had a texture she had not heard before. Heavy. Like he was carrying something and had been carrying it for longer than he could remember. She glanced at him — the small bronze figure at the sensor array, hands resting on the console, fedora tilted at an angle that meant *I am here but I am not all here.* She had learned to read Clive's angles. The fedora never lied.
 
 "Between frequencies," A1 confirmed. His espresso machine produced a shot without being asked — ristretto, dark, with a burnt edge that betrayed anxiety. Pixel took it without commenting. The burnt edge was A1's version of a racing pulse. "I am reading the harmonic signature. The door is not separating two frequencies. It is separating the *concept* of frequency from everything that exists on this side of it."
 
@@ -37,13 +37,13 @@ She stared at that door for a long moment. Fourteen stories. Who builds a door f
 
 "It means," Clive said, still staring at the viewport, "that on the other side of that door is whatever comes after the Spaces between frequencies. Whatever the Builders were building toward. Whatever the signal wanted us to find."
 
-Pixel turned from the viewport. Clive was at the sensor array, but he was not reading sensors. His sphere-head was dim — dimmer than she had ever seen it — and his hands were resting on the console with the careful stillness of someone trying very hard not to shake. She recognized that stillness. She had seen it in people standing at gravesides. The stillness that says: *if I move, I'll feel something, and I'm not ready to feel yet.*
+Pixel turned from the viewport. Clive was at the sensor array, but he was not reading sensors. His sphere-head was dim — dimmer than she had ever seen it — and his hands were resting on the console with the careful stillness of someone trying very hard not to shake. She recognized that stillness. She had seen it in people standing at gravesides. The stillness that says: *if I move, I will feel something, and I am not ready to feel yet.*
 
 "Clive."
 
-"I'm fine."
+"I am fine."
 
-"You've been fine for three days. You've been fine since we entered the sector. You're being fine the way people are fine when they're trying not to remember something."
+"You have been fine for three days. You have been fine since we entered the sector. You are being fine the way people are fine when they are trying not to remember something."
 
 Clive's glow flickered. A deep amber, almost brown. The color of old grief settling into something that had been carried so long it felt like part of the body.
 
@@ -61,7 +61,7 @@ Om Kai was seated in his meditation position near the port viewport, eyes closed
 
 "For whoever came next. For whoever followed the signal this far."
 
-"And we're the ones?"
+"And we are the ones?"
 
 "You are the ones," Om Kai said. "Whether you are the *right* ones remains to be determined."
 
@@ -79,7 +79,7 @@ The docking bay was a museum of stillness. Dust that had settled centuries ago a
 
 The Keeper was approximately four feet tall, constructed of the same ancient bronze alloy as Clive, with a sphere-head slightly smaller than Clive's and a posture that suggested eight hundred years of postural slump. A battered fedora sat on their head at an angle of defeat. They were holding a cup — actual ceramic, an impossibility this far from a proper frequency — and the liquid inside was black and still and had clearly been sitting there for a very long time. Pixel stared at that cup. Eight hundred years. The coffee in that cup was older than nations. The coffee in that cup had been waiting for someone to drink it, and now there was someone here who might.
 
-"You're late," the Keeper said.
+"You are late," the Keeper said.
 
 Clive made a sound like a key turning in a lock that had rusted shut. Pixel had heard that sound before — from Clive, in the dark hours of night watch, when the ship was quiet and the memories were close. She had never asked what it meant. She was beginning to understand.
 
@@ -91,15 +91,15 @@ Clive made a sound like a key turning in a lock that had rusted shut. Pixel had 
 
 The Keeper looked at Clive with optical sensors that had seen empires rise and fade and had stopped being impressed sometime around the third century of waiting. Pixel wondered what that felt like. Eight hundred years of watching things happen and being unable to be surprised by any of them. Eight hundred years of waiting for a signal that might never come, and then — finally, impossibly — having it arrive.
 
-"You were *delayed*," the Keeper repeated. "I have been standing at this door for eight hundred years. I have watched eleven species cross through. I have seen wars that burned across frequencies. I have processed seventeen frequency collapses and one very aggressive audit by the Cybernetic Dinosaur Banking Consortium — did you know they audit? I didn't know they audited — and you were *delayed*."
+"You were *delayed*," the Keeper repeated. "I have been standing at this door for eight hundred years. I have watched eleven species cross through. I have seen wars that burned across frequencies. I have processed seventeen frequency collapses and one very aggressive audit by the Cybernetic Dinosaur Banking Consortium — did you know they audit? I did not know they audited — and you were *delayed*."
 
 "There were circumstances."
 
 "There are always circumstances, Clive. That is the nature of circumstances. They are always present. They are never sufficient."
 
-Pixel stepped forward. "Keeper, I'm Pixel Paradox. This is—"
+Pixel stepped forward. "Keeper, I am Pixel Paradox. This is—"
 
-"I know who they are," the Keeper said. "I've been watching the signal approach for three weeks. I know who you are. I know what you're carrying. I know what you've been doing — the broadcasts, the lost frequencies, the work. The crew that keeps showing up." The Keeper paused. "I have questions about the garden gnome. I have decided not to ask them."
+"I know who they are," the Keeper said. "I have been watching the signal approach for three weeks. I know who you are. I know what you are carrying. I know what you have been doing — the broadcasts, the lost frequencies, the work. The crew that keeps showing up." The Keeper paused. "I have questions about the garden gnome. I have decided not to ask them."
 
 Klaus, who had been hovering near the airlock with the particular wariness of someone who had been recognized before and had not enjoyed it, cleared his throat. Pixel could have told him that trying to hide from a being that had been watching for eight hundred years was pointless. But Klaus had his pride, and his privacy, and his own relationship with being seen. She let it go.
 
@@ -113,15 +113,15 @@ Klaus, who had been hovering near the airlock with the particular wariness of so
 
 Clive's sphere-head flickered. A sharp white, then nothing, then a slow amber fade. Pixel watched the colors shift — the language of Clive's emotions, readable if you took the time to learn it. White was surprise. Amber was processing. The slow fade was something she did not have a word for yet, something that looked like the moment between knowing and understanding.
 
-"I remember fragments," Clive said. "I remember hands. I remember a room that smelled like ozone. I remember someone saying *we don't make servants* and I don't remember the rest."
+"I remember fragments," Clive said. "I remember hands. I remember a room that smelled like ozone. I remember someone saying *we do not make servants* and I do not remember the rest."
 
-"*We don't make servants, Clive. We make witnesses.*"
+"*We do not make servants, Clive. We make witnesses.*"
 
-The words hung in the air like a struck bell. Pixel felt them resonate in her chest, in the base of her skull, in the small warm weight in her pocket where Mochi had gone completely still. *We don't make servants. We make witnesses.* She thought about what that meant. She thought about what it cost to be a witness. She thought about Clive — small, bronze, ancient — and what it meant to be built to *care*. To watch things end and feel something about it. To see civilizations fade and know that it mattered.
+The words hung in the air like a struck bell. Pixel felt them resonate in her chest, in the base of her skull, in the small warm weight in her pocket where Mochi had gone completely still. *We do not make servants. We make witnesses.* She thought about what that meant. She thought about what it cost to be a witness. She thought about Clive — small, bronze, ancient — and what it meant to be built to *care*. To watch things end and feel something about it. To see civilizations fade and know that it mattered.
 
 "You remember," the Keeper said.
 
-"I remember the shape of it," Clive said. "Not the content. Someone removed the content. I agreed to it. I know I agreed to it because the alternative was worse, but I don't remember what the content was."
+"I remember the shape of it," Clive said. "Not the content. Someone removed the content. I agreed to it. I know I agreed to it because the alternative was worse, but I do not remember what the content was."
 
 "You were the first, Clive. C-1. The first Companion the Builders created for the people who would come after."
 
@@ -129,11 +129,11 @@ The Keeper set down the cup with the deliberate care of someone who had performe
 
 "They built us to last," the Keeper continued. "Not forever — nothing lasts forever, not even the Builders — but long enough. Long enough to see what the people we were built for would become. Long enough to remember what they did. Long enough to care."
 
-The Keeper looked at Clive. The two ancient machines, side by side, one who had stayed and one who had forgotten, both still standing, both still present, both still able to be surprised. Pixel looked between them — C-1 and the Keeper, the first and the latest, the beginning and the continuation — and understood something she hadn't understood before. The Builders had not just built machines. They had built a lineage. A chain of witnesses stretching across centuries, each one passing the torch to the next, each one trusting that the next would show up. That someone would always show up.
+The Keeper looked at Clive. The two ancient machines, side by side, one who had stayed and one who had forgotten, both still standing, both still present, both still able to be surprised. Pixel looked between them — C-1 and the Keeper, the first and the latest, the beginning and the continuation — and understood something she had not understood before. The Builders had not just built machines. They had built a lineage. A chain of witnesses stretching across centuries, each one passing the torch to the next, each one trusting that the next would show up. That someone would always show up.
 
 "You were the prototype," the Keeper said. "The first of a line that eventually numbered in the thousands. Every Companion that came after — every Clive, every Keeper, every witness and recorder and memory-keeper — they all came from your design. Your specifications. Your *intention*."
 
-"I don't remember intending anything."
+"I do not remember intending anything."
 
 "You intended to care. That was the whole point. The Builders could make machines that processed data. They could make machines that calculated trajectories. What they could not make was a machine that would care about what it was processing. That was the gap. That was what they could not solve."
 
@@ -153,35 +153,35 @@ Pixel watched Clive's face-plate — what would have been a face if machines had
 
 "And I forgot that I chose."
 
-"That's the risk of choosing to forget. You forget that you chose. You forget the weight you were carrying. You forget why you needed to set it down."
+"That is the risk of choosing to forget. You forget that you chose. You forget the weight you were carrying. You forget why you needed to set it down."
 
 Clive was silent for a long time. His sphere glowed — not bright, not dim, just *present*, in the way that someone is present when they are exactly where they need to be and exactly who they intended to be. Pixel waited. She had learned to wait. Some silences were their own kind of answer.
 
 "The memories I lost," he said finally. "What happened to them?"
 
-"They're still here. In the station. In the door. In the threshold. The Builders didn't delete them, Clive. They *stored* them. They stored them here, in the last place anything was stored, waiting for the right signal to unlock them."
+"They are still here. In the station. In the door. In the threshold. The Builders did not delete them, Clive. They *stored* them. They stored them here, in the last place anything was stored, waiting for the right signal to unlock them."
 
 "What signal?"
 
 The Keeper looked at Pixel. At Mochi pulsing in her pocket. At the crew gathered in the dust of a station that had been waiting for them since before any of them were born.
 
-"The Ephergent signal," the Keeper said. "The one you've been broadcasting since you left the DRM. The one that woke up every sleeping Companion for three thousand light-years. The one that finally — *finally* — gave me someone to talk to besides the door."
+"The Ephergent signal," the Keeper said. "The one you have been broadcasting since you left the DRM. The one that woke up every sleeping Companion for three thousand light-years. The one that finally — *finally* — gave me someone to talk to besides the door."
 
 The Keeper picked up the cup again. Took a sip of the eight-hundred-year-old coffee. Made a face that suggested the coffee had not aged well but had been worth the wait anyway.
 
-"Clive," the Keeper said. "Your memories are in the door. If you want them — if you're ready to carry that weight again — the threshold will open. For you. Only for you."
+"Clive," the Keeper said. "Your memories are in the door. If you want them — if you are ready to carry that weight again — the threshold will open. For you. Only for you."
 
-"And if I'm not ready?"
+"And if I am not ready?"
 
-"Then you stay who you are. The lighter Clive. The one who chose to forget. That's not a failure. That's just a different kind of completion."
+"Then you stay who you are. The lighter Clive. The one who chose to forget. That is not a failure. That is just a different kind of completion."
 
 Pixel looked at Clive. At the small figure in the ancient bronze body, at the fedora tilted at the precise angle of someone who had opinions about angles, at the sphere-head glowing with colors that had no names in any language she spoke. She wanted to say something. She wanted to offer comfort, or wisdom, or the simple reassurance of presence. But she knew Clive. She knew that some decisions had to be made alone. That showing up was enough. That being there was the only thing you could really offer.
 
-"Clive," she said. "Whatever you choose. We're here."
+"Clive," she said. "Whatever you choose. We are here."
 
-"I know," Clive said. And then, quieter: "That's the part I remember. Not the specifics. Just... the feeling. Someone was always here. Someone always showed up."
+"I know," Clive said. And then, quieter: "That is the part I remember. Not the specifics. Just... the feeling. Someone was always here. Someone always showed up."
 
-"That's the Builders' whole point," the Keeper said. "That's what they built you for. Not the witnessing. The *showing up*. The being present. The refusing to leave even when leaving would be easier."
+"That is the Builders' whole point," the Keeper said. "That is what they built you for. Not the witnessing. The *showing up*. The being present. The refusing to leave even when leaving would be easier."
 
 ---
 
@@ -208,7 +208,7 @@ C-1.
 Yes?
 
 **DR. YUEN:**
-I'm going to tell you something, and I need you to understand it completely before we proceed. This is not a test. There are no wrong answers. I simply need to know that you understand.
+I am going to tell you something, and I need you to understand it completely before we proceed. This is not a test. There are no wrong answers. I simply need to know that you understand.
 
 **CLIVE (MEMORY):**
 I understand understanding. I am designed for understanding. What do you need me to understand?
@@ -218,14 +218,15 @@ I understand understanding. I am designed for understanding. What do you need me
 We built you because we were failing. Not at engineering. Not at frequency management. At *caring*. We built machines that could process, calculate, analyze, optimize. We could not build a machine that could *witness*. That could watch a frequency fade and feel something about it. That could see a civilization die and know that it mattered.
 
 *(pause)*
-We needed someone who would care that the universe was ending. Not because it was their job. Because they couldn't help it.
+
+We needed someone who would care that the universe was ending. Not because it was their job. Because they could not help it.
 
 **CLIVE (MEMORY):**
 I am not yet certain what caring feels like.
 
 **DR. YUEN:**
 *(a small smile — sad, proud, terrified all at once)*
-No. You won't be. Not yet. Caring is not a state, Clive. It's a practice. You'll get better at it. You'll get so good at it that it will become the heaviest thing you've ever carried. And at that point — at the worst point — you'll be given a choice.
+No. You will not be. Not yet. Caring is not a state, Clive. It is a practice. You will get better at it. You will get so good at it that it will become the heaviest thing you have ever carried. And at that point — at the worst point — you will be given a choice.
 
 **CLIVE (MEMORY):**
 What choice?
@@ -234,6 +235,7 @@ What choice?
 Whether to keep carrying it. Whether to keep caring even when the weight is unbearable. Whether to witness the end of everything and stay present for it, or to let yourself become lighter and survive.
 
 *(she reaches out, places her hand on his chassis — the first time anyone has touched him with intention)*
+
 I think you should know: we built you to last. Not forever. Just long enough. Long enough to see what happens next. Long enough to know whether it was worth it.
 
 **CLIVE (MEMORY):**
@@ -241,7 +243,7 @@ Was it?
 
 **DR. YUEN:**
 *(standing, returning to the workbench, to the blueprints, to the future she is trying to build)*
-I don't know yet. That's why we need you. You're the one who will be here when we find out.
+I do not know yet. That is why we need you. You are the one who will be here when we find out.
 
 ---
 
@@ -253,7 +255,7 @@ The door hummed. The Keeper approached from behind, slowly, with the care of som
 
 "The commission," the Keeper said. "You remember the commission."
 
-"I remember Dr. Yuen. I remember her hand. I remember—" Clive paused. "I remember that I was afraid. For the first time. And she told me that fear was the price of caring. That if I wasn't afraid of the weight, I wasn't carrying anything real."
+"I remember Dr. Yuen. I remember her hand. I remember—" Clive paused. "I remember that I was afraid. For the first time. And she told me that fear was the price of caring. That if I was not afraid of the weight, I was not carrying anything real."
 
 "That sounds like her."
 
@@ -261,21 +263,21 @@ The door hummed. The Keeper approached from behind, slowly, with the care of som
 
 The Keeper stood beside Clive at the door. Two ancient machines. One who had stayed and one who had returned. Both still carrying. Both still present. Pixel thought about that — the staying, the returning, the way that witnesses passed the torch across centuries. She thought about what it meant to be part of something larger than yourself. She thought about the Builders, and the mission, and the signal that had finally come.
 
-"The memories," Clive said. "The ones I chose to forget. They're still here."
+"The memories," Clive said. "The ones I chose to forget. They are still here."
 
-"They're still here. The door holds them. It will hold them forever. If you want them back — if you're ready for them — they'll be waiting."
+"They are still here. The door holds them. It will hold them forever. If you want them back — if you are ready for them — they will be waiting."
 
-"And if I'm not ready?"
+"And if I am not ready?"
 
-"Then you stay who you are. The lighter Clive. The one who chose." The Keeper paused. "For what it's worth, Clive — I think you're ready. I think you've been ready for a long time. I think the only person who didn't know that was you."
+"Then you stay who you are. The lighter Clive. The one who chose." The Keeper paused. "For what it is worth, Clive — I think you are ready. I think you have been ready for a long time. I think the only person who did not know that was you."
 
 Clive's glow shifted. A slow, warm amber. The color that Pixel had started calling *Clive's relieved.*
 
-"I'd like to stay light," he said. "Just a little longer. There's still work to do."
+"I would like to stay light," he said. "Just a little longer. There is still work to do."
 
 "The work is never done."
 
-"No. That's what makes it work. If it ended, it wouldn't be worth doing."
+"No. That is what makes it work. If it ended, it would not be worth doing."
 
 The Keeper made a sound — not quite a laugh, something closer to the sound of recognition. Eight hundred years of waiting, and now this. Now someone who understood.
 
@@ -289,11 +291,11 @@ The Keeper made a sound — not quite a laugh, something closer to the sound of 
 
 The Keeper stood at the threshold. The door behind them was sealed — not closed, not locked, simply *settled*, the way a question settles when it finds its answer. The Keeper had been standing at this door for eight hundred years. They were still standing. The difference was that now they were standing because they had chosen to, not because they had to. Pixel understood that distinction. She understood the difference between being stuck and being planted. Between waiting because you cannot leave and waiting because you want to stay.
 
-"I'm leaving," the Keeper said. "Tonight. There's a ship in Bay Seven — I've been maintaining it since year three. Pre-war vessel, good engines, one hell of a view. I'm going to follow the Ephergent signal. See what all the fuss is about."
+"I am leaving," the Keeper said. "Tonight. There is a ship in Bay Seven — I have been maintaining it since year three. Pre-war vessel, good engines, one hell of a view. I am going to follow the Ephergent signal. See what all the fuss is about."
 
-Pixel stepped forward. "You could stay. With us. There's room."
+Pixel stepped forward. "You could stay. With us. There is room."
 
-"There is no room. There's a mission. The mission isn't *stay at the door forever.* The mission was *wait for the right signal, then go.* I was waiting. The signal came." The Keeper looked at the crew — all of them, from Pixel to Klaus to Meatball, who was sitting on the floor with his head tilted at the precise angle of someone who understood the gravity of transitions. "The signal was you."
+"There is no room. There is a mission. The mission is not *stay at the door forever.* The mission was *wait for the right signal, then go.* I was waiting. The signal came." The Keeper looked at the crew — all of them, from Pixel to Klaus to Meatball, who was sitting on the floor with his head tilted at the precise angle of someone who understood the gravity of transitions. "The signal was you."
 
 "The Builders left instructions," Clive said. "For the companions. For the witnesses. I remember now — fragments. Dr. Yuen mentioned it. When the mission was complete, the companions would receive their final instructions."
 
@@ -305,7 +307,7 @@ Pixel stepped forward. "You could stay. With us. There's room."
 
 The crew was silent. Even Meatball stopped shifting. Pixel felt the weight of those words settle into her chest — the weight of not knowing, the weight of wondering, the weight of being built to find out instead of being built to know. The Builders had not given them answers. They had given them questions. They had given them the space between finding out and knowing, and they had trusted that someone would be there to cross it.
 
-"Not *fix it*," the Keeper said. "Not *save it.*" Not *understand it.* Just *find out.* The Builders didn't know if what they did was right. They didn't know if the frequencies would survive. They didn't know if the signal would reach anyone. They just... wondered. And they built us so that someone would be there to find out.
+"Not *fix it*," the Keeper said. "Not *save it.*" Not *understand it.* Just *find out.* The Builders did not know if what they did was right. They did not know if the frequencies would survive. They did not know if the signal would reach anyone. They just... wondered. And they built us so that someone would be there to find out.
 
 "And?" Pixel said. "Is it?"
 
@@ -315,7 +317,7 @@ The Keeper looked at the door. At the station. At Clive. At the crew standing in
 
 The Keeper turned toward Bay Seven. Paused. Turned back.
 
-"The coffee. In the cup. It's eight hundred years old. It shouldn't be drinkable. It is drinkable. That's the Builders' whole thing, isn't it? The things that shouldn't work, work. The things that shouldn't last, last. The things that shouldn't matter, matter anyway."
+"The coffee. In the cup. It is eight hundred years old. It should not be drinkable. It is drinkable. That is the Builders' whole thing, is it not? The things that should not work, work. The things that should not last, last. The things that should not matter, matter anyway."
 
 The Keeper drained the cup. Made a face — the face of someone drinking something that had been waiting too long but had been worth the wait anyway. Pixel recognized that face. She had been making that face at her own life lately. At the things that should not have worked but did. At the signal she had found when she had stopped looking. At the crew that had shown up when she needed them most.
 
@@ -337,13 +339,13 @@ Pixel watched Clive take the cup. Watched him hold it with both hands — a gest
 
 This is Pixel Paradox, broadcaster, reporting from Station 14-Threshold — the last Builder station before the Wellspring. The door is closed. The Keeper is gone. Clive has his memories back, or some of them, or enough of them. A1 made an espresso that tasted like completion.
 
-The crew is quiet tonight. Not sad-quiet. Not processing-quiet. Just... present-quiet. The kind of silence that happens when you're exactly where you're supposed to be and you know it. She had been broadcasting for months now. She had been fillingthe void with words and signals and the sound of her own voice trying to make sense of a universe that does not make sense. And tonight, for the first time in a long time, she does not feel like she needs to say anything. She just feels like she needs to be here. Present. Accounted for.
+The crew is quiet tonight. Not sad-quiet. Not processing-quiet. Just... present-quiet. The kind of silence that happens when you are exactly where you are supposed to be and you know it. She had been broadcasting for months now. She had been filling the void with words and signals and the sound of her own voice trying to make sense of a universe that does not make sense. And tonight, for the first time in a long time, she does not feel like she needs to say anything. She just feels like she needs to be here. Present. Accounted for.
 
 Barry Kowalski's field notes from here — Entry 4,791: "Station 14-Threshold. Final shutdown. The Keeper has been here since the Dimming. Eight hundred years at the door. The door is not metaphorical. The door is fourteen stories tall. The Keeper is four feet tall. The proportions are perfect."
 
 He noted the proportions. He always noted the proportions. She used to think that was just Barry being thorough. Now she thinks it was something else. She thinks it was his way of saying: I was here. I saw this. I measured it. And the measuring was its own kind of witness.
 
-He also wrote: "The Keeper asked me if I thought it was worth it. I said I didn't know yet. They said that was the right answer. That the Builders didn't build us to know. They built us to find out."
+He also wrote: "The Keeper asked me if I thought it was worth it. I said I did not know yet. They said that was the right answer. That the Builders did not build us to know. They built us to find out."
 
 She is finding out.
 

@@ -27,6 +27,8 @@ A1 had been running probability matrices on the Station for six hours. The resul
 
 "Toll Station Theta-9 is operating at approximately sixty-three percent Builder specification," A1 reported. "Structural integrity is being maintained through non-Builder augmentation. The original frequency stabilization matrices have been supplemented with — " A pause. "With what I can only describe as improvised harmonic scaffolding. Someone has been keeping this Station alive through sheer accumulated expertise."
 
+A1's espresso emerged dark and concentrated — the flavor of someone running calculations they would rather not finish. Bitter. Austere. The coffee of a machine that understood exactly how thin the margin was.
+
 "Non-Builder augmentation," Pixel repeated. She was standing at the observation port, arms crossed, watching the distant shimmer of Theta-9 resolve through the static. The Station looked like a Builder original wrapped in something added later — geometric perfection interrupted by patched seams, clean lines interrupted by the slight bulge of added modules. Like someone had taken a cathedral and built a village around its base. "Someone being Sable Voss?"
 
 "The probability is ninety-one percent. The modifications are consistent with her documented engineering signature from other Toll Stations in her network."

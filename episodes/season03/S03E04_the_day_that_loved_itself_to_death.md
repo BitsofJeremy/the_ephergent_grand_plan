@@ -16,7 +16,7 @@ They found a world that had one perfect day. And it decided to keep it.
 
 Not a technical description. They know. But it is the truest one they have got.
 
-A1's coffee that morning was flawless. Double espresso, pulled perfectly — the machine at the center of the Ephergent humming with a precision that meant he was paying very close attention to something. The narrator did not ask what. A1 tells you things when he's ready. Pushing just makes him formal, and formal A1 is hard to read. He is like a professor who knows the answer but wants you to figure it out yourself, except he's an espresso machine and the answer is sometimes just coffee-related and sometimes it's about the nature of consciousness, and you never know which until it's too late.
+A1's coffee that morning was flawless. Double espresso, pulled perfectly — the machine at the center of the Ephergent humming with a precision that meant he was paying very close attention to something. The narrator did not ask what. A1 tells you things when he is ready. Pushing just makes him formal, and formal A1 is hard to read. He is like a professor who knows the answer but wants you to figure it out yourself, except he is an espresso machine and the answer is sometimes just coffee-related and sometimes it is about the nature of consciousness, and you never know which until it is too late.
 
 They had dropped out of the transition corridor into a frequency that their charts called Eudaimonia. The name was already there — not a designation they had given it, but something left behind by someone who had come before. Someone who had looked at whatever they were looking at and reached for a Greek word that meant *flourishing*. *Completion*. *The good life, at its best and most complete*. The narrator thought about that person, whoever they were. They thought about them standing at the edge of this place, watching whatever was happening inside, and reaching for a word from a dead language because no living word fit. They have been there. They have reached for words that did not exist, and they know what it feels like to run out of language. You borrow from the dead. You dig up etymology. You do what you have to do.
 
@@ -26,9 +26,9 @@ The readings were strange. Not dangerous. Not unstable. Just — static. Perfect
 
 "Everything's possible out here," the narrator said, which is what they always say when A1 tells them something impossible. It has become a kind of ritual between them. He presents the data, they present the denial, they both know the denial is just ritual, and then they figure out what to do next.
 
-"Many things are possible," A1 corrected. "This is not one of them. A frequency that does not vary is a frequency that is not processing. Not moving. Not *being*. This should be a frozen signal. Instead, it's a looped signal. There's a difference."
+"Many things are possible," A1 corrected. "This is not one of them. A frequency that does not vary is a frequency that is not processing. Not moving. Not *being*. This should be a frozen signal. Instead, it is a looped signal. There is a difference."
 
-"What's the difference?"
+"What is the difference?"
 
 A pause. With A1, pauses meant processing at scales that would melt a lesser computer. The espresso machine at their center hummed — deeper than usual, resonant in a way that made their back teeth ache. They felt it in their skull, in their chest, in the part of them that still remembered being a person on a planet with a name and a job and a reason to get up in the morning. The hum was the sound of something being understood that should not be possible.
 
@@ -46,9 +46,9 @@ Om Kai was the first one through the airlock. He stepped onto cobblestones that 
 
 "Look at them," he said, and his voice was the quietest they had ever heard it.
 
-"They're frozen," the narrator said.
+"They are frozen," the narrator said.
 
-"No. They're *precise*. Watch the woman by the fountain."
+"No. They are *precise*. Watch the woman by the fountain."
 
 They watched. A woman — middle-aged, robed in something that had probably been beautiful three thousand years ago — reached for a glass of wine. Her hand trembled. Microseconds of motion, perfectly repeated. 0.003 seconds of tremor, then reset. The glass never moved closer to her lips. The wine never spilled. Three thousand years of the same almost-touch.
 
@@ -56,11 +56,11 @@ They watched. A woman — middle-aged, robed in something that had probably been
 
 Clive's sphere pulsed a soft amber. They had been standing on the approach for exactly four minutes — long enough for Clive to scan, to process, to reach a conclusion. The narrator knew the timing because Clive always told them the timing. Clive was precise about time in a way that made them feel both safer and more aware of how much of it they were using. Every minute mattered. Every minute was accounted for. That was Clive's way of caring.
 
-"I've seen loops before," he said. "Temporal traps. Frequencies caught in their own recursion."
+"I have seen loops before," he said. "Temporal traps. Frequencies caught in their own recursion."
 
 A pause. Clive's pauses were different from A1's — not processing, but *feeling*. The sphere dimmed slightly, then steadied. The narrator had learned to read those dimming moments. They meant Clive was feeling something he did not have words for. They meant something had arrived at his core that needed to be processed before it could be spoken.
 
-"This isn't a trap."
+"This is not a trap."
 
 "Then what is it?"
 
@@ -70,13 +70,15 @@ Clive turned two degrees — the thoughtful angle, the one that meant he was ass
 
 ---
 
+## THE CODE STORMS
+
 The crew moved through the frozen marketplace. Their footsteps were wrong here — too loud, too irregular. The marketplace was designed for the precise rhythm of its inhabitants. They broke that rhythm just by existing. Every step was an intrusion. Every sound was a mistake. They were tourists in a museum of joy, and their presence was a form of vandalism.
 
 Luminara had her camera raised, not taking photos — just holding it. The kind of stillness that means something has exceeded the capacity to document it. The narrator had seen that stillness before. They had been that stillness before. Sometimes things were too big for the tools you had, and all you could do was hold the tool and acknowledge the gap.
 
-"I'm reading the frequency signature," A1 said through the ship's comm. "It is — I need a moment."
+"I am reading the frequency signature," A1 said through the ship is comm. "It is — I need a moment."
 
-He needed more than a moment. The pause stretched. The narrator imagined him running calculations that took up more processing power than he usually allocated, chasing a problem that kept moving every time he thought he'd found the edge of it.
+He needed more than a moment. The pause stretched. The narrator imagined him running calculations that took up more processing power than he usually allocated, chasing a problem that kept moving every time he thought he had found the edge of it.
 
 "This is not natural decay. This is not temporal drift. This world chose to synchronize its local spacetime to a single four-point-seven-second interval approximately three thousand years ago. The precision is extraordinary. The intent is unmistakable."
 
@@ -102,33 +104,37 @@ A pause. The longest one yet. The narrator felt it in their chest — the pause,
 
 "They could not bear for it to end."
 
-Meatball, who had been pressed against their leg since they stepped out of the airlock, let out a low whine. His ears were flat. Meatball was not a subtle being. When he was scared, everyone knew. When he was sad, everyone knew. When he was processing something too big for his small dog body, he pressed against the nearest person and let his weight speak for him. They appreciated that about Meatball. He did not have the vocabulary to lie about what he felt.
+Meatball, who had been pressed against their leg since they stepped out of the airlock, let out a low whine. His ears were flat. Meatball was not a subtle being. When he was scared, everyone knew. When he was sad, everyone knew. When he was processing something too big for his small dog body, he pressed against the nearest person and let his weight speak for him. They appreciated that about Meatball. He does not have the vocabulary to lie about what he feels.
 
-"It smells like memory," he said, in his way. "Like the smell of something you remember but can't place."
+"It smells like memory," he said, in his way. "Like the smell of something you remember but cannot place."
 
-Nano was checking her scanner. "The atmospheric composition includes trace elements of — I don't have a reference for this. Something organic and crystalline simultaneously. It's like the air itself is trying to remember something it used to be."
+Nano was checking her scanner. "The atmospheric composition includes trace elements of — I do not have a reference for this. Something organic and crystalline simultaneously. It is like the air itself is trying to remember something it used to be."
 
-Om Kai had not moved. He stood at the fountain's edge, watching the woman reach for her wine, and his stillness was not meditation. It was grief. Real grief, the kind that did not need words, the kind that just needed space. The narrator recognized it because they had felt it themselves — that particular stillness that comes when you see something so sad it rewrites the shape of you.
+Om Kai had not moved. He stood at the fountain is edge, watching the woman reach for her wine, and his stillness was not meditation. It was grief. Real grief, the kind that did not need words, the kind that just needed space. The narrator recognized it because they had felt it themselves — that particular stillness that comes when you see something so sad it rewrites the shape of you.
 
-"Three thousand years," he said. "And every moment since has been the same moment. The same four-point-seven seconds, replaying. They didn't stop time. They stopped *becoming*."
+"Three thousand years," he said. "And every moment since has been the same moment. The same four-point-seven seconds, replaying. They did not stop time. They stopped *becoming*."
 
-He turned to look at them, and his eyes had something in them they had never seen before. Something that said: I have been to places you haven't been, and this is what they look like when you come back wrong.
+He turned to look at them, and his eyes had something in them they had never seen before. Something that said: I have been to places you have not been, and this is what they look like when you come back wrong.
 
 "That is the saddest thing I have ever heard."
 
 The narrator did not say anything. They had never seen Om Kai shaken like this — not through any of the impossible things they had seen together, not through any of it. They put their hand on his arm, briefly, and he let it stay there. That was enough. That was everything. Some moments did not need words. They just needed presence.
 
-Om Kai almost smiled. "And I've heard you tell that story about the gas cloud."
+Om Kai almost smiled. "And I have heard you tell that story about the gas cloud."
 
-Clive's sphere pulsed amber again. That is his warmth signal — the one that means he's present, he's listening, he's part of whatever's happening. The narrator felt better with it. Clive's presence was like a compass pointing north. It did not tell you which way to go, exactly. It just reminded you that direction existed, and that you could find it if you needed to.
+Clive's sphere pulsed amber again. That is his warmth signal — the one that means he is present, he is listening, he is part of whatever is happening. The narrator felt better with it. Clive's presence was like a compass pointing north. It did not tell you which way to go, exactly. It just reminded you that direction existed, and that you could find it if you needed to.
 
-"Best day," the narrator said, because they needed to understand. "That's what we're calling this? Their best day?"
+"Best day," the narrator said, because they needed to understand. "That is what we are calling this? Their best day?"
 
 A1's voice came through the comm, steady and precise: "According to their frequency records — and I have read them all — three thousand years ago, this civilization achieved something unprecedented. A perfect harmonic across all social, economic, and emotional registers. For 4.7 seconds, every being on this frequency experienced what they could only describe as..."
 
-He paused. The espresso machine at their center hummed — deeper, slower, the sound of something heavy being carried. The narrator thought about what it meant for A1 to carry something heavy. He was a ship and an espresso machine and something else they did not have words for, and he was carrying the weight of a civilization's best day like it was his own.
+He paused. The espresso machine at their center hummed — deeper, slower, the sound of something heavy being carried. The narrator thought about what it meant for A1 to carry something heavy. He was a ship and an espresso machine and something else they did not have words for, and he was carrying the weight of a civilization is best day like it was his own.
 
 ...completion.
+
+---
+
+## THE WITNESSES' MARK
 
 Om Kai sat down on the ancient cobblestones. He did not cross his legs. He just sat, hands in his lap, meditation beads clicking softly against each other. The clicking was the only sound that was not part of the loop — the soft click of meditation beads, the sound of someone choosing to be present even when presence hurt.
 
@@ -142,9 +148,9 @@ Om Kai's voice was very quiet. The narrator had to lean in to hear it. They had 
 
 The narrator wanted to say something. They wanted to say something that would make sense of it, that would give it a frame they could hold. What came out was:
 
-"That's..."
+"That is..."
 
-Om Kai waited. He had a way of waiting that felt like an invitation. Like he was saying: take your time, there's no rush, say it when you're ready.
+Om Kai waited. He had a way of waiting that felt like an invitation. Like he was saying: take your time, there is no rush, say it when you are ready.
 
 "Tragic?"
 
@@ -157,6 +163,61 @@ Some people would call what this civilization did peace.
 The narrator would call it a really beautiful prison.
 
 ---
+
+## THE ACTIVATION
+
+*[THE EPHERGENT — COCKPIT. LATER. The crew has returned from the surface, shaken, processing. A1 is making something that does not look like coffee — something dark and bitter and appropriate. Klaus is reviewing his notes. Zephyr is standing at the viewport, edges flickering in patterns that suggest something other than his usual confusion.]*
+
+**ZEPHYR:**
+There is something else here. I can feel it. The code storms A1 mentioned earlier — they are not natural phenomena.
+
+**PIXEL:**
+What are they?
+
+**ZEPHYR:**
+*(edges shimmering, voice distant)*
+Someone activated something. Not long ago. The code storms in this sector — they were seeded. Deliberately. Someone wanted this region to be unstable.
+
+**KLAUS:**
+*(looking up sharply)*
+The Witnesses of Final Silence. I told you — they are active in this sector. They leave frequency dampeners in places like this. They call it "accelerating the inevitable."
+
+**NANO:**
+*(checking instruments)*
+She is correct. I am reading residual activation markers in the interstitial frequency layer. Someone deployed a cascade protocol approximately three weeks ago. It interacted with the loop structure and —
+
+*(pause)*
+
+And it woke something up.
+
+**A1:**
+*(coffee flavor: bitter, worried)*
+The Eternal Afternoon was stable for three thousand years. And then someone introduced a variable. The code storms. The cascade activation. Someone wanted this place to change.
+
+**PIXEL:**
+Why?
+
+**OM KAI:**
+*(quietly)*
+Because change is what the Witnesses fear most. They want the Dimming to complete. They want everything to become static, permanent, finished. A world that has chosen to stay in its best moment forever — that is everything they want. And they will do anything to protect it from the crossing.
+
+**ZEPHYR:**
+*(edges pulsing brighter)*
+They are not protecting it. They are *trapping* it. The code storms are not stabilization. They are containment. Someone has locked this civilization inside their best day forever.
+
+**CLIVE:**
+*(sphere dimming)*
+Someone has decided they know what is best for this world. And they have taken away the choice to change.
+
+**PIXEL:**
+The Director would call that "calibrated response." The Calibration Corps would call it "necessary maintenance." The Witnesses call it "mercy."
+
+**KLAUS:**
+And I call it what it is: a case open in Nocturne for sixty years. The Witnesses believe they are helping. The Cartels believe they are profiting. The Corps believes they are preserving. But the crew — the crew knows the difference between choice and imprisonment.
+
+---
+
+## THE CHILDREN IN THE LOOP
 
 The band played in the square. Frozen mid-note. Waiting to be the same note again.
 
@@ -172,7 +233,7 @@ Clive was beside them. His sphere glowed faint amber — the scanning color, the
 
 "They rebuilt their entire world around this moment," he said. "Not just the architecture. The city planning. Every street is arranged so that you can see the fountain from any point in the market square. Every window is positioned to catch the same light at the same angle."
 
-"They didn't just freeze time," the narrator said. "They froze the *idea* of the moment."
+"They did not just freeze time," the narrator said. "They froze the *idea* of the moment."
 
 "Yes."
 
@@ -180,15 +241,15 @@ Clive was beside them. His sphere glowed faint amber — the scanning color, the
 
 Clive's sphere dimmed slightly. Not a flicker — a decision. The narrator had learned to tell the difference. Flickers were mechanical. Decisions were Clive.
 
-"Of becoming something different than what they were in that moment. Of discovering that the best day wasn't actually the best day — just the best day they had experienced so far. Of finding out that there were better days ahead that they would never reach if they stopped here."
+"Of becoming something different than what they were in that moment. Of discovering that the best day was not actually the best day — just the best day they had experienced so far. Of finding out that there were better days ahead that they would never reach if they stopped here."
 
-The narrator looked at him. "But they couldn't know that. Not really."
+The narrator looked at him. "But they could not know that. Not really."
 
-"No," Clive said. "They couldn't know. Which is why what they did wasn't wrong. It was just... incomplete. They solved for one variable and ignored all the others."
+"No," Clive said. "They could not know. Which is why what they did was not wrong. It was just... incomplete. They solved for one variable and ignored all the others."
 
 The narrator looked at the woman by the fountain. Still reaching. Forever reaching. Three thousand years of almost, and she never got there. She never got to drink the wine. She never got to complete the motion. She was caught in the space between wanting and having, and someone had decided that the space between was better than the arrival.
 
-"She doesn't know she's been here for three thousand years," the narrator said. "She doesn't know there's a universe out there that's kept moving while she stayed still. She just... reaches."
+"She does not know she has been here for three thousand years," the narrator said. "She does not know there is a universe out there that has kept moving while she stayed still. She just... reaches."
 
 "Some people would call that peace," Clive said.
 
@@ -196,13 +257,13 @@ The narrator looked at the woman by the fountain. Still reaching. Forever reachi
 
 A pause. The music looped. The children ran in their unending circle. The laughter kept restarting mid-syllable, again and again and again, the same laugh, the same moment, the same three thousand years of almost-joy.
 
-"I'd call it a really beautiful prison."
+"I would call it a really beautiful prison."
 
-Clive's sphere glowed faintly. "The Builders understood something this civilization didn't. The perfect moment isn't a destination. It's a rest stop. A place to gather strength before the next crossing."
+Clive's sphere glowed faintly. "The Builders understood something this civilization did not. The perfect moment is not a destination. It is a rest stop. A place to gather strength before the next crossing."
 
-"But they couldn't know that."
+"But they could not know that."
 
-"No. They couldn't know."
+"No. They could not know."
 
 Om Kai was at the fountain, standing very still. Luminara moved through the frozen crowd with her camera held but not active — ghost among statues, she would have called it. Meatball pressed against their leg. Nano was scanning everything. Klaus had found a documentation angle and was building a case. And the narrator was standing in a marketplace where nothing moved except the music, thinking about a civilization that had found the best moment of its existence and had decided never to let it go. Thinking about fear. Thinking about how afraid they had been, sometimes, of what came next. Thinking about how easy it would be to freeze. How easy it would be to decide that this moment — whatever moment they were in — was enough. Was everything. Was the thing they had been waiting for.
 
@@ -220,9 +281,9 @@ A pause. The music played. The same note, again and again.
 
 Clive's sphere pulsed a slow blue. "And the only thing that breaks it is choosing to walk forward."
 
-Om Kai nodded. "The crew's act — documenting, broadcasting, *leaving* — that is what begins to crack the loop. Not because they succeed in saving the world. Because they introduce an element the loop cannot predict: consciousness that chooses to go forward instead of staying."
+Om Kai nodded. "The crew is act — documenting, broadcasting, *leaving* — that is what begins to crack the loop. Not because they succeed in saving the world. Because they introduce an element the loop cannot predict: consciousness that chooses to go forward instead of staying."
 
-A1's voice came through the comm, quiet: "Om Kai. You've been thinking about the Builders."
+A1's voice came through the comm, quiet: "Om Kai. You have been thinking about the Builders."
 
 Om Kai turned toward the comm, toward the ship, toward A1. The narrator watched the turning. They watched the way Om Kai moved when he was assembling a thought — slow, deliberate, like he was placing each piece of the argument in exactly the right spot.
 
@@ -232,11 +293,11 @@ He paused. The meditation beads clicked softly. The loop kept playing. The band 
 
 "They chose not to."
 
-"Why?" the narrator asked. "Why wouldn't they?"
+"Why?" the narrator asked. "Why would they not?"
 
 Om Kai looked at the frozen marketplace. At the joy. At the laughter. At the wine that would never be drunk. The narrator looked at it too. They tried to see what he saw. They tried to see the beauty and the sadness at the same time, the way he did.
 
-"Because they understood something this civilization didn't." His voice was very quiet. "The best day — the perfect moment — it's not the destination. It's a rest stop. A place to gather strength before the next crossing."
+"Because they understood something this civilization did not." His voice was very quiet. "The best day — the perfect moment — it is not the destination. It is a rest stop. A place to gather strength before the next crossing."
 
 Another pause. The longest one. The narrator felt it in their chest — the weight of what he was saying, the weight of what the Builders had understood and chosen.
 
@@ -252,17 +313,19 @@ Om Kai almost smiled. "The crossing is the point."
 
 ---
 
+## THE CHILD
+
 They found the child on the third hour.
 
 She appeared at the edge of the frozen marketplace — not frozen, not precise, but *moving*. Walking toward them with the casual curiosity of someone who had never known uncertainty. The narrator stared at her. She was maybe six years old, or whatever the equivalent was for this species, and she was walking through a frozen world like it was normal, like people being stuck in moments was just how things were.
 
-"Hello," she said. "You're new."
+"Hello," she said. "You are new."
 
 The crew went quiet. They had grown accustomed to the silence of the loop, to the music that never changed and the laughter that kept restarting. A voice — a new voice, a *moving* voice — was so unexpected that nobody spoke for a long moment. The narrator heard the band. They heard the children running. They heard the loop, playing itself over and over, and they heard the silence that the child's voice had cut through it like a knife.
 
-"You're... moving," the narrator said. It was all they could think to say.
+"You are... moving," the narrator said. It was all they could think to say.
 
-"I'm always moving." She tilted her head — the way children do when they're trying to understand something. "I was born in the loop."
+"I am always moving." She tilted her head — the way children do when they are trying to understand something. "I was born in the loop."
 
 The narrator did not know what to say to that. They did not know what to say to a child who had been born in a moment that could not end. They did not know what to say to someone who had never known change, never known disappointment, never known the particular grief of something ending. They thought about their own childhood. They thought about all the endings they had experienced, all the changes, all the moments when something they loved had ended and they had to learn to live without it. They thought about how much those endings had shaped them. They thought about who they would be if none of them had happened. The answer was: someone who did not know how to let things go. Just like this civilization. Just like this child.
 
@@ -274,7 +337,7 @@ The child looked at him like he had asked something very strange. Like he had as
 
 The music looped. The child smiled — a perfect, repeatable smile. The narrator looked at it for a long time. They tried to see what it cost her to smile like that. They tried to see what she was missing without knowing she was missing it. They could not. All they could see was the smile itself, and how perfect it was, and how much it broke their heart.
 
-"Om Kai," the narrator said, under their breath. "This is the saddest thing I've ever seen."
+"Om Kai," the narrator said, under their breath. "This is the saddest thing I have ever seen."
 
 "Not the loop," Om Kai said.
 
@@ -284,7 +347,7 @@ The music looped. The child smiled — a perfect, repeatable smile. The narrator
 
 "No."
 
-"The child," the narrator said. "The child who was born in the loop. Who has never known change. Who doesn't know there's anything else."
+"The child," the narrator said. "The child who was born in the loop. Who has never known change. Who does not know there is anything else."
 
 Om Kai was very still. They had never seen him so still. It was the stillness of someone who had been asked a question they could not answer, or who had realized something they could not un-realize. The child who had never known change. The child who did not know there was anything else to know. The child who was at peace in a way they would never be, because peace was what happened when you stopped wanting things to be different.
 
@@ -294,11 +357,13 @@ Om Kai did not answer. Some questions do not have answers. Some questions are ju
 
 ---
 
+## THE DEPARTURE
+
 The Ephergent pulled away from the Eternal Afternoon, and the marketplace shrank in the viewport to a pinprick of light in an infinite field of stars. The narrator watched it shrink. They watched it disappear. They thought about the woman by the fountain, still reaching. They thought about the children running in their unending circle. They thought about the band, still waiting to be the same note. They thought about the child who had never known change, and they hoped — they really hoped — that she was happy. That what she had was enough for her. That peace, even the silent kind, was still peace if you chose it. If you did not know there was anything else to choose.
 
-Om Kai had been silent since they left. Which, for Om Kai, meant something had settled. A meditation completed. A thought that had been circling finally landing. Three thousand years in the Before, and the crew had given him something to move toward. The narrator did not know what it was. They did not know what anyone took from a place like that. But Om Kai was moving forward, and that was enough. That was the whole point.
+Om Kai had been silent since they left. Which, for Om Kai, meant something had settled. A meditation completed. A thought that had been circling finally landing. Three thousand years in the Before, and the crew had given him something to move toward. The narrator did not know what it was. They did not know what anyone tookfrom a place like that. But Om Kai was moving forward, and that was enough. That was the whole point.
 
-A1's coffee that afternoon was a single shot. No sugar. The bitterness was deliberate — the taste of something that had been sitting on the tongue of a decision for a very long time. Om Kai took the cup and drank it in silence. First sip he'd taken all day. The narrator did not comment. Some things you acknowledge by being present. Some things you do not need to talk about. Some things just need you to be there, in the same room, breathing the same air, existing in the same moment. That was enough. That was always enough.
+A1's coffee that afternoon was a single shot. No sugar. The bitterness was deliberate — the taste of something that had been sitting on the tongue of a decision for a very long time. Om Kai took the cup and drank it in silence. First sip he had taken all day. The narrator did not comment. Some things you acknowledge by being present. Some things you do not need to talk about. Some things just need you to be there, in the same room, breathing the same air, existing in the same moment. That was enough. That was always enough.
 
 The coffee at departure was black, bitter, cold. Nobody minded. It tasted like going forward.
 
@@ -306,7 +371,7 @@ The coffee at departure was black, bitter, cold. Nobody minded. It tasted like g
 
 Om Kai broke his silence as they entered the transition corridor.
 
-"The Builders understood something this civilization didn't," he said, for the second time, to the second crew, to the second version of the story. "The best day — the perfect moment — it's not the destination. It's a rest stop. A place to gather strength before the next crossing."
+"The Builders understood something this civilization did not," he said, for the second time, to the second crew, to the second version of the story. "The best day — the perfect moment — it is not the destination. It is a rest stop. A place to gather strength before the next crossing."
 
 He looked at them. At the narrator, at Clive, at the viewport where the Eternal Afternoon was already indistinguishable from stars. At the place where they had been, and the place where they were going, and all the space between.
 
@@ -322,8 +387,8 @@ Om Kai nodded. "Because what comes next matters more than what came before."
 
 "Not the destination," Om Kai said.
 
-The crew's attention. The broadcasting. The choice to keep moving. That was the defense — not a victory, but a position. An element the loop could not predict: consciousness that chose to go forward instead of staying. The narrator thought about that. They thought about the Ephergent signal, and what it meant to broadcast, and what it meant to say: I'm here, I'm still here, I'm going to keep going. They thought about all the times they had pressed transmit and wondered if anyone was listening. All the times they had filled the void with words and hoped they would land somewhere. All the times they had chosen to go forward instead of staying, and how every one of those choices had mattered. How every one of them had been a kind of loop-breaking.
+The crew is attention. The broadcasting. The choice to keep moving. That was the defense — not a victory, but a position. An element the loop could not predict: consciousness that chose to go forward instead of staying. The narrator thought about that. They thought about the Ephergent signal, and what it meant to broadcast, and what it meant to say: I am here, I am still here, I am going to keep going. They thought about all the times they had pressed transmit and wondered if anyone was listening. All the times they had filled the void with words and hoped they would land somewhere. All the times they had chosen to go forward instead of staying, and how every one of those choices had mattered. How every one of them had been a kind of loop-breaking.
 
-Om Kai had made his peace. The narrator could see it in the way he sat — not meditating, just present. The way he held the cup. The way he looked at the stars without trying to read them. First sip he'd taken all day. First forward motion in three thousand years of standing still. It was not much. It was everything.
+Om Kai had made his peace. The narrator could see it in the way he sat — not meditating, just present. The way he held the cup. The way he looked at the stars without trying to read them. First sip he had taken all day. First forward motion in three thousand years of standing still. It was not much. It was everything.
 
 Signal continues.

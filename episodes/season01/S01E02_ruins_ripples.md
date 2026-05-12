@@ -220,7 +220,7 @@ She unzipped her jacket slightly. She looked at Mochi's dome visible in the pock
 
 "Yeah," she said quietly. "I don't know either."
 
-The hum from the deepest corridor was too low for human hearing. But Meatball's ears swiveled forward. He sat. He listened. His tail stilled. He was hearing something they couldn't. He was always hearing something they couldn't.
+The hum from the deepest corridor was too low for human hearing. Meatball's ears swiveled forward. He sat. He listened. His tail stilled. He was hearing something they couldn't. He was always hearing something they couldn't.
 
 A1's voice came through the escape pod comm from above: "Pixel. The equipment in Sub-Level 7 is transmitting. Low-frequency carrier signal. I am logging it."
 

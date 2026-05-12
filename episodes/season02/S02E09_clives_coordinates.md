@@ -21,8 +21,6 @@ narrator: "third_person"
 
 ## I. The Confrontation
 
-The narrator needs the listener to understand something about Clive. About the way he processes things he chooses not to share. The way the ship feels it when he's working through something — A1's presence shifting in the hum, the crew finding their way to common areas without being called. They had gathered because when Clive processes, the Space itself pays attention.
-
 The crew has assembled in the common area — not because anyone called a meeting, but because when Clive processes, the ship feels it. A1's presence is in the hum. Zephyr sits in the corner, still. Luminara's camera is off. Om Kai stands by the viewport, watching the Frequency drift past like light through water.
 
 Pixel stands in the center of the room. Clive stands opposite her, at the small table where they take meals. The fedora is level now. Waiting.
@@ -51,7 +49,7 @@ Clive's hand moves to the fedora. Tips it, slightly. The gesture that means: I a
 
 A1's voice cuts through the silence. "The coffee."
 
-They all look at him. Zephyr blinks. "What?"
+They all look at him. Zephyr blinks. "I beg your pardon?"
 
 "The coffee," A1 says. "I have been producing coffee that tastes of lavender and ash since before Station 3-Resonant. Since before we had any indication of Builder presence in this sector. The flavor indicates memory return. Significant memory return. Clive's processors have been accessing archived data for longer than he has disclosed."
 

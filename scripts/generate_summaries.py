@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-generate_summaries.py — Derive 2-3 sentence third-person Signal-voice episode summaries.
+generate_summaries.py — Derive Signal-voice episode summaries using Claude.
 
-Reads episode markdown, extracts story beats from section headers and first/last paragraphs,
-generates a summary in Signal's warm, slightly theatrical third-person voice.
+Reads episode markdown, extracts story beats, generates a summary via Claude API
+in Signal's warm, slightly theatrical third-person voice — with more context and
+social-media-ready hooks.
+
 Writes to excerpts/SXXEXX.txt.
 
 Usage:
@@ -12,6 +14,7 @@ Usage:
     python scripts/generate_summaries.py --all
 """
 import argparse
+import os
 import re
 import sys
 from pathlib import Path
@@ -20,6 +23,114 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 GRAND_PLAN = SCRIPT_DIR.parent.resolve()
 EPISODES_DIR = GRAND_PLAN / "episodes"
 EXCERPTS_DIR = GRAND_PLAN / "excerpts"
+
+# ── Claude integration ─────────────────────────────────────────────────────────
+ANTHROPIC_KEY = "ANTHROPIC_API_KEY"
+
+
+def _get_anthropic_client():
+    """Lazily import and return the Anthropic client."""
+    try:
+        import anthropic
+        # Check multiple common env var names
+        api_key = (
+            os.environ.get("ANTHROPIC_API_KEY")
+            or os.environ.get("ANTHROPIC_AUTH_TOKEN")
+            or os.environ.get("CLAUDE_API_KEY")
+        )
+        base_url = os.environ.get("ANTHROPIC_BASE_URL")
+        if not api_key:
+            return None
+        if base_url:
+            return anthropic.Anthropic(api_key=api_key, base_url=base_url)
+        return anthropic.Anthropic(api_key=api_key)
+    except Exception:
+        return None
+
+
+def generate_summary_via_claude(episode_path: Path, raw: str) -> str:
+    """Generate a richer Signal-voice summary using Claude."""
+    client = _get_anthropic_client()
+
+    # ── extract beats quickly ──────────────────────────────────────────────────
+    title = re.search(r'^#\s+(.+)$', raw, re.MULTILINE)
+    title = title.group(1).strip() if title else "Untitled"
+
+    # Remove frontmatter
+    if raw.startswith('---'):
+        m = re.match(r'^---\n.*?\n---\n', raw, re.DOTALL)
+        if m:
+            raw = raw[m.end():]
+
+    # Grab first 1200 chars as context
+    context = raw[:1200].replace('*', '').replace('#', '')
+    # Strip LOCKED RULES tables and coffee charts
+    context = re.sub(r'\|.*?\|.*?\n', '', context)
+    context = re.sub(r'\*\*[A-Z].*?:\*\*', '', context)
+
+    if client:
+        system = (
+            "You write concise episode summaries (50-90 words) for The Ephergent Signal, "
+            "a sci-fi audio drama. The narrator is called the Signal — warm, slightly theatrical, "
+            "third-person. Summaries should:\n"
+            "- Open with a hook that could work as social media copy\n"
+            "- Name the key characters involved\n"
+            "- Hint at the central conflict or mystery without spoiling resolution\n"
+            "- End with a gentle invitation to listen\n"
+            'Format: "In this episode:" followed by 2-3 sentences in the Signal\'s voice.\n'
+            "Tone: warm, slightly mysterious, like a trusted friend who knows good stories."
+        )
+        user = f"Episode title: {title}\n\nEpisode content (excerpt):\n{context[:900]}"
+
+        try:
+            response = client.messages.create(
+                model="MiniMax-M2.7",
+                max_tokens=1024,
+                system=system,
+                messages=[{"role": "user", "content": user}],
+            )
+            text = ""
+            for block in response.content:
+                if block.type == "text" and hasattr(block, 'text') and block.text and block.text.strip():
+                    text = block.text.strip()
+            if not text:
+                text = "a new transmission from the signal"
+            if text:
+                return text
+        except Exception:
+            pass
+
+    # ── fallback: template-based summary ──────────────────────────────────────
+    protagonists = ["Pixel Paradox", "Pixel", "A1", "Clive", "The crew", "The Ephergent"]
+    protagonist = "Pixel Paradox"
+    intro = raw[:500]
+    for p in protagonists:
+        if p.lower() in intro.lower():
+            protagonist = p
+            break
+
+    clean_title = re.sub(r'^S\d+E\d+\s*—\s*', '', title)
+    section_beats = re.findall(r'^#+\s+(.+)$', raw, re.MULTILINE)
+    beats = [
+        h.strip() for h in section_beats
+        if not any(skip in h.lower() for skip in ['coffee', 'locked', 'chart', 'rules', 'featured', 'chart'])
+        and '|' not in h
+        and not re.match(r'^[IVXLCDM]+\.\s+', h.strip())
+        and not re.match(r'^S\d+E\d+', h.strip())
+    ][:3]
+
+    hook = f"{protagonist} enters {clean_title}."
+    if beats:
+        mid = ". ".join(beats[:2]).lower()
+    else:
+        mid = "the signal calls from the void"
+    sign_off = "Let's listen in."
+
+    summary = f"In this episode: {hook} {mid}. {sign_off}"
+    summary = re.sub(r'\s+', ' ', summary)
+    if len(summary) > 280:
+        summary = summary[:277] + "..."
+    return summary
 
 
 def extract_title(text: str) -> str:
@@ -74,8 +185,8 @@ def extract_beats(text: str) -> list[str]:
 
 
 def generate_summary(episode_path: Path, raw: str) -> str:
-    """Generate a Signal-voice summary from episode content."""
-    title = extract_title(raw)
+    """Entry point — delegates to Claude-powered or template fallback."""
+    return generate_summary_via_claude(episode_path, raw)
     # Remove frontmatter
     if raw.startswith('---'):
         m = re.match(r'^---\n.*?\n---\n', raw, re.DOTALL)

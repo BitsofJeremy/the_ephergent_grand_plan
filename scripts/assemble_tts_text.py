@@ -59,6 +59,7 @@ def assemble(episode_num: str, season_num: str) -> Path | None:
         "Hello from wherever and whenever you are. "
         "I'm the Ephergent Signal, and this is The Ephergent. "
         f"{summary}"
+        "\n\nLet's listen in."
     )
 
     # Signal's outro
@@ -110,19 +111,21 @@ def main() -> None:
         files = sorted(tts_dir.glob("S*.tts.txt"))
         print(f"Season {season}: {len(files)} episode(s)")
         for f in files:
-            ep_num = f.stem  # e.g. "S01E01"
-            assemble(ep_num, season)
+            stem = f.stem.replace(".tts", "")  # "S01E01.tts" → "S01E01"
+            assemble(stem, season)
 
     elif args.all:
         total = 0
         by_season: dict[str, list[Path]] = {}
         for p in sorted(TTS_TEXT_DIR.glob("season*/*.tts.txt")):
             season = p.parent.name.replace("season", "")  # "01"
-            by_season.setdefault(season, []).append(p)
+            # p.stem is "S01E01.tts" — extract episode number
+            stem = p.stem  # e.g. "S01E01.tts"
+            ep_num = stem.replace(".tts", "")  # → "S01E01"
+            by_season.setdefault(season, []).append((ep_num, p.parent))
         for season in sorted(by_season):
             print(f"Season {season}: {len(by_season[season])} episode(s)")
-            for p in sorted(by_season[season]):
-                ep_num = p.stem
+            for ep_num, _parent in sorted(by_season[season]):
                 assemble(ep_num, season)
                 total += 1
         print(f"\nDone. {total} final .tts.txt file(s) assembled.")

@@ -22,7 +22,7 @@ narrator: "third_person"
 
 ## I. The Bearing
 
-Here is what Pixel knew about coordinates: they do not always point to places. Sometimes they point to directions. To bearings. To the way someone was facing when they disappeared, and what they were looking at when they turned away.
+Coordinates do not always point to places. Sometimes they point to directions. To bearings. To the way someone was facing when they disappeared, and what they were looking at when they turned away.
 
 The coordinates came through at 0347 station time.
 
@@ -62,7 +62,7 @@ The room was very still.
 
 "You are saying there is a place in the Space where dead worlds pile up," Pixel said slowly. "Like — like wreckage."
 
-"Like a boneyard," Clive said. "A boneyard of beautiful things."
+"Like a boneyard," Clive said. "A boneyard of things that were beautiful once."
 
 ---
 

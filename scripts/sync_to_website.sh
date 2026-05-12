@@ -12,8 +12,8 @@
 
 set -euo pipefail
 
-GP="/home/debian/Documents/code_repos/the_ephergent_grand_plan"
-WEB="/home/debian/Documents/code_repos/ephergent.com/src/content"
+GP="/Users/jeremy/Documents/current_projects/the_ephergent_projects/the_ephergent_grand_plan"
+WEB="/Users/jeremy/Documents/current_projects/my_websites/ephergent.com/src/content"
 
 PYTHON=$(command -v python3)
 
@@ -60,7 +60,7 @@ import sys, re
 path = sys.argv[1]
 with open(path) as f:
     text = f.read()
-m = re.match(r'^---\n(.*?)\n---\n', text, re.DOTALL)
+m = re.match(r'^---\n(.*?)\n---\n?', text.lstrip('\n'), re.DOTALL)
 if m:
     sys.stdout.write(m.group(0))
 else:
@@ -82,7 +82,7 @@ import sys, re
 path = sys.argv[1]
 with open(path) as f:
     text = f.read()
-m = re.match(r'^---\n.*?\n---\n', text, re.DOTALL)
+m = re.match(r'^---\n.*?\n---\n?', text.lstrip('\n'), re.DOTALL)
 if m:
     sys.stdout.write(text[m.end():])
 else:

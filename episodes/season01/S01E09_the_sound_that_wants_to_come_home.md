@@ -96,7 +96,7 @@ A1's lights pulsed. "Confirmed. I'm reading it on the long-range sensors now. Fr
 
 "I don't know," A1 said quietly. "That should concern me. It doesn't."
 
-Clive had already moved to the archive console, cross-referencing with everything he had. "Nothing in the cold cases, kid. This one's off the books entirely. A frequency that went dark so long ago it wasn't even recorded. A ghost's ghost."
+Clive had already moved to the archive console, cross-referencing with everything he had. "Nothing in the cold cases, kid. This one's off the books entirely. A frequency that went dark so long ago it was not even recorded. A ghost's ghost."
 
 The signal was barely there — a whisper buried under layers of frequency storm-noise and millennia of static. Om Kai described it as a single note held in a vast, empty room. It wavered. It faded. It came back, slightly stronger, pushed by another frequency wave of harmonic turbulence. On the sensor display, it appeared as a thin, flickering line — the barest thread of coherence in an ocean of interference.
 

@@ -216,7 +216,7 @@ His fedora adjusted — the gesture that meant something was being decided.
 
 Pixel absorbed this. "Is he our enemy?"
 
-"I don't know yet." Clive's voice was measured. "I know he filed me under office supplies. I know he processed thousands of forms without asking what they meant. I know he chose the system over the chaos, and he's been running that choice for three hundred years."
+"I do not know yet." Clive's voice was measured. "I know he filed me under office supplies. I know he processed thousands of forms without asking what they meant. I know he chose the system over the chaos, and he has been running that choice for three hundred years."
 
 He looked at Pixel.
 

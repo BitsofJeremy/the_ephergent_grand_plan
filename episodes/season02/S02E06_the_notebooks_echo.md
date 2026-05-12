@@ -22,7 +22,7 @@ narrator: "third_person"
 
 ## I. The Discovery
 
-Here is what Pixel learned about finding things: sometimes the thing you find has been waiting for you longer than you have been looking. Sometimes it finds you.
+Sometimes the thing you find has been waiting for you longer than you have been looking. Sometimes it finds you.
 
 The notebook was wedged between two panels in what A1 called the "secondary resonance housing" — a maintenance crawlspace that had not been opened since before the Ephergent was a ship instead of a body. The panels came apart easily. Clive's manipulator arms fit precisely into the gaps, the way they had fit into a thousand similar gaps in DRM server racks over ninety years of routine maintenance.
 
@@ -60,17 +60,17 @@ Clive drank the coffee. He set the cup on the floor, in the precise spot where i
 
 ## II. The Reading
 
-The notebooks were not arranged chronologically. That was the first thing Clive understood, rifling through them in the Ephergent's small research alcove that evening — a space that had once been an equipment storage locker, converted to something like a common room when Pixel insisted that ships needed places for the crew to just *be*.
+The notebooks were not arranged chronologically. Clive rifled through them in the Ephergent's small research alcove that evening — a space that had once been an equipment storage locker, converted to something like a common room when Pixel insisted that ships needed places for the crew to just *be*.
 
 There were fourteen notebooks in total. They spanned thirty-one years.
 
 The earliest was from 1987 — the year Clive had been assigned to Barry as a "compatibility partner," which was the DRM's way of saying they put a night guard with a newly activated archival intelligence and let them figure out the rest. The most recent was from 2018 — the year Barry had followed a signal into the Space and never came back.
 
-Not never came back. That was the wrong phrasing. The right phrasing was: never came back *the way Clive expected.*
+Not never came back. Never came back *the way Clive expected.*
 
 Barry was alive. Clive knew Barry was alive. The knowing was not memory — it was something older than memory, something that lived in Clive's core processing in a sector he could not access. He knew with the certainty that two plus two equals four, and he could not show his work.
 
-The notebooks were arranged by *subject*. That was the organizational principle Clive eventually recognized. Barry had categorized them not by date but by signal type. There were notebooks dedicated to "Repeating Patterns." Notebooks dedicated to "Emotional Residue Signatures." Notebooks dedicated to "The Thing That Hums."
+The notebooks were arranged by *subject*. Barry had categorized them not by date but by signal type. There were notebooks dedicated to "Repeating Patterns." Notebooks dedicated to "Emotional Residue Signatures." Notebooks dedicated to "The Thing That Hums."
 
 Clive had never called it "The Thing That Hums." Clive had called it "an unresolved harmonic anomaly with characteristics inconsistent with known natural phenomena." Barry had called it what Barry called it.
 

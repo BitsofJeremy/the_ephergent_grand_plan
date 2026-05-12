@@ -26,7 +26,7 @@ Bureaucracies need paperwork. Even interdimensional ones.
 
 The Ephergent had navigated into a frequency that was nothing but offices. Not an office building — the *concept* of one, rendered in three dimensions and stretched to breaking. Corridors extending past the horizon. Filing cabinets stretching up into a sky that smelled like toner and regret. The hum of the Signal here was wrong, layered, like someone had recorded "administrative duty" and was playing it on loop at gunpoint.
 
-Clive stood at the viewport, sphere tilted back, taking it in with the resigned air of a detective surveying a crime scene where the victim deserved what they got.
+Clive stood at the viewport, sphere tilted, taking it in with the resigned air of a detective surveying a crime scene where the victim deserved what they got.
 
 "This is Form 27B territory," he said. "Transportation authorization. Every frequency needs it. Every frequency has a machine that dispenses it."
 

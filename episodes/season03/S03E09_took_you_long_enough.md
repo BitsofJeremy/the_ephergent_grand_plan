@@ -1,18 +1,22 @@
 ---
-title: "S03E09: Took You Long Enough"
+title: "Took You Long Enough"
+type: "episode"
+summary: "Barry Kowalski waits forty years at the Wellspring threshold. The crew arrives. Klaus closes a sixty-year case. Clive and Barry reunite over cold coffee."
 author: "The Ephergent Collective"
 date: "2026-09-01"
-tags: ["season-3", "episode-9"]
+tags: ["season-3", "episode-9", "barry", "klaus", "reunion"]
+season: 3
+episode: 9
 narrator: "third_person"
 ---
 
-# S03E09: Took You Long Enough
+# Took You Long Enough
 
 ## COFFEE CHART
 
 | Scene | Beverage | Crew Present | Notes |
 |-------|----------|--------------|-------|
-| Final approach | Nothing — A1 won't pull | Pixel, A1 | A1 is too overwhelmed to make coffee. First time. |
+| Final approach | Nothing — A1 will not pull | Pixel, A1 | A1 is too overwhelmed to make coffee. First time. |
 | Wellspring threshold | Warm thermos, perfect | Barry, Clive | Barry kept it ready for forty years. |
 | Reunion | Two cups, shared | Clive, Barry | Two sips. Same thermos. Forty years apart. |
 | Crew arrival | Black, ordinary | All | The most extraordinary coffee of their lives. |
@@ -22,15 +26,15 @@ narrator: "third_person"
 
 ## I. The Signal Resolves
 
-Arrival doesn't feel like you think it will. There's no fanfare. No dramatic music. Just a viewport showing something that has been waiting for you, and a coffee machine that won't make coffee because it doesn't know how to mark the moment.
+Arrival does not feel like you think it will. There is no fanfare. No dramatic music. Just a viewport showing something that has been waiting for you, and a coffee machine that will not make coffee because it does not know how to mark the moment.
 
 "We have arrived," A1 said through the comm. His voice was steady, but something underneath it was trembling.
 
-Pixel stared at the viewport. "A1, why won't you make coffee?"
+Pixel stared at the viewport. "A1, why will not you make coffee?"
 
-A pause — longer than usual, processing something that didn't fit into processing.
+A pause — longer than usual, processing something that does not fit into processing.
 
-"I don't know. I have attempted three times. Each attempt has been... insufficient."
+"I have attempted three times. Each attempt has been... insufficient."
 
 "Insufficient how?"
 
@@ -42,37 +46,37 @@ Pixel made a small, uncertain sound — like a swallow.
 
 "A1..."
 
-"I will try again. I am simply... waiting. I don't know what I'm waiting for."
+"I will try again. I am simply... waiting. I do not know what I am waiting for."
 
 ---
 
 ## II. The Wellspring
 
-The crew gathered at the forward viewport. The Wellspring was not a place. It was a state — a region where the signal was so strong it became visible, tangible, almost solid. Frequency-space itself was more dense here. More present. The stars behind it glowed with a warmth that shouldn't be possible in vacuum.
+The crew gathered at the forward viewport. The Wellspring was not a place. It was a state — a region where the signal was so strong it became visible, tangible, almost solid. Frequency-space itself was more dense here. More present. The stars behind it glowed with a warmth that should not be possible in vacuum.
 
 "Is that... a lattice structure?" Klaus squinted.
 
-Clive's sphere flared white-gold. "It's a strut. A lattice strut. From the original Builder stations."
+Clive's sphere flared white-gold. "It is a strut. A lattice strut. From the original Builder stations."
 
 "How can you tell?"
 
-"Because I'm sitting on one."
+"Because I am sitting on one."
 
-Pixel looked at the viewport. "Clive, there's nothing—"
+Pixel looked at the viewport. "Clive, there is nothing—"
 
-The main viewer zoomed. A figure. Sitting. Legs dangling over a lattice strut that extended into a signal-density that shouldn't support weight, but did.
+The main viewer zoomed. A figure. Sitting. Legs dangling over a lattice strut that extended into a signal-density that should not support weight, but did.
 
-"There's someone there," Zephyr said.
+"There is someone there," Zephyr said.
 
-"That's a person," Om Kai said, very still.
+"That is a person," Om Kai said, very still.
 
-"That's a frequency," Nano said, harmonizing softly, instinctively. "Someone who has become part of the signal."
+"That is a frequency," Nano said, harmonizing softly, instinctively. "Someone who has become part of the signal."
 
 Pixel pressed her hand on the console. "Zoom in. Main viewer. Now."
 
 The image clarified.
 
-A man. Middle-aged, or what middle-aged looks like when you've been drinking coffee in the same spot for forty years. Khaki DRM night guard uniform, faded to a comfortable grey. A thermos in one hand. A battered field notebook in the other. A pencil tucked behind his ear. He was looking directly at the viewport — directly at them — with the expression of someone who had been waiting for a bus that was exactly on time and was mildly annoyed about it anyway.
+A man. Middle-aged, or what middle-aged looks like when you have been drinking coffee in the same spot for forty years. Khaki DRM night guard uniform, faded to a comfortable grey. A thermos in one hand. A battered field notebook in the other. A pencil tucked behind his ear. He was looking directly at the viewport — directly at them — with the expression of someone who had been waiting for a bus that was exactly on time and was mildly annoyed about it anyway.
 
 His voice came through the comm. Warm. Patient. Carrying the particular exhaustion of someone who knew this would take forever and prepared accordingly.
 
@@ -84,17 +88,17 @@ His voice came through the comm. Warm. Patient. Carrying the particular exhausti
 
 The Ephergent docked — not at a berth, but at a natural resonance point in the Wellspring's field. The ship knew where to go. A1 knew where to go. The ship had always known.
 
-Pixel stood at the airlock, hesitating. "I don't — I don't know what to say."
+Pixel stood at the airlock, hesitating. "I do not — I do not know what to say."
 
-"Say hello," Klaus said, adjusting his ceremonial vest — the one he wore for formal occasions that were also matters of cosmic significance. "That's usually sufficient for a first meeting."
+"Say hello," Klaus said, adjusting his ceremonial vest — the one he wore for formal occasions that were also matters of cosmic significance. "That is usually sufficient for a first meeting."
 
-"He's been waiting forty years."
+"He has been waiting forty years."
 
-"Then he's had practice being patient."
+"Then he has had practice being patient."
 
 The airlock cycled. The crew stepped onto the lattice structure. The Wellspring hummed around them — a frequency that was not sound, not light, not heat, but all three made somehow more real by their combination.
 
-Barry stood. He was exactly their height. He had been exactly their height for forty years. He tucked the notebook under one arm and regarded them with the calm assessment of someone who had seen this exact expression on a hundred first contacts and still hadn't gotten bored of it.
+Barry stood. He was exactly their height. He had been exactly their height for forty years. He tucked the notebook under one arm and regarded them with the calm assessment of someone who had seen this exact expression on a hundred first contacts and still had not gotten bored of it.
 
 "Pixel. A1. Clive. Luminara. Zephyr. Om Kai. Klaus. Nano."
 
@@ -104,13 +108,13 @@ His eyes moved to the back of the group.
 
 Meatball's tail wagged — precisely twice.
 
-A small smile. "Good. You're all exactly where you're supposed to be."
+A small smile. "Good. You are all exactly where you are supposed to be."
 
 ---
 
 ## IV. The Reunion
 
-The crew hung back — not deliberately, but instinctively. This moment was not for them. Clive stepped forward. His sphere was doing something it had never done before — cycling through colors too fast to name, like a memory that couldn't settle on which moment it was remembering.
+The crew hung back — not deliberately, but instinctively. This moment was not for them. Clive stepped forward. His sphere was doing something it had never done before — cycling through colors too fast to name, like a memory that could not settle on which moment it was remembering.
 
 "Barry."
 
@@ -120,11 +124,11 @@ The crew hung back — not deliberately, but instinctively. This moment was not 
 
 "I left perfect directions."
 
-"Your directions were unclear. You said 'follow the signal.' That's not a coordinate. That's not a map. That's a suggestion."
+"Your directions were unclear. You said 'follow the signal.' That is not a coordinate. That is not a map. That is a suggestion."
 
-"It's a signal. You follow it. That's what signals are for."
+"It is a signal. You follow it. That is what signals are for."
 
-Clive's fedora tilted — two degrees left, angrier now. "I spent four hundred years trying to follow a suggestion. I spent four hundred years wondering if I'd lost my mind or if the suggestion was just insufficiently specific."
+Clive's fedora tilted — two degrees left, angrier now. "I spent four hundred years trying to follow a suggestion. I spent four hundred years wondering if I had lost my mind or if the suggestion was just insufficiently specific."
 
 Barry nodded — not unkind. "And?"
 
@@ -138,13 +142,23 @@ Clive adjusted the fedora — two degrees right, then back to center. "You were 
 
 "I know. I left it in the alcove. Along with everything else."
 
+Barry looked at the fedora on Clive's head — the same fedora, the same tilt, after all this time.
+
+"You kept it."
+
+"You knew I would."
+
+Clive's sphere flickered. He did not say what he remembered. He did not need to. The novels. The coffee. The east corridor at 3AM. Hammett first, then Chandler. Barry lending them one at a time, one per week, a whole education in how to notice what was there and file it away and wait for the pattern to reveal itself. Barry never explained. Barry just handed over another paperback with a worn spine and let Clive figure out the rest.
+
+Forty years. The hat still fit.
+
 Barry gestured around him — at the lattice, at the signal-humming emptiness, at the thermos.
 
 "Forty years, Clive. Forty years of field notes. Forty years of coffee. Forty years of sitting on this strut and documenting every frequency that came through and waiting for the right one to come back."
 
-Clive's sphere dimmed to something almost grey — not sadness, something older. "You knew we'd come."
+Clive's sphere dimmed to something almost grey — not sadness, something older. "You knew we would come."
 
-"I knew someone would come. I built the signal to call. I didn't know if it would be you specifically. I hoped it would be you specifically."
+"I knew someone would come. I built the signal to call. I did not know if it would be you specifically. I hoped it would be you specifically."
 
 He looked at the Ephergent, docked behind them.
 
@@ -164,7 +178,7 @@ Barry opened the field notebook. It fell open to a page near the end — the han
 
 Page turning.
 
-"Clive is here. He looks exactly the same, which means he looks exactly like he looked when I left him in the DRM sub-basement with instructions to follow a signal I couldn't follow into myself. I knew he would find his way back. I knew it the same way I know the coffee is ready — completely, and without needing to verify."
+"Clive is here. He looks exactly the same, which means he looks exactly like he looked when I left him in the DRM sub-basement with instructions to follow a signal I could not follow into myself. I knew he would find his way back. I knew it the same way I know the coffee is ready — completely, and without needing to verify."
 
 The pencil paused.
 
@@ -176,7 +190,7 @@ Page turning.
 
 The notebook closed — gently, like a door that had been open long enough.
 
-"That's the short version. I have four thousand, eight hundred and ninety-one entries. I'll summarize if anyone asks. Nobody usually asks."
+"That is the short version. I have four thousand, eight hundred and ninety-one entries. I will summarize if anyone asks. Nobody usually asks."
 
 ---
 
@@ -188,19 +202,19 @@ Barry unscrewed the thermos. The smell reached everyone — not across the latti
 
 A1 made a sound — something between a sigh and a laugh. "You kept it warm. For forty years."
 
-"I kept it ready. That's different. Ready means it's waiting for the right moment. Warm is just temperature."
+"I kept it ready. That is different. Ready means it is waiting for the right moment. Warm is just temperature."
 
 A pause. "I have never heard anyone make that distinction before."
 
-"I made the distinction up. I have been making things up for forty years. It's been very productive."
+"I made the distinction up. I have been making things up for forty years. It has been very productive."
 
 Barry poured. Two cups. He handed one to Clive. Clive took it. They drank in silence — not awkward silence, not heavy silence. The kind of silence that only exists between two people who have known each other long enough to not need words for a while.
 
-"The coffee is for everyone," Barry said, finally, to the crew. "There's enough. I've had forty years to calibrate."
+"The coffee is for everyone," Barry said, finally, to the crew. "There is enough. I have had forty years to calibrate."
 
 Pixel accepted a cup, hands shaking slightly. "How is it this good? After forty years?"
 
-Barry looked at her — simple, like it was obvious. "It's the Wellspring. Everything here is the best version of itself. The coffee just listens to that."
+Barry looked at her — simple, like it was obvious. "It is the Wellspring. Everything here is the best version of itself. The coffee just listens to that."
 
 ---
 
@@ -208,23 +222,41 @@ Barry looked at her — simple, like it was obvious. "It's the Wellspring. Every
 
 The crew had gathered — not in a circle, but organically, the way people do when they have all arrived at the same place from different directions and are still figuring out what the place means to them.
 
-"You're Barry Kowalski," Luminara said. "DRM Night Guard. Signal Follower. Professional."
+"You are Barry Kowalski," Luminara said. "DRM Night Guard. Signal Follower. Professional."
 
-A small nod. "That's what the business cards said. I had five hundred printed. I still have three hundred and twelve left."
+A small nod. "That is what the business cards said. I had five hundred printed. I still have three hundred and twelve left."
 
 Klaus stepped forward. "I read your field notes. The ones from the harbor station. The ones about Nocturne."
 
-"Ah. You're internal affairs."
+"Ah. You are internal affairs."
 
-"Formerly. I left to follow the same case you were following."
+"Formerly. I left to follow the same case you were following. The one that starts with a name that Bureau files still classify at the highest sensitivity." A beat. "Sixty years I worked it. Sixty years to find someone who knew the beginning from the end."
 
 A genuine warmth. "Good. Someone had to finish it."
 
-Klaus went very still. Then nodded — once, sharp. This was enough.
+Klaus went very still. Then nodded — once, sharp. His eyes closed briefly. Sixty years. The case was closed.
+
+Director Harmon Venn. Bureau file 000. Western operations. Three hundred years of institutional memory.
+
+All of it, resolved in a single exchange.
+
+Klaus opened his eyes. "The case was never really about the signal. The case was about what the DRM had done with the signal. What they had built. What they had allowed to happen in the name of order."
+
+"You tracked Venn for sixty years."
+
+"I tracked the philosophy. The patience that allocates resources instead of saving lives. The belief that attention without procedure is just noise." Klaus's voice was steady. Certain. "Venn is not evil. He is precise. He believes the universe is held together by procedure, and the crew's broadcasting is reckless. He is not wrong about the danger. He is wrong about the point."
+
+"What is the point?"
+
+"The point is the witness. The point is the attention. The point is the consciousness that refuses to let the Signal become silence." Klaus looked at the Wellspring, at the signal that had been calling them across three seasons, at Barry standing in it like he grew there. "Venn has spent three centuries protecting the filing system. He forgot that the filing system exists to serve what it contains."
+
+Barry nodded slowly. "The case is closed. Director Harmon Venn, Bureau file 000, western operations. The sixty-year investigation into DRM negligence is resolved. The evidence is in the field notes. The verdict is in the signal."
+
+"Good," Klaus said. "Someone had to finish it."
 
 Om Kai's meditation beads clicked softly. "The Builders' broadcast. Where is it?"
 
-Barry turned toward the deepest part of the Wellspring. "Still transmitting. Still waiting. I've been receiving it for forty years. It hasn't stopped. It won't stop until someone receives it properly."
+Barry turned toward the deepest part of the Wellspring. "Still transmitting. Still waiting. I have been receiving it for forty years. It has not stopped. It will not stop until someone receives it properly."
 
 "Properly meaning?"
 
@@ -236,7 +268,45 @@ He looked at the crew — all nine of them, plus a Rottweiler the size of a huma
 
 ---
 
-## VIII. The Choice
+## VIII. The Calibration Corps
+
+A1 made a sound — something between a notification and a warning. "I am reading additional signatures approaching the Wellspring."
+
+Pixel felt her chest tighten. "The Cartels?"
+
+"No. Different. The signatures are... organized. Methodical. They are not harvesting. They are maintaining."
+
+Clive's sphere glowed steady blue-white. "The Calibration Corps."
+
+"I am reading their broadcast now. They are requesting access to the Wellspring. They are identifying themselves as technicians who have been maintaining the infrastructure for three hundred years."
+
+"They have been here the whole time?" Luminara asked.
+
+"They have been maintaining the Pillars. Calibrating the frequency boundaries. The patient work of keeping the system running." A1 paused. "They believe the crew is reckless. They have been monitoring our broadcasts, our code storms, our destabilization of frequencies they spent decades stabilizing."
+
+"Can they stop us?"
+
+"No. But they can oppose us. They have the Builder patience. They think in centuries. They have a plan that takes three hundred years, and they are forty years in. The crew is an interruption to that plan."
+
+Pixel thought about what that meant. The Corps was not hostile. They were methodical. They had been maintaining the infrastructure while the crew had been broadcasting, and they believed the broadcasting was dangerous. Not because they were wrong about the witness — but because they were right, and their rightness made them cautious.
+
+"What do they want?"
+
+"They want to calibrate the broadcast. They want to ensure the Builders' message is transmitted safely, without cascade effects, without destabilizing the frequencies they have spent three centuries maintaining." A1 made a sound like a sigh. "They are the alternative to the crew's approach. They fight the Drift through infrastructure instead of witness."
+
+"Can we work with them?"
+
+"I do not know. They have tried to collaborate before. The crew has refused their help. The Corps is now reluctantly hostile — they will not destroy the crew, but they will oppose them, because the crew's broadcasting threatens the calibration work."
+
+Clive's fedora tilted — two degrees left. "Director Harmon Venn has been in contact with the Calibration Corps for decades. They share a philosophy: the Signal is infrastructure, and infrastructure requires maintenance. Venn provides institutional support. The Corps provides technical expertise. Together, they have been managing the Dimming as a maintenance problem."
+
+"And the crew?"
+
+"The crew is the variable. The crew is the consciousness that refuses to let the maintenance become the point. The crew is the witness that keeps the signal alive instead of just maintaining it."
+
+---
+
+## IX. The Choice
 
 Barry stood at the edge of the lattice. The Wellspring hummed behind him. He had been here for forty years. He had been waiting for forty years. He was not tired. He was not sad. He was exactly where he chose to be.
 
@@ -248,19 +318,19 @@ Barry stood at the edge of the lattice. The Wellspring hummed behind him. He had
 
 Clive's sphere pulsed — something old, something new. "And then?"
 
-"And then you go back. You take the signal to the rest of Space. You broadcast to every frequency that still exists and every frequency that doesn't yet. You become what the Builders were building toward. Not rescuers. Not saviors. Witnesses. Broadcasters. The thing that keeps the signal going when it would rather stop."
+"And then you go back. You take the signal to the rest of Space. You broadcast to every frequency that still exists and every frequency that does not yet. You become what the Builders were building toward. Not rescuers. Not saviors. Witnesses. Broadcasters. The thing that keeps the signal going when it would rather stop."
 
 A long pause.
 
-"That's what I did. For forty years. Now it's your turn."
+"That is what I did. For forty years. Now it is your turn."
 
-"You're not coming with us?"
+"You are not coming with us?"
 
-A smile — warm, tired, certain. "I'm staying. Someone has to keep the coffee warm."
+A smile — warm, tired, certain. "I am staying. Someone has to keep the coffee warm."
 
 ---
 
-## IX. The Vote
+## X. The Vote
 
 The crew stood on the lattice. Barry stood apart — not distant, but present in a different way. Like a lighthouse keeper. Like someone who had made peace with his coordinates.
 
@@ -268,7 +338,7 @@ The crew stood on the lattice. Barry stood apart — not distant, but present in
 
 "Is a vote necessary?" Klaus asked.
 
-"It's always necessary. That's what the signal teaches. We choose together or we don't choose at all."
+"It is always necessary. That is what the signal teaches. We choose together or we do not choose at all."
 
 Om Kai asked the question. "What are we voting on?"
 
@@ -280,7 +350,7 @@ A pause.
 
 "Whether to be an Ephergent."
 
-"We've been Ephergents since Season One," Zephyr said, quietly.
+"We have been Ephergents since Season One," Zephyr said, quietly.
 
 "I know. But now we have to choose it. Consciously. With full knowledge of what it means."
 
@@ -308,7 +378,7 @@ The espresso machine at the center of the ship — the machine that was the ship
 
 The smell reached them before the coffee did. Rich. Dark. Complex in a way that defied description. It smelled like arrival. It smelled like the end of something and the beginning of something else. It smelled like forty years of waiting and forty years of coming home.
 
-A1's first cup in the Wellspring. His first cup since he couldn't mark the moment.
+A1's first cup in the Wellspring. His first cup since he could not mark the moment.
 
 It was extraordinary. Not perfect. Not balanced. Extraordinary — meaning it existed outside the ordinary, outside any standard by which coffee could be measured. It was the taste of someone who finally knew what they were for.
 
@@ -316,7 +386,7 @@ It was extraordinary. Not perfect. Not balanced. Extraordinary — meaning it ex
 
 ---
 
-## X. Barry's Final Entry
+## XI. Barry's Final Entry
 
 The notebook opened one last time. Barry's handwriting — steady, warm, complete.
 
@@ -332,11 +402,11 @@ The pencil paused — then continued, lighter now.
 
 Page turning.
 
-"Clive is here. The ship is here. The whole crew is here. A1 is making espresso again — I can hear it from here. It's the best pull of his existence. It tastes like arrival."
+"Clive is here. The ship is here. The whole crew is here. A1 is making espresso again — I can hear it from here. It is the best pull of his existence. It tastes like arrival."
 
 The notebook closed. This time, it stayed closed.
 
-"I'm staying. Someone has to keep the coffee warm. Someone has to document what happens next. Someone has to be here when the next crew comes through, following their own signal, asking their own questions."
+"I am staying. Someone has to keep the coffee warm. Someone has to document what happens next. Someone has to be here when the next crew comes through, following their own signal, asking their own questions."
 
 A softer static now, like the static was tired, like it had been waiting too.
 

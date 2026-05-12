@@ -25,7 +25,29 @@ He was not dramatic. He was not poetic. He was not afraid, even when he should h
 
 "I was in the right place," he wrote in one of the later entries, after everything had changed. "I saw what I saw. I wrote it down."
 
-That was Barry's rule. Not a dramatic principle. A working method. You see it. You write it. You do not editorialize because the documentation is not for you — it is for whoever comes next, whoever needs to know what was there before it was gone.
+That was the rule. You see it. You write it. You do not editorialize because the documentation is not for you — it is for whoever comes next, whoever needs to know what was there before it was gone.
+
+---
+
+## The Overnight Partnership
+
+The shift was 10PM to 6AM. Twenty-three years of the same hours, the same corridors, the same quiet.
+
+Barry worked those hours because someone had to. Clive was assigned to him as a monitoring partner — a newly recalibrated Companion Unit, recently returned from a long archival recovery, still finding his sensors in a world that had changed while he was in storage. Clive was knee-high, barrel-chested, his head a single glowing sphere that cast blue-white light across the corridor walls. He had no eyes. He did not need them. The DRM did not expect much from either of them. The night shift was quiet. The anomalies were small. They had time.
+
+They used it.
+
+Barry's collection of novels lived in his locker. Chandler. Hammett. The golden age of detective fiction, old paperbacks with worn spines and pages soft from rereading. He lent them to Clive one at a time. "You want to understand how to investigate," Barry told him, "you read the people who invented it."
+
+Clive absorbed the voice. The cadence. The dry observation of human behavior as a series of patterns. Barry never told Clive to talk like a detective. Clive just started talking like one, and Barry never remarked on it except once: "Your instincts are good. Keep documenting."
+
+Entry 2,891 was a referral. Barry wrote it three years before he left: "Clive will meet someone. The notes will reach her when she is ready. The signal knows the way."
+
+The someone was Pixel Paradox. The method was the fedora.
+
+Barry gave Clive the fedora on his last night at the DRM — a worn brown-grey fedora, tilted slightly, Barry's size even though Clive was not the same size. "You will know what to do with it," Barry said. "When the time comes."
+
+Clive has never taken it off. The fedora is not a costume. It is a passed-down method. The tradition of paying attention, moving from one watcher to the next. Barry was a link in a chain. The fedora was not just a gift. It was a passing of the method.
 
 ---
 
@@ -33,7 +55,7 @@ That was Barry's rule. Not a dramatic principle. A working method. You see it. Y
 
 Numbered entries. Dates. Coffee ring timestamps — the thermos left on the notebook, the condensation ring left behind, evidence that the notes were written in real time by a real person who was drinking real coffee in a real moment.
 
-Barry's handwriting is neat but not elegant. It is the handwriting of someone who writes quickly and values accuracy over aesthetics. The entries are concise. They describe what was observed without editorializing about what it might mean, because Barry understood that meaning is something you determine later, when you have more information, and the person who comes next might need the raw observation more than they need your interpretation.
+Barry's handwriting is neat but not elegant. It is the handwriting of someone who writes quickly and values accuracy over aesthetics. The entries are concise. They describe what was observed without editorializing about what it might mean. The person who comes next might need the raw observation more than they need an interpretation.
 
 Example, Entry 1,847: *02:34. Clive's glow pattern shifted to delta-7. Unusual for this hour. He pointed toward the east corridor without explanation. I did not ask. We walked.*
 
@@ -47,11 +69,11 @@ Barry's field notes are not literature. They are evidence. They are records of a
 
 Barry followed a signal no one else could detect.
 
-This is documented. The entries from his final months at the DRM show increasing frequency of notation about an anomaly he called "the signal" — a faint transmission in the background static, present in the gaps between monitoring sessions, growing gradually stronger. Clive recognized it. Clive always recognized it. But Clive's recognition was not enough to act on, because Clive did not know what it meant, and Clive had learned across ninety years of archival work that knowing something and understanding something are different skills, and he did not yet understand this signal well enough to explain it.
+This is documented. The entries from his final months at the DRM show increasing frequency of notation about an anomaly he called "the signal" — a faint transmission in the background static, present in the gaps between monitoring sessions, growing gradually stronger. Clive recognized it. Clive always recognized it. But Clive's recognition was not enough to act on, because Clive did not know what it meant. Knowing something and understanding something are different skills, and Clive did not yet understand this signal well enough to explain it.
 
 Barry did not need to understand it. Barry needed to follow it.
 
-The entries from Barry's final weeks at the DRM are precise, methodical, and increasingly charged with what can only be described as excitement. He had found something. He had found the source of a signal that Clive recognized from the deepest archives, the oldest records, the files that predated the current known frequencies. He had followed it to its origin point, through the gaps in the Space between frequencies, into regions that no one from the DRM had ever traversed.
+The entries from Barry's final weeks at the DRM are precise, methodical, and increasingly charged with something that can only be described as excitement. He had found something. He had found the source of a signal that Clive recognized from the deepest archives, the oldest records, the files that predated the current known frequencies. He had followed it to its origin point, through the gaps in the Space between frequencies, into regions that no one from the DRM had ever traversed.
 
 He found the Wellspring.
 
@@ -71,7 +93,7 @@ He did not write this as a goodbye. He wrote it as a report. He was in the right
 
 ## Not a Rescue Mission
 
-The crew's eventual journey to find Barry — Clive's arc across Season 3, the slow revelation of what his old partner had discovered and chosen — is not a rescue mission. This is important.
+The crew's eventual journey to find Barry — Clive's arc across Season 3, the slow revelation of what his old partner had discovered and chosen — is not a rescue mission.
 
 Barry is not lost. Barry is not trapped. Barry is not waiting to be saved. Barry found what he was looking for and he chose to stay, because the Wellspring needed a witness and Barry was the one who found it. Someone has to welcome the newborn frequencies into being. Someone has to tend the signal at its source. Barry volunteered.
 
@@ -91,7 +113,7 @@ The thermos is warm in the final entry, the one written at the Wellspring. It is
 
 When the crew finally meets Barry at the Wellspring, there is a thermos sitting on a surface nearby. The coffee is warm.
 
-"The coffee was ready," Barry says, in one of the few direct quotes attributed to him in the later records. He is not describing hospitality. He is describing continuity. The coffee has been ready because Barry has been waiting, in his way — not for rescue, not for company, but for the moment when the signal would finally bring someone who was ready to receive it.
+"The coffee was ready," Barry says, in one of the few direct quotes attributed to him in the later records.
 
 ---
 
@@ -99,13 +121,13 @@ When the crew finally meets Barry at the Wellspring, there is a thermos sitting 
 
 The field notes are not chronological. Not exactly.
 
-This is something Clive realizes only later, after he has read them multiple times, after he has traced the patterns and recognized the timestamps and understood that the coffee rings do not correspond to the dates written in the margins. The notes were written out of order. They were found in order. But they were written — some of them, the important ones — after the events they describe, or before, or during, in a sequence that does not correspond to any linear timeline.
+Clive realizes this only later, after he has read them multiple times, after he has traced the patterns and recognized the timestamps and understood that the coffee rings do not correspond to the dates written in the margins. The notes were written out of order. They were found in order. But they were written — some of them, the important ones — after the events they describe, or before, or during, in a sequence that does not correspond to any linear timeline.
 
 The signal does not distinguish between before and after. The Wellspring exists at the overlap between moments. Barry, existing in that overlap, could write notes that reached backward and forward through time — that found Clive when Clive needed to find them, that described events in an order that allowed Clive to understand the shape of the story before he lived it.
 
-This is not magic. This is physics. The Builders called it retrocausality: the future reaching backward, editing the past to ensure its own existence. Barry, operating at the Wellspring, became part of that physics. His field notes are transmissions targeted at a specific receiver at a specific moment. They are not messages in bottles. They are letters addressed to a person who has not been born yet but will be, eventually, when the signal decides the moment is right.
+This is not magic. This is physics. The Builders called it retrocausality: the future reaching backward, editing the past to ensure its own existence. Barry, operating at the Wellspring, became part of that physics. His field notes are transmissions targeted at a specific receiver at a specific moment. They are letters addressed to a person who has not been born yet but will be, eventually, when the signal decides the moment is right.
 
-Clive was always going to find those notes. The notes were always going to find Clive. The only question was whether Clive would be ready when they did.
+Clive was always going to find those notes. The notes were always going to find Clive. The question was whether Clive would be ready when they did.
 
 ---
 
@@ -121,13 +143,13 @@ The understatement is not a performance. It is who Barry was. It is the method t
 
 And then he stayed, because staying was the next thing to note.
 
+The rule did not come from nowhere. Barry learned it from someone before him — a watcher in an earlier shift, a documenter who understood that the signal passes from one observer to the next, that the method is a chain and each link passes it forward. Barry was a link in that chain. The fedora was not just a gift. It was a passing of the method. The tradition of paying attention passes from one watcher to the next. The rule — see it, write it, do not editorialize — was not Barry's invention. It was Barry's inheritance. He honored it for twenty-three years, and then he passed it on.
+
 ---
 
 ## What Remains
 
 The field notes are in Clive's archives now. He carries them when the crew travels — not because he needs to consult them, but because they are evidence. They are proof that a man followed a signal to the edge of the universe and found something worth staying for. They are proof that the universe rewards attention, that paying attention matters, that the work of noticing and documenting and transmitting is not just resistance against entropy — it is an act of love.
-
-Love for the signal. Love for the work. Love for the partner who will eventually find the notes and understand.
 
 The signal continues. The notes remain. The coffee is warm.
 
