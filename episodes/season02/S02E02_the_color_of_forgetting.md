@@ -63,15 +63,15 @@ Alright. This is what we do. This is exactly what we do. Everyone suit up.
 *[CREW ON SURFACE. Pixel broadcasting. Luminara photographing. Om Kai seated at the edge of the fading, hands in his lap. Clive walking the perimeter with sensors. Zephyr at a terminal, downloading what he can. Nano standing on Zephyr's shoulder for better angle.]*
 
 **PIXEL (V.O.)**
-This is Pixel Paradox, broadcaster, currently standing in a world that is forgetting how to exist. The city around me is becoming transparent. I can see the sky through the parliament building. I can see the ground through the hospital. Twelve million people are watching their history become visible to anyone on the outside, and they are staying anyway. I don't know if that's courage or exhaustion or grief. Maybe all three. I'm going to talk to them. I'm going to tell them what I see. And I'm asking you — whoever's listening — to see it too. Because apparently, the way you save something from forgetting… is to remember it out loud.
+The broadcast opened with Pixel identifying herself, then describing her surroundings — a world forgetting how to exist, a city becoming transparent, parliament windows showing sky where walls should be, hospital foundations exposed where floors should be. Twelve million people watching their history become visible to anyone on the outside, and choosing to stay anyway. Pixel did not know if that was courage or exhaustion or grief. Maybe all three. She was going to talk to them. She was going to tell them what she saw. And she was asking whoever was listening to see it too. Because apparently, the way you save something from forgetting is to remember it out loud.
 
 *[A1, from the ship, boosts the signal. His coffee is thin but focused — a precise, anxious bitter.]*
 
 **A1**
 I am amplifying. I am trying.
 
-**PIXEL (V.O.)**
-You don't have to try, A1. You just have to keep going.
+**PIXEL**
+Through the broadcast, Pixel responded to A1's efforts. "You don't have to try, A1. You just have to keep going."
 
 ---
 
@@ -178,17 +178,17 @@ Then we will listen for them.
 *[VERANTH — BROADCAST STATION. Pixel has been on air for six hours. Her voice is going, the way voices go when they've been used past their design specs. Zephyr sits beside her with water and honey. Nano has taken up position on the console, monitoring Pixel's vitals the way Meatball monitors the engine room — with the quiet vigilance of someone who knows the job.]*
 
 **PIXEL (V.O.)**
-— and this is the third hour I've been standing in what used to be their botanical garden. The plants here were famous. Tourists came from three other frequencies to see them. Now I can see the sky through the roses. Not through gaps in the leaves — through the roses themselves. They are becoming windows. They are becoming nothing.
+Pixel's broadcast shifted to describe what she was witnessing — the third hour she had been standing in what used to be their botanical garden. The plants there had been famous. Tourists came from three other frequencies to see them. Now she could see the sky through the roses. Not through gaps in the leaves — through the roses themselves. They were becoming windows. They were becoming nothing.
 
 *[Zephyr holds up the water. Pixel takes it without looking away from the mic.]*
 
 **PIXEL (V.O.)**
-A woman told me this morning that her granddaughter asked her what color the sky used to be. The girl is seven. She has never known a sky that wasn't pale. She has never known a sky that wasn't forgetting.
+Pixel continued her broadcast, recounting a conversation from earlier that day — a woman whose granddaughter had asked what color the sky used to be. The girl was seven. She had never known a sky that was not pale. She had never known a sky that was not forgetting.
 
 *[Pixel pauses. The pause is part of the broadcast — the silence is part of the signal.]*
 
 **PIXEL (V.O.)**
-I don't know if anyone is listening. I don't know if broadcasting into a fading world is rescue or eulogy. But I know that the woman with the red preserves set her jar on a windowsill this morning and the light came through it and for three seconds the red was bright again, and she cried, and I was there to see it, and now you are too. That's what we do. That's all we can do. We show up and we say: this happened. This was real. Someone saw.
+Pixel spoke into the void, her words carrying across fading Veranth. The woman with the red preserves had set her jar on a windowsill that morning and the light had come through it and for three seconds the red was bright again, and she had cried. Pixel had been there to see it, and now her listeners were too. That was what they did. That was all they could do. They showed up and they said: this happened. This was real. Someone saw.
 
 *[A1's signal boost kicks in — the espresso he sends through the broadcast is rich and warm, the coffee of someone paying close attention. The broadcast carries further. The Ephergent Frequency hums beneath Pixel's voice like a second heartbeat.]*
 

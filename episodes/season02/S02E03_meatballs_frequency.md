@@ -21,11 +21,11 @@ narrator: "third_person"
 
 ## I. The Signal
 
-Pixel needed the listener to understand something about dead zones. They shouldn't transmit. They're dead — places where signals go to stop, where frequencies dissolve into static and then dissolve further into nothing. That's the definition. That's what dead means.
+The listener needed to understand something about dead zones. They should not transmit. They are dead — places where signals go to stop, where frequencies dissolve into static and then dissolve further into nothing. That is the definition. That is what dead means.
 
 Except Meatball was receiving a signal from one.
 
-Let me back up. The Ephergent had been running a routine signal sweep — the kind they did three times a day because the Space was always changing, always finding new ways to surprise them. Clive was at the navigation console, his fedora tilted at that particular angle that meant he was paying attention to something the rest of them had missed. Zephyr was at the analyzer, headphones on, then off, then on again. His face was pale.
+The Ephergent had been running a routine signal sweep — the kind they performed three times a day because the Space was always changing, always finding new ways to surprise them. Clive was at the navigation console, his fedora tilted at that particular angle that meant he was paying attention to something the rest of them had missed. Zephyr was at the analyzer, headphones on, then off, then on again. His face was pale.
 
 "I'm getting something," Zephyr said. "Faint. Fragmented. It's — it's in the dead zone, Pixel. By all rights, I shouldn't be reading anything at all. But there's a carrier wave. And underneath it—"
 
@@ -41,7 +41,7 @@ A1 made a sound — a single pull of espresso that came out perfectly clear. Not
 
 Meatball's ears both pointed toward the dead zone at the same time. Pixel had never seen him do that before — usually one ear led, the other followed, some instinct about direction and source. But both ears, pointing at the same thing, at the same moment.
 
-Then Meatball spoke — not in words, in harmonized frequencies that somehow translated in Pixel's mind like words.
+Then Meatball broadcast — not in words, but in harmonized frequencies that somehow resolved in Pixel's mind like words.
 
 "Listen."
 
