@@ -2,7 +2,7 @@
 
 Single-narrator audio generation for The Ephergent Signal using Kokoro TTS. All scripts live in `scripts/` in the grand_plan repo.
 
-**Repo:** `/Users/jeremy/Documents/current_projects/the_ephergent_projects/the_ephergent_grand_plan`
+**For repo-level guidance** (sync workflow, episode structure, 13 Locked Rules), see `CLAUDE.md`.
 
 ---
 
@@ -142,7 +142,7 @@ python scripts/preprocess_episodes.py --all
 - `## LOCKED RULES CHECK` (header + all content to end)
 - `## COFFEE CHART` tables
 - All markdown headers
-- Scene markers `*[...]*
+- Scene markers `*[...]`
 - Audio direction markers `*(Sound:...)*` `*(SFX:...)*`
 - Square bracket annotations
 - Bold/italic markdown
